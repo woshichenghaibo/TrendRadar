@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T03:21:42.384555+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2025-10-18T04:20:52.191944+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普：美国也需要，不能把家底掏空",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
@@ -26,20 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时21分]"
-        },
-        {
-          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/1962439324869047516",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "泽连斯基可能得再次从头说服特朗普",
@@ -48,22 +36,25 @@
           "ranks": [
             7,
             20,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
-          "title": "金十提示：美国总统特朗普在白宫的记者会结束。",
-          "url": "https://flash.jin10.com/detail/20251018021518674800",
-          "source": "金十数据",
+          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/1962439324869047516",
+          "source": "知乎",
           "ranks": [
-            5
+            6,
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "特朗普与普京约定在匈牙利会面",
@@ -75,8 +66,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
@@ -86,8 +77,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "普京特朗普通话细节",
@@ -98,8 +89,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
+        },
+        {
+          "title": "特朗普又被告",
+          "url": "https://www.douyin.com/hot/2273463",
+          "source": "抖音",
+          "ranks": [
+            26,
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时20分]"
+        },
+        {
+          "title": "金十提示：美国总统特朗普在白宫的记者会结束。",
+          "url": "https://flash.jin10.com/detail/20251018021518674800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "特朗普重新起诉《纽约时报》",
@@ -115,29 +130,17 @@
           "time_info": "[00时22分 ~ 03时21分]"
         },
         {
-          "title": "特朗普又被告",
-          "url": "https://www.douyin.com/hot/2273463",
-          "source": "抖音",
-          "ranks": [
-            26,
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 03时21分]"
-        },
-        {
           "title": "美国总统特朗普：西班牙对北约并不忠诚。",
           "url": "https://wallstreetcn.com/livenews/2989865",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 04时20分]"
         },
         {
           "title": "英国央行货币政策委员会(MPC)委员Greene：央行货币政策并不具有实质性的限制性。 应当放慢降息周期。 核心通胀和服务通长痘呈现出单边走势。 担心（美国总统特朗普挑起的关税的）第二轮（通胀）效应。 企业对意外的通胀上行变得更加敏感。",
@@ -175,6 +178,18 @@
           "time_info": "[02时22分 ~ 03时21分]"
         },
         {
+          "title": "特朗普与泽连斯基再度会面，就美供乌“战斧”等问题表态",
+          "url": "https://wallstreetcn.com/livenews/2989872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时20分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren再次呼呼特朗普政府在美联储10月份货币政策会议之前发布9月非农就业报告。",
           "url": "https://wallstreetcn.com/livenews/2989857",
           "source": "华尔街见闻-快讯",
@@ -187,15 +202,16 @@
           "time_info": "[02时22分 ~ 03时21分]"
         },
         {
-          "title": "特朗普与泽连斯基再度会面，就美供乌“战斧”等问题表态",
-          "url": "https://wallstreetcn.com/livenews/2989872",
+          "title": "特朗普政府对美国纽约市等多地暂停110亿美元项目拨款。",
+          "url": "https://wallstreetcn.com/livenews/2989870",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时20分]"
         },
         {
           "title": "美国总统特朗普：马杜罗“已向美国提供了一切”。",
@@ -209,17 +225,6 @@
           "time_info": "02时22分"
         },
         {
-          "title": "特朗普政府对美国纽约市等多地暂停110亿美元项目拨款。",
-          "url": "https://wallstreetcn.com/livenews/2989870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
           "title": "美国总统特朗普：马杜罗已提出一切。",
           "url": "https://flash.jin10.com/detail/20251018021334814800",
           "source": "金十数据",
@@ -229,6 +234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "30年来首次：美国法院因特朗普政府关门而面临强制性无薪休假",
+          "url": "https://wallstreetcn.com/livenews/2989886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "美国总统特朗普：普京本应该在一周内赢得这场战争。",
@@ -411,8 +427,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26realpos%3D29%26c_type%3D31%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D29%26lcate%3D5001%26pos%3D29%26display_time%3D1760721007%26pre_seqid%3D176072100743803586256114",
+          "source": "微博",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时20分]"
         },
         {
           "title": "金价涨了 金条能变现吗",
@@ -437,18 +465,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 01时17分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26realpos%3D29%26c_type%3D31%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D29%26lcate%3D5001%26pos%3D29%26display_time%3D1760721007%26pre_seqid%3D176072100743803586256114",
-          "source": "微博",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时21分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收跌超2%，追随金价从历史最高位回撤的表现",
@@ -477,7 +493,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
@@ -488,8 +504,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -500,8 +516,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
+        },
+        {
+          "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
+          "url": "https://wallstreetcn.com/livenews/2989895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -557,8 +584,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗外长：安理会第2231号决议18日到期 既往对伊限制将终止",
+          "url": "https://flash.jin10.com/detail/20251018034405343800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         }
       ]
     }
