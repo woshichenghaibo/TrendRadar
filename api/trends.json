@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T06:15:19.600427+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2025-10-19T07:16:25.296842+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "美乌总统会晤，特朗普数次语气强硬",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "特朗普为他减刑，共和党前“丑闻议员”桑托斯出狱",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应",
@@ -70,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -81,19 +81,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
           "url": "https://www.cls.cn/detail/2173372",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
@@ -103,8 +104,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
+          "url": "https://wallstreetcn.com/livenews/2990084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "泽连斯基称愿意接受双边或三边会谈，特朗普称俄乌冲突应结束",
@@ -119,18 +134,17 @@
           "time_info": "[00时20分 ~ 06时15分]"
         },
         {
-          "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
-          "url": "https://wallstreetcn.com/livenews/2990084",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普又抛歪理：都怪尼克松引出中国",
+          "url": "https://www.toutiao.com/trending/7562460355021619227/",
+          "source": "今日头条",
           "ranks": [
             4,
-            11,
-            13,
-            15
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[02时22分 ~ 07时16分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-18）",
@@ -140,8 +154,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "特朗普称美军摧毁一艘“载有毒品”的大型潜艇",
@@ -151,20 +165,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时15分]"
-        },
-        {
-          "title": "特朗普又抛歪理：都怪尼克松引出中国",
-          "url": "https://www.toutiao.com/trending/7562460355021619227/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 06时15分]"
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时16分]"
         },
         {
           "title": "泽连斯基承认：特朗普未明确拒绝向乌提供“战斧”导弹",
@@ -176,8 +178,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 07时16分]"
         },
         {
           "title": "特朗普和泽连斯基的会谈气氛很紧张",
@@ -206,7 +208,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -217,8 +219,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -227,11 +229,12 @@
           "ranks": [
             4,
             7,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
@@ -241,8 +244,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
@@ -255,8 +258,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "为什么AI写的文章总有一股“AI味”",
@@ -284,6 +287,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 04时18分]"
+        },
+        {
+          "title": "英伟达退出 国产AI芯片要崛起了吗",
+          "url": "https://www.toutiao.com/trending/7562416129633701419/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
@@ -299,8 +313,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "广西一名95后国企总经理被指婚内出轨，通报：免职并立案查处",
@@ -312,8 +326,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "三亚警方回应“女子酒驾自称国企员工求通报”：已采取强制措施，纪监委正核查",
@@ -324,8 +338,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "中国企业是如何在全球卡位的",
@@ -353,19 +367,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
           "url": "https://wallstreetcn.com/articles/3757385",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -376,8 +391,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -387,8 +402,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时16分]"
         }
       ]
     },
@@ -404,19 +419,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "龙头6天3板！A股三季报行情如火如荼，9家上市公司净利最高同比预增超400%",
           "url": "https://www.cls.cn/detail/2173112",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时15分]"
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时16分]"
         }
       ]
     },
@@ -436,8 +452,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         }
       ]
     },
