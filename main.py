@@ -1557,7 +1557,67 @@ def render_html_content(
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>热点新闻分析</title>
+            <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="GuaoNews">
+    <link rel="shortcut icon" href="favicon.svg" sizes="any" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="favicon.png">
+    <link rel="icon" href="favicon.ico" type="image/webp">
+    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="icon" href="favicon.svg" sizes="any" type="image/svg+xml" />
+        <title>孤傲热点</title>
+
+<style>
+    body {
+        overflow-y: scroll;
+    }
+    .status.cards .thirteen.wide.column { 
+        white-space: nowrap; /* 防止文本换行 */
+        overflow: hidden; /* 隐藏溢出的内容 */
+        letter-spacing: -0.2px;/* 字符间距略小 */
+    }
+</style>
+
+<!-- 返回顶部按钮 -->
+<button id="topBtn" class="top-btn" 
+    style="display: none; position: fixed; bottom: 20px; right: 20px; z-index: 9999; 
+           background-color: #ffcc00; color: white; border: none; border-radius: 50%; 
+           width: 40px; height: 40px; font-size: 20px; display: flex; 
+           align-items: center; justify-content: center; cursor: pointer;">
+    ▲
+</button>
+
+<script>
+    // 获取返回顶部按钮
+    const topBtn = document.getElementById('topBtn');
+
+    // 当DOM加载完成后执行
+    document.addEventListener('DOMContentLoaded', function() {
+        // 监听滚动事件
+        window.onscroll = function() { scrollFunction(); };
+
+        // 显示或隐藏返回顶部按钮
+        function scrollFunction() {
+            if (document.body.scrollTop > 70 || document.documentElement.scrollTop > 70) {
+                topBtn.style.display = "block";
+            } else {
+                topBtn.style.display = "none";
+            }
+        }
+
+        // 点击按钮时滚动到顶部
+        topBtn.addEventListener('click', function() {
+            document.body.scrollTop = 0; // 对于 Safari
+            document.documentElement.scrollTop = 0; // 对于 Chrome, Firefox, IE 和 Opera
+        });
+    });
+</script>
+
+<script>
+    document.querySelectorAll('.status.cards .thirteen.wide.column').forEach(element => {
+        element.textContent = element.textContent.replace(/Cores/g, 'C');
+    });
+</script>
+        
         <style>
             * { box-sizing: border-box; }
             body { 
