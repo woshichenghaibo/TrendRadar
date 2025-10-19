@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T20:32:34.162489+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2025-10-19T21:23:46.634352+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
@@ -74,8 +74,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时14分 ~ 20时32分]"
+          "appearance_count": 15,
+          "time_info": "[11时14分 ~ 21时23分]"
         },
         {
           "title": "美媒：美方正商讨安排特朗普与金正恩会晤",
@@ -100,8 +100,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时20分 ~ 20时32分]"
+          "appearance_count": 26,
+          "time_info": "[00时20分 ~ 21时23分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
@@ -184,11 +184,12 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时20分 ~ 20时32分]"
+          "appearance_count": 26,
+          "time_info": "[00时20分 ~ 21时23分]"
         },
         {
           "title": "泽连斯基承认：特朗普未明确拒绝向乌提供“战斧”导弹",
@@ -312,6 +313,32 @@
           "time_info": "[15时16分 ~ 18时17分]"
         },
         {
+          "title": "特朗普：哥伦比亚将不再获得美国补贴。",
+          "url": "https://flash.jin10.com/detail/20251019204809018800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "全美700万人涌上街头抗议特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E700%E4%B8%87%E4%BA%BA%E6%B6%8C%E4%B8%8A%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8,
+            7,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 21时23分]"
+        },
+        {
           "title": "特朗普：美军摧毁“运毒潜艇” 两名幸存者被遣返",
           "url": "https://flash.jin10.com/detail/20251019105221054800",
           "source": "金十数据",
@@ -353,18 +380,15 @@
           "time_info": "14时24分"
         },
         {
-          "title": "全美700万人涌上街头抗议特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E700%E4%B8%87%E4%BA%BA%E6%B6%8C%E4%B8%8A%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
+          "title": "特朗普：将不再向哥伦比亚提供补贴。",
+          "url": "https://wallstreetcn.com/livenews/2990176",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            8,
-            7,
-            9
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 20时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-19）",
@@ -372,11 +396,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时32分]"
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时23分]"
         },
         {
           "title": "特朗普为何对华释放缓和信号",
@@ -515,8 +540,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时20分 ~ 20时32分]"
+          "appearance_count": 26,
+          "time_info": "[00时20分 ~ 21时23分]"
         },
         {
           "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
@@ -528,8 +553,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时16分 ~ 20时32分]"
+          "appearance_count": 11,
+          "time_info": "[13时16分 ~ 21时23分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -597,8 +622,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时14分 ~ 20时32分]"
+          "appearance_count": 15,
+          "time_info": "[11时14分 ~ 21时23分]"
+        },
+        {
+          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
+          "url": "https://news.ifeng.com/c/8na1AOphcs7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时23分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
@@ -611,17 +647,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 09时24分]"
-        },
-        {
-          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
-          "url": "https://news.ifeng.com/c/8na1AOphcs7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时32分]"
         },
         {
           "title": "为AI供电的“终极方案”？详解SMR（小型模块化核反应堆技术）",
@@ -666,6 +691,19 @@
           "time_info": "[12时22分 ~ 16时21分]"
         },
         {
+          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
+          "url": "https://wallstreetcn.com/articles/3757443",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 21时23分]"
+        },
+        {
           "title": "微软(MSFT.O)领导人担心，要满足OpenAI快速增长的计算需求，可能会导致服务器过度建设，而这可能无法产生经济回报。",
           "url": "https://flash.jin10.com/detail/20251019102338888800",
           "source": "金十数据",
@@ -694,18 +732,6 @@
           "time_info": "[00时20分 ~ 04时18分]"
         },
         {
-          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
-          "url": "https://wallstreetcn.com/articles/3757443",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 20时32分]"
-        },
-        {
           "title": "特朗普发布AI视频向抗议者洒粪",
           "url": "https://www.toutiao.com/trending/7562522819947511850/",
           "source": "今日头条",
@@ -715,8 +741,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时32分]"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时23分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -725,9 +751,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时23分]"
         },
         {
           "title": "英伟达退出 国产AI芯片要崛起了吗",
@@ -757,8 +783,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时20分 ~ 20时32分]"
+          "appearance_count": 26,
+          "time_info": "[00时20分 ~ 21时23分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -806,8 +832,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时32分]"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时23分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -840,8 +866,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时21分 ~ 20时32分]"
+          "appearance_count": 13,
+          "time_info": "[12时21分 ~ 21时23分]"
         },
         {
           "title": "如何理解周五的A股大跌",
