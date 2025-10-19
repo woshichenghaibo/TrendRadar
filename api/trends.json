@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T16:21:06.912062+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2025-10-19T17:17:31.042427+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
@@ -63,8 +63,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时14分 ~ 16时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时14分 ~ 17时17分]"
         },
         {
           "title": "美媒：美方正商讨安排特朗普与金正恩会晤",
@@ -75,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时24分 ~ 16时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时24分 ~ 17时17分]"
         },
         {
           "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
@@ -88,8 +88,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 16时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 17时17分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
@@ -105,11 +105,33 @@
           "time_info": "[00时20分 ~ 11时15分]"
         },
         {
+          "title": "特朗普三戏泽连斯基",
+          "url": "https://news.ifeng.com/c/8nZesUA4YSo",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 17时17分]"
+        },
+        {
           "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应",
           "url": "https://news.ifeng.com/c/8nY5myFfFkF",
           "source": "凤凰网",
           "ranks": [
             6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
+          "url": "https://news.ifeng.com/c/8nYEKd4N1Y8",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -127,22 +149,12 @@
             15,
             18,
             21,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时16分 ~ 16时21分]"
-        },
-        {
-          "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
-          "url": "https://news.ifeng.com/c/8nYEKd4N1Y8",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[05时16分 ~ 17时17分]"
         },
         {
           "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
@@ -163,17 +175,6 @@
           "time_info": "[00时20分 ~ 13时17分]"
         },
         {
-          "title": "特朗普三戏泽连斯基",
-          "url": "https://news.ifeng.com/c/8nZesUA4YSo",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 16时21分]"
-        },
-        {
           "title": "特朗普对华服软,关税讹诈玩不转",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
           "source": "贴吧",
@@ -184,8 +185,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 16时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 17时17分]"
         },
         {
           "title": "泽连斯基承认：特朗普未明确拒绝向乌提供“战斧”导弹",
@@ -256,18 +257,6 @@
           "time_info": "[11时14分 ~ 13时17分]"
         },
         {
-          "title": "美国多地爆发反特朗普集会",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%86%E4%BC%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26lcate%3D5001%26flag%3D0%26cate%3D5001%26q%3D%2523%25E7%25BE%258E%25E5%259B%25BD%25E5%25A4%259A%25E5%259C%25B0%25E7%2588%2586%25E5%258F%2591%25E5%258F%258D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%259B%2586%25E4%25BC%259A%2523%26stream_entry_id%3D31%26band_rank%3D2%26realpos%3D2%26pos%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1760857817%26pre_seqid%3D176085781714302733365159",
-          "source": "微博",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时21分]"
-        },
-        {
           "title": "匈牙利欧洲议会议员：欧洲政客感到被“特朗普爸爸”忽视了",
           "url": "https://news.ifeng.com/c/8nZlMrsz6GV",
           "source": "凤凰网",
@@ -275,8 +264,35 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 16时21分]"
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 17时17分]"
+        },
+        {
+          "title": "美国多地爆发反特朗普集会",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%86%E4%BC%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26lcate%3D5001%26flag%3D0%26cate%3D5001%26q%3D%2523%25E7%25BE%258E%25E5%259B%25BD%25E5%25A4%259A%25E5%259C%25B0%25E7%2588%2586%25E5%258F%2591%25E5%258F%258D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%259B%2586%25E4%25BC%259A%2523%26stream_entry_id%3D31%26band_rank%3D2%26realpos%3D2%26pos%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1760857817%26pre_seqid%3D176085781714302733365159",
+          "source": "微博",
+          "ranks": [
+            2,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时17分]"
+        },
+        {
+          "title": "特朗普团队曾商议亚洲行会晤金正恩",
+          "url": "https://www.toutiao.com/trending/7562161213384248874/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            23,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 17时17分]"
         },
         {
           "title": "全美700万人上街抗议特朗普",
@@ -285,11 +301,12 @@
           "ranks": [
             6,
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 16时21分]"
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 17时17分]"
         },
         {
           "title": "特朗普：美军摧毁“运毒潜艇” 两名幸存者被遣返",
@@ -307,6 +324,21 @@
           "time_info": "[11时15分 ~ 15时16分]"
         },
         {
+          "title": "英媒：特朗普命令在委海岸集结军力，意在迫使马杜罗下台",
+          "url": "https://flash.jin10.com/detail/20251019122453389800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7,
+            17,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 17时17分]"
+        },
+        {
           "title": "多家韩企掌门人与特朗普打高尔夫球",
           "url": "https://www.toutiao.com/trending/7562416604081061915/",
           "source": "今日头条",
@@ -318,31 +350,28 @@
           "time_info": "14时24分"
         },
         {
-          "title": "特朗普团队曾商议亚洲行会晤金正恩",
-          "url": "https://www.toutiao.com/trending/7562161213384248874/",
-          "source": "今日头条",
+          "title": "全美700万人涌上街头抗议特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E700%E4%B8%87%E4%BA%BA%E6%B6%8C%E4%B8%8A%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            23,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 16时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
-          "title": "英媒：特朗普命令在委海岸集结军力，意在迫使马杜罗下台",
-          "url": "https://flash.jin10.com/detail/20251019122453389800",
-          "source": "金十数据",
+          "title": "特朗普为何对华释放缓和信号",
+          "url": "https://www.toutiao.com/trending/7562789134373228078/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            7,
-            17,
-            21
+            8,
+            14,
+            25
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时17分 ~ 16时21分]"
+          "time_info": "[15时16分 ~ 17时17分]"
         },
         {
           "title": "特朗普政府“调整”关税策略",
@@ -395,18 +424,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时15分 ~ 14时24分]"
-        },
-        {
-          "title": "特朗普为何对华释放缓和信号",
-          "url": "https://www.toutiao.com/trending/7562789134373228078/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时21分]"
         },
         {
           "title": "特朗普建议俄乌以现在战线为准停火",
@@ -469,7 +486,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -480,8 +497,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 16时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 17时17分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -506,8 +523,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 16时21分]"
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 17时17分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -521,6 +538,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时24分 ~ 13时17分]"
+        },
+        {
+          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
+          "url": "https://wallstreetcn.com/articles/3757441",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 17时17分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
@@ -549,8 +579,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时14分 ~ 16时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时14分 ~ 17时17分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
@@ -563,18 +593,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 09时24分]"
-        },
-        {
-          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
-          "url": "https://wallstreetcn.com/articles/3757441",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 16时21分]"
         },
         {
           "title": "为AI供电的“终极方案”？详解SMR（小型模块化核反应堆技术）",
@@ -647,6 +665,17 @@
           "time_info": "[00时20分 ~ 04时18分]"
         },
         {
+          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
+          "url": "https://wallstreetcn.com/articles/3757443",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "英伟达退出 国产AI芯片要崛起了吗",
           "url": "https://www.toutiao.com/trending/7562416129633701419/",
           "source": "今日头条",
@@ -673,8 +702,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 16时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 17时17分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -745,6 +774,19 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
+          "title": "龙头6天3板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2173646",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时21分 ~ 17时17分]"
+        },
+        {
           "title": "龙头6天3板！A股三季报行情如火如荼，9家上市公司净利最高同比预增超400%",
           "url": "https://www.cls.cn/detail/2173112",
           "source": "财联社热门",
@@ -755,21 +797,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时16分 ~ 16时21分]"
-        },
-        {
-          "title": "龙头6天3板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2173646",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 16时21分]"
+          "appearance_count": 15,
+          "time_info": "[05时16分 ~ 17时17分]"
         },
         {
           "title": "A股还有多少上涨空间",
