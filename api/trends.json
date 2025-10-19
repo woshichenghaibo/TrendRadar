@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T04:18:15.571774+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2025-10-20T05:14:50.662841+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普访韩期间，有机会与金正恩会面吗？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "“特朗普政府悄悄放松多项关税政策，为在最高法院败诉做准备”",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "释疑｜普京向特朗普提新要求，顿巴斯因何成兵家必争？",
@@ -52,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "全美700万人上街抗议特朗普",
@@ -61,11 +61,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -75,8 +76,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普：（就美国帮助企业后获取其股份）这是 “美国方式”。",
@@ -85,11 +86,12 @@
           "ranks": [
             2,
             3,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普：如果我们此前没有摧毁伊朗的核武库，我们就不会达成加沙协议。",
@@ -98,11 +100,12 @@
           "ranks": [
             3,
             4,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普：不确定是否会介入纽约市长选举。不愿支持民主党候选人。",
@@ -111,11 +114,12 @@
           "ranks": [
             4,
             5,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "比特币涨超2.2%，试探11万美元。 美国参议院Lindsey Graham称，总统特朗普表态要针对哥伦比亚宣布关税（威胁）。 预计将在纽约时间10月19-29日宣布。 特朗普称他要“打击哥伦比亚”。 此前，特朗普掐断了美国对哥伦比亚的援助。",
@@ -123,11 +127,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时14分]"
         },
         {
           "title": "特朗普：（谈及国民警卫队部署）下一步将开赴旧金山。",
@@ -136,26 +141,12 @@
           "ranks": [
             5,
             6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
-        },
-        {
-          "title": "美国众议长约翰逊谈及军队薪资发放问题，称：现在已经完成（特朗普政府关门期间的一笔军饷发放），未来是没有保障的。",
-          "url": "https://wallstreetcn.com/livenews/2990207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            8,
-            12,
+            13,
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "全美700万人涌上街头抗议特朗普",
@@ -167,8 +158,24 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时22分 ~ 05时14分]"
+        },
+        {
+          "title": "美国众议长约翰逊谈及军队薪资发放问题，称：现在已经完成（特朗普政府关门期间的一笔军饷发放），未来是没有保障的。",
+          "url": "https://wallstreetcn.com/livenews/2990207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            8,
+            12,
+            15,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[02时22分 ~ 04时18分]"
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普证实美国不会向加沙地带派遣地面部队",
@@ -179,11 +186,12 @@
             8,
             9,
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普：沙特已表示愿意加入亚伯拉罕协议。",
@@ -192,11 +200,12 @@
           "ranks": [
             7,
             8,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普：希望看到沙特加入亚伯拉罕协议。",
@@ -205,11 +214,23 @@
           "ranks": [
             8,
             9,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
+        },
+        {
+          "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
+          "url": "https://wallstreetcn.com/livenews/2990227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "特朗普：亚伯拉罕协议将很快扩大。",
@@ -218,11 +239,12 @@
           "ranks": [
             9,
             10,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普：如果哈马斯不做他们应该做的事，我们会替他们做。",
@@ -231,11 +253,12 @@
           "ranks": [
             10,
             11,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普：对哈马斯何时解除武装没有强硬“时间线”。",
@@ -244,11 +267,12 @@
           "ranks": [
             11,
             12,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普：普京将从乌克兰拿走一些东西，他赢得了一些财产。",
@@ -257,11 +281,12 @@
           "ranks": [
             12,
             13,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普：我们不能把所有武器都交给乌克兰。",
@@ -270,11 +295,12 @@
           "ranks": [
             13,
             14,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普谈及国民警卫队部署：下一步将开赴旧金山。",
@@ -285,11 +311,12 @@
             16,
             17,
             21,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普：正在考虑是否对乌克兰提供战斧导弹。",
@@ -298,11 +325,12 @@
           "ranks": [
             14,
             15,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普：不确定是否会介入纽约市长选举。 （就纽约市长选举表态）不愿支持民主党候选人。",
@@ -313,11 +341,12 @@
             17,
             18,
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普：我们将成立一个和平委员会。",
@@ -326,11 +355,12 @@
           "ranks": [
             15,
             16,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普谈美国政府援助企业并获取股权：这是”美国方式”。",
@@ -341,11 +371,12 @@
             18,
             19,
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普：如果有必要，我们将解除哈马斯的武装。无论是（由）美国还是其代理人。美国不会派地面部队。",
@@ -354,11 +385,12 @@
           "ranks": [
             16,
             17,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "特朗普：哥伦比亚将不再获得美国补贴。",
@@ -408,8 +440,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -419,8 +451,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
@@ -428,11 +460,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "AI资本开支太狂热了？高盛：这才到哪呢",
@@ -442,8 +475,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -454,8 +487,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -468,8 +501,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "领益智造与绳驱AI机器人公司星尘智能签署战略合作协议",
@@ -507,22 +540,24 @@
           "url": "https://www.cls.cn/detail/2173646",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "A股修复行情即将展开？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2173822",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时14分]"
         }
       ]
     },
@@ -557,8 +592,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时22分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[02时22分 ~ 05时14分]"
         }
       ]
     },
@@ -575,8 +610,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时14分]"
         }
       ]
     }
