@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T13:17:10.905043+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2025-10-19T14:24:16.989777+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
@@ -63,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 14时24分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
@@ -78,6 +78,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 11时15分]"
+        },
+        {
+          "title": "美媒：美方正商讨安排特朗普与金正恩会晤",
+          "url": "https://news.ifeng.com/c/8nZRSwQk7HS",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 14时24分]"
         },
         {
           "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应",
@@ -130,20 +142,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 13时17分]"
-        },
-        {
-          "title": "美媒：美方正商讨安排特朗普与金正恩会晤",
-          "url": "https://news.ifeng.com/c/8nZRSwQk7HS",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 13时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 14时24分]"
         },
         {
           "title": "泽连斯基承认：特朗普未明确拒绝向乌提供“战斧”导弹",
@@ -156,11 +156,24 @@
             16,
             20,
             21,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时14分 ~ 13时17分]"
+          "appearance_count": 10,
+          "time_info": "[03时14分 ~ 14时24分]"
+        },
+        {
+          "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
+          "url": "https://wallstreetcn.com/articles/3757439",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时14分 ~ 14时24分]"
         },
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国",
@@ -188,18 +201,6 @@
           "time_info": "[00时20分 ~ 06时15分]"
         },
         {
-          "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
-          "url": "https://wallstreetcn.com/articles/3757439",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 13时17分]"
-        },
-        {
           "title": "特朗普称美军摧毁一艘“载有毒品”的大型潜艇",
           "url": "https://wallstreetcn.com/livenews/2990101",
           "source": "华尔街见闻-快讯",
@@ -208,11 +209,12 @@
             8,
             12,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时16分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[05时16分 ~ 14时24分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-18）",
@@ -246,19 +248,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 14时24分]"
         },
         {
-          "title": "英媒：特朗普命令在委海岸集结军力，意在迫使马杜罗下台",
-          "url": "https://flash.jin10.com/detail/20251019122453389800",
-          "source": "金十数据",
+          "title": "多家韩企掌门人与特朗普打高尔夫球",
+          "url": "https://www.toutiao.com/trending/7562416604081061915/",
+          "source": "今日头条",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "14时24分"
         },
         {
           "title": "特朗普：美军摧毁“运毒潜艇” 两名幸存者被遣返",
@@ -267,11 +269,24 @@
           "ranks": [
             3,
             8,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时24分]"
+        },
+        {
+          "title": "英媒：特朗普命令在委海岸集结军力，意在迫使马杜罗下台",
+          "url": "https://flash.jin10.com/detail/20251019122453389800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时24分]"
         },
         {
           "title": "特朗普政府“调整”关税策略",
@@ -292,11 +307,12 @@
           "ranks": [
             9,
             14,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时24分]"
         },
         {
           "title": "韩企掌门与特朗普打高球 是否谈投资和关税引关注",
@@ -305,11 +321,12 @@
           "ranks": [
             14,
             19,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时24分]"
         },
         {
           "title": "匈牙利欧洲议会议员：欧洲政客感到被“特朗普爸爸”忽视了",
@@ -319,8 +336,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 14时24分]"
         },
         {
           "title": "特朗普极限施压为何总在中国面前熄火",
@@ -330,8 +347,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 14时24分]"
         },
         {
           "title": "特朗普和泽连斯基的会谈气氛很紧张",
@@ -355,6 +372,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 01时14分]"
+        },
+        {
+          "title": "全美700万人上街抗议特朗普",
+          "url": "https://www.douyin.com/hot/2274982",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "特朗普建议俄乌以现在战线为准停火",
+          "url": "https://www.toutiao.com/trending/7562417606767853604/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "特朗普团队曾商议亚洲行会晤金正恩",
+          "url": "https://www.toutiao.com/trending/7562161213384248874/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "曝美乌总统会晤特朗普数次语气强硬",
+          "url": "https://www.toutiao.com/trending/7562354973208707126/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         }
       ]
     },
@@ -371,8 +432,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 14时24分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -440,8 +501,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时14分 ~ 14时24分]"
         },
         {
           "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
@@ -451,8 +512,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 14时24分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -461,11 +522,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时14分 ~ 14时24分]"
         },
         {
           "title": "为什么AI写的文章总有一股“AI味”",
@@ -480,6 +542,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时22分 ~ 06时15分]"
+        },
+        {
+          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
+          "url": "https://wallstreetcn.com/articles/3757441",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 14时24分]"
         },
         {
           "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
@@ -500,11 +574,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时24分]"
         },
         {
           "title": "微软(MSFT.O)领导人担心，要满足OpenAI快速增长的计算需求，可能会导致服务器过度建设，而这可能无法产生经济回报。",
@@ -513,22 +588,12 @@
           "ranks": [
             6,
             11,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时17分]"
-        },
-        {
-          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
-          "url": "https://wallstreetcn.com/articles/3757441",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时24分]"
         },
         {
           "title": "英伟达退出 国产AI芯片要崛起了吗",
@@ -557,8 +622,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 14时24分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -594,8 +659,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 11时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 14时24分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -604,11 +669,12 @@
           "ranks": [
             16,
             21,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时24分]"
         }
       ]
     },
@@ -638,8 +704,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时16分 ~ 13时17分]"
+          "appearance_count": 11,
+          "time_info": "[05时16分 ~ 14时24分]"
         },
         {
           "title": "龙头6天3板 本周披露并购重组进展的A股名单一览",
@@ -647,11 +713,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 14时24分]"
         },
         {
           "title": "A股还有多少上涨空间",
