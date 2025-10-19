@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T22:15:45.798980+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2025-10-19T23:15:46.227983+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
@@ -74,8 +74,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时14分 ~ 22时15分]"
+          "appearance_count": 17,
+          "time_info": "[11时14分 ~ 23时15分]"
         },
         {
           "title": "美媒：美方正商讨安排特朗普与金正恩会晤",
@@ -185,11 +185,12 @@
             8,
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时20分 ~ 22时15分]"
+          "appearance_count": 28,
+          "time_info": "[00时20分 ~ 23时15分]"
         },
         {
           "title": "泽连斯基承认：特朗普未明确拒绝向乌提供“战斧”导弹",
@@ -329,6 +330,17 @@
           "time_info": "[17时17分 ~ 22时15分]"
         },
         {
+          "title": "特朗普：（就美国帮助企业后获取其股份）这是 “美国方式”。",
+          "url": "https://flash.jin10.com/detail/20251019224817731800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "特朗普：美军摧毁“运毒潜艇” 两名幸存者被遣返",
           "url": "https://flash.jin10.com/detail/20251019105221054800",
           "source": "金十数据",
@@ -370,6 +382,72 @@
           "time_info": "14时24分"
         },
         {
+          "title": "特朗普：如果我们此前没有摧毁伊朗的核武库，我们就不会达成加沙协议。",
+          "url": "https://flash.jin10.com/detail/20251019224545078800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普访韩期间，有机会与金正恩会面吗？",
+          "url": "https://news.ifeng.com/c/8naSLmM8R1V",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普：不确定是否会介入纽约市长选举。不愿支持民主党候选人。",
+          "url": "https://flash.jin10.com/detail/20251019224504413800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "“特朗普政府悄悄放松多项关税政策，为在最高法院败诉做准备”",
+          "url": "https://news.ifeng.com/c/8naNOGdcTXc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普：（谈及国民警卫队部署）下一步将开赴旧金山。",
+          "url": "https://flash.jin10.com/detail/20251019224453988800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普谈及国民警卫队部署：下一步将开赴旧金山。",
+          "url": "https://wallstreetcn.com/livenews/2990196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-19）",
           "url": "https://flash.jin10.com/detail/20251019180608570800",
           "source": "金十数据",
@@ -389,11 +467,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时15分]"
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时15分]"
         },
         {
           "title": "特朗普：哥伦比亚将不再获得美国补贴。",
@@ -401,11 +480,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时15分]"
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时15分]"
         },
         {
           "title": "特朗普为何对华释放缓和信号",
@@ -528,12 +608,155 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 01时14分]"
+        },
+        {
+          "title": "特朗普：沙特已表示愿意加入亚伯拉罕协议。",
+          "url": "https://flash.jin10.com/detail/20251019223930260800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普：不确定是否会介入纽约市长选举。 （就纽约市长选举表态）不愿支持民主党候选人。",
+          "url": "https://wallstreetcn.com/livenews/2990194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普：希望看到沙特加入亚伯拉罕协议。",
+          "url": "https://flash.jin10.com/detail/20251019223912646800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普谈美国政府援助企业并获取股权：这是”美国方式”。",
+          "url": "https://wallstreetcn.com/livenews/2990193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普：亚伯拉罕协议将很快扩大。",
+          "url": "https://flash.jin10.com/detail/20251019223903443800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普：如果哈马斯不做他们应该做的事，我们会替他们做。",
+          "url": "https://flash.jin10.com/detail/20251019223853350800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普：对哈马斯何时解除武装没有强硬“时间线”。",
+          "url": "https://flash.jin10.com/detail/20251019223834796800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普：普京将从乌克兰拿走一些东西，他赢得了一些财产。",
+          "url": "https://flash.jin10.com/detail/20251019223745676800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普：我们不能把所有武器都交给乌克兰。",
+          "url": "https://flash.jin10.com/detail/20251019223722426800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普：正在考虑是否对乌克兰提供战斧导弹。",
+          "url": "https://flash.jin10.com/detail/20251019223712494800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普：我们将成立一个和平委员会。",
+          "url": "https://flash.jin10.com/detail/20251019223620589800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普：如果有必要，我们将解除哈马斯的武装。无论是（由）美国还是其代理人。美国不会派地面部队。",
+          "url": "https://flash.jin10.com/detail/20251019223546572800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "8 个月内泽连斯基三访白宫，他与特朗普谈了什么？美国会提供「战斧」吗？俄乌局势转折点将至？",
+          "url": "https://www.zhihu.com/question/1962826833562173906",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -544,8 +767,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时20分 ~ 22时15分]"
+          "appearance_count": 28,
+          "time_info": "[00时20分 ~ 23时15分]"
         },
         {
           "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
@@ -554,11 +777,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时16分 ~ 22时15分]"
+          "appearance_count": 13,
+          "time_info": "[13时16分 ~ 23时15分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -587,6 +811,17 @@
           "time_info": "[13时16分 ~ 17时17分]"
         },
         {
+          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
+          "url": "https://news.ifeng.com/c/8na1AOphcs7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 23时15分]"
+        },
+        {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
           "url": "https://wallstreetcn.com/articles/3757427",
           "source": "华尔街见闻",
@@ -598,17 +833,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时24分 ~ 13时17分]"
-        },
-        {
-          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
-          "url": "https://news.ifeng.com/c/8na1AOphcs7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 22时15分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
@@ -637,8 +861,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时14分 ~ 22时15分]"
+          "appearance_count": 17,
+          "time_info": "[11时14分 ~ 23时15分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
@@ -675,8 +899,22 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时17分 ~ 23时15分]"
+        },
+        {
+          "title": "特朗普发布AI视频向抗议者洒粪",
+          "url": "https://www.toutiao.com/trending/7562522819947511850/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            13,
+            12,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时17分 ~ 22时15分]"
+          "time_info": "[18时17分 ~ 23时15分]"
         },
         {
           "title": "为什么AI写的文章总有一股“AI味”",
@@ -723,20 +961,6 @@
           "time_info": "[11时15分 ~ 15时16分]"
         },
         {
-          "title": "特朗普发布AI视频向抗议者洒粪",
-          "url": "https://www.toutiao.com/trending/7562522819947511850/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            13,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 22时15分]"
-        },
-        {
           "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
           "url": "https://wallstreetcn.com/livenews/2990065",
           "source": "华尔街见闻-快讯",
@@ -754,11 +978,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 22时15分]"
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 23时15分]"
+        },
+        {
+          "title": "领益智造与绳驱AI机器人公司星尘智能签署战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/2990188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "英伟达退出 国产AI芯片要崛起了吗",
@@ -834,11 +1070,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 22时15分]"
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 23时15分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -858,7 +1095,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "龙头6天3板 本周披露并购重组进展的A股名单一览",
@@ -871,8 +1108,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时21分 ~ 22时15分]"
+          "appearance_count": 15,
+          "time_info": "[12时21分 ~ 23时15分]"
         },
         {
           "title": "如何理解周五的A股大跌",
@@ -898,6 +1135,17 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[05时16分 ~ 22时15分]"
+        },
+        {
+          "title": "A股修复行情即将展开？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2173822",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "A股还有多少上涨空间",
