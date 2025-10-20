@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T22:17:18.973503+08:00",
-  "total_titles_processed": 1825,
+  "generated_at": "2025-10-20T23:19:52.211574+08:00",
+  "total_titles_processed": 1919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 96,
       "titles": [
         {
           "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
@@ -81,11 +81,12 @@
             22,
             17,
             14,
-            18
+            18,
+            11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时20分 ~ 22时17分]"
+          "appearance_count": 19,
+          "time_info": "[09时20分 ~ 23时19分]"
         },
         {
           "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
@@ -96,8 +97,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时18分 ~ 22时17分]"
+          "appearance_count": 12,
+          "time_info": "[15时18分 ~ 23时19分]"
         },
         {
           "title": "特朗普：对华征收100%关税对美经济“不能持久”",
@@ -139,8 +140,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时20分 ~ 22时17分]"
+          "appearance_count": 31,
+          "time_info": "[00时20分 ~ 23时19分]"
         },
         {
           "title": "特朗普泽连斯基再度激烈争吵：全程脏话、扔地图、训斥",
@@ -229,6 +230,17 @@
           "time_info": "[09时20分 ~ 11时16分]"
         },
         {
+          "title": "特朗普对中国列出三大问题，中方表态",
+          "url": "https://news.ifeng.com/c/8nbema1wupK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 23时19分]"
+        },
+        {
           "title": "特朗普：（谈及国民警卫队部署）下一步将开赴旧金山。",
           "url": "https://flash.jin10.com/detail/20251019224453988800",
           "source": "金十数据",
@@ -303,17 +315,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时18分]"
-        },
-        {
-          "title": "特朗普对中国列出三大问题，中方表态",
-          "url": "https://news.ifeng.com/c/8nbema1wupK",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时17分]"
         },
         {
           "title": "特朗普：希望看到沙特加入亚伯拉罕协议。",
@@ -445,15 +446,17 @@
           "time_info": "[11时15分 ~ 11时16分]"
         },
         {
-          "title": "特朗普称顿巴斯78%地区已被俄控制",
-          "url": "https://www.toutiao.com/trending/7563092838465241151/",
-          "source": "今日头条",
+          "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
+          "url": "https://news.ifeng.com/c/8nbomTXs1Dt",
+          "source": "凤凰网",
           "ranks": [
-            4
+            5,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时17分]"
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时19分]"
         },
         {
           "title": "曝特朗普与泽连斯基再度激烈争吵",
@@ -505,6 +508,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 07时16分]"
+        },
+        {
+          "title": "曝特朗普与泽连斯基会晤多次对骂",
+          "url": "https://www.toutiao.com/trending/7563305611689987627/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "特朗普：愿降低关税水平，但中方也需做出让步",
@@ -678,17 +692,41 @@
           "time_info": "20时36分"
         },
         {
-          "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
-          "url": "https://news.ifeng.com/c/8nbomTXs1Dt",
-          "source": "凤凰网",
+          "title": "阿根廷债券价格回吐涨幅，与特朗普政府的（货币）互换协议没能（持久地）打动投资者。",
+          "url": "https://wallstreetcn.com/livenews/2990750",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            7,
-            8
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "特朗普称顿巴斯78%地区已被俄控制",
+          "url": "https://www.toutiao.com/trending/7563092838465241151/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 22时17分]"
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 23时19分]"
+        },
+        {
+          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
+          "url": "https://www.zhihu.com/question/1963528380650614990",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时19分]"
         },
         {
           "title": "俄美共建白令海峡隧道？特朗普回应",
@@ -727,17 +765,17 @@
           "time_info": "[14时27分 ~ 15时18分]"
         },
         {
-          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
-          "url": "https://www.zhihu.com/question/1963528380650614990",
-          "source": "知乎",
+          "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
+          "url": "https://www.cls.cn/detail/2174574",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            17,
-            14
+            12,
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时16分 ~ 22时17分]"
+          "time_info": "[20时36分 ~ 23时19分]"
         },
         {
           "title": "特朗普：哥伦比亚将不再获得美国补贴。",
@@ -750,19 +788,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 03时15分]"
-        },
-        {
-          "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
-          "url": "https://www.cls.cn/detail/2174574",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 22时17分]"
         },
         {
           "title": "特朗普为何给泽连斯基下达通牒",
@@ -786,6 +811,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "泽连斯基与特朗普对骂",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%AA%82%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26realpos%3D9%26flag%3D1%26dgr%3D0%26cate%3D5001%26band_rank%3D9%26q%3D%2523%25E6%25B3%25BD%25E8%25BF%259E%25E6%2596%25AF%25E5%259F%25BA%25E4%25B8%258E%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AF%25B9%25E9%25AA%2582%2523%26stream_entry_id%3D31%26pos%3D10%26c_type%3D31%26display_time%3D1760969664%26pre_seqid%3D17609696639740230523731",
+          "source": "微博",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时19分]"
         },
         {
           "title": "“特朗普全程在骂人”，上周五与泽连斯基再现“白宫争执”",
@@ -902,17 +939,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
-        },
-        {
-          "title": "泽连斯基与特朗普对骂",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%AA%82%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26realpos%3D9%26flag%3D1%26dgr%3D0%26cate%3D5001%26band_rank%3D9%26q%3D%2523%25E6%25B3%25BD%25E8%25BF%259E%25E6%2596%25AF%25E5%259F%25BA%25E4%25B8%258E%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AF%25B9%25E9%25AA%2582%2523%26stream_entry_id%3D31%26pos%3D10%26c_type%3D31%26display_time%3D1760969664%26pre_seqid%3D17609696639740230523731",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
         },
         {
           "title": "伊朗最高领袖哈梅内伊在社交媒体平台上回应美国总统特朗普称美国摧毁了伊朗核工业的说法，表示“继续做梦吧”。",
@@ -1053,7 +1079,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1067,6 +1093,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "市场消息：美国众议院议长约翰逊称将于今天下午与特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251020225006793800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美国总统特朗普：美国正考虑从阿根廷购买牛肉。",
@@ -1141,7 +1178,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1221,6 +1258,23 @@
           "time_info": "[00时20分 ~ 09时21分]"
         },
         {
+          "title": "BLG无畏契约官宣bail离队",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            21,
+            23,
+            11,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时20分 ~ 23时19分]"
+        },
+        {
           "title": "AI资本开支太狂热了？高盛：这才到哪呢",
           "url": "https://wallstreetcn.com/articles/3757451",
           "source": "华尔街见闻",
@@ -1265,22 +1319,6 @@
           "time_info": "[00时20分 ~ 09时21分]"
         },
         {
-          "title": "BLG无畏契约官宣bail离队",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            21,
-            23,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时20分 ~ 22时17分]"
-        },
-        {
           "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
           "url": "https://wallstreetcn.com/articles/3757473",
           "source": "华尔街见闻",
@@ -1289,8 +1327,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时20分 ~ 22时17分]"
+          "appearance_count": 9,
+          "time_info": "[17时20分 ~ 23时19分]"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
@@ -1300,11 +1338,12 @@
             8,
             9,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时19分 ~ 22时17分]"
+          "appearance_count": 7,
+          "time_info": "[18时19分 ~ 23时19分]"
         },
         {
           "title": "OpenAI：所有受影响的服务现已完全恢复。",
@@ -1338,8 +1377,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 22时17分]"
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 23时19分]"
         },
         {
           "title": "AI过去一年给美国家庭创造了多少财富？小摩：5万亿美元！",
@@ -1380,6 +1419,18 @@
           "time_info": "[19时16分 ~ 21时28分]"
         },
         {
+          "title": "“今年双11 我的AI比我还忙”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%B9%B4%E5%8F%8C11+%E6%88%91%E7%9A%84AI%E6%AF%94%E6%88%91%E8%BF%98%E5%BF%99%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 23时19分]"
+        },
+        {
           "title": "美国女子AI生成号码中10万美元彩票",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90AI%E7%94%9F%E6%88%90%E5%8F%B7%E7%A0%81%E4%B8%AD10%E4%B8%87%E7%BE%8E%E5%85%83%E5%BD%A9%E7%A5%A8",
           "source": "百度热搜",
@@ -1390,6 +1441,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时18分 ~ 16时27分]"
+        },
+        {
+          "title": "Adobe（奥多比）推出企业级生成式人工智能（AI）模型。",
+          "url": "https://wallstreetcn.com/livenews/2990732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时19分]"
         },
         {
           "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
@@ -1439,17 +1502,6 @@
           "time_info": "[17时21分 ~ 18时20分]"
         },
         {
-          "title": "“今年双11 我的AI比我还忙”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%B9%B4%E5%8F%8C11+%E6%88%91%E7%9A%84AI%E6%AF%94%E6%88%91%E8%BF%98%E5%BF%99%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时17分]"
-        },
-        {
           "title": "中国AI的未来为何系于新疆",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B8%BA%E4%BD%95%E7%B3%BB%E4%BA%8E%E6%96%B0%E7%96%86",
           "source": "bilibili 热搜",
@@ -1481,17 +1533,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
-        },
-        {
-          "title": "Adobe（奥多比）推出企业级生成式人工智能（AI）模型。",
-          "url": "https://wallstreetcn.com/livenews/2990732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
         },
         {
           "title": "特朗普发布辣眼AI视频引争议",
@@ -1544,7 +1585,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1588,7 +1629,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1633,8 +1674,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时18分 ~ 22时17分]"
+          "appearance_count": 12,
+          "time_info": "[15时18分 ~ 23时19分]"
         },
         {
           "title": "贸易局势、美信贷恐慌缓解，美股盘前三大期指集体上涨，苹果股价逼近历史新高，现货黄金突破4320美元/盎司，比特币涨超4%",
@@ -1654,7 +1695,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1664,11 +1705,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时17分]"
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 23时19分]"
         },
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
@@ -1676,11 +1718,36 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 23时19分]"
+        },
+        {
+          "title": "美股持续走高，纳斯达克综合指数上涨1%，费城半导体指数触及历史新高，现涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/2990731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时17分]"
+          "time_info": "[22时17分 ~ 23时19分]"
+        },
+        {
+          "title": "美股三大股指高开，道指涨0.41%，标普500指数涨0.51%，纳指涨0.76%。苹果上涨1.8%，Loop将其评级上调至买入；美光科技涨超5%，巴克莱将公司目标价从195美元上调至240美元；AMD、博通涨超1%；稀土概念股USA Rare Earth涨超7%；加密货币概念股上涨，Coinbase上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/2990727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时19分]"
         },
         {
           "title": "亚马逊美股盘前转跌，现跌0.21%。",
@@ -1701,7 +1768,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1715,17 +1782,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "美股持续走高，纳斯达克综合指数上涨1%，费城半导体指数触及历史新高，现涨1.7%。",
-          "url": "https://wallstreetcn.com/livenews/2990731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
         },
         {
           "title": "美股三大股指期货普涨，标普500指数期货上涨0.43%，纳斯达克100指数期货上涨0.54%，道指期货上涨0.35%。",
@@ -1761,17 +1817,6 @@
           "time_info": "18时20分"
         },
         {
-          "title": "美股三大股指高开，道指涨0.41%，标普500指数涨0.51%，纳指涨0.76%。苹果上涨1.8%，Loop将其评级上调至买入；美光科技涨超5%，巴克莱将公司目标价从195美元上调至240美元；AMD、博通涨超1%；稀土概念股USA Rare Earth涨超7%；加密货币概念股上涨，Coinbase上涨1%。",
-          "url": "https://wallstreetcn.com/livenews/2990727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
           "title": "美股盘前，台积电涨超2%。加密货币概念股普涨，Circle涨超2%，Coinbase涨超3%，Strategy涨超4%。",
           "url": "https://wallstreetcn.com/livenews/2990523",
           "source": "华尔街见闻-快讯",
@@ -1800,7 +1845,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1992,7 +2037,7 @@
     },
     {
       "keyword_group": "赚钱 方法",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "把生命力养起来的方法",
@@ -2024,8 +2069,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时23分 ~ 22时17分]"
+          "appearance_count": 15,
+          "time_info": "[12时23分 ~ 23时19分]"
         },
         {
           "title": "时序数据预测有哪些好方法？",
@@ -2060,6 +2105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
+        },
+        {
+          "title": "有哪些用偏几何的方法来得到代数问题的优美解答的例子？",
+          "url": "https://www.zhihu.com/question/445673503",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     },
