@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T13:19:41.235219+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2025-10-20T14:27:17.288168+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
@@ -55,8 +55,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 13时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 14时27分]"
+        },
+        {
+          "title": "特朗普：对华征收100%关税对美经济“不能持久”",
+          "url": "https://news.ifeng.com/c/8nbAb1jLGoo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 14时27分]"
         },
         {
           "title": "全美700万人上街抗议特朗普",
@@ -81,19 +92,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 13时19分]"
-        },
-        {
-          "title": "特朗普：对华征收100%关税对美经济“不能持久”",
-          "url": "https://news.ifeng.com/c/8nbAb1jLGoo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 13时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 14时27分]"
         },
         {
           "title": "特朗普：（就美国帮助企业后获取其股份）这是 “美国方式”。",
@@ -141,6 +141,19 @@
           "time_info": "[00时20分 ~ 06时18分]"
         },
         {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.toutiao.com/trending/7563020612747165715/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 14时27分]"
+        },
+        {
           "title": "美国众议长约翰逊谈及军队薪资发放问题，称：现在已经完成（特朗普政府关门期间的一笔军饷发放），未来是没有保障的。",
           "url": "https://wallstreetcn.com/livenews/2990207",
           "source": "华尔街见闻-快讯",
@@ -157,18 +170,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普专机附近疑发现狙击狩猎台",
-          "url": "https://www.toutiao.com/trending/7563020612747165715/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 13时19分]"
         },
         {
           "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
@@ -353,6 +354,19 @@
           "time_info": "[00时20分 ~ 06时18分]"
         },
         {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%9C%BA%E9%99%84%E8%BF%91%E7%96%91%E5%8F%91%E7%8E%B0%E7%8B%99%E5%87%BB%E7%8B%A9%E7%8C%8E%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 14时27分]"
+        },
+        {
           "title": "特朗普专机着陆机场附近现可疑物",
           "url": "https://news.ifeng.com/c/8nbCKtQ9LFh",
           "source": "凤凰网",
@@ -489,19 +503,6 @@
           "time_info": "[00时20分 ~ 05时14分]"
         },
         {
-          "title": "特朗普专机附近疑发现狙击狩猎台",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%9C%BA%E9%99%84%E8%BF%91%E7%96%91%E5%8F%91%E7%8E%B0%E7%8B%99%E5%87%BB%E7%8B%A9%E7%8C%8E%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 13时19分]"
-        },
-        {
           "title": "曝特朗普与泽连斯基再发生激烈争吵",
           "url": "https://www.toutiao.com/trending/7562448720101461547/",
           "source": "今日头条",
@@ -511,6 +512,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "美媒爆特朗普疑似险遭暗杀",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E5%AA%92%E7%88%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%91%E4%BC%BC%E9%99%A9%E9%81%AD%E6%9A%97%E6%9D%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26realpos%3D4%26flag%3D1%26pos%3D4%26q%3D%2523%25E7%25BE%258E%25E5%25AA%2592%25E7%2588%2586%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2596%2591%25E4%25BC%25BC%25E9%2599%25A9%25E9%2581%25AD%25E6%259A%2597%25E6%259D%2580%2523%26band_rank%3D4%26display_time%3D1760941625%26pre_seqid%3D17609416251480272899869",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "特朗普被曝与泽连斯基再度激烈争吵",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 14时27分]"
         },
         {
           "title": "俄美共建白令海峡隧道？特朗普回应",
@@ -523,18 +548,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时20分 ~ 12时23分]"
-        },
-        {
-          "title": "特朗普被曝与泽连斯基再度激烈争吵",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 13时19分]"
         },
         {
           "title": "特朗普：哥伦比亚将不再获得美国补贴。",
@@ -617,6 +630,28 @@
           "time_info": "09时21分"
         },
         {
+          "title": "特朗普称俄乌应按当前战线“割裂”顿巴斯地区",
+          "url": "https://wallstreetcn.com/livenews/2990457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "欧盟官员卡拉斯：我们看到了特朗普为促成乌克兰和平所付出的努力。",
+          "url": "https://wallstreetcn.com/livenews/2990450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：特朗普将于今天或明天宣布对哥伦比亚实施重大关税措施。",
           "url": "https://flash.jin10.com/detail/20251020054917939800",
           "source": "金十数据",
@@ -672,6 +707,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "特朗普称努力让美国变得伟大",
+          "url": "https://www.toutiao.com/trending/7563119034879754286/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "美国总统特朗普：并未讨论过让乌克兰将顿巴斯地区割让给俄罗斯。",
           "url": "https://flash.jin10.com/detail/20251020081125245800",
           "source": "金十数据",
@@ -725,6 +771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普政策会走向何方",
+          "url": "https://www.toutiao.com/trending/7563147692252073508/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "特朗普：将不再向哥伦比亚提供补贴。",
@@ -789,8 +846,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 14时27分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -806,8 +863,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 13时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 14时27分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -828,7 +885,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -909,8 +966,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 13时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 14时27分]"
         },
         {
           "title": "龙头6天3板 本周披露并购重组进展的A股名单一览",
@@ -934,30 +991,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 14时27分]"
         },
         {
           "title": "A股燃气板块继续走强，国新能源5天4板，大众公用此前涨停，首华燃气、凯添燃气、长春燃气、洪通燃气跟涨。",
           "url": "https://wallstreetcn.com/livenews/2990442",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时27分]"
         },
         {
           "title": "A股旅游板块震荡拉升，长白山午后涨停，大连圣亚此前封板，天府文旅、西藏旅游、锦江酒店跟涨。",
           "url": "https://wallstreetcn.com/livenews/2990439",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时27分]"
         },
         {
           "title": "A股光模块走高 “易中天”大涨 花旗称看到行业需求潜在上行可能",
@@ -1015,6 +1074,19 @@
           "time_info": "[02时22分 ~ 09时21分]"
         },
         {
+          "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 14时27分]"
+        },
+        {
           "title": "时序数据预测有哪些好方法？",
           "url": "https://www.zhihu.com/question/390044856",
           "source": "知乎",
@@ -1025,18 +1097,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时16分]"
-        },
-        {
-          "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时19分]"
         },
         {
           "title": "一个吃饭免排队的邪修方法",
@@ -1118,11 +1178,12 @@
           "url": "https://wallstreetcn.com/articles/3757466",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 14时27分]"
         }
       ]
     }
