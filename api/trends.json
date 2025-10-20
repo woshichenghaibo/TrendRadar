@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T05:16:43.080662+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2025-10-21T06:19:13.595162+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普对中国列出三大问题，中方表态",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "曝特朗普与泽连斯基会晤多次对骂",
           "url": "https://www.toutiao.com/trending/7563305611689987627/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "特朗普开飞机泼粪,美国再次味大",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
@@ -52,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "曝特朗普与泽连斯基再度激烈争吵",
@@ -67,8 +68,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "泽连斯基与特朗普对骂",
@@ -81,19 +82,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
           "url": "https://www.cls.cn/detail/2174574",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
@@ -103,8 +105,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
@@ -115,8 +117,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "特朗普专机附近疑发现狙击狩猎台",
@@ -126,8 +128,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -137,8 +139,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "特朗普称顿巴斯78%地区已被俄控制",
@@ -242,6 +244,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "美国众议院民主党领导人Hakeem Jefferies：总统特朗普需要亲自下场，参与驴象两党之间关于政府临时融资立法草案的谈判。",
+          "url": "https://wallstreetcn.com/livenews/2990835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时19分]"
         },
         {
           "title": "美国总统特朗普：有多个国家打电话给我，要求我进入加沙解决哈马斯问题。我们不会在加沙部署美国军队，已经有59个国家签署了这项协议。",
@@ -388,15 +402,26 @@
           "time_info": "[00时22分 ~ 01时17分]"
         },
         {
-          "title": "美国众议院民主党领导人Hakeem Jefferies：总统特朗普需要亲自下场，参与驴象两党之间关于政府临时融资立法草案的谈判。",
-          "url": "https://wallstreetcn.com/livenews/2990835",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：白宫的地面已经动工，将建造新的宴会厅。",
+          "url": "https://flash.jin10.com/detail/20251021052502573800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "06时19分"
+        },
+        {
+          "title": "美澳签署关键矿产协议 特朗普称稀土和矿物会多到不知所措",
+          "url": "https://flash.jin10.com/detail/20251021050854796800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "美国总统特朗普：澳大利亚将购买大量波音(BA.N)飞机。",
@@ -457,7 +482,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
@@ -467,8 +492,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
@@ -478,8 +503,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -487,11 +512,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时16分]"
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时19分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）热门中概股行情一览（美股收盘）",
@@ -499,11 +525,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时16分]"
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时19分]"
         },
         {
           "title": "美股收盘：三大股指齐升 金龙指数涨超2%",
@@ -511,11 +538,60 @@
           "source": "金十数据",
           "ranks": [
             7,
-            12
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时19分]"
+        },
+        {
+          "title": "黄金ETF收涨超3.6%，和小盘股ETF、新兴市场ETF等领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/2990833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时16分]"
+          "time_info": "[05时16分 ~ 06时19分]"
+        },
+        {
+          "title": "航空业ETF收涨超2.5%，和银行ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/2990831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时19分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜苹果收涨超3.9%，和谷歌A创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/2990829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时19分]"
+        },
+        {
+          "title": "Zions三季度调整后NII（净利息收入）为6.83亿美元，分析师预期6.76亿美元。 三季度总体存款748.8亿美元，分析师预期743亿美元。 三季度贷款损失计提0.49亿美元，分析师预期0.264亿美元。 三季度总体贷款和租赁603亿美元，分析师预期612.5亿美元。 锡安银行（ZION）美股盘后涨2.9%。",
+          "url": "https://wallstreetcn.com/livenews/2990828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时19分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股盘中）",
@@ -540,48 +616,15 @@
           "time_info": "01时17分"
         },
         {
-          "title": "黄金ETF收涨超3.6%，和小盘股ETF、新兴市场ETF等领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/2990833",
+          "title": "阿根廷MERVAL指数收跌0.62%，至198万点下方点。 该国与特朗普政府签署200亿美元互换协议之后，美股盘初显著地冲高回落——形成A型走势，22:30之后一直维持下跌状态。",
+          "url": "https://wallstreetcn.com/livenews/2990843",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "航空业ETF收涨超2.5%，和银行ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2990831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜苹果收涨超3.9%，和谷歌A创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/2990829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "Zions三季度调整后NII（净利息收入）为6.83亿美元，分析师预期6.76亿美元。 三季度总体存款748.8亿美元，分析师预期743亿美元。 三季度贷款损失计提0.49亿美元，分析师预期0.264亿美元。 三季度总体贷款和租赁603亿美元，分析师预期612.5亿美元。 锡安银行（ZION）美股盘后涨2.9%。",
-          "url": "https://wallstreetcn.com/livenews/2990828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "06时19分"
         }
       ]
     },
@@ -597,8 +640,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
@@ -608,8 +651,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "BLG无畏契约官宣bail离队",
@@ -622,8 +665,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "JKAI锐评王力宏单依纯爱错",
@@ -637,19 +680,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
-        },
-        {
-          "title": "谷歌云任命Narain为首席产品兼商业官。",
-          "url": "https://wallstreetcn.com/livenews/2990842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
         },
         {
           "title": "“今年双11 我的AI比我还忙”",
@@ -663,6 +695,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 03时16分]"
+        },
+        {
+          "title": "谷歌云任命Narain为首席产品兼商业官。",
+          "url": "https://wallstreetcn.com/livenews/2990842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时19分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -679,7 +723,7 @@
     },
     {
       "keyword_group": "赚钱 方法",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
@@ -690,8 +734,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时19分]"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：呼吁将可靠的统计方法作为有效政策的基石。",
+          "url": "https://wallstreetcn.com/livenews/2990852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "有哪些用偏几何的方法来得到代数问题的优美解答的例子？",
@@ -708,7 +763,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周一（10月20日）纽约尾盘，ICE美元指数涨0.16%，报98.592点，日内交投区间为98.386-98.616点，全天呈现出多个V形走势。 彭博美元指数涨0.11%，报1209.07点，日内交投区间为1206.92-1209.70点。",
@@ -721,6 +776,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时16分]"
+        },
+        {
+          "title": "美元指数20日上涨",
+          "url": "https://flash.jin10.com/detail/20251021051721830800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         }
       ]
     }
