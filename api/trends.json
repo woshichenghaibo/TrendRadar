@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T16:27:01.582995+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2025-10-20T17:21:07.778045+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 77,
       "titles": [
         {
           "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 16时27分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 17时21分]"
         },
         {
           "title": "特朗普专机附近疑发现狙击狩猎台",
@@ -67,11 +67,12 @@
             15,
             12,
             13,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时20分 ~ 16时27分]"
+          "appearance_count": 12,
+          "time_info": "[09时20分 ~ 17时21分]"
         },
         {
           "title": "特朗普：对华征收100%关税对美经济“不能持久”",
@@ -105,11 +106,23 @@
             13,
             16,
             17,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 16时27分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 17时21分]"
+        },
+        {
+          "title": "特朗普：不想伤害中国，愿意降低关税水平",
+          "url": "https://news.ifeng.com/c/8nbdCEcZ0sY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 17时21分]"
         },
         {
           "title": "特朗普：（就美国帮助企业后获取其股份）这是 “美国方式”。",
@@ -263,17 +276,6 @@
           "time_info": "[00时20分 ~ 06时18分]"
         },
         {
-          "title": "特朗普：不想伤害中国，愿意降低关税水平",
-          "url": "https://news.ifeng.com/c/8nbdCEcZ0sY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
-        },
-        {
           "title": "特朗普：希望看到沙特加入亚伯拉罕协议。",
           "url": "https://flash.jin10.com/detail/20251019223912646800",
           "source": "金十数据",
@@ -381,6 +383,17 @@
           "time_info": "[09时20分 ~ 14时27分]"
         },
         {
+          "title": "特朗普口风180度转变为哪般",
+          "url": "https://www.toutiao.com/trending/7563213572126281255/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
           "title": "特朗普专机着陆机场附近现可疑物",
           "url": "https://news.ifeng.com/c/8nbCKtQ9LFh",
           "source": "凤凰网",
@@ -426,6 +439,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "据韩国《每日经济新闻》：韩国和美国同意在特朗普访问期间签署贸易谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20251020171504774800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "韩国和美国同意在特朗普访问期间签署贸易方面的谅解备忘录。（韩国每日经济新闻）",
+          "url": "https://wallstreetcn.com/livenews/2990578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "特朗普被曝与泽连斯基再度激烈争吵",
@@ -553,6 +588,29 @@
           "time_info": "12时23分"
         },
         {
+          "title": "特朗普泽连斯基再度激烈争吵：全程脏话、扔地图、训斥",
+          "url": "https://news.ifeng.com/c/8naqHMsvJPv",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 17时21分]"
+        },
+        {
+          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
+          "url": "https://wallstreetcn.com/articles/3757465",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 17时21分]"
+        },
+        {
           "title": "俄美共建白令海峡隧道？特朗普回应",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BE%8E%E5%85%B1%E5%BB%BA%E7%99%BD%E4%BB%A4%E6%B5%B7%E5%B3%A1%E9%9A%A7%E9%81%93%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -577,6 +635,18 @@
           "time_info": "[14时27分 ~ 15时18分]"
         },
         {
+          "title": "特朗普政府为何悄悄放松关税政策",
+          "url": "https://www.toutiao.com/trending/7563192486479269386/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 17时21分]"
+        },
+        {
           "title": "特朗普：哥伦比亚将不再获得美国补贴。",
           "url": "https://flash.jin10.com/detail/20251019204809018800",
           "source": "金十数据",
@@ -587,28 +657,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 03时15分]"
-        },
-        {
-          "title": "特朗普泽连斯基再度激烈争吵：全程脏话、扔地图、训斥",
-          "url": "https://news.ifeng.com/c/8naqHMsvJPv",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时27分]"
-        },
-        {
-          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
-          "url": "https://wallstreetcn.com/articles/3757465",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时27分]"
         },
         {
           "title": "特朗普为何给泽连斯基下达通牒",
@@ -670,17 +718,6 @@
           "time_info": "[14时27分 ~ 15时18分]"
         },
         {
-          "title": "特朗普政府为何悄悄放松关税政策",
-          "url": "https://www.toutiao.com/trending/7563192486479269386/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
-        },
-        {
           "title": "特朗普称努力让美国变得伟大",
           "url": "https://www.toutiao.com/trending/7563119034879754286/",
           "source": "今日头条",
@@ -701,6 +738,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "特朗普与泽连斯基再度激烈争吵",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D24%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D25%26flag%3D1%26stream_entry_id%3D31%26realpos%3D24%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25B8%258E%25E6%25B3%25BD%25E8%25BF%259E%25E6%2596%25AF%25E5%259F%25BA%25E5%2586%258D%25E5%25BA%25A6%25E6%25BF%2580%25E7%2583%2588%25E4%25BA%2589%25E5%2590%25B5%2523%26dgr%3D0%26display_time%3D1760951945%26pre_seqid%3D176095194518102732930104",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
+          "title": "曝特朗普与泽连斯基再度激烈争吵",
+          "url": "https://www.douyin.com/hot/2276127",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "特朗普：美方向以施压 加沙停火协议仍然有效",
@@ -813,6 +872,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "据日本时事通讯社：日本和美国政府计划在特朗普访问日本时安排关税协议的签字仪式。",
+          "url": "https://flash.jin10.com/detail/20251020164943352800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "美国总统特朗普：顿巴斯地区应保持现状，目前俄罗斯控制着其中约78%的土地。",
           "url": "https://flash.jin10.com/detail/20251020081158614800",
           "source": "金十数据",
@@ -874,7 +944,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -915,7 +985,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
@@ -998,6 +1068,17 @@
           "time_info": "[00时20分 ~ 09时21分]"
         },
         {
+          "title": "BLG无畏契约官宣bail离队",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
           "title": "据美国科技资讯网站Tom's Hardware：微软(MSFT.O)已向英特尔下达其下一代AI芯片Maia2的晶圆代工订单，计划采用18A或18A-P制程。该芯片将用于微软Azure数据中心等AI基础设施。",
           "url": "https://flash.jin10.com/detail/20251020124013040800",
           "source": "金十数据",
@@ -1058,6 +1139,29 @@
           "time_info": "[11时15分 ~ 11时16分]"
         },
         {
+          "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
+          "url": "https://wallstreetcn.com/articles/3757473",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
+          "title": "支付宝：本周起，首页AI健康管家AQ广告下架整改",
+          "url": "https://wallstreetcn.com/livenews/2990532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时21分]"
+        },
+        {
           "title": "中国AI的未来为何系于新疆",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B8%BA%E4%BD%95%E7%B3%BB%E4%BA%8E%E6%96%B0%E7%96%86",
           "source": "bilibili 热搜",
@@ -1080,17 +1184,6 @@
           "time_info": "[16时26分 ~ 16时27分]"
         },
         {
-          "title": "支付宝：本周起，首页AI健康管家AQ广告下架整改",
-          "url": "https://wallstreetcn.com/livenews/2990532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "特朗普发布辣眼AI视频引争议",
           "url": "https://www.douyin.com/hot/2275568",
           "source": "抖音",
@@ -1100,6 +1193,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "宇树王兴兴：AI和软件能力越来越强，对硬件的要求是越来越低的",
+          "url": "https://wallstreetcn.com/livenews/2990562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
+          "url": "https://wallstreetcn.com/livenews/2990557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "OpenAI：我们正面临“单点登录”（SSO）问题。",
+          "url": "https://flash.jin10.com/detail/20251020164600924800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
+          "url": "https://flash.jin10.com/detail/20251020164457909800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         }
       ]
     },
@@ -1152,11 +1289,12 @@
           "url": "https://www.toutiao.com/trending/7563109455744221203/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 17时21分]"
         },
         {
           "title": "A股燃气板块继续走强，国新能源5天4板，大众公用此前涨停，首华燃气、凯添燃气、长春燃气、洪通燃气跟涨。",
@@ -1183,6 +1321,17 @@
           "time_info": "[13时19分 ~ 14时27分]"
         },
         {
+          "title": "A股收评：全市场超4000只个股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854000%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 17时21分]"
+        },
+        {
           "title": "A股光模块走高 “易中天”大涨 花旗称看到行业需求潜在上行可能",
           "url": "https://wallstreetcn.com/livenews/2990379",
           "source": "华尔街见闻-快讯",
@@ -1193,17 +1342,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时16分 ~ 12时23分]"
-        },
-        {
-          "title": "A股收评：全市场超4000只个股上涨",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854000%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "短期波折，不改A股中长期走势，机构看好科技成长引领行情进一步突破",
@@ -1253,7 +1391,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
@@ -1273,11 +1411,12 @@
           "url": "https://wallstreetcn.com/articles/3757469",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时27分]"
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 17时21分]"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.36%。",
@@ -1297,9 +1436,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "亚马逊美股盘前转跌，现跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/2990560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "美股盘前，台积电涨超2%。加密货币概念股普涨，Circle涨超2%，Coinbase涨超3%，Strategy涨超4%。",
@@ -1308,9 +1458,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)美股盘前跌约0.4%，亚马逊云计算服务（AWS）表示，正在调查美国东部1区多个AWS服务中出现的错误率和延迟增加问题。",
+          "url": "https://flash.jin10.com/detail/20251020165037004800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         }
       ]
     },
@@ -1342,11 +1503,12 @@
             19,
             18,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 16时27分]"
+          "appearance_count": 8,
+          "time_info": "[12时23分 ~ 17时21分]"
         },
         {
           "title": "时序数据预测有哪些好方法？",
@@ -1375,8 +1537,19 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "53%四十岁女性检出乳腺结节",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2353%25%E5%9B%9B%E5%8D%81%E5%B2%81%E5%A5%B3%E6%80%A7%E6%A3%80%E5%87%BA%E4%B9%B3%E8%85%BA%E7%BB%93%E8%8A%82%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D19%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D20%26flag%3D1%26stream_entry_id%3D31%26realpos%3D19%26q%3D%252353%2525%25E5%259B%259B%25E5%258D%2581%25E5%25B2%2581%25E5%25A5%25B3%25E6%2580%25A7%25E6%25A3%2580%25E5%2587%25BA%25E4%25B9%25B3%25E8%2585%25BA%25E7%25BB%2593%25E8%258A%2582%2523%26dgr%3D0%26display_time%3D1760951945%26pre_seqid%3D176095194518102732930104",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
         {
           "title": "豆制品是对女性很好的食物",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B1%86%E5%88%B6%E5%93%81%E6%98%AF%E5%AF%B9%E5%A5%B3%E6%80%A7%E5%BE%88%E5%A5%BD%E7%9A%84%E9%A3%9F%E7%89%A9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26pos%3D24%26q%3D%2523%25E8%25B1%2586%25E5%2588%25B6%25E5%2593%2581%25E6%2598%25AF%25E5%25AF%25B9%25E5%25A5%25B3%25E6%2580%25A7%25E5%25BE%2588%25E5%25A5%25BD%25E7%259A%2584%25E9%25A3%259F%25E7%2589%25A9%2523%26band_rank%3D24%26realpos%3D24%26flag%3D0%26display_time%3D1760889610%26pre_seqid%3D176088961058002729002101",
