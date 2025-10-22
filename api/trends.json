@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-22T21:32:18.550786+08:00",
-  "total_titles_processed": 1988,
+  "generated_at": "2025-10-22T22:21:37.444278+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 108,
+      "match_count": 110,
       "titles": [
+        {
+          "title": "特朗普称中美元首未必会见面，外交部回应",
+          "url": "https://news.ifeng.com/c/8nezfC6pmYF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[16时27分 ~ 22时21分]"
+        },
         {
           "title": "特朗普称将于明年初访华，外交部回应",
           "url": "https://news.ifeng.com/c/8ndKqS7uUk7",
@@ -19,17 +30,6 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
-          "title": "特朗普称中美元首未必会见面，外交部回应",
-          "url": "https://news.ifeng.com/c/8nezfC6pmYF",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时27分 ~ 21时32分]"
-        },
-        {
           "title": "中方回应特朗普称中美将达成贸易协议",
           "url": "https://www.toutiao.com/trending/7563496326190022665/",
           "source": "今日头条",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时27分 ~ 21时32分]"
+          "appearance_count": 12,
+          "time_info": "[16时27分 ~ 22时21分]"
         },
         {
           "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
@@ -51,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时27分 ~ 21时32分]"
+          "appearance_count": 12,
+          "time_info": "[16时27分 ~ 22时21分]"
         },
         {
           "title": "释新闻｜美澳签关键矿物协议，特朗普“一年后”会得到很多稀土吗？",
@@ -90,17 +90,6 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
-          "title": "中方回应特朗普称中美将达成协议",
-          "url": "https://www.douyin.com/hot/2278821",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时27分 ~ 21时32分]"
-        },
-        {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
           "url": "https://www.toutiao.com/trending/7563604843634544147/",
           "source": "今日头条",
@@ -111,8 +100,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时29分 ~ 21时32分]"
+          "appearance_count": 14,
+          "time_info": "[14时29分 ~ 22时21分]"
         },
         {
           "title": "特朗普：特普会待定，不想白费功夫",
@@ -130,6 +119,18 @@
           "time_info": "[09时19分 ~ 18时22分]"
         },
         {
+          "title": "特朗普向特朗普政府索赔",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时21分 ~ 22时21分]"
+        },
+        {
           "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
           "url": "https://wallstreetcn.com/articles/3757603",
           "source": "华尔街见闻",
@@ -140,8 +141,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时09分 ~ 21时32分]"
+          "appearance_count": 19,
+          "time_info": "[11时09分 ~ 22时21分]"
         },
         {
           "title": "美媒：乌欧拟推12点和平方案，特朗普任和平委员会主席",
@@ -156,6 +157,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[11时09分 ~ 18时22分]"
+        },
+        {
+          "title": "中方回应特朗普称中美将达成协议",
+          "url": "https://www.douyin.com/hot/2278821",
+          "source": "抖音",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[16时27分 ~ 22时21分]"
         },
         {
           "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
@@ -201,18 +214,6 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
-          "title": "特朗普向特朗普政府索赔",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时21分 ~ 21时32分]"
-        },
-        {
           "title": "特朗普暗示将承诺反对台独",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E5%B0%86%E6%89%BF%E8%AF%BA%E5%8F%8D%E5%AF%B9%E5%8F%B0%E7%8B%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D10%26cate%3D5001%26flag%3D1%26pos%3D11%26lcate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%259A%2597%25E7%25A4%25BA%25E5%25B0%2586%25E6%2589%25BF%25E8%25AF%25BA%25E5%258F%258D%25E5%25AF%25B9%25E5%258F%25B0%25E7%258B%25AC%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D10%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
           "source": "微博",
@@ -255,6 +256,17 @@
           "time_info": "[16时27分 ~ 21时32分]"
         },
         {
+          "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
+          "url": "https://news.ifeng.com/c/8nfCFTiNYVe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 22时21分]"
+        },
+        {
           "title": "特朗普称将于明年初访问中国 外交部回应",
           "url": "https://www.cls.cn/detail/2175678",
           "source": "财联社热门",
@@ -277,11 +289,12 @@
             13,
             12,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时19分 ~ 21时32分]"
+          "appearance_count": 20,
+          "time_info": "[09时19分 ~ 22时21分]"
         },
         {
           "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
@@ -310,17 +323,6 @@
           "time_info": "[00时22分 ~ 09时19分]"
         },
         {
-          "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
-          "url": "https://news.ifeng.com/c/8nfCFTiNYVe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 21时32分]"
-        },
-        {
           "title": "特朗普向特朗普政府索赔2.3亿美元",
           "url": "https://www.toutiao.com/trending/7563606019784474666/",
           "source": "今日头条",
@@ -333,6 +335,17 @@
           "time_info": "[18时21分 ~ 19时16分]"
         },
         {
+          "title": "2.3亿美元，特朗普向特朗普政府索赔",
+          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 22时21分]"
+        },
+        {
           "title": "路透援引消息人士称，日本首相高市早苗将在会谈中告诉特朗普，日本将购买美国大豆、皮卡和液化天然气。",
           "url": "https://wallstreetcn.com/livenews/2991714",
           "source": "华尔街见闻-快讯",
@@ -342,17 +355,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
-        },
-        {
-          "title": "2.3亿美元，特朗普向特朗普政府索赔",
-          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 21时32分]"
         },
         {
           "title": "美学者：特朗普对华贸易政策反复变化让人厌倦",
@@ -589,6 +591,18 @@
           "time_info": "[20时36分 ~ 21时32分]"
         },
         {
+          "title": "特朗普不满“全美第三好总统”排名",
+          "url": "https://www.toutiao.com/trending/7563086292910522422/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 22时21分]"
+        },
+        {
           "title": "美国总统特朗普：尚未就俄罗斯和乌克兰问题做出决定，我们尚未决定是否与普京会面。",
           "url": "https://flash.jin10.com/detail/20251022045847997800",
           "source": "金十数据",
@@ -696,6 +710,18 @@
           "time_info": "[01时18分 ~ 02时24分]"
         },
         {
+          "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31822497",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时21分]"
+        },
+        {
           "title": "美国总统特朗普：一些公司即将就降低药品价格达成一致。",
           "url": "https://flash.jin10.com/detail/20251022044715336800",
           "source": "金十数据",
@@ -778,6 +804,18 @@
           "time_info": "[16时27分 ~ 16时28分]"
         },
         {
+          "title": "特朗普向特朗普政府索赔2.3亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%942.3%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时21分]"
+        },
+        {
           "title": "特朗普又改口：我从未说过乌克兰会赢",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E6%94%B9%E5%8F%A3%EF%BC%9A%E6%88%91%E4%BB%8E%E6%9C%AA%E8%AF%B4%E8%BF%87%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BC%9A%E8%B5%A2",
           "source": "百度热搜",
@@ -798,17 +836,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 00时23分]"
-        },
-        {
-          "title": "特朗普不满“全美第三好总统”排名",
-          "url": "https://www.toutiao.com/trending/7563086292910522422/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
         },
         {
           "title": "据英国金融时报：美国财政部的一项分析发现，特朗普政府的经济政策使美国走上了通过削减支出和提高关税收入来改善财政前景的道路，从而缩小其不断扩大的赤字。",
@@ -897,6 +924,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "特朗普为何急推俄乌停火",
+          "url": "https://www.toutiao.com/trending/7564016399010500138/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国总统特朗普：到年底前，美国将迎来20万亿美元的投资。",
@@ -998,17 +1036,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31822497",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "富国银行首席执行官：与特朗普政府的对话重点是经济增长，而非放松监管。",
           "url": "https://flash.jin10.com/detail/20251022004311706800",
           "source": "金十数据",
@@ -1037,7 +1064,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1128,6 +1155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "美企敦促最高法院裁决特朗普关税非法",
+          "url": "https://www.toutiao.com/trending/7564008619885202987/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "巴西财长Haddad：巴西总统卢拉与美国总统特朗普通话中未提及博索纳罗的名字。如果卢拉与特朗普之间的通话升级为同级别面对面的会谈，我认为我们可以期待好消息。",
@@ -1262,17 +1300,6 @@
           "time_info": "17时22分"
         },
         {
-          "title": "特朗普向特朗普政府索赔2.3亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%942.3%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "特朗普称中美会在APEC峰会上达成贸易协议，但中美元首未必见面，外交部回应",
           "url": "https://wallstreetcn.com/livenews/2991764",
           "source": "华尔街见闻-快讯",
@@ -1287,7 +1314,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
@@ -1329,8 +1356,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时09分 ~ 21时32分]"
+          "appearance_count": 19,
+          "time_info": "[11时09分 ~ 22时21分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -1535,6 +1562,18 @@
           "time_info": "[13时24分 ~ 14时29分]"
         },
         {
+          "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
+          "url": "https://www.cls.cn/detail/2177003",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 22时21分]"
+        },
+        {
           "title": "AI帮助盲人便利出行",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E5%B8%AE%E5%8A%A9%E7%9B%B2%E4%BA%BA%E4%BE%BF%E5%88%A9%E5%87%BA%E8%A1%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D20%26flag%3D1%26stream_entry_id%3D31%26q%3D%2523AI%25E5%25B8%25AE%25E5%258A%25A9%25E7%259B%25B2%25E4%25BA%25BA%25E4%25BE%25BF%25E5%2588%25A9%25E5%2587%25BA%25E8%25A1%258C%2523%26c_type%3D31%26dgr%3D0%26pos%3D21%26filter_type%3Drealtimehot%26lcate%3D5001%26realpos%3D20%26display_time%3D1761124809%26pre_seqid%3D1761124809699032971745",
           "source": "微博",
@@ -1569,17 +1608,6 @@
           "time_info": "[18时21分 ~ 19时16分]"
         },
         {
-          "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
-          "url": "https://www.cls.cn/detail/2177003",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 21时32分]"
-        },
-        {
           "title": "王鹤棣担任GAI演唱会嘉宾",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8B%85%E4%BB%BBGAI%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D15%26cate%3D5001%26pos%3D16%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26band_rank%3D15%26filter_type%3Drealtimehot%26q%3D%2523%25E7%258E%258B%25E9%25B9%25A4%25E6%25A3%25A3%25E6%258B%2585%25E4%25BB%25BBGAI%25E6%25BC%2594%25E5%2594%25B1%25E4%25BC%259A%25E5%2598%2589%25E5%25AE%25BE%2523%26flag%3D1%26display_time%3D1761136210%26pre_seqid%3D1761136210873031824814",
           "source": "微博",
@@ -1601,6 +1629,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时09分 ~ 11时10分]"
+        },
+        {
+          "title": "AI写文狂,原创路变凉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时21分]"
         },
         {
           "title": "AI军备竞赛继续 Anthropic寻求百亿美元云服务支持",
@@ -1709,17 +1748,6 @@
           "time_info": "[11时09分 ~ 11时10分]"
         },
         {
-          "title": "AI写文狂,原创路变凉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "软银寻求发行约20亿美元债券以押注AI发展",
           "url": "https://flash.jin10.com/detail/20251022105911124800",
           "source": "金十数据",
@@ -1729,6 +1757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "美股三大指数开盘涨跌不一，道指跌0.03%，纳指跌0.1%，标普500指数涨0.07%。苹果跌0.3%，公司削减了iPhone Air的生产订单；“人造肉第一股”Beyond Meat大涨71%；奈飞跌超7%，Q3盈利远逊预期，下调全年指引。德州仪器跌9.8%，至5月以来最低水平，Q4业绩展望不及预期，暗示芯片行业复苏缓慢。",
+          "url": "https://wallstreetcn.com/livenews/2991966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "达利欧复制了“AI达利欧”：谈论投资时“有本人80%的效果”",
@@ -1800,7 +1839,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -1810,8 +1849,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时19分 ~ 21时32分]"
+          "appearance_count": 20,
+          "time_info": "[09时19分 ~ 22时21分]"
         },
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -1859,17 +1898,6 @@
           "time_info": "19时16分"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2991953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251022040658696800",
           "source": "金十数据",
@@ -1881,6 +1909,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，网络股指数ETF跌超1%，黄金ETF持续走低。",
+          "url": "https://wallstreetcn.com/livenews/2991972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251022040655122800",
           "source": "金十数据",
@@ -1890,6 +1929,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2991953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时21分]"
         },
         {
           "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
@@ -1973,6 +2024,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 贵金属概念领跌",
           "url": "https://flash.jin10.com/detail/20251022040119950800",
           "source": "金十数据",
@@ -2001,7 +2063,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2329,6 +2391,34 @@
       ]
     },
     {
+      "keyword_group": "婚姻 女性",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "3名女性、主要对手均受重用，解析高市早苗内阁名单",
+          "url": "https://news.ifeng.com/c/8ndpNZAiR4u",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "释新闻｜三名女性、主要对手均受重用，高市早苗内阁都有谁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31820255",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
@@ -2353,8 +2443,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时21分 ~ 21时32分]"
+          "appearance_count": 8,
+          "time_info": "[18时21分 ~ 22时21分]"
         }
       ]
     },
@@ -2375,23 +2465,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 07时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "3名女性、主要对手均受重用，解析高市早苗内阁名单",
-          "url": "https://news.ifeng.com/c/8ndpNZAiR4u",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
         }
       ]
     }
