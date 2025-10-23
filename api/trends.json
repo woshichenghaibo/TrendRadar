@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T06:19:42.050654+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2025-10-24T07:16:02.843970+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "释新闻｜特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "特朗普访日行程公布",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
@@ -66,8 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -80,8 +80,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "美国旧金山市长：特朗普取消联邦部队的部署。",
@@ -465,9 +465,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "特朗普拟将毒品打击目标从海面扩大至陆地",
+          "url": "https://flash.jin10.com/detail/20251024060109722800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "特朗普计划开放美国周边几乎所有海域的钻探",
+          "url": "https://wallstreetcn.com/livenews/2992795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美债收益率普遍涨超4个基点，油价上涨之际，投资者等待特朗普政府关门期间披露的CPI数据",
@@ -509,7 +531,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -550,7 +572,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -561,8 +583,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
@@ -573,8 +595,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -598,6 +620,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时19分]"
+        },
+        {
+          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757722",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时16分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
+          "url": "https://www.cls.cn/detail/2179010",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时16分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
@@ -631,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "英特尔美股盘后涨7.31%。 纳斯达克100股指期货在亚太盘初涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/2992796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "英特尔(INTC.O)美股盘后涨4%。",
@@ -680,7 +735,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
@@ -690,8 +745,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -705,8 +760,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "iPhone Air上市遇冷，史上最薄的iPhone卖不动了？｜一线",
@@ -717,8 +772,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -728,8 +783,30 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "380亿美元创AI债务融资新纪录 甲骨文数据中心获史诗级输血",
+          "url": "https://flash.jin10.com/detail/20251024065310008800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "摩根大通：韩国Kospi股指在牛市行情下“更有可能”达到5000点。 AI和企业改革措施有望为这样的预期带来尾部风险。",
+          "url": "https://wallstreetcn.com/livenews/2992810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美国银行CTO Gopalkrishnan：Agentic AI可以“重型举重”。 大规模的AI产能积压将带来丰收。",
@@ -793,7 +870,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "多家外资机构力挺A股，高盛：中国股票的慢牛行情正在酝酿中",
@@ -805,19 +882,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "资金“集结”深圳股！涨停股中占四分之一，A股“炒地图”行情再起",
           "url": "https://www.cls.cn/detail/2178585",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "林园：4300点是A股牛市的起点",
@@ -831,6 +909,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 05时17分]"
+        },
+        {
+          "title": "QFII三季度积极加仓，内外资机构看好A股市场",
+          "url": "https://wallstreetcn.com/livenews/2992803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
@@ -877,8 +966,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         }
       ]
     },
@@ -894,8 +983,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         }
       ]
     },
