@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T21:32:19.109404+08:00",
-  "total_titles_processed": 2014,
+  "generated_at": "2025-10-23T22:20:20.544930+08:00",
+  "total_titles_processed": 2101,
   "failed_sources": [],
   "trends": [
     {
@@ -112,8 +112,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时18分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[13时18分 ~ 22时20分]"
         },
         {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
@@ -183,8 +183,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时18分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[13时18分 ~ 22时20分]"
         },
         {
           "title": "2.3亿美元，特朗普向特朗普政府索赔",
@@ -210,8 +210,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时02分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[11时02分 ~ 22时20分]"
         },
         {
           "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
@@ -285,8 +285,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时23分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[16时23分 ~ 22时20分]"
         },
         {
           "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
@@ -299,6 +299,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时26分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 22时20分]"
         },
         {
           "title": "特朗普：取消与普京的会面",
@@ -346,17 +357,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 12时23分]"
-        },
-        {
-          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
-          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时32分]"
         },
         {
           "title": "特朗普取消与普京的会面",
@@ -865,7 +865,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1008,7 +1008,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1074,7 +1074,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1104,7 +1104,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "UP主手搓AI眼镜",
@@ -1118,11 +1118,12 @@
             6,
             8,
             13,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时02分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[11时02分 ~ 22时20分]"
         },
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
@@ -1134,8 +1135,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时02分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[11时02分 ~ 22时20分]"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -1155,8 +1156,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时23分 ~ 21时32分]"
+          "appearance_count": 28,
+          "time_info": "[00时23分 ~ 22时20分]"
         },
         {
           "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
@@ -1418,7 +1419,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1440,7 +1441,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1500,6 +1501,28 @@
           "time_info": "13时18分"
         },
         {
+          "title": "阿里巴巴美股盘初涨超2%，阿里自研AI眼镜开启预售、补贴后最低3699元，新聊天机器人挑战ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/2992635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "阿里巴巴(BABA.US)涨超2%，阿里旗下夸克AI眼镜据悉将于24号零点开启预售，预售起价4699元。",
+          "url": "https://flash.jin10.com/detail/20251023214104282800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "阿里夸克AI眼镜24日零点开启预售 叠加平台补贴后最低3699元",
           "url": "https://wallstreetcn.com/livenews/2992529",
           "source": "华尔街见闻-快讯",
@@ -1525,7 +1548,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -1535,8 +1558,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时18分 ~ 21时32分]"
+          "appearance_count": 18,
+          "time_info": "[09时18分 ~ 22时20分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1712,7 +1735,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1745,9 +1768,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、黄金ETF涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2992636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251023214255610800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "金十图示：2025年10月22日（周三）美股热门股票行情一览（美股盘中）",
@@ -1770,6 +1815,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "美股开盘，道指跌0.04%，标普500指数涨0.1%，纳指平开。特斯拉跌超4%，马斯克下调机器人和Robotaxi目标。能源股普遍上涨，埃克森美孚石油涨超1.8%，康菲石油涨近3%。美国航空涨超4%，此前该公司上调了2025年盈利预期。IBM股价开盘下跌8.3%，为7月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2992629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "美股短线跳水，标普500指数跌超1%。",
@@ -1800,7 +1856,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
@@ -1823,8 +1879,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时02分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[11时02分 ~ 22时20分]"
         },
         {
           "title": "A股收评：三大指数全线收红",
@@ -1844,11 +1900,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 22时20分]"
         },
         {
           "title": "A股调整接近尾声 缩量中如何布局",
@@ -1875,6 +1932,17 @@
           "time_info": "[16时23分 ~ 17时20分]"
         },
         {
+          "title": "资金“集结”深圳股！涨停股中占四分之一，A股“炒地图”行情再起",
+          "url": "https://www.cls.cn/detail/2178585",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时20分]"
+        },
+        {
           "title": "李大霄：A股奋勇收复3900",
           "url": "https://www.toutiao.com/trending/7564334894269074983/",
           "source": "今日头条",
@@ -1896,17 +1964,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
-        },
-        {
-          "title": "资金“集结”深圳股！涨停股中占四分之一，A股“炒地图”行情再起",
-          "url": "https://www.cls.cn/detail/2178585",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "A股次新股震荡走高，建发致新20cm涨停，昊创瑞通、云汉芯城涨超10%，联合动力、广东建科、艾芬达跟涨。",
@@ -1970,6 +2027,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "欧盟第19轮对俄制裁列单中国企业，商务部发声",
+          "url": "https://www.cls.cn/detail/2178769",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时20分]"
+        },
+        {
           "title": "商务部新闻发言人就欧盟第19轮对俄制裁列单中国企业答记者问",
           "url": "https://wallstreetcn.com/livenews/2992586",
           "source": "华尔街见闻-快讯",
@@ -1980,17 +2049,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时36分 ~ 21时32分]"
-        },
-        {
-          "title": "欧盟第19轮对俄制裁列单中国企业，商务部发声",
-          "url": "https://www.cls.cn/detail/2178769",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         }
       ]
     },
@@ -2049,6 +2107,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赚钱 方法",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么我感觉自己想问题总是抓不住重点？有什么方法可以提升思维清晰度？",
+          "url": "https://www.zhihu.com/question/1963562586843885772",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     }
