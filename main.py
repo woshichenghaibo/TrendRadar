@@ -1561,7 +1561,7 @@ def render_html_content(
     <meta name="apple-mobile-web-app-title" content="GuaoNews">
     <link rel="shortcut icon" href="favicon.svg" sizes="any" type="image/svg+xml">
     <link rel="apple-touch-icon" href="favicon.png">
-    <link rel="icon" href="favicon.ico" type="image/webp">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.png" type="image/png">
     <link rel="icon" href="favicon.svg" sizes="any" type="image/svg+xml" />
         <title>孤傲热点</title>
