@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T01:28:58.681616+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2025-10-28T02:26:08.623931+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "特朗普：愿为金正恩延长亚洲行程",
@@ -52,6 +52,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "委内瑞拉副总统兼石油部长Delcy Rodriguez表示，Petroleos de Venezuela董事会要求总统马杜罗撤销与Trinidad（特立尼达拉岛）和Tabago（多巴哥岛）的能源协议，因为这地支持美国特朗普政府“侵犯”委内瑞拉。",
+          "url": "https://wallstreetcn.com/livenews/2994483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
           "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
           "url": "https://wallstreetcn.com/articles/3757964",
           "source": "华尔街见闻",
@@ -59,8 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -68,11 +79,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "特朗普：很长时间内不想和加总理见面",
@@ -80,22 +92,48 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            26
+            26,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "特朗普到底薅了全世界多少钱",
+          "url": "https://www.toutiao.com/trending/7565875834884460086/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
           "url": "https://wallstreetcn.com/livenews/2994466",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 02时26分]"
+        },
+        {
+          "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
+          "url": "https://flash.jin10.com/detail/20251028004039681800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 02时26分]"
         },
         {
           "title": "特朗普谈美军机南海坠毁原因",
@@ -107,17 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
-          "url": "https://flash.jin10.com/detail/20251028004039681800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时28分"
         },
         {
           "title": "特朗普：不会在未来竞选副总统",
@@ -148,37 +175,38 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "特朗普到底薅了全世界多少钱",
-          "url": "https://www.toutiao.com/trending/7565875834884460086/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时28分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特斯拉在虚拟世界训练AI司机",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "扎克伯格任命元宇宙业务前主管推进AI战略",
+          "url": "https://flash.jin10.com/detail/20251028015303563800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "AI大电影葫芦兄弟",
@@ -186,22 +214,35 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
           "url": "https://wallstreetcn.com/livenews/2994457",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 02时26分]"
+        },
+        {
+          "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2994482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时28分"
+          "time_info": "02时26分"
         },
         {
           "title": "报道：美国能源部与AMD建立10亿美元超级计算机和AI合作伙伴关系",
@@ -239,8 +280,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
@@ -259,22 +300,24 @@
           "url": "https://flash.jin10.com/detail/20251028003902797800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 02时26分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251028003030671800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 02时26分]"
         }
       ]
     },
@@ -288,11 +331,12 @@
           "source": "微博",
           "ranks": [
             4,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "春秋航空面向已婚已育女性开放客舱乘务员岗位，年龄放宽至四十岁，如何看待此举措？会有更多航司跟进吗？",
@@ -300,11 +344,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "31省份去年婚姻数据公布",
@@ -315,8 +360,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         }
       ]
     },
@@ -330,11 +375,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "A股放量大涨！沪指时隔十年再度逼近4000点",
@@ -345,8 +391,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         }
       ]
     }
