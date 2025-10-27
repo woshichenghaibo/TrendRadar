@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T15:19:45.748041+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2025-10-27T16:24:56.656741+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -72,6 +72,18 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
+          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 16时24分]"
+        },
+        {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
           "url": "https://flash.jin10.com/detail/20251026213743304800",
           "source": "金十数据",
@@ -124,18 +136,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 06时16分]"
-        },
-        {
-          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
-          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时19分]"
         },
         {
           "title": "韩国总统顾问：在亚太经合组织会议期间，李在明总统与美国总统特朗普达成关税协议存在困难。",
@@ -246,6 +246,18 @@
           "time_info": "[02时24分 ~ 09时24分]"
         },
         {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 16时24分]"
+        },
+        {
           "title": "美国总统特朗普：将确保牧场不受损害。",
           "url": "https://flash.jin10.com/detail/20251027141231764800",
           "source": "金十数据",
@@ -294,18 +306,6 @@
           "time_info": "[14时30分 ~ 15时19分]"
         },
         {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 15时19分]"
-        },
-        {
           "title": "特朗普耗资3亿美元的白宫宴会厅项目 获币圈和科技行业盟友“鼎力相助”",
           "url": "https://wallstreetcn.com/livenews/2994020",
           "source": "华尔街见闻-快讯",
@@ -348,7 +348,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -370,7 +370,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -384,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "评论员：特朗普没想到莫迪不给面子",
+          "url": "https://www.toutiao.com/trending/7565757039905885723/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "美国总统特朗普：韩国方面有一个很好的计划，打算在美国造船业进行更多投资，甚至超过他们目前的投入。坦白说，他们现在正在讨论如何以最佳方式落实韩方在美国的投资，尤其是关于造船业。",
@@ -417,6 +428,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "特朗普：在医院接受了一次“完美的”核磁共振检查",
+          "url": "https://flash.jin10.com/detail/20251027155706399800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "美国总统特朗普：正落地日本，期待与天皇见面。",
+          "url": "https://flash.jin10.com/detail/20251027155518803800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "美国总统特朗普：期待与新任日本首相会面。",
@@ -458,7 +491,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -469,7 +502,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -480,7 +513,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -491,7 +524,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -524,7 +557,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -568,7 +601,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -639,6 +672,17 @@
           "time_info": "12时28分"
         },
         {
+          "title": "特朗普称不会在2028年大选时作为副总统候选人参选",
+          "url": "https://wallstreetcn.com/livenews/2994077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "加拿大一则广告为何成特朗普心中痛",
           "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%80%E5%88%99%E5%B9%BF%E5%91%8A%E4%B8%BA%E4%BD%95%E6%88%90%E7%89%B9%E6%9C%97%E6%99%AE%E5%BF%83%E4%B8%AD%E7%97%9B",
           "source": "百度热搜",
@@ -664,7 +708,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "A股牛市中缩量震荡通常有多久？投资主线有哪些？十大券商策略来了",
@@ -729,15 +773,15 @@
           "time_info": "09时24分"
         },
         {
-          "title": "A股收盘：沪指涨1.18%逼近4000点，存储芯片板块集体爆发",
-          "url": "https://wallstreetcn.com/livenews/2994073",
-          "source": "华尔街见闻-快讯",
+          "title": "A股全线收涨 沪指逼近4000点",
+          "url": "https://www.douyin.com/hot/2284310",
+          "source": "抖音",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时19分"
+          "time_info": "16时24分"
         },
         {
           "title": "A股三季报业绩暖意足，电子有色金属等行业增长明显",
@@ -763,6 +807,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 07时16分]"
+        },
+        {
+          "title": "A股收盘：沪指涨1.18%逼近4000点，存储芯片板块集体爆发",
+          "url": "https://wallstreetcn.com/livenews/2994073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时24分]"
         },
         {
           "title": "A股或摸高4000",
@@ -866,6 +922,17 @@
           "time_info": "11时18分"
         },
         {
+          "title": "A股放量大涨逼宫4000点 还能上车吗",
+          "url": "https://www.toutiao.com/trending/7565798490819792390/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "A股光刻机、光刻胶概念股开盘领涨",
           "url": "https://wallstreetcn.com/livenews/2993892",
           "source": "华尔街见闻-快讯",
@@ -902,7 +969,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -993,8 +1060,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 16时24分]"
         },
         {
           "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
@@ -1003,7 +1070,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1053,6 +1120,17 @@
           "time_info": "14时30分"
         },
         {
+          "title": "AI眼镜市场火热 产品放量或将带动产业链企业估值提升",
+          "url": "https://www.cls.cn/detail/2181052",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "AI把玉米片判为枪惊动八辆美国警车",
           "url": "https://www.baidu.com/s?wd=AI%E6%8A%8A%E7%8E%89%E7%B1%B3%E7%89%87%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6",
           "source": "百度热搜",
@@ -1067,7 +1145,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -1079,8 +1157,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 16时24分]"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -1105,6 +1183,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时16分]"
+        },
+        {
+          "title": "美股盘前，科技股、中概股普涨",
+          "url": "https://wallstreetcn.com/livenews/2994104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
