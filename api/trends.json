@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T09:24:34.265681+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2025-10-27T11:18:48.360889+08:00",
+  "total_titles_processed": 744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -126,6 +126,17 @@
           "time_info": "[00时21分 ~ 06时16分]"
         },
         {
+          "title": "韩国总统顾问：在亚太经合组织会议期间，李在明总统与美国总统特朗普达成关税协议存在困难。",
+          "url": "https://flash.jin10.com/detail/20251027104546446800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-26）",
           "url": "https://flash.jin10.com/detail/20251026184624203800",
           "source": "金十数据",
@@ -164,6 +175,17 @@
           "time_info": "[02时24分 ~ 09时24分]"
         },
         {
+          "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
+          "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 11时18分]"
+        },
+        {
           "title": "特朗普在马来西亚听了个地狱笑话",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%90%AC%E4%BA%86%E4%B8%AA%E5%9C%B0%E7%8B%B1%E7%AC%91%E8%AF%9D",
           "source": "百度热搜",
@@ -176,15 +198,16 @@
           "time_info": "[00时21分 ~ 01时15分]"
         },
         {
-          "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
-          "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
-          "source": "凤凰网",
+          "title": "韩国考虑授予特朗普“无穷花大勋章”",
+          "url": "https://www.toutiao.com/trending/7564722086686507044/",
+          "source": "今日头条",
           "ranks": [
-            7
+            23,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 11时18分]"
         },
         {
           "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
@@ -193,9 +216,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "特朗普今日将开启第二任期首次访日行程",
+          "url": "https://flash.jin10.com/detail/20251027102627918800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         },
         {
           "title": "东盟峰会特朗普又来当主角",
@@ -204,7 +238,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -215,18 +249,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "韩国考虑授予特朗普“无穷花大勋章”",
-          "url": "https://www.toutiao.com/trending/7564722086686507044/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -237,7 +260,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -248,15 +271,193 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         }
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "A股牛市中缩量震荡通常有多久？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2180886",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 11时18分]"
+        },
+        {
+          "title": "龙头五连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2180530",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时16分]"
+        },
+        {
+          "title": "中信建投：A股调整接近尾声，上行趋势继续",
+          "url": "https://wallstreetcn.com/livenews/2993780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时16分]"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-10-27）",
+          "url": "https://flash.jin10.com/detail/20251027090434076800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2284310",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "A股三季报业绩暖意足，电子有色金属等行业增长明显",
+          "url": "https://wallstreetcn.com/livenews/2993824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "A股业绩利好密集来袭",
+          "url": "https://www.toutiao.com/trending/7565181354745806874/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            10,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 07时16分]"
+        },
+        {
+          "title": "A股CPO概念持续走强，东田微涨逾15%，创历史新高；新易盛、生益电子均涨逾9%创历史新高；生益科技涨逾7%，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/2993924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "A股券商股震荡拉升，湘财股份盘中冲击涨停，东兴证券、华泰证券、信达证券、国元证券、华鑫股份等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2993919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "A股钢铁板块震荡上扬，常宝股份涨停，中信特钢涨超7%，钒钛股份、友发集团、金洲管道、首钢股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2993918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "A股稀土永磁板块震荡走强，厦门钨业涨停，三川智慧、北方稀土、钢研纳克、金力永磁、新莱福等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2993915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "上证报：A股新一轮稳健上涨行情有望延续，科技成长风格或“强者恒强”",
+          "url": "https://wallstreetcn.com/livenews/2993810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "A股可控核聚变概念震荡走强，东方钽业3天2板，创历史新高，纽威股份触及涨停，皖仪科技、中国核建、远东股份、西部超导等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2993909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "A股光刻机、光刻胶概念股开盘领涨",
+          "url": "https://wallstreetcn.com/livenews/2993892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "A股三大指数全线高开",
+          "url": "https://wallstreetcn.com/livenews/2993890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -264,11 +465,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 11时18分]"
+        },
+        {
+          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
+          "url": "https://wallstreetcn.com/articles/3757917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时21分 ~ 09时24分]"
+          "time_info": "[00时21分 ~ 11时18分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -278,19 +492,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 09时24分]"
-        },
-        {
-          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
-          "url": "https://wallstreetcn.com/articles/3757917",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 11时18分]"
         },
         {
           "title": "GAI周延沧海一声笑",
@@ -334,6 +537,39 @@
           "time_info": "[00时21分 ~ 06时16分]"
         },
         {
+          "title": "蚂蚁集团投资AI科技硬件公司艾德未来智能",
+          "url": "https://wallstreetcn.com/livenews/2993942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "巨量引擎首次披露AI广告治理自研大模型，审核效率提升75%",
+          "url": "https://wallstreetcn.com/livenews/2993939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "AI大电影葫芦兄弟",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "AI把玉米片判为枪惊动八辆美国警车",
           "url": "https://www.baidu.com/s?wd=AI%E6%8A%8A%E7%8E%89%E7%B1%B3%E7%89%87%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6",
           "source": "百度热搜",
@@ -347,91 +583,54 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 7,
+      "keyword_group": "美股",
+      "match_count": 4,
       "titles": [
         {
-          "title": "A股牛市中缩量震荡通常有多久？投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2180886",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 09时24分]"
-        },
-        {
-          "title": "龙头五连板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2180530",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "中信建投：A股调整接近尾声，上行趋势继续",
-          "url": "https://wallstreetcn.com/livenews/2993780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时16分]"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2025-10-27）",
-          "url": "https://flash.jin10.com/detail/20251027090434076800",
+          "title": "美股三大股指期货高开，纳指期货涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20251027060229559800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时16分]"
+        },
+        {
+          "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
+          "url": "https://wallstreetcn.com/livenews/2993801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时16分]"
+        },
+        {
+          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
+          "url": "https://flash.jin10.com/detail/20251027082830826800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "09时24分"
-        },
-        {
-          "title": "A股三季报业绩暖意足，电子有色金属等行业增长明显",
-          "url": "https://wallstreetcn.com/livenews/2993824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "A股业绩利好密集来袭",
-          "url": "https://www.toutiao.com/trending/7565181354745806874/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 07时16分]"
-        },
-        {
-          "title": "上证报：A股新一轮稳健上涨行情有望延续，科技成长风格或“强者恒强”",
-          "url": "https://wallstreetcn.com/livenews/2993810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
         }
       ]
     },
@@ -469,48 +668,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股三大股指期货高开，纳指期货涨0.8%。",
-          "url": "https://flash.jin10.com/detail/20251027060229559800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时16分]"
-        },
-        {
-          "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
-          "url": "https://wallstreetcn.com/livenews/2993801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时16分]"
-        },
-        {
-          "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
-          "url": "https://flash.jin10.com/detail/20251027082830826800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时24分"
         }
@@ -530,6 +688,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金价格下跌是进场“捡便宜”时机吗",
+          "url": "https://www.toutiao.com/trending/7565700779416227391/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         }
       ]
     }
