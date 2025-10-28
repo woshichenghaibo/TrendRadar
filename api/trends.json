@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T14:28:01.722709+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2025-10-28T15:17:57.612427+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -91,6 +91,19 @@
           "time_info": "[09时20分 ~ 14时28分]"
         },
         {
+          "title": "高市早苗会见特朗普 多次伸手笑容满面",
+          "url": "https://www.toutiao.com/trending/7565063392713575990/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时08分 ~ 15时17分]"
+        },
+        {
           "title": "特朗普：愿为金正恩延长亚洲行程",
           "url": "https://www.toutiao.com/trending/7565122061997785115/",
           "source": "今日头条",
@@ -169,28 +182,28 @@
           "time_info": "[09时20分 ~ 13时18分]"
         },
         {
-          "title": "高市早苗会见特朗普 多次伸手笑容满面",
-          "url": "https://www.toutiao.com/trending/7565063392713575990/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时08分 ~ 14时28分]"
-        },
-        {
           "title": "特朗普见高市早苗三句话不离安倍",
           "url": "https://www.toutiao.com/trending/7565133400080928262/",
           "source": "今日头条",
           "ranks": [
             8,
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 14时28分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 15时17分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：在与日本首相高市早苗会晤时，美国总统特朗普表示“很高兴再次见到你，我们建立了非常良好的关系”。",
+          "url": "https://flash.jin10.com/detail/20251028145714701800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
@@ -279,6 +292,18 @@
           "time_info": "[01时28分 ~ 03时14分]"
         },
         {
+          "title": "高市早苗想推荐特朗普角逐和平奖",
+          "url": "https://www.toutiao.com/trending/7566126453180452390/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 15时17分]"
+        },
+        {
           "title": "特朗普：米莱赢了美国赚了很多，但我们不是为了钱",
           "url": "https://news.ifeng.com/c/8nnpTggasmR",
           "source": "凤凰网",
@@ -346,17 +371,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时26分]"
-        },
-        {
-          "title": "高市早苗想推荐特朗普角逐和平奖",
-          "url": "https://www.toutiao.com/trending/7566126453180452390/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
         },
         {
           "title": "特朗普称米莱赢了让美国赚了很多钱",
@@ -590,6 +604,17 @@
           "time_info": "11时08分"
         },
         {
+          "title": "学者：特朗普的“慢刀子”扎进俄死穴",
+          "url": "https://www.toutiao.com/trending/7566111913025900074/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "高市早苗会见特朗普 现场奏美国国歌",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE+%E7%8E%B0%E5%9C%BA%E5%A5%8F%E7%BE%8E%E5%9B%BD%E5%9B%BD%E6%AD%8C",
           "source": "百度热搜",
@@ -615,7 +640,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -628,8 +653,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时16分 ~ 14时28分]"
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 15时17分]"
         },
         {
           "title": "特斯拉在虚拟世界训练AI司机",
@@ -640,11 +665,12 @@
             6,
             11,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 14时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 15时17分]"
         },
         {
           "title": "AI大电影葫芦兄弟",
@@ -669,11 +695,23 @@
           "ranks": [
             20,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 14时28分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 15时17分]"
+        },
+        {
+          "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
+          "url": "https://wallstreetcn.com/articles/3758015",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时08分 ~ 15时17分]"
         },
         {
           "title": "高通进军数据中心AI芯片业务：主打大内存、性价比 股价直线拉涨",
@@ -688,28 +726,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时16分 ~ 13时18分]"
-        },
-        {
-          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
-          "url": "https://flash.jin10.com/detail/20251028141734494800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
-          "url": "https://wallstreetcn.com/articles/3758015",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时08分 ~ 14时28分]"
         },
         {
           "title": "谷歌宣布重启一核电站为AI基础设施供电",
@@ -747,6 +763,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时47分 ~ 07时16分]"
+        },
+        {
+          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
+          "url": "https://flash.jin10.com/detail/20251028141734494800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时17分]"
         },
         {
           "title": "扎克伯格任命元宇宙业务前主管推进AI战略",
@@ -818,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "高通(QCOM.O)CEO兼总裁克里斯蒂亚诺·艾蒙在利雅得谈及AI时表示，我关注的是那些与消费者联系越来越紧密的公司。",
+          "url": "https://flash.jin10.com/detail/20251028145207778800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "据Yomiuri报道：日本通信公司KDDI株式会社与谷歌（日本）将启动AI媒体搜索工具。",
@@ -951,33 +990,12 @@
             14,
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 14时28分]"
-        },
-        {
-          "title": "A股机器人概念股再度拉升，三花智控触及涨停，股价再创历史新高，总市值逼近2000亿，永茂泰、方正电机此前封板，万向钱潮、富临精工、中坚科技、拓普集团等纷纷跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2994817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "三花智控A股午后拉升触及涨停，股价创历史新高；三花智控港股涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/2994815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 15时17分]"
         },
         {
           "title": "李大霄解读A股突破4000点",
@@ -985,11 +1003,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 14时28分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 15时17分]"
         },
         {
           "title": "野村证券：将药明康德A股目标价从93.49元上调至118.83元；将其港股目标价从102.77港元上调至130.63港元。",
@@ -1004,15 +1023,64 @@
           "time_info": "[12时22分 ~ 13时18分]"
         },
         {
+          "title": "A股机器人概念股再度拉升，三花智控触及涨停，股价再创历史新高，总市值逼近2000亿，永茂泰、方正电机此前封板，万向钱潮、富临精工、中坚科技、拓普集团等纷纷跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2994817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时17分]"
+        },
+        {
+          "title": "三花智控A股午后拉升触及涨停，股价创历史新高；三花智控港股涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/2994815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时17分]"
+        },
+        {
           "title": "A股黄金、有色金属板块午后震荡下挫，铜陵有色接近跌停，江西铜业、豫光金铅、云南铜业跌超5%，兴业银锡、紫金矿业纷纷下挫。",
           "url": "https://wallstreetcn.com/livenews/2994805",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时17分]"
+        },
+        {
+          "title": "农业银行涨近2%，再创历史新高，A股总市值突破2.65万亿。",
+          "url": "https://wallstreetcn.com/livenews/2994791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时17分]"
+        },
+        {
+          "title": "A股军工板块持续走强，江龙船艇20cm涨停，国瑞科技涨超10%，北方长龙、天海防务、航天智装、中科海讯等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/2994785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时17分]"
         },
         {
           "title": "A股重返4000点该乐观还是恐高",
@@ -1048,35 +1116,13 @@
           "time_info": "11时08分"
         },
         {
-          "title": "农业银行涨近2%，再创历史新高，A股总市值突破2.65万亿。",
-          "url": "https://wallstreetcn.com/livenews/2994791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "A股军工板块持续走强，江龙船艇20cm涨停，国瑞科技涨超10%，北方长龙、天海防务、航天智装、中科海讯等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/2994785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
           "title": "A股福建本地股午后持续爆发，路桥信息涨超25%，海峡创新、福建水泥、南方路机、海峡环保等近20股涨停。",
           "url": "https://wallstreetcn.com/livenews/2994781",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -1116,8 +1162,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 14时28分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 15时17分]"
         },
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -1127,8 +1173,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 14时28分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 15时17分]"
         },
         {
           "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
@@ -1359,8 +1405,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 14时28分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 15时17分]"
         }
       ]
     },
