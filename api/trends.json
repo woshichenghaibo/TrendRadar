@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T06:18:16.346976+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2025-10-29T07:16:48.974583+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 07时16分]"
         },
         {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
@@ -25,11 +25,25 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 07时16分]"
+        },
+        {
+          "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
+          "url": "https://www.cls.cn/detail/2184071",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时17分 ~ 07时16分]"
         },
         {
           "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
@@ -41,17 +55,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
-        },
-        {
-          "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
-          "url": "https://wallstreetcn.com/livenews/2995394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
         },
         {
           "title": "英伟达与美国能源部和美企合作建设国家AI基础设施",
@@ -131,6 +134,18 @@
           "time_info": "02时29分"
         },
         {
+          "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
+          "url": "https://wallstreetcn.com/livenews/2995394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时16分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：我不相信我们处于AI泡沫。",
           "url": "https://wallstreetcn.com/livenews/2995333",
           "source": "华尔街见闻-快讯",
@@ -141,18 +156,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 04时20分]"
-        },
-        {
-          "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
-          "url": "https://www.cls.cn/detail/2184071",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时17分 ~ 06时18分]"
         },
         {
           "title": "苹果计划在MacBook Air和iPad产品线升级显示屏，iPad mini或将涨价100美元",
@@ -177,6 +180,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时29分]"
+        },
+        {
+          "title": "马斯克旗下AI驱动的维基百科竞品历经坎坷后正式上线",
+          "url": "https://wallstreetcn.com/livenews/2995385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时16分]"
+        },
+        {
+          "title": "苹果计划为MacBook Air、iPad Air等搭载OLED屏幕",
+          "url": "https://flash.jin10.com/detail/20251029050455312800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时16分]"
         },
         {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
@@ -214,15 +241,15 @@
           "time_info": "01时19分"
         },
         {
-          "title": "马斯克旗下AI驱动的维基百科竞品历经坎坷后正式上线",
-          "url": "https://wallstreetcn.com/livenews/2995385",
+          "title": "SK海力士利润创纪录，AI繁荣提振芯片需求，准备供应HBM4",
+          "url": "https://wallstreetcn.com/livenews/2995404",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "07时16分"
         },
         {
           "title": "英伟达将对诺基亚实施10亿美元股权投资，从而推动AI网络",
@@ -256,17 +283,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "苹果计划为MacBook Air、iPad Air等搭载OLED屏幕",
-          "url": "https://flash.jin10.com/detail/20251029050455312800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
         },
         {
           "title": "超微电脑(SMCI.O)：计划于2026年交付下一代英伟达AI平台，包括英伟达Vera Rubin NVL144和英伟达Vera Rubin NVL144 CPX。",
@@ -459,7 +475,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -470,8 +486,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 07时16分]"
         },
         {
           "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
@@ -492,8 +508,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 07时16分]"
         },
         {
           "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
@@ -503,8 +519,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 07时16分]"
         },
         {
           "title": "特朗普径自走过日本国旗未鞠躬",
@@ -517,8 +533,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 07时16分]"
+        },
+        {
+          "title": "美国参议院以52比48的投票比例通过法案，终止特朗普宣布的针对巴西进口商品实施50%关税的国家紧急状态。",
+          "url": "https://flash.jin10.com/detail/20251029070406007800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "特朗普在美航母上讲话时用手拍导弹",
@@ -530,6 +557,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "美国参议院通过法案，终止美国总统特朗普针对巴西的关税措施。",
+          "url": "https://flash.jin10.com/detail/20251029070107370800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "美国参议院批准一项措施，旨在结束（总统特朗普）针对巴西商品的关税。",
+          "url": "https://wallstreetcn.com/livenews/2995412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
@@ -639,6 +688,17 @@
           "time_info": "02时29分"
         },
         {
+          "title": "周三（10月29日）亚太盘初，美国三大股指期货均涨超0.1%，美国总统特朗普即将到访韩国，美联储即将发布利率决议。",
+          "url": "https://wallstreetcn.com/livenews/2995401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "美国法官延长了对美国总统特朗普政府在政府停摆期间大规模裁员的禁令。",
           "url": "https://flash.jin10.com/detail/20251029024058799800",
           "source": "金十数据",
@@ -727,6 +787,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "特朗普再批美联储主席鲍威尔",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%89%B9%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E9%B2%8D%E5%A8%81%E5%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "针对特朗普关税武器化等问题，日本民众连日抗议日美首脑会谈",
           "url": "https://wallstreetcn.com/livenews/2995211",
           "source": "华尔街见闻-快讯",
@@ -762,8 +833,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 07时16分]"
         },
         {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
@@ -771,11 +842,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 07时16分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -784,11 +856,24 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时14分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[03时14分 ~ 07时16分]"
+        },
+        {
+          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
+          "url": "https://www.cls.cn/detail/2184098",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时17分 ~ 07时16分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
@@ -816,15 +901,16 @@
           "time_info": "[05时18分 ~ 06时18分]"
         },
         {
-          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
-          "url": "https://www.cls.cn/detail/2184098",
-          "source": "财联社热门",
+          "title": "布油基金收跌约2.1%，和地产ETF领跌美股大类资产类ETF，大豆基金涨超0.9%",
+          "url": "https://wallstreetcn.com/livenews/2995384",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            9,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时17分 ~ 06时18分]"
+          "time_info": "[06时18分 ~ 07时16分]"
         },
         {
           "title": "全球科技股指数ETF收涨将近1.4%，领跑美股行业ETF，标普房地产板块跌超2.2%",
@@ -872,17 +958,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
-        },
-        {
-          "title": "布油基金收跌约2.1%，和地产ETF领跌美股大类资产类ETF，大豆基金涨超0.9%",
-          "url": "https://wallstreetcn.com/livenews/2995384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
         },
         {
           "title": "金十图示：2025年10月28日（周二）热门中概股行情一览（美股盘中）",
@@ -950,6 +1025,23 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "3000余家A股公司三季报“交卷”，科技创新加速转化为业绩增长引擎",
+          "url": "https://wallstreetcn.com/livenews/2995398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "国企",
       "match_count": 1,
       "titles": [
@@ -961,8 +1053,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时20分 ~ 06时18分]"
+          "appearance_count": 6,
+          "time_info": "[04时20分 ~ 07时16分]"
         }
       ]
     },
@@ -976,11 +1068,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            17
+            17,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时17分 ~ 06时18分]"
+          "appearance_count": 5,
+          "time_info": "[05时17分 ~ 07时16分]"
         }
       ]
     }
