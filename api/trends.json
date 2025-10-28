@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T17:19:45.184991+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2025-10-28T18:20:17.918589+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 70,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -105,17 +105,6 @@
           "time_info": "[09时20分 ~ 14时28分]"
         },
         {
-          "title": "高市早苗给特朗普送礼 日网民炸锅",
-          "url": "https://www.toutiao.com/trending/7566135501460098598/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时19分]"
-        },
-        {
           "title": "特朗普见高市早苗三句话不离安倍",
           "url": "https://www.toutiao.com/trending/7565133400080928262/",
           "source": "今日头条",
@@ -123,11 +112,12 @@
             8,
             5,
             22,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 16时25分]"
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 18时20分]"
         },
         {
           "title": "特朗普：愿为金正恩延长亚洲行程",
@@ -230,6 +220,28 @@
           "time_info": "[09时20分 ~ 13时18分]"
         },
         {
+          "title": "特朗普自顾自检阅 高市早苗原地愣住",
+          "url": "https://www.toutiao.com/trending/7565434042020007460/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "美军航母摔飞机事大了！特朗普亲自解释靠谱吗？",
+          "url": "https://news.ifeng.com/c/8np6B3JJJNc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "日本财务大臣片山皋月：在与日本首相高市早苗会晤时，美国总统特朗普表示“很高兴再次见到你，我们建立了非常良好的关系”。",
           "url": "https://flash.jin10.com/detail/20251028145714701800",
           "source": "金十数据",
@@ -250,6 +262,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "高市早苗给特朗普送礼 日网民炸锅",
+          "url": "https://www.toutiao.com/trending/7566135501460098598/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
         },
         {
           "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
@@ -384,6 +408,17 @@
           "time_info": "[13时18分 ~ 14时28分]"
         },
         {
+          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
+          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时20分]"
+        },
+        {
           "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
           "url": "https://flash.jin10.com/detail/20251028114540746800",
           "source": "金十数据",
@@ -429,6 +464,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时26分]"
+        },
+        {
+          "title": "特朗普略过日本国旗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26dgr%3D0%26cate%3D5001%26band_rank%3D17%26stream_entry_id%3D31%26realpos%3D17%26flag%3D1%26lcate%3D5001%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26filter_type%3Drealtimehot%26pos%3D17%26display_time%3D1761642605%26pre_seqid%3D17616426055180277784717",
+          "source": "微博",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时20分]"
         },
         {
           "title": "特朗普称米莱赢了让美国赚了很多钱",
@@ -506,17 +553,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
-          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "日本首相高市早苗：欢迎特朗普访问日本。",
@@ -629,17 +665,6 @@
           "time_info": "00时24分"
         },
         {
-          "title": "特朗普略过日本国旗",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26dgr%3D0%26cate%3D5001%26band_rank%3D17%26stream_entry_id%3D31%26realpos%3D17%26flag%3D1%26lcate%3D5001%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26filter_type%3Drealtimehot%26pos%3D17%26display_time%3D1761642605%26pre_seqid%3D17616426055180277784717",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "特朗普出席日本欢迎仪式，与日本新任首相高市早苗会面。",
           "url": "https://flash.jin10.com/detail/20251028083708226800",
           "source": "金十数据",
@@ -706,6 +731,17 @@
           "time_info": "11时08分"
         },
         {
+          "title": "特朗普与高市早苗一同乘机登上美航母",
+          "url": "https://www.toutiao.com/trending/7565775120976429082/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "美国总统特朗普：美日联盟是“整个世界上最卓越的关系之一”。",
           "url": "https://flash.jin10.com/detail/20251028152443500800",
           "source": "金十数据",
@@ -723,7 +759,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -734,7 +770,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -786,7 +822,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -844,8 +880,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时08分 ~ 17时19分]"
+          "appearance_count": 9,
+          "time_info": "[11时08分 ~ 18时20分]"
         },
         {
           "title": "为什么海外同胞对 AI 编程态度那么积极，反而国内用过的程序员都在吐槽?",
@@ -949,6 +985,19 @@
           "time_info": "[12时22分 ~ 13时18分]"
         },
         {
+          "title": "AI大战冠军教练竞猜S15",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E6%88%98%E5%86%A0%E5%86%9B%E6%95%99%E7%BB%83%E7%AB%9E%E7%8C%9CS15",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
           "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/2994482",
           "source": "华尔街见闻-快讯",
@@ -959,18 +1008,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时14分]"
-        },
-        {
-          "title": "AI大战冠军教练竞猜S15",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E6%88%98%E5%86%A0%E5%86%9B%E6%95%99%E7%BB%83%E7%AB%9E%E7%8C%9CS15",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时19分]"
         },
         {
           "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
@@ -1074,6 +1111,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "特朗普将在东京举行CEO晚餐会 OpenAI、Salesforce等公司的高管将出席",
+          "url": "https://wallstreetcn.com/livenews/2995041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "唐国强到访武侯祠把AI当成旅游搭子",
           "url": "https://www.toutiao.com/trending/7565821177754484762/",
           "source": "今日头条",
@@ -1121,7 +1169,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "A股时隔十年再近4000点",
@@ -1166,11 +1214,23 @@
             8,
             16,
             15,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 17时19分]"
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 18时20分]"
+        },
+        {
+          "title": "A股再上4000会带来牛市吗",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E5%86%8D%E4%B8%8A4000%E4%BC%9A%E5%B8%A6%E6%9D%A5%E7%89%9B%E5%B8%82%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "野村证券：将药明康德A股目标价从93.49元上调至118.83元；将其港股目标价从102.77港元上调至130.63港元。",
@@ -1209,6 +1269,31 @@
           "time_info": "[14时28分 ~ 15时17分]"
         },
         {
+          "title": "A股涨到4010点回落 周三会变盘吗",
+          "url": "https://www.toutiao.com/trending/7566165187783298606/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
+          "title": "A股冲4000点后为何跳水",
+          "url": "https://www.toutiao.com/trending/7566173470686449198/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
           "title": "A股黄金、有色金属板块午后震荡下挫，铜陵有色接近跌停，江西铜业、豫光金铅、云南铜业跌超5%，兴业银锡、紫金矿业纷纷下挫。",
           "url": "https://wallstreetcn.com/livenews/2994805",
           "source": "华尔街见闻-快讯",
@@ -1219,18 +1304,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时28分 ~ 15时17分]"
-        },
-        {
-          "title": "A股涨到4010点回落 周三会变盘吗",
-          "url": "https://www.toutiao.com/trending/7566165187783298606/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时19分]"
         },
         {
           "title": "农业银行涨近2%，再创历史新高，A股总市值突破2.65万亿。",
@@ -1255,18 +1328,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时28分 ~ 15时17分]"
-        },
-        {
-          "title": "A股冲4000点后为何跳水",
-          "url": "https://www.toutiao.com/trending/7566173470686449198/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时19分]"
         },
         {
           "title": "A股收盘 沪指冲高回落收跌0.22%",
@@ -1349,7 +1410,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -1360,8 +1421,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时20分 ~ 17时19分]"
+          "appearance_count": 11,
+          "time_info": "[09时20分 ~ 18时20分]"
         },
         {
           "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
@@ -1395,6 +1456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "UPS三季度营收214亿美元，预估208.7亿美元。 三季度经调整后每股收益1.74美元，预估1.32美元。 UPS预计第四季度营收约为240亿美元，市场预估238.7亿美元。 UPS美股盘前涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/2995038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
@@ -1528,6 +1600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "新东方第一财季调整后每ADS收益1.61美元，预估1.65美元。 第一财季经营利润3.108亿美元，预估3.008亿美元。 第一财季净营收15.2亿美元，预估15.1亿美元。 第一财季资本支出5,540万美元。 新东方美股盘前涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/2995018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },
@@ -1544,8 +1627,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时20分 ~ 17时19分]"
+          "appearance_count": 11,
+          "time_info": "[09时20分 ~ 18时20分]"
         },
         {
           "title": "中国贸促会组织中国企业家代表团访问马来西亚",
