@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T01:19:12.328710+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2025-10-29T02:29:07.500992+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 26,
       "titles": [
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -15,30 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时19分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：美国各领域企业，包括服务器制造商、云服务提供商、模型构建者、技术供应商和企业，正在投资先进的AI基础设施。",
-          "url": "https://flash.jin10.com/detail/20251029005944952800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：为美国能源部下属阿尔贡与洛斯阿拉莫斯国家实验室提供AI基础设施，加速七套新型计算系统研发进程，推动科学研究与技术创新。",
-          "url": "https://flash.jin10.com/detail/20251029005937265800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时29分]"
         },
         {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
@@ -49,8 +27,97 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时29分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
+          "url": "https://flash.jin10.com/detail/20251029020349283800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "英伟达与美国能源部和美企合作建设国家AI基础设施",
+          "url": "https://flash.jin10.com/detail/20251029020259228800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：美国各领域企业，包括服务器制造商、云服务提供商、模型构建者、技术供应商和企业，正在投资先进的AI基础设施。",
+          "url": "https://flash.jin10.com/detail/20251029005944952800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251029015946232800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：为美国能源部下属阿尔贡与洛斯阿拉莫斯国家实验室提供AI基础设施，加速七套新型计算系统研发进程，推动科学研究与技术创新。",
+          "url": "https://flash.jin10.com/detail/20251029005937265800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "OpenAI首席执行官萨姆·奥尔特曼：我们的目标是建立一个基础设施工厂，每周能够创造1吉瓦的算力。",
+          "url": "https://flash.jin10.com/detail/20251029015512703800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "英伟达与甲骨文将为美国能源部制造一台人工智能（AI）超算。",
+          "url": "https://wallstreetcn.com/livenews/2995302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋准备披露与三星和现代的AI交易。",
+          "url": "https://wallstreetcn.com/livenews/2995268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时29分]"
         },
         {
           "title": "英伟达(NVDA.O)：位于弗吉尼亚州的AI工厂研究中心将部署首套Vera Rubin基础设施，并为英伟达Omniverse DSX奠定基础。",
@@ -59,18 +126,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋准备披露与三星和现代的AI交易。",
-          "url": "https://wallstreetcn.com/livenews/2995268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         },
@@ -92,7 +148,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         },
@@ -103,9 +159,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)及各行业合作伙伴计划将美国制造业迁回国内，打造充满机器人的AI工厂。",
+          "url": "https://flash.jin10.com/detail/20251029014416918800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋宣布，与Palantir在运转人工智能（AI）方面构建合作伙伴关系。 将企业数据转化为动态决策智能（DDI）。",
+          "url": "https://wallstreetcn.com/livenews/2995292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         },
         {
           "title": "英伟达推出NVIDIA Arc Aerial Ran Computer，这是一种为6G准备的通信计算平台。 英伟达与诺基亚将为6G通信技术开拓人工智能（AI）平台。 英伟达将投资10亿美元到诺基亚，从而加速AI-Ran Innovation，并主导从5G向6G过渡。",
@@ -114,9 +192,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：Palantir AIP平台也将支持英伟达面向政府参考设计的全新AI工厂。",
+          "url": "https://flash.jin10.com/detail/20251029013926234800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "沙特阿美与主权财富基金PIF达成共识，将对Humain持有少数股权。",
+          "url": "https://wallstreetcn.com/livenews/2995285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         },
         {
           "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股（IPO）的计划。",
@@ -136,9 +236,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋拟访韩签约 将为三星现代供应AI芯片",
+          "url": "https://flash.jin10.com/detail/20251029013502568800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         },
         {
           "title": "阿波罗高管Scott Kleinman：人工智能（AI）技术取代劳动力是“最重要的问题”。 私募将在好几年的时间内按更慢的速度销售。",
@@ -180,7 +291,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         }
@@ -188,7 +299,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
@@ -198,8 +309,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时29分]"
         },
         {
           "title": "特朗普在美航母上讲话时用手拍导弹",
@@ -211,6 +322,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
+          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时29分]"
+        },
+        {
+          "title": "CME活牛期货跌超0.4%，饲牛期货跌3.4%，美国总统特朗普要求美国市场降低牛肉价格。",
+          "url": "https://wallstreetcn.com/livenews/2995304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
+          "url": "https://news.ifeng.com/c/8npJJt30xAk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时29分]"
+        },
+        {
+          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
+          "url": "https://news.ifeng.com/c/8np198dmCFI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时29分]"
+        },
+        {
+          "title": "特朗普径自走过日本国旗未鞠躬",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BE%84%E8%87%AA%E8%B5%B0%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%E6%9C%AA%E9%9E%A0%E8%BA%AC",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时29分]"
         },
         {
           "title": "美国数十个州起诉总统特朗普砍掉食品救助的做法。（纽约时报）",
@@ -225,49 +392,26 @@
           "time_info": "[00时35分 ~ 01时19分]"
         },
         {
-          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
-          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时19分]"
-        },
-        {
-          "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
-          "url": "https://news.ifeng.com/c/8npJJt30xAk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时19分]"
-        },
-        {
-          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
-          "url": "https://news.ifeng.com/c/8np198dmCFI",
-          "source": "凤凰网",
+          "title": "美国联邦法官计划阻挠总统特朗普在政府关门期间裁员。",
+          "url": "https://wallstreetcn.com/livenews/2995299",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         },
         {
-          "title": "特朗普径自走过日本国旗未鞠躬",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BE%84%E8%87%AA%E8%B5%B0%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%E6%9C%AA%E9%9E%A0%E8%BA%AC",
-          "source": "百度热搜",
+          "title": "美国卫生部长RFK Jr.勒令疾控中心研究海上风电场对（总统特朗普）所谓造成的伤害。",
+          "url": "https://wallstreetcn.com/livenews/2995298",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            12
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         },
         {
           "title": "美国交通部长Duffy：与空中交通控制相关的学生津贴即将耗尽。 在特朗普政府关门期间，与联邦航空管理局（FAA）相关的那些学生将被赶走。",
@@ -287,9 +431,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达预计未来六个季度将实现5000亿美元业务规模。 将发货2000万Blackwell Ruben GPU。 美国亚利桑那州Blackwell（工厂）“满负荷生产”。 等待特朗普政府批准对沙特出口。",
+          "url": "https://wallstreetcn.com/livenews/2995283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         },
         {
           "title": "美国众议院议长约翰逊谈及特朗普政府的SNAP计划，称：美国农业部（USDA）的确研究过，但无法提供资金支持。 无法避免美国在11月1日发生食品券悬崖。",
@@ -349,8 +504,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时29分]"
         },
         {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
@@ -361,8 +516,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时29分]"
         },
         {
           "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股盘中）",
@@ -371,7 +526,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         },
@@ -382,7 +537,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         }
