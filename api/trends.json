@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T13:18:57.750708+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2025-10-28T14:28:01.722709+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -75,6 +75,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 09时21分]"
+        },
+        {
+          "title": "美军机南海坠毁 特朗普：可能油不好",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            10,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 14时28分]"
         },
         {
           "title": "特朗普：愿为金正恩延长亚洲行程",
@@ -155,17 +169,28 @@
           "time_info": "[09时20分 ~ 13时18分]"
         },
         {
-          "title": "美军机南海坠毁 特朗普：可能油不好",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
-          "source": "百度热搜",
+          "title": "高市早苗会见特朗普 多次伸手笑容满面",
+          "url": "https://www.toutiao.com/trending/7565063392713575990/",
+          "source": "今日头条",
           "ranks": [
-            22,
-            10,
-            8
+            6,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时20分 ~ 13时18分]"
+          "time_info": "[11时08分 ~ 14时28分]"
+        },
+        {
+          "title": "特朗普见高市早苗三句话不离安倍",
+          "url": "https://www.toutiao.com/trending/7565133400080928262/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时28分]"
         },
         {
           "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
@@ -205,6 +230,18 @@
           "time_info": "[06时18分 ~ 07时16分]"
         },
         {
+          "title": "特朗普东京下榻酒店军犬检查车辆",
+          "url": "https://www.toutiao.com/trending/7565376015993356324/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 14时28分]"
+        },
+        {
           "title": "特朗普到底薅了全世界多少钱",
           "url": "https://www.toutiao.com/trending/7565875834884460086/",
           "source": "今日头条",
@@ -227,18 +264,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时20分 ~ 11时08分]"
-        },
-        {
-          "title": "高市早苗会见特朗普 多次伸手笑容满面",
-          "url": "https://www.toutiao.com/trending/7565063392713575990/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 13时18分]"
         },
         {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
@@ -277,6 +302,17 @@
           "time_info": "[09时20分 ~ 11时08分]"
         },
         {
+          "title": "特朗普访日遇运酒车翻倒专车改道",
+          "url": "https://www.toutiao.com/trending/7565133400080895494/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时28分]"
+        },
+        {
           "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
           "url": "https://flash.jin10.com/detail/20251028114540746800",
           "source": "金十数据",
@@ -312,16 +348,26 @@
           "time_info": "[01时28分 ~ 02时26分]"
         },
         {
-          "title": "特朗普东京下榻酒店军犬检查车辆",
-          "url": "https://www.toutiao.com/trending/7565376015993356324/",
+          "title": "高市早苗想推荐特朗普角逐和平奖",
+          "url": "https://www.toutiao.com/trending/7566126453180452390/",
           "source": "今日头条",
           "ranks": [
-            14,
-            25
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时18分]"
+          "time_info": "[14时27分 ~ 14时28分]"
+        },
+        {
+          "title": "特朗普称米莱赢了让美国赚了很多钱",
+          "url": "https://www.toutiao.com/trending/7565088402136547337/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
         },
         {
           "title": "特朗普回应美军机南海坠毁",
@@ -374,7 +420,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -399,17 +445,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
-        },
-        {
-          "title": "特朗普见高市早苗三句话不离安倍",
-          "url": "https://www.toutiao.com/trending/7565133400080928262/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
         },
         {
           "title": "日本首相高市早苗：希望与美国总统特朗普共同实现日美同盟的新黄金时代。",
@@ -555,17 +590,6 @@
           "time_info": "11时08分"
         },
         {
-          "title": "特朗普访日遇运酒车翻倒专车改道",
-          "url": "https://www.toutiao.com/trending/7565133400080895494/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
           "title": "高市早苗会见特朗普 现场奏美国国歌",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE+%E7%8E%B0%E5%9C%BA%E5%A5%8F%E7%BE%8E%E5%9B%BD%E5%9B%BD%E6%AD%8C",
           "source": "百度热搜",
@@ -591,8 +615,22 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
+          "url": "https://www.cls.cn/detail/2182682",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 14时28分]"
+        },
         {
           "title": "特斯拉在虚拟世界训练AI司机",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
@@ -601,24 +639,12 @@
             5,
             6,
             11,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 13时18分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
-          "url": "https://www.cls.cn/detail/2182682",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时16分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 14时28分]"
         },
         {
           "title": "AI大电影葫芦兄弟",
@@ -637,6 +663,19 @@
           "time_info": "[00时24分 ~ 09时21分]"
         },
         {
+          "title": "为什么海外同胞对 AI 编程态度那么积极，反而国内用过的程序员都在吐槽?",
+          "url": "https://www.zhihu.com/question/1959993472921633455",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 14时28分]"
+        },
+        {
           "title": "高通进军数据中心AI芯片业务：主打大内存、性价比 股价直线拉涨",
           "url": "https://www.cls.cn/detail/2182582",
           "source": "财联社热门",
@@ -651,28 +690,37 @@
           "time_info": "[07时16分 ~ 13时18分]"
         },
         {
+          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
+          "url": "https://flash.jin10.com/detail/20251028141734494800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
+          "url": "https://wallstreetcn.com/articles/3758015",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时08分 ~ 14时28分]"
+        },
+        {
           "title": "谷歌宣布重启一核电站为AI基础设施供电",
           "url": "https://flash.jin10.com/detail/20251028124839536800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "为什么海外同胞对 AI 编程态度那么积极，反而国内用过的程序员都在吐槽?",
-          "url": "https://www.zhihu.com/question/1959993472921633455",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 13时18分]"
         },
         {
           "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
@@ -725,17 +773,6 @@
           "time_info": "[12时22分 ~ 13时18分]"
         },
         {
-          "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
-          "url": "https://wallstreetcn.com/articles/3758015",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 13时18分]"
-        },
-        {
           "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/2994482",
           "source": "华尔街见闻-快讯",
@@ -778,7 +815,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -844,7 +881,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -884,6 +921,179 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "A股时隔十年再近4000点",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%97%B6%E9%9A%94%E5%8D%81%E5%B9%B4%E5%86%8D%E8%BF%914000%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            14,
+            7,
+            16,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 09时21分]"
+        },
+        {
+          "title": "A股放量大涨！沪指时隔十年再度逼近4000点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31842838",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 14时28分]"
+        },
+        {
+          "title": "A股机器人概念股再度拉升，三花智控触及涨停，股价再创历史新高，总市值逼近2000亿，永茂泰、方正电机此前封板，万向钱潮、富临精工、中坚科技、拓普集团等纷纷跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2994817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "三花智控A股午后拉升触及涨停，股价创历史新高；三花智控港股涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/2994815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "李大霄解读A股突破4000点",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BBA%E8%82%A1%E7%AA%81%E7%A0%B44000%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时28分]"
+        },
+        {
+          "title": "野村证券：将药明康德A股目标价从93.49元上调至118.83元；将其港股目标价从102.77港元上调至130.63港元。",
+          "url": "https://flash.jin10.com/detail/20251028115530444800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "A股黄金、有色金属板块午后震荡下挫，铜陵有色接近跌停，江西铜业、豫光金铅、云南铜业跌超5%，兴业银锡、紫金矿业纷纷下挫。",
+          "url": "https://wallstreetcn.com/livenews/2994805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "A股重返4000点该乐观还是恐高",
+          "url": "https://www.toutiao.com/trending/7566103723559095871/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "A股突破4000点",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23A%E8%82%A1%E7%AA%81%E7%A0%B44000%E7%82%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D10%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26band_rank%3D10%26cate%3D5001%26q%3D%2523A%25E8%2582%25A1%25E7%25AA%2581%25E7%25A0%25B44000%25E7%2582%25B9%2523%26pos%3D10%26dgr%3D0%26stream_entry_id%3D31%26lcate%3D5001%26display_time%3D1761624603%26pre_seqid%3D17616246033700122575252",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "A股三大指数集体翻红。",
+          "url": "https://wallstreetcn.com/livenews/2994696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "农业银行涨近2%，再创历史新高，A股总市值突破2.65万亿。",
+          "url": "https://wallstreetcn.com/livenews/2994791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "A股军工板块持续走强，江龙船艇20cm涨停，国瑞科技涨超10%，北方长龙、天海防务、航天智装、中科海讯等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/2994785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "A股福建本地股午后持续爆发，路桥信息涨超25%，海峡创新、福建水泥、南方路机、海峡环保等近20股涨停。",
+          "url": "https://wallstreetcn.com/livenews/2994781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "A股机器人概念震荡拉升，南京聚隆涨超12%，永茂泰此前涨停，青岛双星3连板，大洋电机、三花智控、新瀚新材跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2994668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 14,
       "titles": [
@@ -906,8 +1116,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 14时28分]"
         },
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -917,8 +1127,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 14时28分]"
         },
         {
           "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
@@ -1056,112 +1266,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "A股时隔十年再近4000点",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%97%B6%E9%9A%94%E5%8D%81%E5%B9%B4%E5%86%8D%E8%BF%914000%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            14,
-            7,
-            16,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时21分]"
-        },
-        {
-          "title": "A股放量大涨！沪指时隔十年再度逼近4000点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31842838",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14,
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 13时18分]"
-        },
-        {
-          "title": "李大霄解读A股突破4000点",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BBA%E8%82%A1%E7%AA%81%E7%A0%B44000%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "野村证券：将药明康德A股目标价从93.49元上调至118.83元；将其港股目标价从102.77港元上调至130.63港元。",
-          "url": "https://flash.jin10.com/detail/20251028115530444800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时18分]"
-        },
-        {
-          "title": "A股重返4000点该乐观还是恐高",
-          "url": "https://www.toutiao.com/trending/7566103723559095871/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "A股突破4000点",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23A%E8%82%A1%E7%AA%81%E7%A0%B44000%E7%82%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D10%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26band_rank%3D10%26cate%3D5001%26q%3D%2523A%25E8%2582%25A1%25E7%25AA%2581%25E7%25A0%25B44000%25E7%2582%25B9%2523%26pos%3D10%26dgr%3D0%26stream_entry_id%3D31%26lcate%3D5001%26display_time%3D1761624603%26pre_seqid%3D17616246033700122575252",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "A股三大指数集体翻红。",
-          "url": "https://wallstreetcn.com/livenews/2994696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
-          "title": "A股机器人概念震荡拉升，南京聚隆涨超12%，永茂泰此前涨停，青岛双星3连板，大洋电机、三花智控、新瀚新材跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2994668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "婚姻 女性",
       "match_count": 3,
       "titles": [
@@ -1255,8 +1359,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 14时28分]"
         }
       ]
     },
