@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T18:20:17.918589+08:00",
-  "total_titles_processed": 1616,
+  "generated_at": "2025-10-28T19:16:47.548381+08:00",
+  "total_titles_processed": 1734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 82,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -120,6 +120,28 @@
           "time_info": "[13时18分 ~ 18时20分]"
         },
         {
+          "title": "特朗普自顾自检阅 高市早苗原地愣住",
+          "url": "https://www.toutiao.com/trending/7565434042020007460/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
+          "title": "美军航母摔飞机事大了！特朗普亲自解释靠谱吗？",
+          "url": "https://news.ifeng.com/c/8np6B3JJJNc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
           "title": "特朗普：愿为金正恩延长亚洲行程",
           "url": "https://www.toutiao.com/trending/7565122061997785115/",
           "source": "今日头条",
@@ -151,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "特朗普谈到重振美国造船业。",
+          "url": "https://wallstreetcn.com/livenews/2995097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "特朗普谈南海坠机：或用了劣质燃料",
@@ -220,26 +253,17 @@
           "time_info": "[09时20分 ~ 13时18分]"
         },
         {
-          "title": "特朗普自顾自检阅 高市早苗原地愣住",
-          "url": "https://www.toutiao.com/trending/7565434042020007460/",
+          "title": "高市早苗给特朗普送礼 日网民炸锅",
+          "url": "https://www.toutiao.com/trending/7566135501460098598/",
           "source": "今日头条",
           "ranks": [
-            4
+            2,
+            21,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "美军航母摔飞机事大了！特朗普亲自解释靠谱吗？",
-          "url": "https://news.ifeng.com/c/8np6B3JJJNc",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 19时16分]"
         },
         {
           "title": "日本财务大臣片山皋月：在与日本首相高市早苗会晤时，美国总统特朗普表示“很高兴再次见到你，我们建立了非常良好的关系”。",
@@ -262,18 +286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
-        },
-        {
-          "title": "高市早苗给特朗普送礼 日网民炸锅",
-          "url": "https://www.toutiao.com/trending/7566135501460098598/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时20分]"
         },
         {
           "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
@@ -349,6 +361,17 @@
           "time_info": "[09时20分 ~ 11时08分]"
         },
         {
+          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
+          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时16分]"
+        },
+        {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
           "url": "https://wallstreetcn.com/livenews/2994466",
           "source": "华尔街见闻-快讯",
@@ -385,6 +408,19 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "特朗普略过日本国旗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26dgr%3D0%26cate%3D5001%26band_rank%3D17%26stream_entry_id%3D31%26realpos%3D17%26flag%3D1%26lcate%3D5001%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26filter_type%3Drealtimehot%26pos%3D17%26display_time%3D1761642605%26pre_seqid%3D17616426055180277784717",
+          "source": "微博",
+          "ranks": [
+            17,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时16分]"
+        },
+        {
           "title": "高市早苗欲送特朗普安倍球杆",
           "url": "https://www.toutiao.com/trending/7566037915437141513/",
           "source": "今日头条",
@@ -406,17 +442,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时18分 ~ 14时28分]"
-        },
-        {
-          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
-          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时20分]"
         },
         {
           "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
@@ -464,18 +489,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时26分]"
-        },
-        {
-          "title": "特朗普略过日本国旗",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26dgr%3D0%26cate%3D5001%26band_rank%3D17%26stream_entry_id%3D31%26realpos%3D17%26flag%3D1%26lcate%3D5001%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26filter_type%3Drealtimehot%26pos%3D17%26display_time%3D1761642605%26pre_seqid%3D17616426055180277784717",
-          "source": "微博",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时20分]"
         },
         {
           "title": "特朗普称米莱赢了让美国赚了很多钱",
@@ -555,6 +568,28 @@
           "time_info": "00时24分"
         },
         {
+          "title": "特朗普演讲时当众搂住高市早苗",
+          "url": "https://www.toutiao.com/trending/7565434042020056612/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "美国总统特朗普在讲话中谈及重振美国造船业。",
+          "url": "https://flash.jin10.com/detail/20251028190823052800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "日本首相高市早苗：欢迎特朗普访问日本。",
           "url": "https://wallstreetcn.com/livenews/2994630",
           "source": "华尔街见闻-快讯",
@@ -621,6 +656,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "特朗普：感谢贝森特“出色的工作”。 贝森特安抚了市场。 考虑让贝森特担任美联储主席，但他不想干。 美国贸易代表格里尔让“所有人都满意”，甚至对方也满意。 日本新首相表现非常好。 想感谢软银。 回忆与孙正义一起打高尔夫球的时光。",
+          "url": "https://wallstreetcn.com/livenews/2995080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "特朗普：不会在未来竞选副总统",
           "url": "https://www.toutiao.com/trending/7564808311294869550/",
           "source": "今日头条",
@@ -641,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "特朗普：非常反对突袭搜查韩国工厂",
+          "url": "https://www.toutiao.com/trending/7565763131436777526/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "特朗普盛赞盟友日本，更向高市承诺将努力“满足任何要求”",
@@ -674,6 +731,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普和高市早苗登华盛顿号航母",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%99%BB%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%8F%B7%E8%88%AA%E6%AF%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "美国总统特朗普：想要感谢软银。",
+          "url": "https://flash.jin10.com/detail/20251028185808672800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "特朗普与高市早苗会晤",
@@ -720,6 +799,39 @@
           "time_info": "16时25分"
         },
         {
+          "title": "特朗普将于周三在APEC企业高管会议上发表讲话",
+          "url": "https://wallstreetcn.com/livenews/2995065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "美国总统特朗普：日本新首相表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20251028185434094800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "美国总统特朗普：美国贸易代表格里尔让所有人都感到满意，甚至对方也是如此。",
+          "url": "https://flash.jin10.com/detail/20251028185424726800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "日本天皇用英语说很高兴见到特朗普",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E5%25A4%25A9%25E7%259A%2587%25E7%2594%25A8%25E8%258B%25B1%25E8%25AF%25AD%25E8%25AF%25B4%25E5%25BE%2588%25E9%25AB%2598%25E5%2585%25B4%25E8%25A7%2581%25E5%2588%25B0%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%2523%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D23%26c_type%3D31%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D23%26pos%3D24%26lcate%3D5001%26display_time%3D1761620107%26pre_seqid%3D17616201073920207647278",
           "source": "微博",
@@ -737,7 +849,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -764,6 +876,17 @@
           "time_info": "17时19分"
         },
         {
+          "title": "美国总统特朗普：考虑让贝森特担任美联储（主席）职务，但他本人并不想接任。",
+          "url": "https://flash.jin10.com/detail/20251028185202398800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "日本首相高市早苗：与美国总统特朗普讨论了中东和乌克兰问题。",
           "url": "https://flash.jin10.com/detail/20251028165941309800",
           "source": "金十数据",
@@ -773,6 +896,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
+        },
+        {
+          "title": "美国总统特朗普：感谢美国财长贝森特做得“非常出色”。贝森特安抚市场。",
+          "url": "https://flash.jin10.com/detail/20251028185136992800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "高市早苗会见特朗普 现场奏美国国歌",
@@ -822,7 +956,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 36,
       "titles": [
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -837,6 +971,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时16分 ~ 15时17分]"
+        },
+        {
+          "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
+          "url": "https://wallstreetcn.com/articles/3758015",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时08分 ~ 19时16分]"
         },
         {
           "title": "特斯拉在虚拟世界训练AI司机",
@@ -871,17 +1016,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 09时21分]"
-        },
-        {
-          "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
-          "url": "https://wallstreetcn.com/articles/3758015",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时08分 ~ 18时20分]"
         },
         {
           "title": "为什么海外同胞对 AI 编程态度那么积极，反而国内用过的程序员都在吐槽?",
@@ -921,6 +1055,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "沙特人工智能公司Humain首席执行官：我们与谷歌达成了合作关系，你们很快会听到我们与亚马逊云服务(AWS)的重大消息，而且我们已经与OpenAI会面了。",
+          "url": "https://flash.jin10.com/detail/20251028190928466800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "AI大战冠军教练竞猜S15",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E6%88%98%E5%86%A0%E5%86%9B%E6%95%99%E7%BB%83%E7%AB%9E%E7%8C%9CS15",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            7,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 19时16分]"
         },
         {
           "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
@@ -985,19 +1144,6 @@
           "time_info": "[12时22分 ~ 13时18分]"
         },
         {
-          "title": "AI大战冠军教练竞猜S15",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E6%88%98%E5%86%A0%E5%86%9B%E6%95%99%E7%BB%83%E7%AB%9E%E7%8C%9CS15",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时20分]"
-        },
-        {
           "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/2994482",
           "source": "华尔街见闻-快讯",
@@ -1045,6 +1191,17 @@
           "time_info": "13时18分"
         },
         {
+          "title": "沙特人工智能公司Humain首席执行官：沙特将设立一项基础设施基金，并将有一家大型企业集团参与其中，而Humain公司本身不会单独为数据中心提供资金。",
+          "url": "https://flash.jin10.com/detail/20251028190712271800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "高通(QCOM.O)CEO兼总裁克里斯蒂亚诺·艾蒙在利雅得谈及AI时表示，我关注的是那些与消费者联系越来越紧密的公司。",
           "url": "https://flash.jin10.com/detail/20251028145207778800",
           "source": "金十数据",
@@ -1056,6 +1213,17 @@
           "time_info": "15时17分"
         },
         {
+          "title": "据华尔街日报：人工智能公司Fireworks AI在最新一轮融资中的估值达到40亿美元。",
+          "url": "https://flash.jin10.com/detail/20251028190415748800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "据Yomiuri报道：日本通信公司KDDI株式会社与谷歌（日本）将启动AI媒体搜索工具。",
           "url": "https://wallstreetcn.com/livenews/2994570",
           "source": "华尔街见闻-快讯",
@@ -1065,6 +1233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "沙特人工智能公司Humain首席执行官：今年12月，我们将通过“Humain Chat”进入除沙特以外的五个新增国家。",
+          "url": "https://flash.jin10.com/detail/20251028190335922800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "AI初创公司Mercor按100亿美元估值融资3.5亿美元",
@@ -1117,7 +1296,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1133,6 +1312,28 @@
           "time_info": "13时18分"
         },
         {
+          "title": "沙特人工智能公司Humain首席执行官：我们希望它不仅能在沙特上市，也能在纳斯达克上市。",
+          "url": "https://flash.jin10.com/detail/20251028190015887800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "沙特人工智能公司Humain首席执行官：Humain One目前已在沙特政府及三家公共投资基金实体中投入使用并开展试点，但我们希望将其推广至“各个角落”。",
+          "url": "https://flash.jin10.com/detail/20251028185802647800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "鸿海拟投资最高420亿元新台币采购AI算力云端业务营业用资讯设备。",
           "url": "https://wallstreetcn.com/livenews/2994610",
           "source": "华尔街见闻-快讯",
@@ -1142,6 +1343,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "PAYPAL美股盘前涨超15%，公司与OpenAI达成支付合作。",
+          "url": "https://wallstreetcn.com/livenews/2995062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "亚马逊宣布裁员1.4万人 将资源投入AI",
+          "url": "https://flash.jin10.com/detail/20251028185134663800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "高通涨幅扩大至20%，创2019年以来最大盘中涨幅，该公司推出人工智能（AI）芯片，在数据中心市场与英伟达竞争。",
@@ -1169,7 +1392,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "A股时隔十年再近4000点",
@@ -1222,17 +1445,6 @@
           "time_info": "[13时18分 ~ 18时20分]"
         },
         {
-          "title": "A股再上4000会带来牛市吗",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E5%86%8D%E4%B8%8A4000%E4%BC%9A%E5%B8%A6%E6%9D%A5%E7%89%9B%E5%B8%82%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
           "title": "野村证券：将药明康德A股目标价从93.49元上调至118.83元；将其港股目标价从102.77港元上调至130.63港元。",
           "url": "https://flash.jin10.com/detail/20251028115530444800",
           "source": "金十数据",
@@ -1255,6 +1467,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时28分 ~ 15时17分]"
+        },
+        {
+          "title": "A股再上4000会带来牛市吗",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E5%86%8D%E4%B8%8A4000%E4%BC%9A%E5%B8%A6%E6%9D%A5%E7%89%9B%E5%B8%82%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时16分]"
         },
         {
           "title": "三花智控A股午后拉升触及涨停，股价创历史新高；三花智控港股涨超8%。",
@@ -1385,6 +1609,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "A股4000点昙花一现 走还是留",
+          "url": "https://www.toutiao.com/trending/7566188856379182643/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "A股收复4000点 牛市真来了吗",
           "url": "https://www.toutiao.com/trending/7566126894614056502/",
           "source": "今日头条",
@@ -1421,8 +1656,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时20分 ~ 18时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时20分 ~ 19时16分]"
         },
         {
           "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
@@ -1464,7 +1699,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1608,7 +1843,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }
@@ -1627,8 +1862,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时20分 ~ 18时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时20分 ~ 19时16分]"
         },
         {
           "title": "中国贸促会组织中国企业家代表团访问马来西亚",
