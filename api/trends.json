@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T09:20:42.236070+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2025-10-29T11:16:00.232268+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 09时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 11时16分]"
         },
         {
           "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
@@ -44,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时17分 ~ 09时20分]"
+          "appearance_count": 8,
+          "time_info": "[05时17分 ~ 11时16分]"
         },
         {
           "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
@@ -160,6 +160,18 @@
           "time_info": "[03时15分 ~ 04时20分]"
         },
         {
+          "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
+          "url": "https://wallstreetcn.com/articles/3758074",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 11时16分]"
+        },
+        {
           "title": "苹果计划在MacBook Air和iPad产品线升级显示屏，iPad mini或将涨价100美元",
           "url": "https://wallstreetcn.com/livenews/2995371",
           "source": "华尔街见闻-快讯",
@@ -170,6 +182,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时18分]"
+        },
+        {
+          "title": "黄仁勋坚称AI热潮并未泡沫，携全新合作伙伴进军各大前沿领域！",
+          "url": "https://www.cls.cn/detail/2184178",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "英伟达CEO黄仁勋准备披露与三星和现代的AI交易。",
@@ -196,6 +219,28 @@
           "time_info": "[06时18分 ~ 07时16分]"
         },
         {
+          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
+          "url": "https://wallstreetcn.com/articles/3758104",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
+          "url": "https://www.cls.cn/detail/2184173",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
           "title": "苹果计划为MacBook Air、iPad Air等搭载OLED屏幕",
           "url": "https://flash.jin10.com/detail/20251029050455312800",
           "source": "金十数据",
@@ -206,6 +251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时16分]"
+        },
+        {
+          "title": "英伟达官宣拟10亿美元入股诺基亚 携手加速AI-RAN与6G革命",
+          "url": "https://www.cls.cn/detail/2184072",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
@@ -252,17 +308,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
-          "url": "https://wallstreetcn.com/articles/3758074",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
         },
         {
           "title": "英伟达将对诺基亚实施10亿美元股权投资，从而推动AI网络",
@@ -359,7 +404,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -499,7 +544,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 47,
       "titles": [
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -562,13 +607,46 @@
           "time_info": "[00时35分 ~ 09时20分]"
         },
         {
+          "title": "“美方没回应”，特朗普高市谈完未举行记者会",
+          "url": "https://news.ifeng.com/c/8npPbg5dPvS",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 11时16分]"
+        },
+        {
+          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
+          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 11时16分]"
+        },
+        {
+          "title": "特朗普吐槽美航母电磁弹射又贵又难用",
+          "url": "https://www.toutiao.com/trending/7566252257503707179/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
           "title": "高市早苗被特朗普搂肩称赞 高兴蹦跳",
           "url": "https://www.toutiao.com/trending/7565803485716106795/",
           "source": "今日头条",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -590,7 +668,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -628,35 +706,13 @@
           "time_info": "07时16分"
         },
         {
-          "title": "“美方没回应”，特朗普高市谈完未举行记者会",
-          "url": "https://news.ifeng.com/c/8npPbg5dPvS",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
           "title": "特朗普将于当地时间上午10:30抵达韩国金海机场。",
           "url": "https://wallstreetcn.com/livenews/2995468",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
-          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -698,6 +754,18 @@
           "time_info": "[02时29分 ~ 03时15分]"
         },
         {
+          "title": "特朗普访日在美士兵面前即兴起舞",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E6%97%A5%E5%9C%A8%E7%BE%8E%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D%E5%8D%B3%E5%85%B4%E8%B5%B7%E8%88%9E",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 11时16分]"
+        },
+        {
           "title": "特朗普媒体与科技公司：“真相社交”将与Crypto.com合作，即将开始在“真相社交”上进行测试，随后将在美国全面推出。",
           "url": "https://flash.jin10.com/detail/20251029042335854800",
           "source": "金十数据",
@@ -708,6 +776,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时18分]"
+        },
+        {
+          "title": "美日首脑会晤：为“美国核电超级大单”买单，高市成功取悦特朗普",
+          "url": "https://wallstreetcn.com/articles/3758090",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "美国证交会文件显示，特朗普媒体与科技公司宣布将在“真相社交”平台推出预测市场。",
@@ -734,6 +813,17 @@
           "time_info": "[04时20分 ~ 05时18分]"
         },
         {
+          "title": "特朗普演讲时一把搂住高市早苗",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E6%97%B6%E4%B8%80%E6%8A%8A%E6%90%82%E4%BD%8F%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
           "title": "芝加哥大豆期货涨0.8%，豆粕涨约2.8%，特朗普降价“呼声”拖累饲牛期货跌约2.9%",
           "url": "https://wallstreetcn.com/livenews/2995320",
           "source": "华尔街见闻-快讯",
@@ -744,6 +834,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 04时20分]"
+        },
+        {
+          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "特朗普到底想不想俄乌停战",
+          "url": "https://www.toutiao.com/trending/7566442804163907078/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "美国联邦法官计划阻挠总统特朗普在政府关门期间裁员。",
@@ -801,15 +913,15 @@
           "time_info": "00时35分"
         },
         {
-          "title": "特朗普访日在美士兵面前即兴起舞",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E6%97%A5%E5%9C%A8%E7%BE%8E%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D%E5%8D%B3%E5%85%B4%E8%B5%B7%E8%88%9E",
-          "source": "百度热搜",
+          "title": "特朗普抵达韩国。",
+          "url": "https://wallstreetcn.com/livenews/2995543",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "11时16分"
         },
         {
           "title": "特朗普称轰炸广岛长崎只是小冲突",
@@ -818,9 +930,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "韩国称，特朗普将与李在明举行午宴峰会，特朗普和李在明将在峰会上讨论贸易和联盟现代化问题。",
+          "url": "https://wallstreetcn.com/livenews/2995537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "WTI原油期货维持超过2%的跌幅，持稳于60美元关口附近。 哈马斯宣布推迟当地时间10月28日的以色列人质尸体移交工作，因为对方违反（美国总统特朗普撮合的）约定。",
@@ -834,13 +957,24 @@
           "time_info": "01时19分"
         },
         {
+          "title": "英伟达股价在ALT交易所上涨8.5%，此前特朗普在讲话中谈及Blackwell芯片。",
+          "url": "https://wallstreetcn.com/livenews/2995531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
           "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -873,7 +1007,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -974,6 +1108,19 @@
           "time_info": "[00时35分 ~ 09时20分]"
         },
         {
+          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
+          "url": "https://www.cls.cn/detail/2184098",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时17分 ~ 11时16分]"
+        },
+        {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
           "url": "https://wallstreetcn.com/articles/3758056",
           "source": "华尔街见闻",
@@ -988,19 +1135,6 @@
           "time_info": "[03时14分 ~ 07时16分]"
         },
         {
-          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
-          "url": "https://www.cls.cn/detail/2184098",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时17分 ~ 09时20分]"
-        },
-        {
           "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
           "url": "https://flash.jin10.com/detail/20251029040108535800",
           "source": "金十数据",
@@ -1012,6 +1146,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时20分 ~ 06时18分]"
+        },
+        {
+          "title": "美股三大股指续创新高 英伟达涨近5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E7%BB%AD%E5%88%9B%E6%96%B0%E9%AB%98+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%BF%915%25",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 11时16分]"
         },
         {
           "title": "费城金银指数收涨1.28%，报278.09点。 纽约证交所ARCA金矿开采商指数收涨0.30%，报1980.77点；北京时间21:30美股开盘之前维持跌势、持稳于1960点附近，之后跳空“低开”、逼近1930点，随后反弹并逐步上涨。 金银矿业股多数收涨，科尔黛伦矿业涨3.39%，赫克拉矿业涨3.16%，金田涨2.66%，金矿股ETF涨1.59%，泛美白银涨1.47%，黄金矿工因素指数ETF涨1.43%，白银ETF涨0.71%。 黄金ETF则至少收跌0.72%，B2Gold跌1.21%，Blue Gold跌7.76%。",
@@ -1096,17 +1242,6 @@
           "time_info": "01时19分"
         },
         {
-          "title": "美股三大股指续创新高 英伟达涨近5%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E7%BB%AD%E5%88%9B%E6%96%B0%E9%AB%98+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%BF%915%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
           "title": "美股三大股指走高，纳指涨超1%，标普500指数涨0.43%，道指涨0.57%。",
           "url": "https://flash.jin10.com/detail/20251029030928567800",
           "source": "金十数据",
@@ -1135,7 +1270,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         }
@@ -1152,7 +1287,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -1228,11 +1363,29 @@
             18,
             17,
             9,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时17分 ~ 09时20分]"
+          "appearance_count": 8,
+          "time_info": "[05时17分 ~ 11时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "隔夜金价一度跌破3900美元，投行纷纷下调黄金价格预期；特朗普又向鲍威尔“开炮”，称其不是无能就是坏；在政府停摆、数据缺失的背景下，万众瞩目的美联储决议将于明日凌晨公布，当前黄金空头占优，白银卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251029105537246800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     }
