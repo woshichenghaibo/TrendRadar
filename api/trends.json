@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T21:32:09.996407+08:00",
-  "total_titles_processed": 1987,
+  "generated_at": "2025-10-29T22:18:54.566555+08:00",
+  "total_titles_processed": 2093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 129,
+      "match_count": 132,
       "titles": [
         {
           "title": "习近平将同特朗普举行会晤",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时19分 ~ 21时32分]"
+          "appearance_count": 11,
+          "time_info": "[15时19分 ~ 22时18分]"
         },
         {
           "title": "“美方没回应”，特朗普高市谈完未举行记者会",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时18分 ~ 21时32分]"
+          "appearance_count": 14,
+          "time_info": "[13时18分 ~ 22时18分]"
         },
         {
           "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
@@ -59,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[16时25分 ~ 22时18分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -70,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[16时25分 ~ 22时18分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -81,8 +81,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[16时25分 ~ 22时18分]"
+        },
+        {
+          "title": "特朗普欲降低关税换取中方遏制芬太尼出口，中方回应",
+          "url": "https://news.ifeng.com/c/8nqc7tZlYVp",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时25分 ~ 22时18分]"
+        },
+        {
+          "title": "习近平将同美国总统特朗普举行会晤",
+          "url": "https://wallstreetcn.com/articles/3758164",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时25分 ~ 22时18分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -96,16 +121,15 @@
           "time_info": "[16时25分 ~ 21时32分]"
         },
         {
-          "title": "特朗普欲降低关税换取中方遏制芬太尼出口，中方回应",
-          "url": "https://news.ifeng.com/c/8nqc7tZlYVp",
+          "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
+          "url": "https://news.ifeng.com/c/8nqaruILXu7",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时32分]"
+          "time_info": "[17时18分 ~ 22时18分]"
         },
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -118,19 +142,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时35分 ~ 07时16分]"
-        },
-        {
-          "title": "习近平将同美国总统特朗普举行会晤",
-          "url": "https://wallstreetcn.com/articles/3758164",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时32分]"
         },
         {
           "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
@@ -155,17 +166,6 @@
           "time_info": "[12时24分 ~ 17时18分]"
         },
         {
-          "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
-          "url": "https://news.ifeng.com/c/8nqaruILXu7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时18分 ~ 21时32分]"
-        },
-        {
           "title": "习近平将同美国总统特朗普举行会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_31851071",
           "source": "澎湃新闻",
@@ -173,8 +173,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时19分 ~ 21时32分]"
+          "appearance_count": 7,
+          "time_info": "[18时19分 ~ 22时18分]"
+        },
+        {
+          "title": "特朗普：未能协调好与金正恩会晤时间",
+          "url": "https://news.ifeng.com/c/8nqg7u7QlJH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时19分 ~ 22时18分]"
         },
         {
           "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
@@ -199,17 +210,6 @@
           "time_info": "[00时35分 ~ 07时16分]"
         },
         {
-          "title": "特朗普：未能协调好与金正恩会晤时间",
-          "url": "https://news.ifeng.com/c/8nqg7u7QlJH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时19分 ~ 21时32分]"
-        },
-        {
           "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
           "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
           "source": "澎湃新闻",
@@ -221,8 +221,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时15分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[11时15分 ~ 22时18分]"
         },
         {
           "title": "特朗普欲降低关税换取中方遏制芬太尼出口，外交部：美方应为合作创造必要条件",
@@ -270,6 +270,44 @@
           "time_info": "[09时20分 ~ 20时37分]"
         },
         {
+          "title": "李在明向特朗普赠送金色王冠和大勋章，特朗普：我现在就想戴",
+          "url": "https://v.ifeng.com/c/8nqcHK4xyyI",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时19分 ~ 22时18分]"
+        },
+        {
+          "title": "特朗普：未能协调好与金正恩会晤时间",
+          "url": "https://www.toutiao.com/trending/7566454857181396998/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 22时18分]"
+        },
+        {
+          "title": "特朗普：未能协调好与金正恩会晤时间",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E8%83%BD%E5%8D%8F%E8%B0%83%E5%A5%BD%E4%B8%8E%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E6%99%A4%E6%97%B6%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            17,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时19分 ~ 22时18分]"
+        },
+        {
           "title": "特朗普吐槽美航母电磁弹射又贵又难用",
           "url": "https://www.toutiao.com/trending/7566252257503707179/",
           "source": "今日头条",
@@ -279,17 +317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时15分 ~ 11时16分]"
-        },
-        {
-          "title": "李在明向特朗普赠送金色王冠和大勋章，特朗普：我现在就想戴",
-          "url": "https://v.ifeng.com/c/8nqcHK4xyyI",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时19分 ~ 21时32分]"
         },
         {
           "title": "高市早苗被特朗普搂肩称赞 高兴蹦跳",
@@ -325,17 +352,15 @@
           "time_info": "09时20分"
         },
         {
-          "title": "特朗普：未能协调好与金正恩会晤时间",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E8%83%BD%E5%8D%8F%E8%B0%83%E5%A5%BD%E4%B8%8E%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E6%99%A4%E6%97%B6%E9%97%B4",
-          "source": "百度热搜",
+          "title": "美加贸易谈判中止后 特朗普与卡尼首次会面",
+          "url": "https://wallstreetcn.com/livenews/2996053",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            17,
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时19分 ~ 21时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "特朗普抵韩 落地后专属BGM响起",
@@ -412,7 +437,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -507,18 +532,6 @@
           "time_info": "13时18分"
         },
         {
-          "title": "特朗普：未能协调好与金正恩会晤时间",
-          "url": "https://www.toutiao.com/trending/7566454857181396998/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 21时32分]"
-        },
-        {
           "title": "韩国拟赠特朗普金色王冠模型",
           "url": "https://www.toutiao.com/trending/7565866566953271346/",
           "source": "今日头条",
@@ -591,6 +604,19 @@
           "time_info": "[11时15分 ~ 19时16分]"
         },
         {
+          "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31851224",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 22时18分]"
+        },
+        {
           "title": "特朗普访日在美士兵面前即兴起舞",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E6%97%A5%E5%9C%A8%E7%BE%8E%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D%E5%8D%B3%E5%85%B4%E8%B5%B7%E8%88%9E",
           "source": "百度热搜",
@@ -638,18 +664,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时18分 ~ 14时29分]"
-        },
-        {
-          "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31851224",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 21时32分]"
         },
         {
           "title": "大V：特朗普一句话暴露美军大问题",
@@ -955,6 +969,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "在美国总统特朗普表示已与韩国达成贸易协议后，iShares MSCI韩国ETF股价上涨2.8%。",
+          "url": "https://flash.jin10.com/detail/20251029215807650800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "特朗普：韩国谈判非常厉害。 韩国已成为造船业的佼佼者。",
@@ -1276,6 +1301,17 @@
           "time_info": "09时20分"
         },
         {
+          "title": "大V：日韩在较劲谁能讨特朗普欢心",
+          "url": "https://www.toutiao.com/trending/7566597956187459108/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "美国总统特朗普：我们将拥有一个非常繁荣的造船业。",
           "url": "https://flash.jin10.com/detail/20251029122248320800",
           "source": "金十数据",
@@ -1477,7 +1513,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -1489,6 +1525,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时35分 ~ 07时16分]"
+        },
+        {
+          "title": "外交部回应黄仁勋AI芯片言论",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8BAI%E8%8A%AF%E7%89%87%E8%A8%80%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时18分 ~ 22时18分]"
         },
         {
           "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
@@ -1533,18 +1582,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时15分 ~ 17时18分]"
-        },
-        {
-          "title": "外交部回应黄仁勋AI芯片言论",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8BAI%E8%8A%AF%E7%89%87%E8%A8%80%E8%AE%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时18分 ~ 21时32分]"
         },
         {
           "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
@@ -1601,6 +1638,19 @@
           "time_info": "[17时18分 ~ 21时32分]"
         },
         {
+          "title": "中方回应黄仁勋称美AI芯片需出口中国",
+          "url": "https://www.toutiao.com/trending/7566339492316024361/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时19分 ~ 22时18分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
           "url": "https://flash.jin10.com/detail/20251029020349283800",
           "source": "金十数据",
@@ -1612,19 +1662,6 @@
           "time_info": "02时29分"
         },
         {
-          "title": "中方回应黄仁勋称美AI芯片需出口中国",
-          "url": "https://www.toutiao.com/trending/7566339492316024361/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时19分 ~ 21时32分]"
-        },
-        {
           "title": "老年人需要 AI 吗？当未来已来，我们能为长辈做些什么小事？",
           "url": "https://www.zhihu.com/question/1961814182115632287",
           "source": "知乎",
@@ -1634,6 +1671,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时28分 ~ 17时18分]"
+        },
+        {
+          "title": "网民用AI编造散播谣言被处罚",
+          "url": "https://www.douyin.com/hot/2287291",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 22时18分]"
         },
         {
           "title": "英伟达与美国能源部和美企合作建设国家AI基础设施",
@@ -1713,17 +1761,6 @@
           "time_info": "02时29分"
         },
         {
-          "title": "网民用AI编造散播谣言被处罚",
-          "url": "https://www.douyin.com/hot/2287291",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 21时32分]"
-        },
-        {
           "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
           "url": "https://wallstreetcn.com/livenews/2995394",
           "source": "华尔街见闻-快讯",
@@ -1760,6 +1797,17 @@
           "time_info": "[18时19分 ~ 20时37分]"
         },
         {
+          "title": "基金三季报重仓榜揭晓：这是茅台的“黄昏”，更是AI硬科技的“黎明”",
+          "url": "https://wallstreetcn.com/articles/3758110",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时18分]"
+        },
+        {
           "title": "苹果计划在MacBook Air和iPad产品线升级显示屏，iPad mini或将涨价100美元",
           "url": "https://wallstreetcn.com/livenews/2995371",
           "source": "华尔街见闻-快讯",
@@ -1794,17 +1842,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时16分]"
-        },
-        {
-          "title": "基金三季报重仓榜揭晓：这是茅台的“黄昏”，更是AI硬科技的“黎明”",
-          "url": "https://wallstreetcn.com/articles/3758110",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "苹果计划为MacBook Air、iPad Air等搭载OLED屏幕",
@@ -2184,6 +2221,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "证监会：探索开展“AI+资本市场”金融科技创新专项试点",
+          "url": "https://wallstreetcn.com/livenews/2996021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "OpenAI首席财务官：我们希望与世界各国政府合作，推广我们的技术，这种技术也能为美国带来一种软实力。",
           "url": "https://flash.jin10.com/detail/20251029144659448800",
           "source": "金十数据",
@@ -2201,7 +2249,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
@@ -2209,7 +2257,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -2400,7 +2448,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2438,6 +2486,17 @@
           "time_info": "17时18分"
         },
         {
+          "title": "美股盘初：半导体股普涨，英伟达成为史上首家市值站上5万亿美元的公司",
+          "url": "https://wallstreetcn.com/livenews/2996031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "美股三大股指走高，纳指涨超1%，标普500指数涨0.43%，道指涨0.57%。",
           "url": "https://flash.jin10.com/detail/20251029030928567800",
           "source": "金十数据",
@@ -2447,6 +2506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "金十图示：2025年10月29日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251029215338456800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨将近5%，获得其股权投资的诺基亚ADR涨约23%",
@@ -2496,7 +2566,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "7.38万亿！公募持A股市值创新高，宁德时代蝉联头号重仓股",
@@ -2505,11 +2575,12 @@
           "ranks": [
             10,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时18分 ~ 21时32分]"
+          "appearance_count": 8,
+          "time_info": "[17时18分 ~ 22时18分]"
         },
         {
           "title": "A股大涨！沪指站上4000点，北证50狂飙超8%，光伏产业链爆发，沪铜创历史新高",
@@ -2521,8 +2592,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时19分 ~ 21时32分]"
+          "appearance_count": 7,
+          "time_info": "[18时19分 ~ 22时18分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-10-29）",
@@ -2566,7 +2637,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2580,6 +2651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "又一大行调查显示：外资连续三个月加仓A股 9月持仓量已达近五年新高",
+          "url": "https://www.cls.cn/detail/2184990",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "A股尾盘铜矿股异动拉升，江西铜业触及涨停，云南铜业、北方铜业、铜陵有色、洛阳钼业、金诚信等跟涨",
@@ -2692,7 +2774,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
