@@ -1,40 +1,29 @@
 {
-  "generated_at": "2025-10-30T09:21:52.604355+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2025-10-30T11:10:25.527734+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 41,
       "titles": [
-        {
-          "title": "习近平将同美国总统特朗普举行会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31851071",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时34分 ~ 09时21分]"
-        },
-        {
-          "title": "习近平将同特朗普举行会晤",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时34分 ~ 09时21分]"
-        },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
           "url": "https://wallstreetcn.com/articles/3758164",
           "source": "华尔街见闻",
           "ranks": [
             2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时34分 ~ 11时10分]"
+        },
+        {
+          "title": "习近平将同特朗普举行会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
             1
           ],
           "is_new": false,
@@ -75,6 +64,18 @@
           "time_info": "[04时34分 ~ 07时19分]"
         },
         {
+          "title": "习近平将同美国总统特朗普举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31851071",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时34分 ~ 11时10分]"
+        },
+        {
           "title": "特朗普欲降低关税换取中方遏制芬太尼出口，中方回应",
           "url": "https://news.ifeng.com/c/8nqc7tZlYVp",
           "source": "凤凰网",
@@ -103,11 +104,24 @@
           "ranks": [
             15,
             17,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时34分 ~ 09时21分]"
+          "appearance_count": 8,
+          "time_info": "[04时34分 ~ 11时10分]"
+        },
+        {
+          "title": "特朗普：相信美中将达成协议，会带来令人兴奋的东西",
+          "url": "https://news.ifeng.com/c/8nrhIL4dt2o",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 11时10分]"
         },
         {
           "title": "李在明向特朗普赠送金色王冠和大勋章，特朗普：我现在就想戴",
@@ -121,15 +135,48 @@
           "time_info": "[04时34分 ~ 07时19分]"
         },
         {
-          "title": "特朗普：相信美中将达成协议，会带来令人兴奋的东西",
-          "url": "https://news.ifeng.com/c/8nrhIL4dt2o",
+          "title": "美国民主党人报告：特朗普自我挖坑，给了中国底牌",
+          "url": "https://news.ifeng.com/c/8nrmtlqWVtM",
           "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 11时10分]"
+        },
+        {
+          "title": "习近平同特朗普会晤开始",
+          "url": "https://www.toutiao.com/trending/7566827332992880174/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "11时10分"
+        },
+        {
+          "title": "习近平同美国总统特朗普会晤开始",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%E5%BC%80%E5%A7%8B",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "习近平同特朗普在韩国举行会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9F%A9%E5%9B%BD%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "美国总统特朗普：由于其他国家的测试计划，我已指示国防部开始以同等规模测试我们的核武器。程序将立即启动。",
@@ -138,7 +185,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -155,15 +202,48 @@
           "time_info": "[04时34分 ~ 07时19分]"
         },
         {
-          "title": "美国民主党人报告：特朗普自我挖坑，给了中国底牌",
-          "url": "https://news.ifeng.com/c/8nrmtlqWVtM",
+          "title": "特朗普：相信我们将建立长期良好关系",
+          "url": "https://www.toutiao.com/trending/7566661509154131492/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "习近平同美国总统特朗普在韩国釜山举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854252",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普称贸易协议“几乎敲定”，韩国确认对美投资2000亿美元",
+          "url": "https://news.ifeng.com/c/8nr4aV0B7Kq",
           "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "中断30逾年 特朗普下令重启核武器试验",
+          "url": "https://flash.jin10.com/detail/20251030102048306800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "11时10分"
         },
         {
           "title": "美国总统特朗普：我（我们！）刚刚在气候变化骗局的战斗中获胜。微软(MSFT.O)联合创始人比尔·盖茨终于承认他在这个问题上完全错误。这样做需要勇气，为此我们都表示感谢。",
@@ -214,6 +294,17 @@
           "time_info": "[06时17分 ~ 07时19分]"
         },
         {
+          "title": "迎接特朗普，高市早苗笑了一天",
+          "url": "https://news.ifeng.com/c/8nrJZ12ddrh",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 11时10分]"
+        },
+        {
           "title": "美国总统特朗普：韩国已同意向美国支付3500亿美元，以降低美国对其征收的关税。他们已同意大量购买我们的油气，而且韩国富裕企业和商人的对美投资将超过6000亿美元。",
           "url": "https://flash.jin10.com/detail/20251030052058476800",
           "source": "金十数据",
@@ -238,6 +329,18 @@
           "time_info": "[05时21分 ~ 06时17分]"
         },
         {
+          "title": "特朗普与卡尼在韩国会面",
+          "url": "https://www.toutiao.com/trending/7566635154380734500/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 11时10分]"
+        },
+        {
           "title": "美国总统特朗普：韩国将在费城造船厂建造其核动力潜艇。",
           "url": "https://flash.jin10.com/detail/20251030061319434800",
           "source": "金十数据",
@@ -249,15 +352,15 @@
           "time_info": "07时19分"
         },
         {
-          "title": "迎接特朗普，高市早苗笑了一天",
-          "url": "https://news.ifeng.com/c/8nrJZ12ddrh",
-          "source": "凤凰网",
+          "title": "日本内阁官房长官木原稔：对于美国总统特朗普在社交媒体上发布的指示恢复核武器试验的帖子，不予置评。",
+          "url": "https://flash.jin10.com/detail/20251030101933445800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "11时10分"
         },
         {
           "title": "美国参议院获得足够票数通过决议，推翻特朗普对加拿大加征的关税。",
@@ -277,7 +380,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -293,15 +396,15 @@
           "time_info": "06时17分"
         },
         {
-          "title": "特朗普与卡尼在韩国会面",
-          "url": "https://www.toutiao.com/trending/7566635154380734500/",
+          "title": "报告称特朗普自我挖坑给了中国底牌",
+          "url": "https://www.toutiao.com/trending/7566186370935537710/",
           "source": "今日头条",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "11时10分"
         },
         {
           "title": "鲍威尔：（特朗普政府）在任命下一位美联储主席方面走了一半的路。 这个程序将及时完成。",
@@ -313,6 +416,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "习近平同美国总统特朗普会晤开始",
+          "url": "https://wallstreetcn.com/livenews/2996391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "中美元首会晤前 美国总统特朗普抵达会晤现场",
+          "url": "https://wallstreetcn.com/livenews/2996383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "评论员：特朗普亚洲行成日韩争宠赛",
+          "url": "https://www.toutiao.com/trending/7566615433525071414/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普在韩演讲谈及俄乌冲突",
+          "url": "https://www.toutiao.com/trending/7566452631020617782/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "习近平将同美国总统特朗普在釜山举行会晤",
+          "url": "https://wallstreetcn.com/livenews/2996374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         }
       ]
     },
@@ -343,8 +501,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时34分 ~ 09时21分]"
+          "appearance_count": 8,
+          "time_info": "[04时34分 ~ 11时10分]"
         },
         {
           "title": "网民用AI编造散播谣言被处罚",
@@ -418,6 +576,18 @@
           "time_info": "[06时17分 ~ 07时19分]"
         },
         {
+          "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
+          "url": "https://www.cls.cn/detail/2185393",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 11时10分]"
+        },
+        {
           "title": "扎克伯格：现在考虑人工智能（AI）产品的利润还显得操之过急。",
           "url": "https://wallstreetcn.com/livenews/2996232",
           "source": "华尔街见闻-快讯",
@@ -428,6 +598,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时19分]"
+        },
+        {
+          "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
+          "url": "https://www.cls.cn/detail/2185569",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 11时10分]"
         },
         {
           "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
@@ -454,26 +635,15 @@
           "time_info": "[06时17分 ~ 07时19分]"
         },
         {
-          "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
-          "url": "https://www.cls.cn/detail/2185393",
-          "source": "财联社热门",
+          "title": "OpenAI计划于2027年上市",
+          "url": "https://www.douyin.com/hot/2288033",
+          "source": "抖音",
           "ranks": [
-            8
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
-          "url": "https://www.cls.cn/detail/2185569",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 11时10分]"
         },
         {
           "title": "微软(MSFT.O)CEO：GitHub目前拥有1.8亿开发者；第一季度Copilot平台上的AI代理用户总数环比翻番。",
@@ -520,17 +690,6 @@
           "time_info": "07时19分"
         },
         {
-          "title": "OpenAI计划于2027年上市",
-          "url": "https://www.douyin.com/hot/2288033",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
           "title": "谷歌母公司Alphabet首席财务官（CFO）Anat Ashkenazi：谷歌云增速得到企业AI产品的支持。",
           "url": "https://wallstreetcn.com/livenews/2996247",
           "source": "华尔街见闻-快讯",
@@ -548,7 +707,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         }
@@ -567,8 +726,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 09时21分]"
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 11时10分]"
+        },
+        {
+          "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
+          "url": "https://wallstreetcn.com/articles/3758166",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 11时10分]"
         },
         {
           "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。",
@@ -582,17 +754,6 @@
           "time_info": "05时21分"
         },
         {
-          "title": "鲍威尔一句话掀翻市场 美股盘中跳水",
-          "url": "https://www.toutiao.com/trending/7566623844883431451/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
           "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
           "url": "https://wallstreetcn.com/articles/3758166",
           "source": "华尔街见闻",
@@ -603,18 +764,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时34分 ~ 06时17分]"
-        },
-        {
-          "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
-          "url": "https://wallstreetcn.com/articles/3758166",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 09时21分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms Inc.三季度营收512.4亿美元，分析师预期495.9亿美元。 三季度广告收入500.8亿美元，分析师预期485.9亿美元。 三季度运营利润205.4亿美元，同比增长18%。 因税单而一次性计提159.3亿美元非现金费用。 预计全年总体开支1160亿-1180亿美元，公司原本预计1140亿-1180亿美元。 预计四季度总体收入将介于560亿-590亿美元。 Meta美股盘后跌8.7%。",
@@ -639,6 +788,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时21分]"
+        },
+        {
+          "title": "鲍威尔一句话掀翻市场 美股盘中跳水",
+          "url": "https://www.toutiao.com/trending/7566623844883431451/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 11时10分]"
+        },
+        {
+          "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
+          "url": "https://wallstreetcn.com/articles/3758225",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 11时10分]"
         },
         {
           "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
@@ -689,17 +862,6 @@
           "time_info": "[04时35分 ~ 05时21分]"
         },
         {
-          "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
-          "url": "https://wallstreetcn.com/articles/3758225",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
           "title": "微软美股盘后跌幅收窄至3.4%。",
           "url": "https://wallstreetcn.com/livenews/2996252",
           "source": "华尔街见闻-快讯",
@@ -736,7 +898,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "A股大涨！沪指站上4000点，北证50狂飙超8%，光伏产业链爆发，沪铜创历史新高",
@@ -747,8 +909,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时34分 ~ 09时21分]"
+          "appearance_count": 8,
+          "time_info": "[04时34分 ~ 11时10分]"
         },
         {
           "title": "又一大行调查显示：外资连续三个月加仓A股 9月持仓量已达近五年新高",
@@ -780,9 +942,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "A股工业母机概念表现活跃，华东数控涨停，宇环数控此前涨停，欧科亿、华锐精密涨超5%，沃尔德、海天精工、科德数控等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2996398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "A股早盘游戏板块震荡下挫，巨人网络跌超9%，盛天网络、恺英网络、顺网科技、吉比特均跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/2996389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "溜溜梅母公司二度递表港交所：对赌大限将至，6年前主动撤回A股上市申请",
@@ -791,7 +975,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         }
@@ -799,7 +983,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数29日上涨",
@@ -837,6 +1021,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时21分]"
+        },
+        {
+          "title": "美元指数DXY回落至99下方，日内跌0.13%。",
+          "url": "https://flash.jin10.com/detail/20251030101059906800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         }
       ]
     },
@@ -865,6 +1060,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国企",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国企业拿下66亿元国外大单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E6%8B%BF%E4%B8%8B66%E4%BA%BF%E5%85%83%E5%9B%BD%E5%A4%96%E5%A4%A7%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         }
       ]
     }
