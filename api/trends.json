@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T22:19:34.063039+08:00",
-  "total_titles_processed": 1896,
+  "generated_at": "2025-10-30T23:21:23.154979+08:00",
+  "total_titles_processed": 1977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 101,
+      "match_count": 104,
       "titles": [
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -57,6 +57,19 @@
           "time_info": "[12时21分 ~ 18时20分]"
         },
         {
+          "title": "特朗普批准韩国在美建造核动力潜艇",
+          "url": "https://news.ifeng.com/c/8nsFayRT4WM",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时24分 ~ 23时21分]"
+        },
+        {
           "title": "习近平将同特朗普举行会晤",
           "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
           "source": "bilibili 热搜",
@@ -102,6 +115,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时21分 ~ 17时20分]"
+        },
+        {
+          "title": "特朗普：给中美元首会晤打12分",
+          "url": "https://www.toutiao.com/trending/7566587793552719878/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 23时21分]"
         },
         {
           "title": "会晤结束后 特朗普送习近平上车",
@@ -160,19 +187,6 @@
           "time_info": "[11时10分 ~ 21时30分]"
         },
         {
-          "title": "特朗普批准韩国在美建造核动力潜艇",
-          "url": "https://news.ifeng.com/c/8nsFayRT4WM",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 22时19分]"
-        },
-        {
           "title": "习近平将同美国总统特朗普举行会晤",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
           "source": "百度热搜",
@@ -205,19 +219,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时18分 ~ 20时36分]"
-        },
-        {
-          "title": "特朗普：给中美元首会晤打12分",
-          "url": "https://www.toutiao.com/trending/7566587793552719878/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 22时19分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -254,6 +255,17 @@
           "time_info": "[04时34分 ~ 07时19分]"
         },
         {
+          "title": "习近平与特朗普会晤 完整视频",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%20%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时36分 ~ 23时21分]"
+        },
+        {
           "title": "会晤结束后特朗普送习近平上车",
           "url": "https://www.douyin.com/hot/2288460",
           "source": "抖音",
@@ -273,8 +285,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时25分 ~ 22时19分]"
+          "appearance_count": 12,
+          "time_info": "[14时25分 ~ 23时21分]"
         },
         {
           "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
@@ -305,15 +317,15 @@
           "time_info": "[13时17分 ~ 16时24分]"
         },
         {
-          "title": "习近平与特朗普会晤 完整视频",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%20%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
+          "title": "金正恩为何不见特朗普？",
+          "url": "https://v.ifeng.com/c/8nsXkNaHAu2",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 22时19分]"
+          "appearance_count": 5,
+          "time_info": "[20时36分 ~ 23时21分]"
         },
         {
           "title": "习近平同美国总统特朗普会晤",
@@ -353,17 +365,6 @@
           "time_info": "[12时21分 ~ 14时26分]"
         },
         {
-          "title": "金正恩为何不见特朗普？",
-          "url": "https://v.ifeng.com/c/8nsXkNaHAu2",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 22时19分]"
-        },
-        {
           "title": "会晤全文公布！特朗普邀习近平访美",
           "url": "https://www.toutiao.com/trending/7566339492324347455/",
           "source": "今日头条",
@@ -373,6 +374,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时26分 ~ 16时24分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普在釜山举行会晤",
+          "url": "https://wallstreetcn.com/articles/3758273",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时20分 ~ 23时21分]"
         },
         {
           "title": "特朗普：相信美中将达成协议，会带来令人兴奋的东西",
@@ -387,6 +400,29 @@
           "time_info": "[09时21分 ~ 12时21分]"
         },
         {
+          "title": "特朗普称将下令美航母改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8nsP1iIULjB",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 23时21分]"
+        },
+        {
+          "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855712",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时36分 ~ 23时21分]"
+        },
+        {
           "title": "迎接特朗普，高市早苗笑了一天",
           "url": "https://news.ifeng.com/c/8nrJZ12ddrh",
           "source": "凤凰网",
@@ -397,18 +433,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时21分 ~ 15时18分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普在釜山举行会晤",
-          "url": "https://wallstreetcn.com/articles/3758273",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时20分 ~ 22时19分]"
         },
         {
           "title": "特朗普回应会晤",
@@ -435,17 +459,6 @@
           "time_info": "[04时34分 ~ 07时19分]"
         },
         {
-          "title": "特朗普称将下令美航母改回蒸汽弹射",
-          "url": "https://news.ifeng.com/c/8nsP1iIULjB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 22时19分]"
-        },
-        {
           "title": "特朗普称贸易协议“几乎敲定”，韩国确认对美投资2000亿美元",
           "url": "https://news.ifeng.com/c/8nr4aV0B7Kq",
           "source": "凤凰网",
@@ -468,16 +481,18 @@
           "time_info": "[12时21分 ~ 13时17分]"
         },
         {
-          "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855712",
+          "title": "特朗普：相信我们将建立长期良好的关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854436",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            2
+            9,
+            8,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 22时19分]"
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 23时21分]"
         },
         {
           "title": "韩国招待特朗普的午餐菜单曝光：主菜有米饭、泡菜、美国牛小排",
@@ -512,6 +527,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时20分 ~ 19时17分]"
+        },
+        {
+          "title": "特朗普给中美会晤打12分",
+          "url": "https://www.douyin.com/hot/2288755",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
         },
         {
           "title": "习近平同特朗普会晤开始",
@@ -613,17 +639,15 @@
           "time_info": "[17时20分 ~ 21时30分]"
         },
         {
-          "title": "特朗普：相信我们将建立长期良好的关系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31854436",
-          "source": "澎湃新闻",
+          "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
+          "url": "https://news.ifeng.com/c/8nsjoFyl6MY",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 22时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "特朗普透露计划明年4月访华",
@@ -637,17 +661,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[20时36分 ~ 22时19分]"
-        },
-        {
-          "title": "特朗普给中美会晤打12分",
-          "url": "https://www.douyin.com/hot/2288755",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "中断30逾年 特朗普下令重启核武器试验",
@@ -902,6 +915,17 @@
           "time_info": "18时20分"
         },
         {
+          "title": "25州起诉特朗普政府 要求法院阻止其暂停食品补助",
+          "url": "https://flash.jin10.com/detail/20251030230710150800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "美国总统特朗普：（就印度削减俄罗斯能源进口一事）印度在这方面做得非常好。",
           "url": "https://flash.jin10.com/detail/20251030130233592800",
           "source": "金十数据",
@@ -922,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
+        },
+        {
+          "title": "特朗普批准韩华费城造船厂建造核潜艇，外交部：望韩美切实履行核不扩散义务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855444",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "特朗普座驾现身韩国街头",
@@ -1202,7 +1237,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
@@ -1214,8 +1249,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时19分 ~ 22时19分]"
+          "appearance_count": 17,
+          "time_info": "[07时19分 ~ 23时21分]"
         },
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -1240,8 +1275,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时21分 ~ 22时19分]"
+          "appearance_count": 16,
+          "time_info": "[09时21分 ~ 23时21分]"
         },
         {
           "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。",
@@ -1266,17 +1301,6 @@
           "time_info": "[18时20分 ~ 21时30分]"
         },
         {
-          "title": "美股数字货币概念股下跌，嘉楠科技跌超7%，Coinbase Global跌近4%，MARA Holdings跌近4%。",
-          "url": "https://wallstreetcn.com/livenews/2996997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
           "title": "微软(MSFT.O)美股盘前下跌3.1%，此前公司警告称成本将上升。",
           "url": "https://flash.jin10.com/detail/20251030160543864800",
           "source": "金十数据",
@@ -1298,6 +1322,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时34分 ~ 06时17分]"
+        },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2186836",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 23时21分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms Inc.三季度营收512.4亿美元，分析师预期495.9亿美元。 三季度广告收入500.8亿美元，分析师预期485.9亿美元。 三季度运营利润205.4亿美元，同比增长18%。 因税单而一次性计提159.3亿美元非现金费用。 预计全年总体开支1160亿-1180亿美元，公司原本预计1140亿-1180亿美元。 预计四季度总体收入将介于560亿-590亿美元。 Meta美股盘后跌8.7%。",
@@ -1337,16 +1374,28 @@
           "time_info": "[04时35分 ~ 05时21分]"
         },
         {
-          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2186836",
-          "source": "财联社热门",
+          "title": "美股数字货币概念股下跌，嘉楠科技跌超7%，Coinbase Global跌近4%，MARA Holdings跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/2996997",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            4,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 22时19分]"
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
+        },
+        {
+          "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
         },
         {
           "title": "市场中午“惊魂”一刻：美股期货、数字货币等风险资产急跌后反弹，黄金冲高回落，日元下跌",
@@ -1397,6 +1446,18 @@
           "time_info": "[04时35分 ~ 05时21分]"
         },
         {
+          "title": "美股三大股指集体低开 Meta跌逾11%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+Meta%E8%B7%8C%E9%80%BE11%25",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
+        },
+        {
           "title": "金十图示：2025年10月29日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251030040527140800",
           "source": "金十数据",
@@ -1441,17 +1502,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
-        },
-        {
-          "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "诺和诺德提交收购Metséra公司的提案，竞标价格为每股56.50美元现金，外加每股21.25美元的CVR（或有价值权）。Metséra美股盘前大涨超18%。",
@@ -1570,7 +1620,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1584,6 +1634,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，金融业ETF、银行业ETF涨近1%，网络股指数ETF、可选消费ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2997005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。 该公司三季度同店销售增长0.3%，分析师预期增长0.99%。 三季度营收30亿美元，分析师预期30.2亿美元。 25-35岁年龄段Cohort顾客尤其（让公司）面临挑战。 由于客流量欠佳，公司在2025年第三次下调业绩指引。 通胀加速至0%-10%区间的中部。 公司不打算在2026年采取行动来（帮助顾客）应对通胀问题。",
@@ -1603,18 +1664,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美股三大股指集体低开 Meta跌逾11%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+Meta%E8%B7%8C%E9%80%BE11%25",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1633,7 +1683,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
@@ -1694,6 +1744,19 @@
           "time_info": "[09时21分 ~ 16时24分]"
         },
         {
+          "title": "UP主自制的AI眼镜发布了",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9A%84AI%E7%9C%BC%E9%95%9C%E5%8F%91%E5%B8%83%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时36分 ~ 23时21分]"
+        },
+        {
           "title": "网民用AI编造散播谣言被处罚",
           "url": "https://www.douyin.com/hot/2287291",
           "source": "抖音",
@@ -1717,28 +1780,28 @@
           "time_info": "[04时34分 ~ 07时19分]"
         },
         {
-          "title": "UP主自制的AI眼镜发布了",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9A%84AI%E7%9C%BC%E9%95%9C%E5%8F%91%E5%B8%83%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 22时19分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：将留意人工智能（AI）对（欧元区）劳动力市场的影响。",
-          "url": "https://wallstreetcn.com/livenews/2996996",
+          "title": "在人工智能（AI）需求激增之际，美国得州通过11亿美元贷款来支持天然气工厂。",
+          "url": "https://wallstreetcn.com/livenews/2997025",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "23时21分"
+        },
+        {
+          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
+          "url": "https://www.cls.cn/detail/2186587",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 23时21分]"
         },
         {
           "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
@@ -1816,6 +1879,18 @@
           "time_info": "[06时17分 ~ 07时19分]"
         },
         {
+          "title": "欧洲央行行长拉加德：将留意人工智能（AI）对（欧元区）劳动力市场的影响。",
+          "url": "https://wallstreetcn.com/livenews/2996996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
+        },
+        {
           "title": "OpenAI计划于2027年上市",
           "url": "https://www.douyin.com/hot/2288033",
           "source": "抖音",
@@ -1833,18 +1908,6 @@
           "ranks": [
             7,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 22时19分]"
-        },
-        {
-          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
-          "url": "https://www.cls.cn/detail/2186587",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1908,6 +1971,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时19分]"
+        },
+        {
+          "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31846731",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "微软(MSFT.O)CEO：GitHub目前拥有1.8亿开发者；第一季度Copilot平台上的AI代理用户总数环比翻番。",
@@ -2029,6 +2103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "特斯拉AI发布最新研究成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     },
@@ -2059,8 +2144,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 22时19分]"
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 23时21分]"
         },
         {
           "title": "股价跃居A股第三！“人气牛”28天翻倍，“高价天团”年内扩容，这些方向新晋较多",
@@ -2073,8 +2158,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 22时19分]"
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 23时21分]"
         },
         {
           "title": "又一大行调查显示：外资连续三个月加仓A股 9月持仓量已达近五年新高",
@@ -2136,6 +2221,18 @@
           "time_info": "[20时36分 ~ 21时30分]"
         },
         {
+          "title": "高毅、玄元、睿郡等知名私募重仓股曝光，31家百亿私募三季度现身117家A股前十大",
+          "url": "https://www.cls.cn/detail/2186759",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
+        },
+        {
           "title": "A股收盘：沪指跌0.73%失守4000点，锂电池板块走强",
           "url": "https://wallstreetcn.com/livenews/2996555",
           "source": "华尔街见闻-快讯",
@@ -2145,17 +2242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        },
-        {
-          "title": "高毅、玄元、睿郡等知名私募重仓股曝光，31家百亿私募三季度现身117家A股前十大",
-          "url": "https://www.cls.cn/detail/2186759",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "国投证券：A股机构投资者科技仓位突破40% 四季度风格切换可能性上升",
@@ -2238,8 +2324,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "COMEX铜期货下跌超过4%，现报5.0490美元/磅。 铜矿股普遍走低，美国铜指数基金跌3%，（加拿大）泰克资源跌2.8%，自由港跌2.5%，铜矿ETF跌2.3%，南方铜业公司跌2%。",
+          "url": "https://wallstreetcn.com/livenews/2997023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
         {
           "title": "美元指数29日上涨",
           "url": "https://flash.jin10.com/detail/20251030043131164800",
@@ -2336,8 +2433,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时25分 ~ 22时19分]"
+          "appearance_count": 12,
+          "time_info": "[14时25分 ~ 23时21分]"
         },
         {
           "title": "辛芷蕾 任何女性还是少听建议吧",
