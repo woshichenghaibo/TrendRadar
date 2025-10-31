@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T22:18:08.879901+08:00",
-  "total_titles_processed": 1997,
+  "generated_at": "2025-10-31T23:18:27.286302+08:00",
+  "total_titles_processed": 2080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -37,11 +37,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时10分 ~ 22时18分]"
+          "appearance_count": 18,
+          "time_info": "[11时10分 ~ 23时18分]"
         },
         {
           "title": "金正恩为何不见特朗普？",
@@ -81,8 +82,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时10分 ~ 22时18分]"
+          "appearance_count": 18,
+          "time_info": "[11时10分 ~ 23时18分]"
+        },
+        {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时18分 ~ 23时18分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -122,8 +135,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时18分 ~ 22时18分]"
+          "appearance_count": 19,
+          "time_info": "[09时18分 ~ 23时18分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -163,18 +176,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 09时18分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时18分 ~ 22时18分]"
         },
         {
           "title": "特朗普给中美会晤打12分",
@@ -630,6 +631,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "艾伯维CEO：美国总统特朗普的政府侧重于在IRA（个人退休账户）实施更大力度的（医药）降价。",
+          "url": "https://wallstreetcn.com/livenews/2997792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "特朗普称把很多台湾的生意带回美国",
           "url": "https://www.toutiao.com/trending/7566839980006866954/",
           "source": "今日头条",
@@ -724,7 +736,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -776,7 +788,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
@@ -816,8 +828,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时21分 ~ 22时18分]"
+          "appearance_count": 16,
+          "time_info": "[12时21分 ~ 23时18分]"
         },
         {
           "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
@@ -868,8 +880,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时37分 ~ 22时18分]"
+          "appearance_count": 6,
+          "time_info": "[20时37分 ~ 23时18分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -879,8 +891,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时37分 ~ 22时18分]"
+          "appearance_count": 6,
+          "time_info": "[20时37分 ~ 23时18分]"
+        },
+        {
+          "title": "Getty Images Holdings Inc.高开将近60%，随后逐步回吐涨幅，目前涨18%。 该公司宣布，与Perplexity AI达成持续多年的许可协议。",
+          "url": "https://wallstreetcn.com/livenews/2997796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
+          "url": "https://wallstreetcn.com/livenews/2997794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "硅谷大佬揭AI内幕：科技巨头们有意少报需要的资源规模",
@@ -978,6 +1012,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时10分 ~ 12时21分]"
+        },
+        {
+          "title": "毕马威绩效考核新标准：会用AI成员工必修课",
+          "url": "https://wallstreetcn.com/livenews/2997776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时18分]"
         },
         {
           "title": "OpenAI宣布推出Aardvark，一款由GPT-5驱动的自主网络安全研究代理。",
@@ -1087,17 +1133,6 @@
           "time_info": "06时19分"
         },
         {
-          "title": "毕马威绩效考核新标准：会用AI成员工必修课",
-          "url": "https://wallstreetcn.com/livenews/2997776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
           "title": "苹果(AAPL.O)CEO库克：iPhone Air在中国的发布延迟是导致第四财季中国区销售额下滑的“主要原因”。",
           "url": "https://flash.jin10.com/detail/20251031043441895800",
           "source": "金十数据",
@@ -1120,6 +1155,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "现代汽车与英伟达将为了机动车解决方案而打造AI工厂",
+          "url": "https://wallstreetcn.com/livenews/2997787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "英伟达(NVDA.O)与Naver Cloud、LG AI研究、SK电讯、NC AI和Upstage合作开发大型语言模型。",
           "url": "https://flash.jin10.com/detail/20251031142445285800",
           "source": "金十数据",
@@ -1140,6 +1186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "英伟达一度上涨大约2.5%，报207.97美元。 据FactSet，高盛在其业绩报告披露前上调未来12个月股价目标至240美元（之前为210美元）、重申评级为买入。 分析师James Schneider认为，在大型科技公司和云公司的AI基础设施需求的助推之下，英伟达业绩将继续表现强劲。",
+          "url": "https://wallstreetcn.com/livenews/2997800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "澎湃AI晚新闻丨2025年10月30日",
@@ -1244,7 +1301,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -1255,8 +1312,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时16分 ~ 22时18分]"
+          "appearance_count": 20,
+          "time_info": "[07时16分 ~ 23时18分]"
         },
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
@@ -1320,6 +1377,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
+          "url": "https://wallstreetcn.com/livenews/2997795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "苹果(AAPL.O)美股盘后涨1.6%，此前一度跌近3%。",
           "url": "https://flash.jin10.com/detail/20251031044225667800",
           "source": "金十数据",
@@ -1356,6 +1424,19 @@
           "time_info": "[04时21分 ~ 05时16分]"
         },
         {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 23时18分]"
+        },
+        {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
           "url": "https://wallstreetcn.com/articles/3758225",
           "source": "华尔街见闻",
@@ -1365,18 +1446,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 03时16分]"
-        },
-        {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 22时18分]"
         },
         {
           "title": "周五美股盘前你需要了解的全球要闻",
@@ -1425,6 +1494,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时38分 ~ 21时28分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨近3%，网络股指数ETF涨近2%，区域银行业ETF、银行业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2997769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时18分]"
         },
         {
           "title": "苹果(AAPL.O)美股盘后涨幅扩大至3%。",
@@ -1516,17 +1597,6 @@
           "time_info": "19时15分"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨近3%，网络股指数ETF涨近2%，区域银行业ETF、银行业ETF跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2997769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
           "title": "美股收盘：三大指数集体下跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
           "source": "百度热搜",
@@ -1544,7 +1614,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1566,9 +1636,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "房地美股价下跌7%，跌至当日低点。",
+          "url": "https://flash.jin10.com/detail/20251031222848337800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "房利美股价跌超10%，跌至8月11日以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20251031222759471800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美股盘初，主要行业ETF涨跌不一，金融业ETF、银行业ETF涨近1%，网络股指数ETF、可选消费ETF跌超1%。",
@@ -1710,11 +1802,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E6%80%A7%E7%9A%84%E5%88%9B%E9%80%A0%E5%8A%9B%E4%BC%9A%E5%8F%91%E5%85%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26pos%3D18%26dgr%3D0%26realpos%3D17%26filter_type%3Drealtimehot%26flag%3D1%26cate%3D5001%26c_type%3D31%26lcate%3D5001%26q%3D%2523%25E5%25A5%25B3%25E6%2580%25A7%25E7%259A%2584%25E5%2588%259B%25E9%2580%25A0%25E5%258A%259B%25E4%25BC%259A%25E5%258F%2591%25E5%2585%2589%2523%26stream_entry_id%3D31%26display_time%3D1761919374%26pre_seqid%3D176191937486203434537118&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时18分]"
         }
       ]
     },
@@ -1762,6 +1855,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
+          "url": "https://wallstreetcn.com/livenews/2997790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     }
