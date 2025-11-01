@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T02:23:18.966221+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2025-11-02T03:13:18.101711+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -37,11 +37,12 @@
           "ranks": [
             16,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
@@ -50,9 +51,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时13分]"
         }
       ]
     },
@@ -69,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         }
       ]
     },
@@ -84,11 +85,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         }
       ]
     }
