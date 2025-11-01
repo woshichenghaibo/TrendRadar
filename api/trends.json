@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T21:24:01.666812+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2025-11-01T22:15:55.569187+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时21分 ~ 21时24分]"
+          "appearance_count": 27,
+          "time_info": "[00时21分 ~ 22时15分]"
         },
         {
           "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时15分 ~ 21时24分]"
+          "appearance_count": 10,
+          "time_info": "[15时15分 ~ 22时15分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -78,6 +78,20 @@
           "time_info": "[00时21分 ~ 09时21分]"
         },
         {
+          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
+          "url": "https://www.zhihu.com/question/1967273703189480617",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 22时15分]"
+        },
+        {
           "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
           "url": "https://wallstreetcn.com/articles/3758382",
           "source": "华尔街见闻",
@@ -91,17 +105,15 @@
           "time_info": "[06时17分 ~ 09时21分]"
         },
         {
-          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
-          "url": "https://www.zhihu.com/question/1967273703189480617",
-          "source": "知乎",
+          "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
+          "url": "https://wallstreetcn.com/articles/3758471",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            19,
-            9
+            10
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 21时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "美银策略师：黄金与中国股票成为AI热潮下的最佳对冲工具",
@@ -162,7 +174,7 @@
     },
     {
       "keyword_group": "赚钱 方法",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "你认为不得罪人的方法的都有哪些？",
@@ -203,6 +215,17 @@
           "time_info": "[09时21分 ~ 11时10分]"
         },
         {
+          "title": "杨振宁先生说海森堡是伟大的物理学家，但不喜欢他的研究方法（taste），海森堡的研究方法是怎样的？",
+          "url": "https://www.zhihu.com/question/1964049209050247941",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "在孟加拉摆摊套圈赚钱吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%AD%9F%E5%8A%A0%E6%8B%89%E6%91%86%E6%91%8A%E5%A5%97%E5%9C%88%E8%B5%9A%E9%92%B1%E5%90%97",
           "source": "bilibili 热搜",
@@ -232,8 +255,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时23分 ~ 21时24分]"
+          "appearance_count": 11,
+          "time_info": "[14时23分 ~ 22时15分]"
         },
         {
           "title": "宇树科技王兴兴：中国企业在全球科技版图中扮演纽带角色",
