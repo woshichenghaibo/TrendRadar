@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T19:13:47.764828+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2025-11-01T20:32:48.682729+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时21分 ~ 19时13分]"
+          "appearance_count": 24,
+          "time_info": "[00时21分 ~ 20时32分]"
         },
         {
           "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时21分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[09时21分 ~ 20时32分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -74,8 +74,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 19时13分]"
+          "appearance_count": 7,
+          "time_info": "[15时15分 ~ 20时32分]"
         },
         {
           "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
@@ -89,6 +89,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时17分 ~ 09时21分]"
+        },
+        {
+          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
+          "url": "https://www.zhihu.com/question/1967273703189480617",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时32分]"
         },
         {
           "title": "美银策略师：黄金与中国股票成为AI热潮下的最佳对冲工具",
@@ -111,17 +123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
-          "url": "https://www.zhihu.com/question/1967273703189480617",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
         },
         {
           "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
@@ -230,8 +231,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时23分 ~ 19时13分]"
+          "appearance_count": 8,
+          "time_info": "[14时23分 ~ 20时32分]"
         },
         {
           "title": "宇树科技王兴兴：中国企业在全球科技版图中扮演纽带角色",
@@ -241,11 +242,12 @@
             5,
             9,
             12,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 20时32分]"
         }
       ]
     },
