@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T00:20:21.906600+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-02T01:13:48.444912+08:00",
+  "total_titles_processed": 336,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3758470",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时13分]"
         },
         {
           "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
@@ -26,19 +27,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时13分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
           "url": "https://www.zhihu.com/question/1967273703189480617",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时13分]"
         }
       ]
     },
@@ -54,8 +56,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时13分]"
         }
       ]
     },
@@ -71,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时13分]"
         }
       ]
     }
