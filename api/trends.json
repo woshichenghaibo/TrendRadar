@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T20:32:48.682729+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2025-11-01T21:24:01.666812+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时21分 ~ 20时32分]"
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 21时24分]"
         },
         {
           "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
@@ -30,8 +30,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时21分 ~ 20时32分]"
+          "appearance_count": 15,
+          "time_info": "[09时21分 ~ 21时24分]"
+        },
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时15分 ~ 21时24分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -64,20 +78,6 @@
           "time_info": "[00时21分 ~ 09时21分]"
         },
         {
-          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
-          "url": "https://wallstreetcn.com/articles/3758470",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时15分 ~ 20时32分]"
-        },
-        {
           "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
           "url": "https://wallstreetcn.com/articles/3758382",
           "source": "华尔街见闻",
@@ -96,11 +96,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            19
+            19,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时32分]"
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 21时24分]"
         },
         {
           "title": "美银策略师：黄金与中国股票成为AI热潮下的最佳对冲工具",
@@ -231,8 +232,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时23分 ~ 20时32分]"
+          "appearance_count": 10,
+          "time_info": "[14时23分 ~ 21时24分]"
         },
         {
           "title": "宇树科技王兴兴：中国企业在全球科技版图中扮演纽带角色",
