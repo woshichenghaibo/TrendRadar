@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T18:17:57.070279+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2025-11-02T19:14:57.961611+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -73,8 +73,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时21分 ~ 18时17分]"
+          "appearance_count": 10,
+          "time_info": "[12时21分 ~ 19时14分]"
+        },
+        {
+          "title": "刚刚，亚马逊的“AI转折点”出现了？",
+          "url": "https://wallstreetcn.com/articles/3758489",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 19时14分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -103,21 +118,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时24分 ~ 17时16分]"
-        },
-        {
-          "title": "刚刚，亚马逊的“AI转折点”出现了？",
-          "url": "https://wallstreetcn.com/articles/3758489",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 18时17分]"
         },
         {
           "title": "马斯克：AI6和AI7芯片将会紧随其后迅速推出。",
