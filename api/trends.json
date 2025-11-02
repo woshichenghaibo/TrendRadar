@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T17:16:38.748120+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2025-11-02T18:17:57.070279+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
@@ -69,11 +69,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 17时16分]"
+          "appearance_count": 9,
+          "time_info": "[12时21分 ~ 18时17分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -104,6 +105,21 @@
           "time_info": "[14时24分 ~ 17时16分]"
         },
         {
+          "title": "刚刚，亚马逊的“AI转折点”出现了？",
+          "url": "https://wallstreetcn.com/articles/3758489",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时24分 ~ 18时17分]"
+        },
+        {
           "title": "马斯克：AI6和AI7芯片将会紧随其后迅速推出。",
           "url": "https://flash.jin10.com/detail/20251102131630826800",
           "source": "金十数据",
@@ -125,25 +141,27 @@
             1,
             6,
             11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 17时16分]"
-        },
-        {
-          "title": "刚刚，亚马逊的“AI转折点”出现了？",
-          "url": "https://wallstreetcn.com/articles/3758489",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
+            18,
+            25
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时24分 ~ 17时16分]"
+          "time_info": "[14时24分 ~ 18时17分]"
+        },
+        {
+          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
+          "url": "https://wallstreetcn.com/livenews/2998093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            14,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 18时17分]"
         },
         {
           "title": "马斯克：刚刚和特斯拉(TSLA.O)加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。",
@@ -154,20 +172,6 @@
             6,
             17,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 17时16分]"
-        },
-        {
-          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
-          "url": "https://wallstreetcn.com/livenews/2998093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            14,
-            21
           ],
           "is_new": false,
           "appearance_count": 4,
