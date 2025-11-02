@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T22:15:52.417822+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2025-11-02T23:16:59.230111+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -61,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时24分 ~ 22时15分]"
+          "appearance_count": 12,
+          "time_info": "[14时24分 ~ 23时16分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -89,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时21分 ~ 22时15分]"
+          "appearance_count": 15,
+          "time_info": "[12时21分 ~ 23时16分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -188,8 +188,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时32分 ~ 22时15分]"
+          "appearance_count": 5,
+          "time_info": "[20时32分 ~ 23时16分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -198,7 +198,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         }
@@ -278,11 +278,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时32分 ~ 22时15分]"
+          "appearance_count": 5,
+          "time_info": "[20时32分 ~ 23时16分]"
         }
       ]
     }
