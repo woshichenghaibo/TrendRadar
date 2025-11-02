@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T21:23:31.331466+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2025-11-02T22:15:52.417822+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
@@ -61,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时24分 ~ 21时23分]"
+          "appearance_count": 11,
+          "time_info": "[14时24分 ~ 22时15分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -89,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时21分 ~ 21时23分]"
+          "appearance_count": 14,
+          "time_info": "[12时21分 ~ 22时15分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -184,11 +184,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 21时23分]"
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 22时15分]"
+        },
+        {
+          "title": "马斯克：AI在2026年超越单个人类智商",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E5%9C%A82026%E5%B9%B4%E8%B6%85%E8%B6%8A%E5%8D%95%E4%B8%AA%E4%BA%BA%E7%B1%BB%E6%99%BA%E5%95%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         }
       ]
     },
@@ -247,11 +259,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时33分 ~ 21时23分]"
+          "appearance_count": 3,
+          "time_info": "[20时33分 ~ 22时15分]"
         }
       ]
     },
@@ -268,8 +281,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 21时23分]"
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 22时15分]"
         }
       ]
     }
