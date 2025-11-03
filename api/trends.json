@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T05:16:49.102163+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2025-11-04T06:20:40.737491+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "大摩：2026将是AI科技硬件之年",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 06时20分]"
         },
         {
           "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 06时20分]"
         },
         {
           "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
@@ -37,8 +37,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 06时20分]"
+        },
+        {
+          "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
+          "url": "https://www.cls.cn/detail/2189658",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 06时20分]"
+        },
+        {
+          "title": "道指盘中转跌，AI交易火爆、纳指逼近纪录，加密货币盘中跳水、以太坊跌近9%",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时20分]"
         },
         {
           "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
@@ -52,26 +75,15 @@
           "time_info": "[00时22分 ~ 05时16分]"
         },
         {
-          "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
-          "url": "https://www.cls.cn/detail/2189658",
-          "source": "财联社热门",
+          "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
+          "url": "https://wallstreetcn.com/articles/3758569",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 05时16分]"
-        },
-        {
-          "title": "道指盘中转跌，AI交易火爆、纳指逼近纪录，加密货币盘中跳水、以太坊跌近9%",
-          "url": "https://wallstreetcn.com/articles/3758543",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时16分]"
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时20分]"
         },
         {
           "title": "美联储理事库克：生成式AI可能会给生产力带来翻天覆地的变化（Game Changer）。",
@@ -86,15 +98,15 @@
           "time_info": "[04时22分 ~ 05时16分]"
         },
         {
-          "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
-          "url": "https://wallstreetcn.com/articles/3758569",
+          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
+          "url": "https://wallstreetcn.com/articles/3758580",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "Eaton Corp.同意按95亿美元收购Boyd Thermal，从而将与人工智能（AI）数据中心相关的需求资本化。",
@@ -136,11 +148,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 06时20分]"
         }
       ]
     },
@@ -157,8 +170,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 06时20分]"
         }
       ]
     }
