@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T14:29:25.730523+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2025-11-03T15:18:37.475612+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时14分 ~ 14时29分]"
+          "appearance_count": 16,
+          "time_info": "[01时14分 ~ 15时18分]"
         },
         {
           "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
@@ -56,8 +57,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 15时18分]"
+        },
+        {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 15时18分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -71,20 +87,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 03时13分]"
-        },
-        {
-          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
-          "url": "https://www.cls.cn/detail/2189006",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 14时29分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
