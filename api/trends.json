@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T19:16:37.623529+08:00",
-  "total_titles_processed": 1702,
+  "generated_at": "2025-11-04T20:38:43.580593+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "大摩：2026将是AI科技硬件之年",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时22分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[12时22分 ~ 20时38分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -83,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时20分 ~ 19时16分]"
+          "appearance_count": 16,
+          "time_info": "[06时20分 ~ 20时38分]"
         },
         {
           "title": "AI还原福建舰电磁弹射全过程",
@@ -98,11 +98,12 @@
             13,
             12,
             17,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时17分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时17分 ~ 20时38分]"
         },
         {
           "title": "AI万亿赌局：表外“幽灵债务”正在堆积，魔鬼藏在SPV里？",
@@ -114,8 +115,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时17分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[13时17分 ~ 20时38分]"
         },
         {
           "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
@@ -157,8 +158,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时11分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[11时11分 ~ 20时38分]"
         },
         {
           "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
@@ -225,6 +226,19 @@
           "time_info": "[11时11分 ~ 15时18分]"
         },
         {
+          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
+          "url": "https://wallstreetcn.com/articles/3758630",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 20时38分]"
+        },
+        {
           "title": "“AI+国风”推动新型玩具出口订单大幅增长",
           "url": "https://wallstreetcn.com/livenews/2998807",
           "source": "华尔街见闻-快讯",
@@ -236,19 +250,6 @@
           "time_info": "07时33分"
         },
         {
-          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
-          "url": "https://wallstreetcn.com/articles/3758630",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时16分]"
-        },
-        {
           "title": "首创沪语交互AI应用 上海银行携手财跃星辰、阶跃星辰共创智慧养老金融服务新范式",
           "url": "https://www.cls.cn/detail/2190367",
           "source": "财联社热门",
@@ -257,8 +258,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 20时38分]"
         },
         {
           "title": "阿里巴巴发布国内科技企业首份《AI向善行动报告》",
@@ -303,9 +304,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "美ICU宰客19万,AI揭底秒修复",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "Palantir电话会：AI带来“非凡增长”、“40法则”罕见破百，CEO炮轰华尔街“我们交出软件公司史上最佳业绩，而你们一直看错”！",
@@ -383,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "英伟达与德国电信达成10亿欧元AI云合作",
+          "url": "https://wallstreetcn.com/livenews/2999180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     },
