@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T07:33:32.328935+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2025-11-04T09:17:59.804801+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "大摩：2026将是AI科技硬件之年",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时17分]"
         },
         {
           "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
@@ -36,11 +36,12 @@
           "url": "https://wallstreetcn.com/articles/3758523",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时17分]"
         },
         {
           "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
@@ -84,9 +85,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "AI还原福建舰电磁弹射全过程",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A6%8F%E5%BB%BA%E8%88%B0%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%85%A8%E8%BF%87%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
@@ -94,11 +106,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时22分 ~ 07时33分]"
+          "appearance_count": 5,
+          "time_info": "[04时22分 ~ 09时17分]"
+        },
+        {
+          "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
+          "url": "https://www.cls.cn/detail/2190089",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 09时17分]"
         },
         {
           "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
@@ -106,11 +131,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时33分]"
+          "appearance_count": 3,
+          "time_info": "[06时20分 ~ 09时17分]"
         },
         {
           "title": "美联储理事库克：生成式AI可能会给生产力带来翻天覆地的变化（Game Changer）。",
@@ -125,15 +151,26 @@
           "time_info": "[04时22分 ~ 05时16分]"
         },
         {
-          "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
-          "url": "https://www.cls.cn/detail/2190089",
-          "source": "财联社热门",
+          "title": "轻奢女装self-portrait直播“翻车”",
+          "url": "https://www.toutiao.com/trending/7568484009387232774/",
+          "source": "今日头条",
           "ranks": [
-            9
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "09时17分"
+        },
+        {
+          "title": "OpenAI据悉曾在解雇奥特曼后讨论与Anthropic合并",
+          "url": "https://flash.jin10.com/detail/20251104083844613800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "Eaton Corp.同意按95亿美元收购Boyd Thermal，从而将与人工智能（AI）数据中心相关的需求资本化。",
@@ -180,8 +217,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时17分]"
         }
       ]
     },
