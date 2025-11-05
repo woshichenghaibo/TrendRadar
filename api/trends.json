@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T21:32:39.297831+08:00",
-  "total_titles_processed": 1914,
+  "generated_at": "2025-11-05T22:18:43.469043+08:00",
+  "total_titles_processed": 1988,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             9,
             5,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[16时24分 ~ 22时18分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -100,8 +101,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时22分 ~ 21时32分]"
+          "appearance_count": 25,
+          "time_info": "[00时22分 ~ 22时18分]"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -129,6 +130,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时22分 ~ 07时16分]"
+        },
+        {
+          "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
+          "url": "https://www.cls.cn/detail/2192067",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 22时18分]"
         },
         {
           "title": "山姆会员吐槽花680不是来看AI图的",
@@ -169,18 +183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        },
-        {
-          "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
-          "url": "https://www.cls.cn/detail/2192067",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 21时32分]"
         },
         {
           "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
@@ -256,6 +258,19 @@
           "time_info": "[04时47分 ~ 06时17分]"
         },
         {
+          "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
+          "url": "https://www.cls.cn/detail/2191989",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 22时18分]"
+        },
+        {
           "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
           "url": "https://www.zhihu.com/question/1968690991750967598",
           "source": "知乎",
@@ -301,18 +316,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时16分 ~ 20时36分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
-          "url": "https://www.cls.cn/detail/2191989",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时32分]"
         },
         {
           "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
@@ -544,7 +547,7 @@
     },
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
@@ -560,6 +563,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时17分 ~ 17时21分]"
+        },
+        {
+          "title": "美股三大股指期货转涨，股市有望刷记录高位，避险情绪提振美债、黄金，比特币大跌后企稳",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "估值担忧波及亚洲市场，日韩股市大跌超4%，美股期货延续跌势，比特币跌破99000美元",
@@ -595,6 +609,17 @@
           "time_info": "09时19分"
         },
         {
+          "title": "美股三大股指期货均转涨，此前特朗普称股市在过去9个月里屡创新高，股市将创下更多纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/2999938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "凯投宏观：亚洲股市回调是对美股下跌的直接反映 对后续抛售加剧存疑",
           "url": "https://flash.jin10.com/detail/20251105111647625800",
           "source": "金十数据",
@@ -604,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-05）",
+          "url": "https://flash.jin10.com/detail/20251105214658539800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
