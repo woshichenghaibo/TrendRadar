@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T15:17:53.557950+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2025-11-05T16:24:24.664672+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
@@ -61,11 +61,12 @@
             6,
             27,
             16,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 15时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 16时24分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -76,11 +77,12 @@
             17,
             18,
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 15时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 16时24分]"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -352,6 +354,17 @@
           "time_info": "11时17分"
         },
         {
+          "title": "满屏都“带电”！AI用电荒催化电力设备板块 “新瓦特时代”谁将受益？",
+          "url": "https://www.cls.cn/detail/2191698",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "韩媒：李在明施政演说强调“开启AI时代”",
           "url": "https://news.ifeng.com/c/8o1TZKF9xGX",
           "source": "凤凰网",
@@ -380,7 +393,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -496,11 +509,12 @@
           "ranks": [
             13,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 15时17分]"
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 16时24分]"
         },
         {
           "title": "估值担忧波及亚洲市场，日韩股市大跌超4%，美股期货延续跌势，比特币跌破99000美元",
@@ -560,8 +574,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 16时24分]"
         },
         {
           "title": "刘亦菲入选亚太最具影响力青年女性",
