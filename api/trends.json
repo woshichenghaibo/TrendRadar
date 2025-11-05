@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T04:21:04.326922+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2025-11-06T05:18:55.763353+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -51,19 +51,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
-        },
-        {
-          "title": "OpenAI尚未为上市做准备",
-          "url": "https://flash.jin10.com/detail/20251106040810943800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
@@ -72,31 +61,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         },
         {
-          "title": "OpenAI首席财务官：市场应当对人工智能的潜力拥有更多的信心。",
-          "url": "https://flash.jin10.com/detail/20251106035846813800",
-          "source": "金十数据",
+          "title": "美国众议院司法委员会主席Jim Jordan传唤OpenAI的CEO Sam Altman，要求其提供关于外国政策的信息。",
+          "url": "https://wallstreetcn.com/livenews/3000096",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "05时18分"
         },
         {
-          "title": "世界经济论坛主席警告：AI、加密货币和债务恐成三大泡沫",
-          "url": "https://flash.jin10.com/detail/20251106035252056800",
+          "title": "OpenAI尚未为上市做准备",
+          "url": "https://flash.jin10.com/detail/20251106040810943800",
           "source": "金十数据",
           "ranks": [
-            3
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时18分]"
         },
         {
           "title": "谷歌：Chrome浏览器中的AI模式快捷方式即将扩展至160个新的国家和地区，并支持包括印地语、印尼语、日语、韩语、葡萄牙语等更多语言。",
@@ -112,6 +102,18 @@
           "time_info": "[01时18分 ~ 03时16分]"
         },
         {
+          "title": "OpenAI首席财务官：市场应当对人工智能的潜力拥有更多的信心。",
+          "url": "https://flash.jin10.com/detail/20251106035846813800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时18分]"
+        },
+        {
           "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
           "url": "https://wallstreetcn.com/livenews/3000038",
           "source": "华尔街见闻-快讯",
@@ -123,6 +125,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时18分 ~ 03时16分]"
+        },
+        {
+          "title": "世界经济论坛主席警告：AI、加密货币和债务恐成三大泡沫",
+          "url": "https://flash.jin10.com/detail/20251106035252056800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时18分]"
+        },
+        {
+          "title": "OpenAI 近期已累计签署约 1.5 万亿美元合同，深度绑定的「朋友圈」对全球 AI 发展有哪些影响？",
+          "url": "https://www.zhihu.com/question/1969338787738906634",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 05时18分]"
         },
         {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
@@ -137,6 +163,30 @@
           "time_info": "[01时18分 ~ 02时25分]"
         },
         {
+          "title": "据The Information：OpenAI的数据中心合作伙伴Crusoe正接近完成一笔约1.2亿美元的员工股票出售，估值约为130亿美元。",
+          "url": "https://flash.jin10.com/detail/20251106033256495800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时18分]"
+        },
+        {
+          "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果接近最终敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3000071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时18分]"
+        },
+        {
           "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
           "url": "https://flash.jin10.com/detail/20251106010421100800",
           "source": "金十数据",
@@ -149,48 +199,38 @@
           "time_info": "[01时18分 ~ 02时25分]"
         },
         {
-          "title": "OpenAI 近期已累计签署约 1.5 万亿美元合同，深度绑定的「朋友圈」对全球 AI 发展有哪些影响？",
-          "url": "https://www.zhihu.com/question/1969338787738906634",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 04时21分]"
-        },
-        {
-          "title": "据The Information：OpenAI的数据中心合作伙伴Crusoe正接近完成一笔约1.2亿美元的员工股票出售，估值约为130亿美元。",
-          "url": "https://flash.jin10.com/detail/20251106033256495800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果接近最终敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3000071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
           "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
           "url": "https://flash.jin10.com/detail/20251106031453898800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时18分]"
+        },
+        {
+          "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。 OpenAI尚未为上市做准备。 凭借“非常健康”的毛利率，OpenAI有望实现盈亏平衡。 OpenAI希望美国联邦政府为数据中心投资提供支持。",
+          "url": "https://wallstreetcn.com/livenews/3000080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "05时18分"
+        },
+        {
+          "title": "OpenAI CFO：市场过于关注AI领域可能出现的泡沫",
+          "url": "https://flash.jin10.com/detail/20251106042109787800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "Mosaic：玉米和大豆价格的复苏应当有助于化肥的应用。",
@@ -202,6 +242,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
+          "url": "https://www.zhihu.com/question/1969450608642745244",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         }
       ]
     }
