@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T06:17:29.044946+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2025-11-06T07:17:02.273162+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -50,11 +50,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
@@ -253,7 +254,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         }
@@ -272,8 +273,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[05时18分 ~ 07时17分]"
         }
       ]
     }
