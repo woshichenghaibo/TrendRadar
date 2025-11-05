@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T20:36:48.671082+08:00",
-  "total_titles_processed": 1817,
+  "generated_at": "2025-11-05T21:32:39.297831+08:00",
+  "total_titles_processed": 1914,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时24分 ~ 20时36分]"
+          "appearance_count": 8,
+          "time_info": "[16时24分 ~ 21时32分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -100,8 +100,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时22分 ~ 20时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时22分 ~ 21时32分]"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -169,6 +169,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
+          "url": "https://www.cls.cn/detail/2192067",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时32分]"
         },
         {
           "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
@@ -244,18 +256,6 @@
           "time_info": "[04时47分 ~ 06时17分]"
         },
         {
-          "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
-          "url": "https://www.cls.cn/detail/2192067",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时36分]"
-        },
-        {
           "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
           "url": "https://www.zhihu.com/question/1968690991750967598",
           "source": "知乎",
@@ -301,6 +301,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时16分 ~ 20时36分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
+          "url": "https://www.cls.cn/detail/2191989",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时32分]"
         },
         {
           "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
@@ -450,17 +462,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        },
-        {
-          "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
-          "url": "https://www.cls.cn/detail/2191989",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         },
         {
           "title": "软银：预计与OpenAI的合资企业将在日本独家推广Crystal Intelligence，计划于2026年上市。",
