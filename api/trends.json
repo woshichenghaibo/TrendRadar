@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T11:17:42.609502+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2025-11-05T12:21:55.535505+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 11时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时21分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -63,8 +63,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 11时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 12时21分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -72,11 +72,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 11时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时21分]"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -132,17 +133,6 @@
           "time_info": "02时28分"
         },
         {
-          "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/2999584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
           "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
           "url": "https://flash.jin10.com/detail/20251105062032603800",
           "source": "金十数据",
@@ -165,6 +155,19 @@
           "time_info": "05时17分"
         },
         {
+          "title": "亚马逊对Perplexity下“逐客令”：带着你的AI代理滚出我的地盘",
+          "url": "https://www.cls.cn/detail/2191195",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 12时21分]"
+        },
+        {
           "title": "卡特彼勒将把燃气轮机产能翻倍，以满足AI热潮的需求",
           "url": "https://wallstreetcn.com/livenews/2999390",
           "source": "华尔街见闻-快讯",
@@ -178,16 +181,16 @@
           "time_info": "[04时47分 ~ 06时17分]"
         },
         {
-          "title": "亚马逊对Perplexity下“逐客令”：带着你的AI代理滚出我的地盘",
-          "url": "https://www.cls.cn/detail/2191195",
-          "source": "财联社热门",
+          "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/2999584",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            6
+            1,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时19分 ~ 11时17分]"
+          "time_info": "[11时17分 ~ 12时21分]"
         },
         {
           "title": "谷歌(GOOG.O)：与Vitality宣布合作推出Vitality AI。",
@@ -226,6 +229,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 05时17分]"
+        },
+        {
+          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 12时21分]"
         },
         {
           "title": "特斯拉CEO马斯克：（AI5）芯片样品预计将于2026年推出，计划于2027年量产。",
@@ -293,7 +307,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -375,17 +389,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
-          "url": "https://www.zhihu.com/question/1968690991750967598",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
           "title": "投资者重新估值AI，纳指跌幅扩大至2%",
           "url": "https://wallstreetcn.com/livenews/2999377",
           "source": "华尔街见闻-快讯",
@@ -411,8 +414,20 @@
     },
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
+          "url": "https://www.cls.cn/detail/2191349",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 12时21分]"
+        },
         {
           "title": "估值担忧波及亚洲市场，日韩股市大跌超4%，美股期货延续跌势，比特币跌破99000美元",
           "url": "https://wallstreetcn.com/articles/3758696",
@@ -420,7 +435,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -447,21 +462,21 @@
           "time_info": "09时19分"
         },
         {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
+          "title": "凯投宏观：亚洲股市回调是对美股下跌的直接反映 对后续抛售加剧存疑",
+          "url": "https://flash.jin10.com/detail/20251105111647625800",
+          "source": "金十数据",
           "ranks": [
-            13
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时17分"
+          "time_info": "12时21分"
         }
       ]
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "东莞最近不能离婚？婚姻登记处辟谣",
@@ -471,8 +486,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 11时17分]"
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 12时21分]"
+        },
+        {
+          "title": "刘亦菲入选亚太最具影响力青年女性",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%85%A5%E9%80%89%E4%BA%9A%E5%A4%AA%E6%9C%80%E5%85%B7%E5%BD%B1%E5%93%8D%E5%8A%9B%E9%9D%92%E5%B9%B4%E5%A5%B3%E6%80%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26pos%3D10%26band_rank%3D10%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E5%2588%2598%25E4%25BA%25A6%25E8%258F%25B2%25E5%2585%25A5%25E9%2580%2589%25E4%25BA%259A%25E5%25A4%25AA%25E6%259C%2580%25E5%2585%25B7%25E5%25BD%25B1%25E5%2593%258D%25E5%258A%259B%25E9%259D%2592%25E5%25B9%25B4%25E5%25A5%25B3%25E6%2580%25A7%2523%26lcate%3D5001%26realpos%3D10%26dgr%3D0%26display_time%3D1762316511%26pre_seqid%3D17623165118500258081746&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         }
       ]
     },
