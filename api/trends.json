@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T07:16:59.790891+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2025-11-05T09:19:40.904662+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 09时19分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -26,11 +27,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 09时19分]"
         },
         {
           "title": "韩国总统警告“国家生存危机”，要求将AI支出规模增至3倍",
@@ -53,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 09时19分]"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -93,11 +95,12 @@
             19,
             20,
             11,
-            6
+            6,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 09时19分]"
         },
         {
           "title": "山姆会员吐槽花680不是来看AI图的",
@@ -126,13 +129,24 @@
           "time_info": "02时28分"
         },
         {
+          "title": "亚马逊对Perplexity下“逐客令”：带着你的AI代理滚出我的地盘",
+          "url": "https://www.cls.cn/detail/2191195",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
           "url": "https://flash.jin10.com/detail/20251105062032603800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -247,6 +261,39 @@
           "time_info": "[04时47分 ~ 05时17分]"
         },
         {
+          "title": "美国民主党人Abigail Spanberger在弗吉尼亚州州长竞选中获胜。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/2999499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "韩媒：李在明施政演说强调“开启AI时代”",
+          "url": "https://news.ifeng.com/c/8o1TZKF9xGX",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "美国民主党人ABIGAIL SPANBERGER在弗吉尼亚州州长竞选中获胜。",
+          "url": "https://flash.jin10.com/detail/20251105085817452800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "亚马逊发函，要求Perplexity AI停止用AI agent进行购物",
           "url": "https://wallstreetcn.com/livenews/2999349",
           "source": "华尔街见闻-快讯",
@@ -258,13 +305,24 @@
           "time_info": "03时14分"
         },
         {
+          "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "AMD：预计云需求将保持强劲势头。 数据中心GPU业务正在加速。 面向企业的EPYC销售急剧增加。 人工智能（AI）业务将于2027年达到数百亿美元规模。 个人电脑（PC）部门的收入增速将超过市场（增速）。",
           "url": "https://wallstreetcn.com/livenews/2999428",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -275,7 +333,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -286,7 +344,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -300,6 +358,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "AI泡沫引担忧，韩股大跌4%",
+          "url": "https://flash.jin10.com/detail/20251105083443954800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股天价估值持续性遭质疑，日韩股市跟跌",
+          "url": "https://flash.jin10.com/detail/20251105085939810800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "金十提示：美股和日韩股市暴跌前，高盛和摩根士丹利多个高管发出高达15%的回调空间警告。",
+          "url": "https://flash.jin10.com/detail/20251105085206088800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "东莞最近不能离婚？婚姻登记处辟谣",
+          "url": "https://www.toutiao.com/trending/7568713150338957331/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
