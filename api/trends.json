@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T16:24:24.664672+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2025-11-05T17:21:03.226852+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
             27,
             16,
             26,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 16时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 17时21分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -78,11 +79,12 @@
             18,
             19,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 16时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 17时21分]"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -172,6 +174,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "满屏都“带电”！AI用电荒催化电力设备板块 “新瓦特时代”谁将受益？",
+          "url": "https://www.cls.cn/detail/2191698",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 17时21分]"
         },
         {
           "title": "卡特彼勒将把燃气轮机产能翻倍，以满足AI热潮的需求",
@@ -354,17 +368,6 @@
           "time_info": "11时17分"
         },
         {
-          "title": "满屏都“带电”！AI用电荒催化电力设备板块 “新瓦特时代”谁将受益？",
-          "url": "https://www.cls.cn/detail/2191698",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
           "title": "韩媒：李在明施政演说强调“开启AI时代”",
           "url": "https://news.ifeng.com/c/8o1TZKF9xGX",
           "source": "凤凰网",
@@ -510,11 +513,12 @@
             13,
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 16时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 17时21分]"
         },
         {
           "title": "估值担忧波及亚洲市场，日韩股市大跌超4%，美股期货延续跌势，比特币跌破99000美元",
@@ -574,8 +578,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时19分 ~ 16时24分]"
+          "appearance_count": 9,
+          "time_info": "[09时19分 ~ 17时21分]"
         },
         {
           "title": "刘亦菲入选亚太最具影响力青年女性",
