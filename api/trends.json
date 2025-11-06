@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T18:21:06.671662+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2025-11-06T19:16:23.283604+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
+          "url": "https://www.cls.cn/detail/2192687",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时24分 ~ 19时16分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
@@ -33,20 +47,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时24分 ~ 11时13分]"
-        },
-        {
-          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
-          "url": "https://www.cls.cn/detail/2192687",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时24分 ~ 18时21分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -83,11 +83,12 @@
           "ranks": [
             1,
             2,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时17分 ~ 18时21分]"
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 19时16分]"
         },
         {
           "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
@@ -104,17 +105,6 @@
           "time_info": "[09时20分 ~ 15时17分]"
         },
         {
-          "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
-          "url": "https://wallstreetcn.com/livenews/3000080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
           "title": "温峥嵘被AI温峥嵘拉黑",
           "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
           "source": "百度热搜",
@@ -126,8 +116,30 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 19时16分]"
+        },
+        {
+          "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
+          "url": "https://wallstreetcn.com/livenews/3000080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "欧莱雅中国与阿里云达成全栈AI战略合作",
+          "url": "https://wallstreetcn.com/livenews/3000520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "华为Mate 70 Air开启预售",
@@ -241,6 +253,19 @@
           "time_info": "[04时21分 ~ 05时18分]"
         },
         {
+          "title": "央视曝光AI假冒艺人直播",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E5%81%87%E5%86%92%E8%89%BA%E4%BA%BA%E7%9B%B4%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 19时16分]"
+        },
+        {
           "title": "OpenAI 近期已累计签署约 1.5 万亿美元合同，深度绑定的「朋友圈」对全球 AI 发展有哪些影响？",
           "url": "https://www.zhihu.com/question/1969338787738906634",
           "source": "知乎",
@@ -263,18 +288,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时24分 ~ 18时21分]"
-        },
-        {
-          "title": "央视曝光AI假冒艺人直播",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E5%81%87%E5%86%92%E8%89%BA%E4%BA%BA%E7%9B%B4%E6%92%AD",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时21分]"
         },
         {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
@@ -371,6 +384,17 @@
           "time_info": "[16时24分 ~ 17时20分]"
         },
         {
+          "title": "美团：餐饮堂食合作门店已全量接入AI经营助手“智能掌柜”",
+          "url": "https://wallstreetcn.com/livenews/3000509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。 OpenAI尚未为上市做准备。 凭借“非常健康”的毛利率，OpenAI有望实现盈亏平衡。 OpenAI希望美国联邦政府为数据中心投资提供支持。",
           "url": "https://wallstreetcn.com/livenews/3000080",
           "source": "华尔街见闻-快讯",
@@ -410,7 +434,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -458,11 +482,26 @@
           "url": "https://www.zhihu.com/question/1969450608642745244",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时12分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时12分 ~ 19时16分]"
+        },
+        {
+          "title": "女性人形机器人里藏真人？何小鹏回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            6,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 19时16分]"
         },
         {
           "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
@@ -478,20 +517,6 @@
           "time_info": "[05时18分 ~ 09时20分]"
         },
         {
-          "title": "女性人形机器人里藏真人？何小鹏回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            6,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 18时21分]"
-        },
-        {
           "title": "“如果连总统都遭遇这种事，我们国家的年轻女性又面临什么？”",
           "url": "https://news.ifeng.com/c/8o41HwwVK01",
           "source": "凤凰网",
@@ -499,8 +524,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时16分]"
         }
       ]
     },
@@ -518,6 +543,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国企",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国企业10月裁员规模创20多年来同期最高 人工智能变革冲击就业市场",
+          "url": "https://wallstreetcn.com/livenews/3000470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
