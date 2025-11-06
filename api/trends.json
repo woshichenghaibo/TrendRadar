@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T16:24:25.366165+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2025-11-06T17:20:25.292845+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -55,11 +55,12 @@
             26,
             27,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 16时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 17时20分]"
         },
         {
           "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
@@ -72,8 +73,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 16时24分]"
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 17时20分]"
+        },
+        {
+          "title": "华为Mate 70 Air评测",
+          "url": "https://www.douyin.com/hot/2296483",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 17时20分]"
         },
         {
           "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
@@ -90,18 +103,6 @@
           "time_info": "[09时20分 ~ 15时17分]"
         },
         {
-          "title": "华为Mate 70 Air评测",
-          "url": "https://www.douyin.com/hot/2296483",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 16时24分]"
-        },
-        {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
           "url": "https://wallstreetcn.com/livenews/3000080",
           "source": "华尔街见闻-快讯",
@@ -113,16 +114,28 @@
           "time_info": "04时21分"
         },
         {
+          "title": "受AI推动，美国10月挑战者企业裁员人数创逾20年同期新高",
+          "url": "https://wallstreetcn.com/livenews/3000470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "华为Mate 70 Air开启预售",
           "url": "https://www.toutiao.com/trending/7569394262991929363/",
           "source": "今日头条",
           "ranks": [
             2,
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 17时20分]"
         },
         {
           "title": "OpenAI尚未为上市做准备",
@@ -211,6 +224,20 @@
           "time_info": "[04时21分 ~ 05时18分]"
         },
         {
+          "title": "温峥嵘被AI温峥嵘拉黑",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            25,
+            26,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时27分 ~ 17时20分]"
+        },
+        {
           "title": "OpenAI 近期已累计签署约 1.5 万亿美元合同，深度绑定的「朋友圈」对全球 AI 发展有哪些影响？",
           "url": "https://www.zhihu.com/question/1969338787738906634",
           "source": "知乎",
@@ -221,19 +248,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时20分 ~ 06时17分]"
-        },
-        {
-          "title": "温峥嵘被AI温峥嵘拉黑",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时27分 ~ 16时24分]"
         },
         {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
@@ -296,6 +310,30 @@
           "time_info": "[04时21分 ~ 05时18分]"
         },
         {
+          "title": "黄仁勋直白表态：中国AI将击败美国",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9B%B4%E7%99%BD%E8%A1%A8%E6%80%81%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E5%B0%86%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时20分]"
+        },
+        {
+          "title": "新闻女王2AI取代真人",
+          "url": "https://www.douyin.com/hot/2296420",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时20分]"
+        },
+        {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。 OpenAI尚未为上市做准备。 凭借“非常健康”的毛利率，OpenAI有望实现盈亏平衡。 OpenAI希望美国联邦政府为数据中心投资提供支持。",
           "url": "https://wallstreetcn.com/livenews/3000080",
           "source": "华尔街见闻-快讯",
@@ -313,7 +351,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -351,26 +389,15 @@
           "time_info": "06时17分"
         },
         {
-          "title": "新闻女王2AI取代真人",
-          "url": "https://www.douyin.com/hot/2296420",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "黄仁勋直白表态：中国AI将击败美国",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9B%B4%E7%99%BD%E8%A1%A8%E6%80%81%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E5%B0%86%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD",
+          "title": "央视曝光AI假冒艺人直播",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E5%81%87%E5%86%92%E8%89%BA%E4%BA%BA%E7%9B%B4%E6%92%AD",
           "source": "百度热搜",
           "ranks": [
-            28
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时24分"
+          "time_info": "17时20分"
         },
         {
           "title": "华为Mate 70 Air开启预售",
@@ -397,8 +424,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时12分 ~ 16时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时12分 ~ 17时20分]"
         },
         {
           "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
@@ -423,8 +450,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时27分 ~ 16时24分]"
+          "appearance_count": 4,
+          "time_info": "[14时27分 ~ 17时20分]"
         }
       ]
     },
@@ -456,7 +483,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         }
