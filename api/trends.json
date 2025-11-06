@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T22:18:48.930009+08:00",
-  "total_titles_processed": 1987,
+  "generated_at": "2025-11-06T23:20:30.433602+08:00",
+  "total_titles_processed": 2079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -31,8 +31,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时17分 ~ 22时18分]"
+          "appearance_count": 11,
+          "time_info": "[15时17分 ~ 23时20分]"
         },
         {
           "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
@@ -136,6 +136,19 @@
           "time_info": "[17时20分 ~ 21时31分]"
         },
         {
+          "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
+          "url": "https://wallstreetcn.com/articles/3758820",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 23时20分]"
+        },
+        {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
           "url": "https://wallstreetcn.com/livenews/3000080",
           "source": "华尔街见闻-快讯",
@@ -158,19 +171,6 @@
           "time_info": "21时31分"
         },
         {
-          "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
-          "url": "https://wallstreetcn.com/articles/3758820",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 22时18分]"
-        },
-        {
           "title": "谷歌将在未来几周全面上市其最强大的AI芯片Ironwood",
           "url": "https://flash.jin10.com/detail/20251106211437983800",
           "source": "金十数据",
@@ -188,7 +188,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -400,6 +400,18 @@
           "time_info": "[01时18分 ~ 02时25分]"
         },
         {
+          "title": "谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3000596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时20分]"
+        },
+        {
           "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
           "url": "https://flash.jin10.com/detail/20251106031453898800",
           "source": "金十数据",
@@ -468,17 +480,6 @@
           "time_info": "05时18分"
         },
         {
-          "title": "谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3000596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
           "title": "AI算力大战打到太空",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%AE%97%E5%8A%9B%E5%A4%A7%E6%88%98%E6%89%93%E5%88%B0%E5%A4%AA%E7%A9%BA",
           "source": "bilibili 热搜",
@@ -499,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "微软AI组建SuperIntelligence团队，将由Suleyman领导。",
+          "url": "https://wallstreetcn.com/livenews/3000612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "新研究指出：AI能力或因有缺陷的测试而被夸大",
@@ -557,11 +569,12 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时12分 ~ 22时18分]"
+          "appearance_count": 16,
+          "time_info": "[11时12分 ~ 23时20分]"
         },
         {
           "title": "“如果连总统都遭遇这种事，我们国家的年轻女性又面临什么？”",
@@ -571,8 +584,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 22时18分]"
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 23时20分]"
         },
         {
           "title": "女性人形机器人里藏真人？何小鹏回应",
@@ -604,6 +617,34 @@
       ]
     },
     {
+      "keyword_group": "赚钱 方法",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金镯子掉入浑水沟 男子用巧方法找到",
+          "url": "https://www.toutiao.com/trending/7569471307117756435/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "降低体脂率最快的10个方法",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%99%8D%E4%BD%8E%E4%BD%93%E8%84%82%E7%8E%87%E6%9C%80%E5%BF%AB%E7%9A%8410%E4%B8%AA%E6%96%B9%E6%B3%95&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D22%26stream_entry_id%3D31%26q%3D%25E9%2599%258D%25E4%25BD%258E%25E4%25BD%2593%25E8%2584%2582%25E7%258E%2587%25E6%259C%2580%25E5%25BF%25AB%25E7%259A%258410%25E4%25B8%25AA%25E6%2596%25B9%25E6%25B3%2595%26lcate%3D5001%26pos%3D23%26band_rank%3D22%26dgr%3D0%26filter_type%3Drealtimehot%26display_time%3D1762417440%26pre_seqid%3D176241744024101829217&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "股市",
       "match_count": 1,
       "titles": [
@@ -614,7 +655,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
@@ -651,23 +692,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赚钱 方法",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "降低体脂率最快的10个方法",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%99%8D%E4%BD%8E%E4%BD%93%E8%84%82%E7%8E%87%E6%9C%80%E5%BF%AB%E7%9A%8410%E4%B8%AA%E6%96%B9%E6%B3%95&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D22%26stream_entry_id%3D31%26q%3D%25E9%2599%258D%25E4%25BD%258E%25E4%25BD%2593%25E8%2584%2582%25E7%258E%2587%25E6%259C%2580%25E5%25BF%25AB%25E7%259A%258410%25E4%25B8%25AA%25E6%2596%25B9%25E6%25B3%2595%26lcate%3D5001%26pos%3D23%26band_rank%3D22%26dgr%3D0%26filter_type%3Drealtimehot%26display_time%3D1762417440%26pre_seqid%3D176241744024101829217&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
         }
       ]
     }
