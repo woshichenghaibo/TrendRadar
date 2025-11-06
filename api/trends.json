@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T01:18:30.659893+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2025-11-07T02:28:00.054041+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "11 月 6 日华为 Mate70 Air 开启预售， 4199 元起，有哪些亮点值得关注，你会买吗？",
           "url": "https://www.zhihu.com/question/1969700024775574500",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 02时28分]"
         },
         {
           "title": "华为Mate 70 Air评测",
@@ -37,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "高通CEO Cristiano Amon：汽车是（本公司业务中）当前增速最快的领域。 对个人AI设备的前景“非常乐观”。（彭博电视）",
@@ -47,7 +48,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         }
@@ -76,19 +77,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "小鹏首款女性机器人亮相，其走路形态被质疑是真人扮演，机器人能实现走「猫步」吗？小鹏的产品能力究竟如何？",
           "url": "https://www.zhihu.com/question/1969450608642745244",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时28分]"
         }
       ]
     },
@@ -101,11 +103,12 @@
           "url": "https://www.toutiao.com/trending/7569471307117756435/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时28分]"
         }
       ]
     }
