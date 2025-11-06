@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T07:17:02.273162+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2025-11-06T09:20:19.951975+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 09时20分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -51,11 +51,12 @@
           "ranks": [
             24,
             22,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 09时20分]"
         },
         {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
@@ -215,6 +216,17 @@
           "time_info": "[04时21分 ~ 05时18分]"
         },
         {
+          "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
+          "url": "https://www.cls.cn/detail/2192480",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。 OpenAI尚未为上市做准备。 凭借“非常健康”的毛利率，OpenAI有望实现盈亏平衡。 OpenAI希望美国联邦政府为数据中心投资提供支持。",
           "url": "https://wallstreetcn.com/livenews/3000080",
           "source": "华尔街见闻-快讯",
@@ -270,11 +282,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时18分 ~ 07时17分]"
+          "appearance_count": 5,
+          "time_info": "[05时18分 ~ 09时20分]"
         }
       ]
     }
