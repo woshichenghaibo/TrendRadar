@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T17:20:25.292845+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2025-11-06T18:21:06.671662+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -33,6 +33,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时24分 ~ 11时13分]"
+        },
+        {
+          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
+          "url": "https://www.cls.cn/detail/2192687",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 18时21分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -63,30 +77,17 @@
           "time_info": "[00时24分 ~ 17时20分]"
         },
         {
-          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
-          "url": "https://www.cls.cn/detail/2192687",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 17时20分]"
-        },
-        {
           "title": "华为Mate 70 Air评测",
           "url": "https://www.douyin.com/hot/2296483",
           "source": "抖音",
           "ranks": [
             1,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 18时21分]"
         },
         {
           "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
@@ -114,15 +115,19 @@
           "time_info": "04时21分"
         },
         {
-          "title": "受AI推动，美国10月挑战者企业裁员人数创逾20年同期新高",
-          "url": "https://wallstreetcn.com/livenews/3000470",
-          "source": "华尔街见闻-快讯",
+          "title": "温峥嵘被AI温峥嵘拉黑",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
+          "source": "百度热搜",
           "ranks": [
-            2
+            30,
+            25,
+            26,
+            15,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 18时21分]"
         },
         {
           "title": "华为Mate 70 Air开启预售",
@@ -199,6 +204,18 @@
           "time_info": "[04时21分 ~ 05时18分]"
         },
         {
+          "title": "受AI推动，美国10月挑战者企业裁员人数创逾20年同期新高",
+          "url": "https://wallstreetcn.com/livenews/3000470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时21分]"
+        },
+        {
           "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
           "url": "https://wallstreetcn.com/livenews/3000038",
           "source": "华尔街见闻-快讯",
@@ -224,20 +241,6 @@
           "time_info": "[04时21分 ~ 05时18分]"
         },
         {
-          "title": "温峥嵘被AI温峥嵘拉黑",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            25,
-            26,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 17时20分]"
-        },
-        {
           "title": "OpenAI 近期已累计签署约 1.5 万亿美元合同，深度绑定的「朋友圈」对全球 AI 发展有哪些影响？",
           "url": "https://www.zhihu.com/question/1969338787738906634",
           "source": "知乎",
@@ -248,6 +251,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时20分 ~ 06时17分]"
+        },
+        {
+          "title": "黄仁勋直白表态：中国AI将击败美国",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9B%B4%E7%99%BD%E8%A1%A8%E6%80%81%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E5%B0%86%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 18时21分]"
+        },
+        {
+          "title": "央视曝光AI假冒艺人直播",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E5%81%87%E5%86%92%E8%89%BA%E4%BA%BA%E7%9B%B4%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 18时21分]"
         },
         {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
@@ -310,16 +337,26 @@
           "time_info": "[04时21分 ~ 05时18分]"
         },
         {
-          "title": "黄仁勋直白表态：中国AI将击败美国",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9B%B4%E7%99%BD%E8%A1%A8%E6%80%81%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E5%B0%86%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD",
+          "title": "打假AI温峥嵘不能只靠演员温峥嵘",
+          "url": "https://www.baidu.com/s?wd=%E6%89%93%E5%81%87AI%E6%B8%A9%E5%B3%A5%E5%B5%98%E4%B8%8D%E8%83%BD%E5%8F%AA%E9%9D%A0%E6%BC%94%E5%91%98%E6%B8%A9%E5%B3%A5%E5%B5%98",
           "source": "百度热搜",
           "ranks": [
-            28,
-            27
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时20分]"
+          "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
+          "title": "佘诗曼新闻女王2把AI干冒烟了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%BD%98%E8%AF%97%E6%9B%BC%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B2%E6%8A%8AAI%E5%B9%B2%E5%86%92%E7%83%9F%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E4%25BD%2598%25E8%25AF%2597%25E6%259B%25BC%25E6%2596%25B0%25E9%2597%25BB%25E5%25A5%25B3%25E7%258E%258B2%25E6%258A%258AAI%25E5%25B9%25B2%25E5%2586%2592%25E7%2583%259F%25E4%25BA%2586%26filter_type%3Drealtimehot%26lcate%3D5001%26realpos%3D24%26cate%3D5001%26pos%3D25%26dgr%3D0%26band_rank%3D24%26stream_entry_id%3D31%26c_type%3D31%26flag%3D1%26display_time%3D1762424205%26pre_seqid%3D17624242054150258383788&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "新闻女王2AI取代真人",
@@ -367,6 +404,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "新研究指出：AI能力或因有缺陷的测试而被夸大",
+          "url": "https://flash.jin10.com/detail/20251106173500148800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "Mosaic：玉米和大豆价格的复苏应当有助于化肥的应用。",
           "url": "https://wallstreetcn.com/livenews/3000019",
           "source": "华尔街见闻-快讯",
@@ -389,17 +437,6 @@
           "time_info": "06时17分"
         },
         {
-          "title": "央视曝光AI假冒艺人直播",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E5%81%87%E5%86%92%E8%89%BA%E4%BA%BA%E7%9B%B4%E6%92%AD",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
           "title": "华为Mate 70 Air开启预售",
           "url": "https://wallstreetcn.com/livenews/3000234",
           "source": "华尔街见闻-快讯",
@@ -414,7 +451,7 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "小鹏首款女性机器人亮相，其走路形态被质疑是真人扮演，机器人能实现走「猫步」吗？小鹏的产品能力究竟如何？",
@@ -424,8 +461,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时12分 ~ 17时20分]"
+          "appearance_count": 10,
+          "time_info": "[11时12分 ~ 18时21分]"
         },
         {
           "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
@@ -447,11 +484,23 @@
           "ranks": [
             8,
             6,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 17时20分]"
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 18时21分]"
+        },
+        {
+          "title": "“如果连总统都遭遇这种事，我们国家的年轻女性又面临什么？”",
+          "url": "https://news.ifeng.com/c/8o41HwwVK01",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         }
       ]
     },
