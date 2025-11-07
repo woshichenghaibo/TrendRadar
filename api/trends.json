@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T21:28:12.881956+08:00",
-  "total_titles_processed": 1887,
+  "generated_at": "2025-11-07T22:17:58.577711+08:00",
+  "total_titles_processed": 1976,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,19 @@
           "time_info": "[07时18分 ~ 15时17分]"
         },
         {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[11时09分 ~ 22时17分]"
+        },
+        {
           "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
           "url": "https://wallstreetcn.com/articles/3758839",
           "source": "华尔街见闻",
@@ -60,18 +73,6 @@
           "time_info": "[06时17分 ~ 21时28分]"
         },
         {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时09分 ~ 21时28分]"
-        },
-        {
           "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
           "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
           "source": "澎湃新闻",
@@ -82,11 +83,12 @@
             15,
             14,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时21分 ~ 21时28分]"
+          "appearance_count": 14,
+          "time_info": "[12时21分 ~ 22时17分]"
         },
         {
           "title": "华为Mate 70 Air评测",
@@ -103,6 +105,21 @@
           "time_info": "[00时24分 ~ 13时19分]"
         },
         {
+          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
+          "url": "https://www.cls.cn/detail/2194008",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时25分 ~ 22时17分]"
+        },
+        {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
           "url": "https://www.cls.cn/detail/2193718",
           "source": "财联社热门",
@@ -116,20 +133,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时09分 ~ 17时19分]"
-        },
-        {
-          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
-          "url": "https://www.cls.cn/detail/2194008",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时28分]"
         },
         {
           "title": "黄仁勋、杨立昆等多位大佬发声：与人类智慧媲美的AI技术已经到来",
@@ -208,11 +211,12 @@
           "url": "https://wallstreetcn.com/articles/3758866",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 22时17分]"
         },
         {
           "title": "抖音回应温峥嵘被AI盗播",
@@ -431,6 +435,35 @@
       ]
     },
     {
+      "keyword_group": "股市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
+          "url": "https://wallstreetcn.com/articles/3758813",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时19分 ~ 17时19分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-07）",
+          "url": "https://flash.jin10.com/detail/20251107214841680800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "赚钱 方法",
       "match_count": 2,
       "titles": [
@@ -466,24 +499,6 @@
       ]
     },
     {
-      "keyword_group": "股市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
-          "url": "https://wallstreetcn.com/articles/3758813",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时19分 ~ 17时19分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -512,8 +527,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 22时17分]"
         }
       ]
     }
