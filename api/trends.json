@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T19:15:24.770677+08:00",
-  "total_titles_processed": 1711,
+  "generated_at": "2025-11-07T20:36:47.853710+08:00",
+  "total_titles_processed": 1806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时17分 ~ 19时15分]"
+          "appearance_count": 15,
+          "time_info": "[06时17分 ~ 20时36分]"
         },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -68,8 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时09分 ~ 19时15分]"
+          "appearance_count": 12,
+          "time_info": "[11时09分 ~ 20时36分]"
         },
         {
           "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
@@ -81,11 +81,12 @@
             13,
             15,
             14,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 20时36分]"
         },
         {
           "title": "华为Mate 70 Air评测",
@@ -126,8 +127,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 20时36分]"
+        },
+        {
+          "title": "黄仁勋、杨立昆等多位大佬发声：与人类智慧媲美的AI技术已经到来",
+          "url": "https://www.cls.cn/detail/2193935",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时25分 ~ 19时15分]"
+          "time_info": "[17时19分 ~ 20时36分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
@@ -188,18 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时16分]"
-        },
-        {
-          "title": "黄仁勋、杨立昆等多位大佬发声：与人类智慧媲美的AI技术已经到来",
-          "url": "https://www.cls.cn/detail/2193935",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 19时15分]"
         },
         {
           "title": "AI正凶猛“加杠杆”",
@@ -273,6 +274,28 @@
           "time_info": "01时18分"
         },
         {
+          "title": "欧盟委员会：听取产业界、欧盟各国对AI法案的关切。 可能通过“数字综合法案”解决对《人工智能法案》的担忧。 现阶段尚未就推迟《人工智能法案》做出决定。",
+          "url": "https://wallstreetcn.com/livenews/3001209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "OpenAI CFO 表达希望美国政府对当前的 AI 算力基础设施投资提供担保，如何评价这一表述？",
+          "url": "https://www.zhihu.com/question/1970068977905525926",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "中国台湾10月出口狂增近50% AI需求与电子新品拉货共同发酵",
           "url": "https://wallstreetcn.com/livenews/3001112",
           "source": "华尔街见闻-快讯",
@@ -282,6 +305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
+        },
+        {
+          "title": "美联储副主席杰斐逊将于十分钟后就“AI与经济”发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251107195000001800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "新西兰联储委员会成员Prasanna Gai将于11月14日讲话。",
@@ -461,6 +495,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国企",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "海关总署：恢复3家美国企业大豆输华资质",
+          "url": "https://news.ifeng.com/c/8o5nDUssFwV",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     }
