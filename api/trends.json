@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T06:16:41.052696+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2025-11-08T07:16:16.731449+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
@@ -38,30 +38,43 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时18分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[04时18分 ~ 07时16分]"
         },
         {
           "title": "Salesforce签署排他性协议，将收购Spindle AI。",
           "url": "https://wallstreetcn.com/livenews/3001411",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时16分]"
         },
         {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
           "url": "https://wallstreetcn.com/livenews/3001405",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时16分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet：11月5日，公司CEO Sundar Pichai按每股278.52-286.03美元卖出32,500股C类股。",
+          "url": "https://wallstreetcn.com/livenews/3001422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "07时16分"
         }
       ]
     },
@@ -77,8 +90,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时16分]"
         }
       ]
     }
