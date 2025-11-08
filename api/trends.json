@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T11:39:53.087469+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2025-11-08T12:21:23.543961+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -37,9 +37,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 12时21分]"
+        },
+        {
+          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
+          "url": "https://www.cls.cn/detail/2193939",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时21分]"
         },
         {
           "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
@@ -54,18 +67,6 @@
           "time_info": "[04时18分 ~ 09时14分]"
         },
         {
-          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
-          "url": "https://www.cls.cn/detail/2193939",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时39分]"
-        },
-        {
           "title": "高盛：人们对AI交易不再是“买入一切”，而是“更有选择性”，是“零和游戏”",
           "url": "https://wallstreetcn.com/articles/3758895",
           "source": "华尔街见闻",
@@ -74,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 11时39分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时21分]"
         },
         {
           "title": "谷歌母公司Alphabet：11月5日，公司CEO Sundar Pichai按每股278.52-286.03美元卖出32,500股C类股。",
@@ -112,6 +113,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时16分]"
+        },
+        {
+          "title": "全球电力设备巨头上调财年订单指引 整合业务回应AI炒作期待",
+          "url": "https://www.cls.cn/detail/2194802",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "星展：美股AI股票的高估值问题非常值得担忧，尤其是所谓的美股“科技七巨头”",
