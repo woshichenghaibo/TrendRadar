@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T06:17:35.779235+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2025-11-09T07:16:21.325943+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
           "url": "https://www.zhihu.com/question/1970150431255684262",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 06时17分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 07时16分]"
         },
         {
           "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
@@ -38,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
@@ -50,24 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时17分]"
-        },
-        {
-          "title": "用AI前瞻S15决赛",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%89%8D%E7%9E%BBS15%E5%86%B3%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            23,
-            24,
-            26,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "快手科技高级副总裁马宏彬：可灵AI全球用户破4500万，已与2万多家企业及开发者达成合作",
@@ -81,8 +66,25 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
+        },
+        {
+          "title": "用AI前瞻S15决赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%89%8D%E7%9E%BBS15%E5%86%B3%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            23,
+            24,
+            26,
+            10,
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
@@ -93,8 +95,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时17分]"
+          "appearance_count": 3,
+          "time_info": "[05时14分 ~ 07时16分]"
         },
         {
           "title": "美国俄勒冈州参议员卢·弗雷德里克时隔6年再次访华，Accelerate合伙人称在AI存在投资、合作机会",
@@ -123,8 +125,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
         }
       ]
     }
