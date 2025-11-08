@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T14:25:04.788611+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2025-11-08T15:17:28.129774+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 15时17分]"
+        },
+        {
+          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
+          "url": "https://www.cls.cn/detail/2193939",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 15时17分]"
         },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -40,19 +54,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
-          "url": "https://www.cls.cn/detail/2193939",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 14时25分]"
         },
         {
           "title": "高盛：人们对AI交易不再是“买入一切”，而是“更有选择性”，是“零和游戏”",
@@ -79,27 +80,29 @@
           "time_info": "[04时18分 ~ 09时14分]"
         },
         {
+          "title": "全球电力设备巨头上调财年订单指引 整合业务回应AI炒作期待",
+          "url": "https://www.cls.cn/detail/2194802",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 15时17分]"
+        },
+        {
           "title": "阿里研究院院长袁媛：生成式AI浪潮下，软件成为连接科技创新与产业创新的桥梁",
           "url": "https://wallstreetcn.com/livenews/3001497",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时25分]"
-        },
-        {
-          "title": "全球电力设备巨头上调财年订单指引 整合业务回应AI炒作期待",
-          "url": "https://www.cls.cn/detail/2194802",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时17分]"
         },
         {
           "title": "谷歌母公司Alphabet：11月5日，公司CEO Sundar Pichai按每股278.52-286.03美元卖出32,500股C类股。",
