@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T02:22:11.695791+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2025-11-10T03:13:24.221961+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
@@ -27,8 +27,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "GAI演唱会江湖流大合唱",
@@ -36,11 +36,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
@@ -50,8 +51,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
@@ -61,19 +62,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "张朝阳：有些时候我们要拒绝AI",
           "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E6%9C%89%E4%BA%9B%E6%97%B6%E5%80%99%E6%88%91%E4%BB%AC%E8%A6%81%E6%8B%92%E7%BB%9DAI",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 03时13分]"
         }
       ]
     },
@@ -90,8 +92,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         }
       ]
     }
