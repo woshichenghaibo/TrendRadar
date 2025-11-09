@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T06:16:23.850683+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2025-11-10T07:16:17.067722+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "张朝阳：有些时候我们要拒绝AI",
@@ -39,11 +40,13 @@
             24,
             14,
             10,
-            12
+            12,
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时21分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[02时21分 ~ 07时16分]"
         },
         {
           "title": "GAI演唱会江湖流大合唱",
@@ -84,6 +87,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 04时17分]"
+        },
+        {
+          "title": "每天一个奇吧—novelai吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时16分]"
+        },
+        {
+          "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
+          "url": "https://www.cls.cn/detail/2195310",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时16分]"
         }
       ]
     },
@@ -100,8 +125,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时16分]"
         }
       ]
     }
