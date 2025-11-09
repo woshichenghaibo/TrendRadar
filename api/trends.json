@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T04:17:55.358218+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-11-10T05:14:46.540969+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
@@ -27,8 +27,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "GAI演唱会江湖流大合唱",
@@ -38,11 +38,12 @@
             22,
             25,
             23,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
@@ -50,11 +51,26 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            17
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 05时14分]"
+        },
+        {
+          "title": "张朝阳：有些时候我们要拒绝AI",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E6%9C%89%E4%BA%9B%E6%97%B6%E5%80%99%E6%88%91%E4%BB%AC%E8%A6%81%E6%8B%92%E7%BB%9DAI",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24,
+            14,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "time_info": "[02时21分 ~ 05时14分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
@@ -67,19 +83,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 04时17分]"
-        },
-        {
-          "title": "张朝阳：有些时候我们要拒绝AI",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E6%9C%89%E4%BA%9B%E6%97%B6%E5%80%99%E6%88%91%E4%BB%AC%E8%A6%81%E6%8B%92%E7%BB%9DAI",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时21分 ~ 04时17分]"
         }
       ]
     },
@@ -96,8 +99,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
         }
       ]
     }
