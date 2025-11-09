@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-11-09T17:16:48.536845+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2025-11-09T18:17:53.146325+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
-          "url": "https://www.zhihu.com/question/1970150431255684262",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时14分 ~ 17时16分]"
-        },
         {
           "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
           "url": "https://wallstreetcn.com/articles/3758970",
@@ -32,6 +20,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时19分 ~ 11时13分]"
+        },
+        {
+          "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
+          "url": "https://www.zhihu.com/question/1970150431255684262",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[03时14分 ~ 18时17分]"
         },
         {
           "title": "大空头2.0横空出世做空AI 这次可以跟么？",
@@ -57,8 +58,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 17时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 18时17分]"
         },
         {
           "title": "用AI前瞻S15决赛",
@@ -90,8 +91,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时23分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[09时23分 ~ 18时17分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
@@ -157,11 +158,34 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 17时16分]"
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 18时17分]"
+        },
+        {
+          "title": "研究员：AI或取代绝大部分人类工作",
+          "url": "https://www.toutiao.com/trending/7570635868688354825/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "中信证券：AI叙事只是影响了行情斜率而不是趋势，调仓思路不用刻意回避AI叙事",
+          "url": "https://wallstreetcn.com/livenews/3001665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
@@ -174,6 +198,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时20分 ~ 17时16分]"
+        },
+        {
+          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
+          "url": "https://wallstreetcn.com/articles/3758988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时17分]"
         },
         {
           "title": "14岁男生回应作文被质疑借助AI",
@@ -209,15 +244,26 @@
           "time_info": "09时23分"
         },
         {
-          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
-          "url": "https://wallstreetcn.com/articles/3758988",
-          "source": "华尔街见闻",
+          "title": "GAI演唱会江湖流大合唱",
+          "url": "https://www.douyin.com/hot/2300262",
+          "source": "抖音",
           "ranks": [
-            10
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时16分"
+          "time_info": "18时17分"
+        },
+        {
+          "title": "GAI首场体育场演唱会现场",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E9%A6%96%E5%9C%BA%E4%BD%93%E8%82%B2%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "GAI在演唱会庆祝重庆铜梁龙冲超成功",
@@ -265,11 +311,12 @@
             9,
             14,
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 17时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 18时17分]"
         }
       ]
     }
