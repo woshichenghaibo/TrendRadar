@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T12:20:22.688648+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2025-11-09T13:17:22.189349+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时14分 ~ 12时20分]"
+          "appearance_count": 10,
+          "time_info": "[03时14分 ~ 13时17分]"
         },
         {
           "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
@@ -43,8 +43,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 12时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 13时17分]"
         },
         {
           "title": "用AI前瞻S15决赛",
@@ -58,11 +58,12 @@
             10,
             6,
             20,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 13时17分]"
         },
         {
           "title": "快手科技高级副总裁马宏彬：可灵AI全球用户破4500万，已与2万多家企业及开发者达成合作",
@@ -100,11 +101,12 @@
             5,
             9,
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时14分 ~ 12时20分]"
+          "appearance_count": 7,
+          "time_info": "[05时14分 ~ 13时17分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年11月8日",
@@ -112,11 +114,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 13时17分]"
         },
         {
           "title": "大空头2.0横空出世做空AI 这次可以跟么？",
@@ -126,8 +129,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 13时17分]"
         },
         {
           "title": "AI一键格桑花儿开转场",
@@ -181,7 +184,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         }
@@ -197,11 +200,12 @@
           "source": "微博",
           "ranks": [
             17,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 13时17分]"
         }
       ]
     },
@@ -221,8 +225,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 12时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 13时17分]"
         }
       ]
     }
