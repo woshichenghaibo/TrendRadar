@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T18:21:02.748997+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2025-11-10T19:16:18.284924+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
@@ -44,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时18分 ~ 18时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时18分 ~ 19时16分]"
         },
         {
           "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
@@ -69,11 +69,12 @@
             13,
             10,
             9,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时18分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[13时18分 ~ 19时16分]"
         },
         {
           "title": "每天一个奇吧—novelai吧",
@@ -91,8 +92,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时15分 ~ 18时21分]"
+          "appearance_count": 16,
+          "time_info": "[07时15分 ~ 19时16分]"
         },
         {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
@@ -106,6 +107,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时19分 ~ 07时16分]"
+        },
+        {
+          "title": "当机构约60%的持仓与AI相关",
+          "url": "https://wallstreetcn.com/articles/3758994",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时29分 ~ 19时16分]"
         },
         {
           "title": "张朝阳：有些时候我们要拒绝AI",
@@ -123,19 +137,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时21分 ~ 07时16分]"
-        },
-        {
-          "title": "当机构约60%的持仓与AI相关",
-          "url": "https://wallstreetcn.com/articles/3758994",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时29分 ~ 18时21分]"
         },
         {
           "title": "比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？",
@@ -165,13 +166,27 @@
           "time_info": "[00时19分 ~ 05时14分]"
         },
         {
+          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
+          "url": "https://wallstreetcn.com/articles/3758983",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 19时16分]"
+        },
+        {
           "title": "电力供应紧张制约AI繁荣 数据中心高需求遭遇供电危机",
           "url": "https://flash.jin10.com/detail/20251110180623108800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -210,19 +225,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 04时17分]"
-        },
-        {
-          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
-          "url": "https://wallstreetcn.com/articles/3758983",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 18时21分]"
         },
         {
           "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
@@ -295,6 +297,28 @@
           "time_info": "09时22分"
         },
         {
+          "title": "OpenAI：美国现役军人及退伍军人在退役或离职前12个月内，可免费获得一年的ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20251110183752790800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
+          "url": "https://flash.jin10.com/detail/20251110183215863800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "美国参议院民主党议员Kaine表示，他支持共和党提出的结束政府停摆的法案。",
           "url": "https://flash.jin10.com/detail/20251110081812830800",
           "source": "金十数据",
@@ -304,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "最新风口是让AI当“狗”吗",
+          "url": "https://www.toutiao.com/trending/7571013604158213682/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "中信建投：寻找业绩弹性，把握结构性行情，重点关注AI、新能源等方向",
@@ -359,8 +394,54 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国企",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国资委谭作钧出席第八届中国企业论坛中国青年企业家论坛",
+          "url": "https://wallstreetcn.com/livenews/3001924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "time_info": "[13时19分 ~ 14时29分]"
+        },
+        {
+          "title": "用过来人的经验，给刚进国企的小白一个忠告，你会说什么？",
+          "url": "https://www.zhihu.com/question/1920264777453794562",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "贸易战",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待贸易战的变化",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%B4%B8%E6%98%93%E6%88%98%E7%9A%84%E5%8F%98%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
@@ -378,24 +459,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国资委谭作钧出席第八届中国企业论坛中国青年企业家论坛",
-          "url": "https://wallstreetcn.com/livenews/3001924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时29分]"
         }
       ]
     }
