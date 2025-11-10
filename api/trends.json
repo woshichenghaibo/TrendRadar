@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T20:37:28.263204+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2025-11-10T21:30:40.539916+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
@@ -45,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时18分 ~ 20时37分]"
+          "appearance_count": 15,
+          "time_info": "[11时18分 ~ 21时30分]"
         },
         {
           "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
@@ -94,8 +94,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时15分 ~ 20时37分]"
+          "appearance_count": 18,
+          "time_info": "[07时15分 ~ 21时30分]"
         },
         {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
@@ -212,7 +212,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -316,7 +316,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -330,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2025年11月9日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31928995",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
@@ -363,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "瑞银：AI生产力增长驱动科技股上行是合理的",
+          "url": "https://flash.jin10.com/detail/20251110202419439800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "中信建投：寻找业绩弹性，把握结构性行情，重点关注AI、新能源等方向",
@@ -407,8 +429,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时37分]"
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 21时30分]"
         },
         {
           "title": "日本首相高市早苗：经济政策的最终责任在于政府。 具体的货币政策方法由日本央行决定。",
@@ -429,6 +451,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "用过来人的经验，给刚进国企的小白一个忠告，你会说什么？",
+          "url": "https://www.zhihu.com/question/1920264777453794562",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时30分]"
+        },
+        {
           "title": "国资委谭作钧出席第八届中国企业论坛中国青年企业家论坛",
           "url": "https://wallstreetcn.com/livenews/3001924",
           "source": "华尔街见闻-快讯",
@@ -439,18 +474,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 14时29分]"
-        },
-        {
-          "title": "用过来人的经验，给刚进国企的小白一个忠告，你会说什么？",
-          "url": "https://www.zhihu.com/question/1920264777453794562",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时37分]"
         }
       ]
     },
