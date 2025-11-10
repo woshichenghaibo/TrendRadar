@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T15:18:12.034457+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2025-11-10T16:26:18.395014+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,19 @@
           "time_info": "[07时15分 ~ 15时18分]"
         },
         {
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时18分 ~ 16时26分]"
+        },
+        {
           "title": "每天一个奇吧—novelai吧",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
           "source": "贴吧",
@@ -44,11 +57,12 @@
             11,
             12,
             13,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时15分 ~ 15时18分]"
+          "appearance_count": 12,
+          "time_info": "[07时15分 ~ 16时26分]"
         },
         {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
@@ -62,19 +76,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "一口气看清美股AI泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时18分 ~ 15时18分]"
         },
         {
           "title": "张朝阳：有些时候我们要拒绝AI",
@@ -94,6 +95,32 @@
           "time_info": "[02时21分 ~ 07时16分]"
         },
         {
+          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
+          "url": "https://www.cls.cn/detail/2195390",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时26分 ~ 16时26分]"
+        },
+        {
+          "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
+          "url": "https://www.cls.cn/detail/2195609",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 16时26分]"
+        },
+        {
           "title": "GAI演唱会江湖流大合唱",
           "url": "https://www.douyin.com/hot/2300262",
           "source": "抖音",
@@ -107,18 +134,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 05时14分]"
-        },
-        {
-          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
-          "url": "https://www.cls.cn/detail/2195390",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 15时18分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
@@ -145,16 +160,16 @@
           "time_info": "09时22分"
         },
         {
-          "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
-          "url": "https://www.cls.cn/detail/2195609",
-          "source": "财联社热门",
+          "title": "当机构约60%的持仓与AI相关",
+          "url": "https://wallstreetcn.com/articles/3758994",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            10
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时18分 ~ 15时18分]"
+          "time_info": "[14时29分 ~ 16时26分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
@@ -205,15 +220,15 @@
           "time_info": "[14时29分 ~ 15时18分]"
         },
         {
-          "title": "当机构约60%的持仓与AI相关",
-          "url": "https://wallstreetcn.com/articles/3758994",
-          "source": "华尔街见闻",
+          "title": "比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？",
+          "url": "https://www.cls.cn/detail/2195504",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 15时18分]"
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 16时26分]"
         },
         {
           "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
@@ -226,17 +241,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 12时26分]"
-        },
-        {
-          "title": "比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？",
-          "url": "https://www.cls.cn/detail/2195504",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
         },
         {
           "title": "AI引爆“电荒” 韩国电池三巨头转向储能 在美总产能计划翻倍",
