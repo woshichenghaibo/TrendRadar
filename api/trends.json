@@ -1,187 +1,33 @@
 {
-  "generated_at": "2025-11-10T23:21:57.974945+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2025-11-11T00:23:10.450330+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 5,
       "titles": [
         {
-          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
-          "url": "https://wallstreetcn.com/articles/3758988",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
-          "url": "https://www.cls.cn/detail/2195310",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时15分 ~ 15时18分]"
-        },
-        {
-          "title": "一口气看清美股AI泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            4,
-            5,
-            9,
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时18分 ~ 23时21分]"
-        },
-        {
-          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
-          "url": "https://www.cls.cn/detail/2195390",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时26分 ~ 17时21分]"
-        },
-        {
-          "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
-          "url": "https://www.cls.cn/detail/2195609",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时18分 ~ 20时37分]"
-        },
-        {
-          "title": "每天一个奇吧—novelai吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            9,
-            11,
-            12,
-            13,
-            17,
-            18,
-            19,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时15分 ~ 23时21分]"
-        },
-        {
-          "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31927340",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "当机构约60%的持仓与AI相关",
-          "url": "https://wallstreetcn.com/articles/3758994",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时29分 ~ 19时16分]"
-        },
-        {
-          "title": "张朝阳：有些时候我们要拒绝AI",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E6%9C%89%E4%BA%9B%E6%97%B6%E5%80%99%E6%88%91%E4%BB%AC%E8%A6%81%E6%8B%92%E7%BB%9DAI",
+          "title": "12岁小孩做一张AI图吓坏整个小区",
+          "url": "https://www.baidu.com/s?wd=12%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%81%9A%E4%B8%80%E5%BC%A0AI%E5%9B%BE%E5%90%93%E5%9D%8F%E6%95%B4%E4%B8%AA%E5%B0%8F%E5%8C%BA",
           "source": "百度热搜",
           "ranks": [
-            26,
-            24,
-            14,
-            10,
-            12,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时21分 ~ 07时16分]"
-        },
-        {
-          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
-          "url": "https://wallstreetcn.com/articles/3758983",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 20时37分]"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？",
-          "url": "https://www.cls.cn/detail/2195504",
-          "source": "财联社热门",
+          "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
+          "url": "https://wallstreetcn.com/articles/3759030",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时17分 ~ 18时21分]"
-        },
-        {
-          "title": "GAI演唱会江湖流大合唱",
-          "url": "https://www.douyin.com/hot/2300262",
-          "source": "抖音",
-          "ranks": [
-            22,
-            25,
-            23,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时14分]"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -192,364 +38,29 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时21分]"
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "电力供应紧张制约AI繁荣 数据中心高需求遭遇供电危机",
-          "url": "https://flash.jin10.com/detail/20251110180623108800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
-          "url": "https://wallstreetcn.com/livenews/3001690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时14分]"
-        },
-        {
-          "title": "超级AI临界点逼近：OpenAI发出警告",
-          "url": "https://www.toutiao.com/trending/7571055203147845126/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "12岁小孩做一张AI图吓坏整个小区",
-          "url": "https://www.baidu.com/s?wd=12%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%81%9A%E4%B8%80%E5%BC%A0AI%E5%9B%BE%E5%90%93%E5%9D%8F%E6%95%B4%E4%B8%AA%E5%B0%8F%E5%8C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "英矽智能与礼来达成AI驱动药物研发合作，总额超过1亿美金",
-          "url": "https://wallstreetcn.com/livenews/3001818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
-          "url": "https://wallstreetcn.com/livenews/3001685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时17分]"
-        },
-        {
-          "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
-          "url": "https://wallstreetcn.com/articles/3759030",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时21分]"
-        },
-        {
-          "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
-          "url": "https://flash.jin10.com/detail/20251110140226573800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时18分]"
-        },
-        {
-          "title": "中信建投：Meta确认6000亿美元AI投资计划，中科曙光发布640卡超节点",
-          "url": "https://wallstreetcn.com/livenews/3001963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时18分]"
-        },
-        {
-          "title": "美团AI新进展：首款AI IDE产品CatPaw开启公测",
-          "url": "https://wallstreetcn.com/livenews/3002073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时21分]"
-        },
-        {
-          "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
-          "url": "https://wallstreetcn.com/livenews/3001961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时18分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2025年11月9日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31928995",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 22时19分]"
-        },
-        {
-          "title": "AI引爆“电荒” 韩国电池三巨头转向储能 在美总产能计划翻倍",
-          "url": "https://www.cls.cn/detail/2195198",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "康养机器人、跌倒监测相机……当养老遇见AI ，如何撬动“老有所AI”的万亿级市场？",
-          "url": "https://www.cls.cn/detail/2195107",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "钢琴奶奶给AI打分评歌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%92%A2%E7%90%B4%E5%A5%B6%E5%A5%B6%E7%BB%99AI%E6%89%93%E5%88%86%E8%AF%84%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "OpenAI：美国现役军人及退伍军人在退役或离职前12个月内，可免费获得一年的ChatGPT Plus服务。",
-          "url": "https://flash.jin10.com/detail/20251110183752790800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "AI服务器初创公司Majestic Labs融资1亿美元。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3002206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
-          "url": "https://flash.jin10.com/detail/20251110183215863800",
-          "source": "金十数据",
+          "title": "每天一个奇吧—novelai吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
+          "source": "贴吧",
           "ranks": [
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "美国参议院民主党议员Kaine表示，他支持共和党提出的结束政府停摆的法案。",
-          "url": "https://flash.jin10.com/detail/20251110081812830800",
-          "source": "金十数据",
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
           "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "最新风口是让AI当“狗”吗",
-          "url": "https://www.toutiao.com/trending/7571013604158213682/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "瑞银：AI生产力增长驱动科技股上行是合理的",
-          "url": "https://flash.jin10.com/detail/20251110202419439800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "中信建投：寻找业绩弹性，把握结构性行情，重点关注AI、新能源等方向",
-          "url": "https://wallstreetcn.com/livenews/3001788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赚钱 方法",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "亲妈误入赚钱坑,执迷不悟急坏娃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346890&amp;topic_name=%E4%BA%B2%E5%A6%88%E8%AF%AF%E5%85%A5%E8%B5%9A%E9%92%B1%E5%9D%91%2C%E6%89%A7%E8%BF%B7%E4%B8%8D%E6%82%9F%E6%80%A5%E5%9D%8F%E5%A8%83",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23,
-            24,
-            26,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时29分]"
-        },
-        {
-          "title": "加班赚钱给老婆花,专家又出神建议",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346948&amp;topic_name=%E5%8A%A0%E7%8F%AD%E8%B5%9A%E9%92%B1%E7%BB%99%E8%80%81%E5%A9%86%E8%8A%B1%2C%E4%B8%93%E5%AE%B6%E5%8F%88%E5%87%BA%E7%A5%9E%E5%BB%BA%E8%AE%AE",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 23时21分]"
-        },
-        {
-          "title": "日本首相高市早苗：经济政策的最终责任在于政府。 具体的货币政策方法由日本央行决定。",
-          "url": "https://wallstreetcn.com/livenews/3001968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "经济疲软助推降息预期 黄金价格跳涨至两周高点",
-          "url": "https://flash.jin10.com/detail/20251110164825040800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "纽交所金矿股指数涨3.7%，创10月16日以来最佳盘中表现。 GAU涨13.2%，赫克拉矿业涨7.7%，ASM涨7%，THM涨7.2%，PPTA涨6%，AG涨5.3%，巴里克矿业涨5.3%，金田公司涨5.2%，哈莫尼黄金和B2gold涨5%，泛美白银涨4.9%，科尔黛伦矿业涨4%，金矿股ETF涨3.2%，黄金矿工因素指数ETF涨3.2%，白银ETF涨2.7%，金条价格ETF涨2.1%，黄金ETF涨1.9%。 此外，多伦多上市的Santacruz Silver Mining Ltd.涨17%，创最近14周最大盘中涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3002210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "用过来人的经验，给刚进国企的小白一个忠告，你会说什么？",
-          "url": "https://www.zhihu.com/question/1920264777453794562",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 21时30分]"
-        },
-        {
-          "title": "国资委谭作钧出席第八届中国企业论坛中国青年企业家论坛",
-          "url": "https://wallstreetcn.com/livenews/3001924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时29分]"
+          "time_info": "[00时22分 ~ 00时23分]"
         }
       ]
     },
@@ -558,15 +69,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "如何看待贸易战的变化",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%B4%B8%E6%98%93%E6%88%98%E7%9A%84%E5%8F%98%E5%8C%96",
-          "source": "bilibili 热搜",
+          "title": "特朗普的“贸易战”收到了什么结果",
+          "url": "https://www.toutiao.com/trending/7571084710177148454/",
+          "source": "今日头条",
           "ranks": [
-            27
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纽交所金矿股指数涨3.7%，创10月16日以来最佳盘中表现。 GAU涨13.2%，赫克拉矿业涨7.7%，ASM涨7%，THM涨7.2%，PPTA涨6%，AG涨5.3%，巴里克矿业涨5.3%，金田公司涨5.2%，哈莫尼黄金和B2gold涨5%，泛美白银涨4.9%，科尔黛伦矿业涨4%，金矿股ETF涨3.2%，黄金矿工因素指数ETF涨3.2%，白银ETF涨2.7%，金条价格ETF涨2.1%，黄金ETF涨1.9%。 此外，多伦多上市的Santacruz Silver Mining Ltd.涨17%，创最近14周最大盘中涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3002210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时16分"
+          "time_info": "00时23分"
         }
       ]
     },
@@ -579,11 +107,28 @@
           "url": "https://wallstreetcn.com/livenews/3002212",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赚钱 方法",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "加班赚钱给老婆花,专家又出神建议",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346948&amp;topic_name=%E5%8A%A0%E7%8F%AD%E8%B5%9A%E9%92%B1%E7%BB%99%E8%80%81%E5%A9%86%E8%8A%B1%2C%E4%B8%93%E5%AE%B6%E5%8F%88%E5%87%BA%E7%A5%9E%E5%BB%BA%E8%AE%AE",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         }
       ]
     }
