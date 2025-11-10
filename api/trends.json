@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T02:26:15.314679+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2025-11-11T03:15:26.143962+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时15分]"
         },
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时15分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -37,19 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时26分]"
-        },
-        {
-          "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
-          "url": "https://flash.jin10.com/detail/20251111020735747800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时15分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -58,11 +47,12 @@
           "ranks": [
             22,
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时15分]"
         },
         {
           "title": "每天一个奇吧—novelai吧",
@@ -72,8 +62,32 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时15分]"
+        },
+        {
+          "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
+          "url": "https://flash.jin10.com/detail/20251111020735747800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时15分]"
+        },
+        {
+          "title": "台积电10月营收增速放缓 AI热潮可持续性再受质疑",
+          "url": "https://www.cls.cn/detail/2196371",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 03时15分]"
         },
         {
           "title": "现在的 AI 能够给黑白漫画上色了吗？",
@@ -97,17 +111,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时26分]"
-        },
-        {
-          "title": "台积电10月营收增速放缓 AI热潮可持续性再受质疑",
-          "url": "https://www.cls.cn/detail/2196371",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 02时26分]"
         },
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -210,8 +213,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时15分]"
         }
       ]
     }
