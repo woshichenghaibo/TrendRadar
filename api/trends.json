@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T09:19:57.595033+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2025-11-11T11:12:49.193575+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 11时12分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -25,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 11时12分]"
         },
         {
           "title": "12岁小孩做一张AI图吓坏整个小区",
@@ -37,11 +39,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 11时12分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -127,6 +130,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时15分]"
+        },
+        {
+          "title": "美参议员指责AI热潮推高电价 要求白宫应对数据中心用电压力",
+          "url": "https://www.cls.cn/detail/2196521",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 11时12分]"
         },
         {
           "title": "摩根大通：AI的5万亿美元成本将需要所有的债务市场（来满足）。",
@@ -230,9 +245,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "李飞飞教授预言AI下一个十年",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E9%A3%9E%E9%A3%9E%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8D%81%E5%B9%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
           "title": "英特尔CTO跳槽至OpenAI，CEO陈立武将兼任该职",
@@ -246,15 +272,15 @@
           "time_info": "07时17分"
         },
         {
-          "title": "美参议员指责AI热潮推高电价 要求白宫应对数据中心用电压力",
-          "url": "https://www.cls.cn/detail/2196521",
+          "title": "OpenAI寻求变现又一招？这次瞄准AI医疗 或开发个人健康助理",
+          "url": "https://www.cls.cn/detail/2196380",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "11时12分"
         },
         {
           "title": "英伟达拉美主管Marcio Aguiar：英伟达支持创新。 在墨西哥，人工智能（AI）机会大于挑战。 英伟达的合作伙伴们现在计划在墨西哥投资。 他们将在墨西哥数据中心投资200万-400万美元。",
@@ -266,6 +292,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "贸易战",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普的“贸易战”收到了什么结果",
+          "url": "https://www.toutiao.com/trending/7571084710177148454/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 05时16分]"
+        },
+        {
+          "title": "特朗普明年会重启对华贸易战吗",
+          "url": "https://www.toutiao.com/trending/7571253413522968106/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         }
       ]
     },
@@ -308,11 +364,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 11时12分]"
         },
         {
           "title": "A股站稳4000点散户为何赚钱难",
@@ -321,28 +378,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "贸易战",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普的“贸易战”收到了什么结果",
-          "url": "https://www.toutiao.com/trending/7571084710177148454/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 05时16分]"
         }
       ]
     },
