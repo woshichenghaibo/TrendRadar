@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T17:20:48.427756+08:00",
-  "total_titles_processed": 1485,
+  "generated_at": "2025-11-11T18:20:42.671201+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -45,11 +45,12 @@
             17,
             19,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 17时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 18时20分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -118,17 +119,6 @@
           "time_info": "[09时19分 ~ 14时27分]"
         },
         {
-          "title": "AI制药商英矽智能冲刺港股IPO，核心产品已获中国CDE确认可开展III期临床试验",
-          "url": "https://wallstreetcn.com/livenews/3002688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
           "title": "C3.ai(AI.N)盘中直线拉升，涨幅一度超10%。",
           "url": "https://flash.jin10.com/detail/20251111044243734800",
           "source": "金十数据",
@@ -164,6 +154,18 @@
           "time_info": "[01时16分 ~ 07时17分]"
         },
         {
+          "title": "AI制药商英矽智能冲刺港股IPO，核心产品已获中国CDE确认可开展III期临床试验",
+          "url": "https://wallstreetcn.com/livenews/3002688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时20分]"
+        },
+        {
           "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
           "url": "https://flash.jin10.com/detail/20251111020735747800",
           "source": "金十数据",
@@ -181,11 +183,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 18时20分]"
         },
         {
           "title": "钢琴奶奶给AI打分评歌",
@@ -248,6 +251,18 @@
           "time_info": "[04时21分 ~ 05时16分]"
         },
         {
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时20分]"
+        },
+        {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
           "url": "https://wallstreetcn.com/livenews/3002253",
           "source": "华尔街见闻-快讯",
@@ -306,6 +321,28 @@
           "time_info": "09时19分"
         },
         {
+          "title": "AI热潮驱动，软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
+          "url": "https://wallstreetcn.com/articles/3759084",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "李飞飞教授预言AI下一个十年",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E9%A3%9E%E9%A3%9E%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8D%81%E5%B9%B4",
           "source": "bilibili 热搜",
@@ -348,17 +385,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
-        },
-        {
-          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "受AI估值飙升推动 软银第二财季净利润激增",
@@ -416,6 +442,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "苹果考虑在下一代iPhone Air上增加第二颗摄像头。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3002706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "软银：已于10月以58.3亿美元的价格出售了英伟达的股份。 在6月至9月期间出售了价值91.7亿美元的T-MOBILE股份。 与OpenAI签署了修订协议，承诺将追加投资225亿美元。 将于12月通过愿景基金2完成全部投资。",
           "url": "https://wallstreetcn.com/livenews/3002563",
           "source": "华尔街见闻-快讯",
@@ -433,7 +470,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         }
@@ -461,11 +498,12 @@
           "ranks": [
             11,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 18时20分]"
         },
         {
           "title": "广西公职人员性侵聚餐女性被刑拘",
@@ -527,8 +565,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时26分 ~ 17时20分]"
+          "appearance_count": 7,
+          "time_info": "[14时26分 ~ 18时20分]"
         },
         {
           "title": "“把算力送入太空！” 中国企业卡位“AI军备”前沿赛道｜聚焦",
@@ -549,7 +587,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -640,11 +678,12 @@
             7,
             11,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 17时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 18时20分]"
         },
         {
           "title": "A股站稳4000点散户为何赚钱难",
