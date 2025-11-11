@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T11:12:49.193575+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2025-11-11T12:22:33.086870+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -17,21 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 11时12分]"
-        },
-        {
-          "title": "硬刚真Air标准!联想官方遭怒喷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346966&amp;topic_name=%E7%A1%AC%E5%88%9A%E7%9C%9FAir%E6%A0%87%E5%87%86%21%E8%81%94%E6%83%B3%E5%AE%98%E6%96%B9%E9%81%AD%E6%80%92%E5%96%B7",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 11时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时22分]"
         },
         {
           "title": "12岁小孩做一张AI图吓坏整个小区",
@@ -45,6 +32,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时22分 ~ 11时12分]"
+        },
+        {
+          "title": "硬刚真Air标准!联想官方遭怒喷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346966&amp;topic_name=%E7%A1%AC%E5%88%9A%E7%9C%9FAir%E6%A0%87%E5%87%86%21%E8%81%94%E6%83%B3%E5%AE%98%E6%96%B9%E9%81%AD%E6%80%92%E5%96%B7",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时22分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -140,8 +141,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 11时12分]"
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 12时22分]"
+        },
+        {
+          "title": "钢琴奶奶给AI打分评歌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%92%A2%E7%90%B4%E5%A5%B6%E5%A5%B6%E7%BB%99AI%E6%89%93%E5%88%86%E8%AF%84%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 12时22分]"
         },
         {
           "title": "摩根大通：AI的5万亿美元成本将需要所有的债务市场（来满足）。",
@@ -216,18 +230,6 @@
           "time_info": "[01时16分 ~ 02时26分]"
         },
         {
-          "title": "钢琴奶奶给AI打分评歌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%92%A2%E7%90%B4%E5%A5%B6%E5%A5%B6%E7%BB%99AI%E6%89%93%E5%88%86%E8%AF%84%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 09时19分]"
-        },
-        {
           "title": "美国参议员联名致信抨击Meta、OpenAI、Alphabet和Oracle。",
           "url": "https://flash.jin10.com/detail/20251111004153687800",
           "source": "金十数据",
@@ -256,7 +258,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -278,9 +280,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
+        },
+        {
+          "title": "美股 AI 科技股遭惨烈一周，英伟达等八巨头市值缩水 8000 亿美元，会否重蹈互联网泡沫的走势？",
+          "url": "https://www.zhihu.com/question/1971153219230066622",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "美国AI被电力卡了脖子？大量数据中心面临闲置风险 电力设备行业或迎机遇",
+          "url": "https://www.cls.cn/detail/2196681",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "英伟达拉美主管Marcio Aguiar：英伟达支持创新。 在墨西哥，人工智能（AI）机会大于挑战。 英伟达的合作伙伴们现在计划在墨西哥投资。 他们将在墨西哥数据中心投资200万-400万美元。",
@@ -319,7 +343,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         }
@@ -365,22 +389,41 @@
           "ranks": [
             6,
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 11时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时22分]"
         },
         {
           "title": "A股站稳4000点散户为何赚钱难",
           "url": "https://www.toutiao.com/trending/7571236554241216019/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 12时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国企",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“把算力送入太空！” 中国企业卡位“AI军备”前沿赛道｜聚焦",
+          "url": "https://www.cls.cn/detail/2196710",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "12时22分"
         }
       ]
     },
