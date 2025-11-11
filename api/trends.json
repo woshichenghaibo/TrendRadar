@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T20:36:21.961774+08:00",
-  "total_titles_processed": 1791,
+  "generated_at": "2025-11-11T21:30:20.918878+08:00",
+  "total_titles_processed": 1874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -49,8 +49,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时22分 ~ 20时36分]"
+          "appearance_count": 25,
+          "time_info": "[00时22分 ~ 21时30分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -133,6 +133,20 @@
           "time_info": "[09时19分 ~ 14时27分]"
         },
         {
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 21时30分]"
+        },
+        {
           "title": "C3.ai(AI.N)盘中直线拉升，涨幅一度超10%。",
           "url": "https://flash.jin10.com/detail/20251111044243734800",
           "source": "金十数据",
@@ -168,18 +182,17 @@
           "time_info": "[01时16分 ~ 07时17分]"
         },
         {
-          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
-          "source": "澎湃新闻",
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            13,
-            15,
-            12
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时36分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时30分]"
         },
         {
           "title": "AI制药商英矽智能冲刺港股IPO，核心产品已获中国CDE确认可开展III期临床试验",
@@ -215,18 +228,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时20分 ~ 20时36分]"
-        },
-        {
-          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
-          "url": "https://wallstreetcn.com/articles/3759120",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时36分]"
         },
         {
           "title": "钢琴奶奶给AI打分评歌",
@@ -457,6 +458,17 @@
           "time_info": "15时18分"
         },
         {
+          "title": "欧盟坚称将强制执行AI和数据隐私规则 拒绝受美国影响",
+          "url": "https://flash.jin10.com/detail/20251111205124420800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
           "title": "微软宣布在葡萄牙锡尼什投资100亿美元建设AI数据中心",
           "url": "https://flash.jin10.com/detail/20251111184532762800",
           "source": "金十数据",
@@ -496,7 +508,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -540,8 +552,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时18分 ~ 20时36分]"
+          "appearance_count": 9,
+          "time_info": "[15时18分 ~ 21时30分]"
         },
         {
           "title": "广西2名公职人员性侵聚餐女性被刑拘",
@@ -742,8 +754,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时22分 ~ 20时36分]"
+          "appearance_count": 25,
+          "time_info": "[00时22分 ~ 21时30分]"
         },
         {
           "title": "A股站稳4000点散户为何赚钱难",
