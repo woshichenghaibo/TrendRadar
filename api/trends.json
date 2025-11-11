@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-12T02:25:02.638892+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2025-11-12T03:14:56.570092+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
-          "url": "https://flash.jin10.com/detail/20251112020238925800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
           "url": "https://wallstreetcn.com/articles/3759120",
@@ -26,8 +15,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
+        },
+        {
+          "title": "AMD(AMD.O)：数据中心的增长目标是数据中心的AI芯片。",
+          "url": "https://flash.jin10.com/detail/20251112024020124800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -49,8 +49,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
+        },
+        {
+          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
+          "url": "https://flash.jin10.com/detail/20251112020238925800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时14分]"
         },
         {
           "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
@@ -63,6 +75,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时16分]"
+        },
+        {
+          "title": "AMD：预计2027年与数据中心相关的AI芯片业务收入将为“数百亿美元”。 服务器CPU的市场份额超过50%。 PC（个人电脑）市场的份额超过40%。 预计未来3-5年CAGR（复合年均增长率）年度收入增幅为35%。 预计整体数据中心增速将比CAGR市场多出60%。",
+          "url": "https://wallstreetcn.com/livenews/3002943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "AMD CEO苏姿丰：客户的AI投资并没有“趋于稳定”。 AI计算基础设施的需求得不到满足。 AI加速器并没有造成CPU市场下滑。 公司预计，数据中心/AI电脑芯片总市场规模（TAM）到2030年将增长至1万亿美元。 最新TAM目标包括CPU、加速器、网络。",
+          "url": "https://wallstreetcn.com/livenews/3002938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
+          "url": "https://wallstreetcn.com/livenews/3002934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "业内：AI把闪存链烧断了",
@@ -89,8 +134,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
         },
         {
           "title": "英国央行副行长布里登：英国需要在稳定币问题上采取与美国不同的方法。",
@@ -118,8 +163,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
         }
       ]
     }
