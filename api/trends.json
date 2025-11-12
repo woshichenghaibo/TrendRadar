@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T20:37:54.932504+08:00",
-  "total_titles_processed": 1765,
+  "generated_at": "2025-11-12T21:32:42.390740+08:00",
+  "total_titles_processed": 1857,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时11分 ~ 20时37分]"
+          "appearance_count": 13,
+          "time_info": "[11时11分 ~ 21时32分]"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -99,8 +100,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时18分 ~ 20时37分]"
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 21时32分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -480,8 +481,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时27分 ~ 20时37分]"
+          "appearance_count": 9,
+          "time_info": "[14时27分 ~ 21时32分]"
         }
       ]
     },
@@ -517,6 +518,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112211910657800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
