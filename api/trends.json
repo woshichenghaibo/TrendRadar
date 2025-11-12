@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T19:16:01.441459+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2025-11-12T20:37:54.932504+08:00",
+  "total_titles_processed": 1765,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时11分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时11分 ~ 20时37分]"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -91,6 +91,18 @@
           "time_info": "[09时18分 ~ 14时27分]"
         },
         {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 20时37分]"
+        },
+        {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
           "url": "https://www.cls.cn/detail/2197744",
           "source": "财联社热门",
@@ -102,18 +114,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时18分 ~ 15时18分]"
-        },
-        {
-          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
-          "url": "https://wallstreetcn.com/articles/3759168",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 19时16分]"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -480,8 +480,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时27分 ~ 19时16分]"
+          "appearance_count": 8,
+          "time_info": "[14时27分 ~ 20时37分]"
         }
       ]
     },
