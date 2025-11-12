@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T18:21:31.199359+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2025-11-12T19:16:01.441459+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时11分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时11分 ~ 19时16分]"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -101,6 +102,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时18分 ~ 15时18分]"
+        },
+        {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 19时16分]"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -199,18 +212,6 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
-          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
-          "url": "https://wallstreetcn.com/articles/3759168",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 16时24分]"
-        },
-        {
           "title": "“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！",
           "url": "https://www.cls.cn/detail/2197833",
           "source": "财联社热门",
@@ -235,6 +236,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 05时16分]"
+        },
+        {
+          "title": "芯片初创公司D-Matrix融资2.75亿美元 拟扩大AI推理芯片生产和分销",
+          "url": "https://flash.jin10.com/detail/20251112180638505800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时16分]"
         },
         {
           "title": "鸿海：将于下周公布与OpenAI合作的具体细节。",
@@ -306,17 +319,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时18分 ~ 14时27分]"
-        },
-        {
-          "title": "芯片初创公司D-Matrix融资2.75亿美元 拟扩大AI推理芯片生产和分销",
-          "url": "https://flash.jin10.com/detail/20251112180638505800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         },
         {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
@@ -435,7 +437,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -478,8 +480,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 19时16分]"
         }
       ]
     },
