@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T00:25:35.484914+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-14T01:18:21.364224+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI造世界的时代来了",
@@ -15,52 +15,56 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时18分]"
         },
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
           "url": "https://wallstreetcn.com/articles/3759330",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时18分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3759306",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时18分]"
         },
         {
           "title": "特斯拉AI负责人警告员工：2026年将是“人生中最艰难的一年”",
           "url": "https://wallstreetcn.com/livenews/3004275",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时18分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2200065",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时18分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -70,8 +74,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时18分]"
         },
         {
           "title": "AI会如何改编游戏行业",
@@ -83,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "马斯克：媒体关于xAI融资的报道“不实”。",
+          "url": "https://wallstreetcn.com/livenews/3004285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
         },
         {
           "title": "马斯克旗下xAI融资150亿美元，将于12月12日完成E轮融资。（CNBC）",
@@ -106,11 +121,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347026&amp;topic_name=%E7%94%BB%E7%94%B7%E7%A1%AC%E8%AF%B4%E5%A5%B3%2C%E5%AD%99%E7%AC%91%E5%B7%9D%E9%87%8D%E5%A1%91%E5%A5%B3%E6%80%A7%E7%BE%8E",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时18分]"
         }
       ]
     }
