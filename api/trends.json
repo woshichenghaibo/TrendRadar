@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-13T14:27:38.003634+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2025-11-13T15:18:04.972671+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
+          "url": "https://www.cls.cn/detail/2198992",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时17分 ~ 15时18分]"
+        },
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
           "url": "https://wallstreetcn.com/articles/3759159",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
-          "url": "https://www.cls.cn/detail/2198992",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时17分 ~ 14时27分]"
         },
         {
           "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
@@ -72,6 +72,19 @@
           "time_info": "[09时20分 ~ 13时18分]"
         },
         {
+          "title": "AI争霸已切换至“能源战场”，大摩预测2028年美国电力缺口达20%！",
+          "url": "https://www.cls.cn/detail/2199055",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 15时18分]"
+        },
+        {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
           "url": "https://flash.jin10.com/detail/20251113050804559800",
           "source": "金十数据",
@@ -89,7 +102,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -155,18 +168,6 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
-          "title": "AI争霸已切换至“能源战场”，大摩预测2028年美国电力缺口达20%！",
-          "url": "https://www.cls.cn/detail/2199055",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 14时27分]"
-        },
-        {
           "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
           "url": "https://www.cls.cn/detail/2198606",
           "source": "财联社热门",
@@ -199,6 +200,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 06时18分]"
+        },
+        {
+          "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
         },
         {
           "title": "如何看待米哈游《星布谷地》的 AI NPC 技术？",
@@ -378,9 +390,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 15时18分]"
         },
         {
           "title": "外媒分析：阻止日元下跌可能只有外汇干预这一种方法",
@@ -441,11 +453,12 @@
             1,
             5,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 14时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 15时18分]"
         }
       ]
     }
