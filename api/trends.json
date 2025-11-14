@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T15:18:05.432506+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2025-11-14T16:23:44.668711+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -19,8 +19,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 15时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 16时23分]"
+        },
+        {
+          "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
+          "url": "https://www.cls.cn/detail/2200326",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时12分 ~ 16时23分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -32,11 +45,12 @@
             6,
             9,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 15时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 16时23分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -52,18 +66,6 @@
           "time_info": "[00时25分 ~ 11时12分]"
         },
         {
-          "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
-          "url": "https://www.cls.cn/detail/2200326",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时12分 ~ 15时18分]"
-        },
-        {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3759306",
           "source": "华尔街见闻",
@@ -74,8 +76,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 15时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 16时23分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -208,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
+        },
+        {
+          "title": "Uzi用AI分析自己复出可能性",
+          "url": "https://search.bilibili.com/all?keyword=Uzi%E7%94%A8AI%E5%88%86%E6%9E%90%E8%87%AA%E5%B7%B1%E5%A4%8D%E5%87%BA%E5%8F%AF%E8%83%BD%E6%80%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "汇丰：腾讯料加大AI投入以强化长期增长动能 维持买入评级",
@@ -382,7 +395,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         }
@@ -402,11 +415,12 @@
             18,
             19,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 15时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 16时23分]"
         }
       ]
     }
