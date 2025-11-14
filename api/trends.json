@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T18:20:32.118413+08:00",
-  "total_titles_processed": 1615,
+  "generated_at": "2025-11-14T19:15:31.525153+08:00",
+  "total_titles_processed": 1667,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 18时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 19时15分]"
         },
         {
           "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
@@ -46,11 +46,12 @@
             9,
             14,
             18,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 18时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 19时15分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -73,11 +74,12 @@
             7,
             8,
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 18时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 19时15分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -107,15 +109,15 @@
           "time_info": "17时19分"
         },
         {
-          "title": "Meta Platforms(META.O)：BirdyChat和Haiket将成为首批与WhatsApp实现消息互通的外部服务。",
-          "url": "https://flash.jin10.com/detail/20251114180518359800",
-          "source": "金十数据",
+          "title": "OpenAI战略布局解读",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%98%E7%95%A5%E5%B8%83%E5%B1%80%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "19时15分"
         },
         {
           "title": "网信部门从严整治利用AI仿冒公众人物开展直播营销问题乱象：已处置仿冒公众人物账号1.1万余个。（新华社）",
@@ -127,6 +129,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：BirdyChat和Haiket将成为首批与WhatsApp实现消息互通的外部服务。",
+          "url": "https://flash.jin10.com/detail/20251114180518359800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时15分]"
         },
         {
           "title": "晨星：AI服务器需求激增，鸿海增长前景强劲",
@@ -151,6 +165,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 14时27分]"
+        },
+        {
+          "title": "AI泡沫警告声四起！继华尔街之后，相关企业高管们也承认了……",
+          "url": "https://www.cls.cn/detail/2200800",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时15分]"
+        },
+        {
+          "title": "小伙高铁上用AI眼镜玩游戏",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8AI%E7%9C%BC%E9%95%9C%E7%8E%A9%E6%B8%B8%E6%88%8F",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时15分]"
         },
         {
           "title": "特斯拉AI负责人警告员工：2026年将是“人生中最艰难的一年”",
@@ -189,16 +228,16 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
-          "title": "AI泡沫警告声四起！继华尔街之后，相关企业高管们也承认了……",
-          "url": "https://www.cls.cn/detail/2200800",
-          "source": "财联社热门",
+          "title": "TCL华星正在构建AI五星架构",
+          "url": "https://wallstreetcn.com/livenews/3004785",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            13
+            13,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时20分]"
+          "time_info": "[18时20分 ~ 19时15分]"
         },
         {
           "title": "IDC最新的全球宏观经济预测显示，到2030年，AI会累积带来近22.3万亿美元的经济收入，这将占到全球GDP的3.7%。",
@@ -211,18 +250,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 14时27分]"
-        },
-        {
-          "title": "小伙高铁上用AI眼镜玩游戏",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8AI%E7%9C%BC%E9%95%9C%E7%8E%A9%E6%B8%B8%E6%88%8F",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时20分]"
         },
         {
           "title": "甲骨文AI豪赌令投资者大感不安 成科技抛售潮的最大受害者",
@@ -289,17 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
-        },
-        {
-          "title": "TCL华星正在构建AI五星架构",
-          "url": "https://wallstreetcn.com/livenews/3004785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         },
         {
           "title": "特朗普用AI生成逮捕奥巴马视频",
@@ -503,11 +519,12 @@
             22,
             23,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 18时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 19时15分]"
         }
       ]
     }
