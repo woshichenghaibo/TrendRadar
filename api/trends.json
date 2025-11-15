@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T18:17:04.926276+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2025-11-15T19:13:27.154582+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时05分 ~ 18时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时05分 ~ 19时13分]"
         },
         {
           "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
@@ -43,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时16分 ~ 18时17分]"
+          "appearance_count": 14,
+          "time_info": "[09时16分 ~ 19时13分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -89,22 +90,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 19时13分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
           "url": "https://search.bilibili.com/all?keyword=FURIA%20paiN",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 19时13分]"
         },
         {
           "title": "AI投资加剧投资者担忧，甲骨文债券遭抛售",
@@ -152,11 +155,12 @@
           "ranks": [
             19,
             17,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 18时17分]"
+          "appearance_count": 7,
+          "time_info": "[15时15分 ~ 19时13分]"
         }
       ]
     },
