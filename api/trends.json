@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T13:17:06.589311+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2025-11-15T14:24:26.333291+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时14分 ~ 13时17分]"
+          "appearance_count": 12,
+          "time_info": "[03时14分 ~ 14时24分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[11时05分 ~ 14时24分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 14时24分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
@@ -104,11 +104,12 @@
           "ranks": [
             2,
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时05分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时05分 ~ 14时24分]"
         }
       ]
     },
