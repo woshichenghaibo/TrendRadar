@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T00:18:58.120537+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-16T01:14:23.433466+08:00",
+  "total_titles_processed": 343,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
           "url": "https://search.bilibili.com/all?keyword=FURIA%20paiN",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
@@ -48,8 +50,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时14分]"
         }
       ]
     },
@@ -65,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时14分]"
         }
       ]
     }
