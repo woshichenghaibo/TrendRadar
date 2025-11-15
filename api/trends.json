@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T14:24:26.333291+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2025-11-15T15:15:40.532401+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时14分 ~ 14时24分]"
+          "appearance_count": 13,
+          "time_info": "[03时14分 ~ 15时15分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -29,8 +29,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时05分 ~ 14时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时05分 ~ 15时15分]"
+        },
+        {
+          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
+          "url": "https://wallstreetcn.com/articles/3759419",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 15时15分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 07时16分]"
-        },
-        {
-          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
-          "url": "https://wallstreetcn.com/articles/3759419",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时16分 ~ 14时24分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
@@ -94,6 +95,34 @@
       ]
     },
     {
+      "keyword_group": "婚姻 女性",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "画男硬说女,孙笑川重塑女性美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347026&amp;topic_name=%E7%94%BB%E7%94%B7%E7%A1%AC%E8%AF%B4%E5%A5%B3%2C%E5%AD%99%E7%AC%91%E5%B7%9D%E9%87%8D%E5%A1%91%E5%A5%B3%E6%80%A7%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 09时16分]"
+        },
+        {
+          "title": "四喜里的女性互助好戳心",
+          "url": "https://www.douyin.com/hot/2306860",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -108,25 +137,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时05分 ~ 14时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "画男硬说女,孙笑川重塑女性美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347026&amp;topic_name=%E7%94%BB%E7%94%B7%E7%A1%AC%E8%AF%B4%E5%A5%B3%2C%E5%AD%99%E7%AC%91%E5%B7%9D%E9%87%8D%E5%A1%91%E5%A5%B3%E6%80%A7%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 09时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 15时15分]"
         }
       ]
     }
