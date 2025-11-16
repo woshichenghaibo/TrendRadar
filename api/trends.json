@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T13:17:10.608337+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2025-11-16T14:25:24.113793+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 13时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 14时25分]"
         },
         {
           "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
@@ -50,11 +50,12 @@
           "ranks": [
             3,
             9,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 14时25分]"
         },
         {
           "title": "易点天下与阿里云达成AI漫剧出海框架合作协议，共同打造首个AI漫剧出海加速增长引擎",
@@ -62,11 +63,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 14时25分]"
         },
         {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
@@ -74,11 +76,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 14时25分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
@@ -116,11 +119,12 @@
           "ranks": [
             13,
             12,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 14时25分]"
         },
         {
           "title": "四喜里的女性互助好戳心",
@@ -128,11 +132,12 @@
           "source": "抖音",
           "ranks": [
             25,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 14时25分]"
         }
       ]
     },
