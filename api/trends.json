@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T16:21:27.489744+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2025-11-16T17:17:15.891088+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
@@ -30,19 +30,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时18分 ~ 16时21分]"
-        },
-        {
-          "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
-          "url": "https://wallstreetcn.com/livenews/3005171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 17时17分]"
         },
         {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
@@ -54,8 +43,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 16时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时23分 ~ 17时17分]"
+        },
+        {
+          "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
+          "url": "https://wallstreetcn.com/livenews/3005171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时16分]"
         },
         {
           "title": "智谱董事长刘德兵：完全支持开源，我们已开源40多款AI模型",
@@ -71,17 +71,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时17分 ~ 15时15分]"
-        },
-        {
-          "title": "中国电信与优必选合作的10万台AI悟空机器人开启交付",
-          "url": "https://wallstreetcn.com/livenews/3005279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         },
         {
           "title": "易点天下与阿里云达成AI漫剧出海框架合作协议，共同打造首个AI漫剧出海加速增长引擎",
@@ -103,11 +92,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            14
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时17分]"
+        },
+        {
+          "title": "中国电信与优必选合作的10万台AI悟空机器人开启交付",
+          "url": "https://wallstreetcn.com/livenews/3005279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时21分]"
+          "time_info": "[16时21分 ~ 17时17分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
@@ -139,6 +141,22 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "四喜里的女性互助好戳心",
+          "url": "https://www.douyin.com/hot/2306860",
+          "source": "抖音",
+          "ranks": [
+            25,
+            24,
+            22,
+            20,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 17时17分]"
+        },
+        {
           "title": "86年39岁未婚未育女性的真实感受",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D86%E5%B9%B439%E5%B2%81%E6%9C%AA%E5%A9%9A%E6%9C%AA%E8%82%B2%E5%A5%B3%E6%80%A7%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%84%9F%E5%8F%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D13%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26q%3D86%25E5%25B9%25B439%25E5%25B2%2581%25E6%259C%25AA%25E5%25A9%259A%25E6%259C%25AA%25E8%2582%25B2%25E5%25A5%25B3%25E6%2580%25A7%25E7%259A%2584%25E7%259C%259F%25E5%25AE%259E%25E6%2584%259F%25E5%258F%2597%26realpos%3D13%26pos%3D13%26display_time%3D1763262912%26pre_seqid%3D17632629128920330466733&launchid=10000360-page_H5",
           "source": "微博",
@@ -151,21 +169,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时16分 ~ 14时25分]"
-        },
-        {
-          "title": "四喜里的女性互助好戳心",
-          "url": "https://www.douyin.com/hot/2306860",
-          "source": "抖音",
-          "ranks": [
-            25,
-            24,
-            22,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时16分 ~ 16时21分]"
         }
       ]
     },
@@ -190,11 +193,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时21分]"
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 17时17分]"
         }
       ]
     }
