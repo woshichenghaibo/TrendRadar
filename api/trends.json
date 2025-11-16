@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T06:16:13.172388+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2025-11-17T07:16:09.869750+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
@@ -36,11 +36,12 @@
           "ranks": [
             15,
             17,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -51,8 +52,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -91,11 +92,25 @@
           "ranks": [
             1,
             3,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时18分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[04时18分 ~ 07时16分]"
+        },
+        {
+          "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
+          "url": "https://www.zhihu.com/question/1971154128169301668",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时18分 ~ 07时16分]"
         },
         {
           "title": "据知情人士透露，空中客车有望在迪拜航展宣布在打飞机采购中获得重大份额。 空客接近出售大约100架A321NEO飞机给FlyDubai，可能会获得更多订单。 波音公司洽谈向FlyDubai供相对偏小的订单，预计会出售几十架737 MAX飞机给对方。 FlyDubai飞机订单的最终结果将取决于眼下正在推进的谈判。（路透）",
@@ -107,18 +122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
-          "url": "https://www.zhihu.com/question/1971154128169301668",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时18分 ~ 06时16分]"
         }
       ]
     }
