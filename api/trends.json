@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T21:30:57.121107+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2025-11-17T22:18:59.662376+08:00",
+  "total_titles_processed": 1796,
   "failed_sources": [],
   "trends": [
     {
@@ -69,8 +69,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时27分 ~ 21时30分]"
+          "appearance_count": 13,
+          "time_info": "[14时27分 ~ 22时18分]"
+        },
+        {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时25分 ~ 22时18分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
@@ -108,19 +121,6 @@
           "time_info": "[00时19分 ~ 14时28分]"
         },
         {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时25分 ~ 21时30分]"
-        },
-        {
           "title": "华为，AI突破将发布",
           "url": "https://wallstreetcn.com/articles/3759477",
           "source": "华尔街见闻",
@@ -132,6 +132,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时14分 ~ 14时28分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 22时18分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -189,18 +202,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时18分 ~ 07时16分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 21时30分]"
         },
         {
           "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
@@ -395,8 +396,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 21时30分]"
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 22时18分]"
         }
       ]
     },
@@ -411,7 +412,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         }
