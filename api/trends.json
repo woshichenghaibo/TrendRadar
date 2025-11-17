@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T07:16:09.869750+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2025-11-17T09:19:55.166939+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 09时19分]"
         },
         {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
           "url": "https://www.cls.cn/detail/2201554",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 09时19分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
@@ -40,8 +41,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 09时19分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -52,8 +53,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 09时19分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -113,6 +114,17 @@
           "time_info": "[04时18分 ~ 07时16分]"
         },
         {
+          "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
+          "url": "https://www.cls.cn/detail/2201935",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "据知情人士透露，空中客车有望在迪拜航展宣布在打飞机采购中获得重大份额。 空客接近出售大约100架A321NEO飞机给FlyDubai，可能会获得更多订单。 波音公司洽谈向FlyDubai供相对偏小的订单，预计会出售几十架737 MAX飞机给对方。 FlyDubai飞机订单的最终结果将取决于眼下正在推进的谈判。（路透）",
           "url": "https://wallstreetcn.com/livenews/3005373",
           "source": "华尔街见闻-快讯",
@@ -122,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "华为将发布AI领域突破性技术",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%8D%8E%E4%B8%BA%E5%B0%86%E5%8F%91%E5%B8%83AI%E9%A2%86%E5%9F%9F%E7%AA%81%E7%A0%B4%E6%80%A7%E6%8A%80%E6%9C%AF&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26band_rank%3D16%26c_type%3D31%26cate%3D5001%26filter_type%3Drealtimehot%26lcate%3D5001%26q%3D%25E5%258D%258E%25E4%25B8%25BA%25E5%25B0%2586%25E5%258F%2591%25E5%25B8%2583AI%25E9%25A2%2586%25E5%259F%259F%25E7%25AA%2581%25E7%25A0%25B4%25E6%2580%25A7%25E6%258A%2580%25E6%259C%25AF%26realpos%3D16%26dgr%3D0%26pos%3D16%26stream_entry_id%3D31%26display_time%3D1763342218%26pre_seqid%3D17633422186120329958081&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     }
