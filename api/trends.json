@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T14:28:13.231674+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2025-11-17T15:18:44.883299+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时19分 ~ 14时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时19分 ~ 15时18分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
@@ -51,11 +51,12 @@
             17,
             16,
             18,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 14时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 15时18分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -72,6 +73,18 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时19分 ~ 14时28分]"
+        },
+        {
+          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
+          "url": "https://www.cls.cn/detail/2201993",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 15时18分]"
         },
         {
           "title": "华为，AI突破将发布",
@@ -131,18 +144,6 @@
           "time_info": "[04时18分 ~ 07时16分]"
         },
         {
-          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
-          "url": "https://www.cls.cn/detail/2201993",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 14时28分]"
-        },
-        {
           "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
           "url": "https://www.zhihu.com/question/1971154128169301668",
           "source": "知乎",
@@ -172,11 +173,12 @@
           "source": "微博",
           "ranks": [
             17,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 15时18分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -187,19 +189,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 15时18分]"
         },
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
           "url": "https://wallstreetcn.com/articles/3759516",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 15时18分]"
         },
         {
           "title": "华为将发布AI领域突破性技术",
