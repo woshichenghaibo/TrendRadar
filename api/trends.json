@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T18:21:10.505709+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2025-11-17T19:17:04.552829+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,21 @@
           "time_info": "[12时26分 ~ 17时22分]"
         },
         {
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时27分 ~ 19时17分]"
+        },
+        {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
           "url": "https://m.thepaper.cn/newsDetail_forward_31979142",
           "source": "澎湃新闻",
@@ -68,11 +83,12 @@
             14,
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时19分 ~ 18时21分]"
+          "appearance_count": 27,
+          "time_info": "[00时19分 ~ 19时17分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -91,18 +107,16 @@
           "time_info": "[00时19分 ~ 14时28分]"
         },
         {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
           "ranks": [
             9,
-            7,
-            6,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时27分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 19时17分]"
         },
         {
           "title": "华为，AI突破将发布",
@@ -199,17 +213,6 @@
           "time_info": "04时18分"
         },
         {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 18时21分]"
-        },
-        {
           "title": "成龙去世谣言系AI生成",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%88%90%E9%BE%99%E5%8E%BB%E4%B8%96%E8%B0%A3%E8%A8%80%E7%B3%BBAI%E7%94%9F%E6%88%90%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E6%2588%2590%25E9%25BE%2599%25E5%258E%25BB%25E4%25B8%2596%25E8%25B0%25A3%25E8%25A8%2580%25E7%25B3%25BBAI%25E7%2594%259F%25E6%2588%2590%2523%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D17%26realpos%3D17%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26pos%3D18%26cate%3D5001%26display_time%3D1763356678%26pre_seqid%3D176335667851003306688123&launchid=10000360-page_H5",
           "source": "微博",
@@ -223,6 +226,17 @@
           "time_info": "[13时18分 ~ 15时18分]"
         },
         {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 19时17分]"
+        },
+        {
           "title": "阿里 Qwen 同名个人 AI 助理「千问」App 开始公测，该产品体验效果如何？",
           "url": "https://www.zhihu.com/question/1973700569139995365",
           "source": "知乎",
@@ -233,17 +247,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时25分 ~ 17时22分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
@@ -362,11 +365,12 @@
           "url": "https://wallstreetcn.com/articles/3759513",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 19时17分]"
         }
       ]
     }
