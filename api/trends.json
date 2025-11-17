@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T20:36:45.546236+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2025-11-17T21:30:57.121107+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
@@ -69,8 +69,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时27分 ~ 20时36分]"
+          "appearance_count": 12,
+          "time_info": "[14时27分 ~ 21时30分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
@@ -117,8 +117,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 20时36分]"
+          "appearance_count": 9,
+          "time_info": "[16时25分 ~ 21时30分]"
         },
         {
           "title": "华为，AI突破将发布",
@@ -191,6 +191,18 @@
           "time_info": "[04时18分 ~ 07时16分]"
         },
         {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 21时30分]"
+        },
+        {
           "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
           "url": "https://www.zhihu.com/question/1971154128169301668",
           "source": "知乎",
@@ -221,7 +233,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -237,17 +249,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时18分 ~ 15时18分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 20时36分]"
         },
         {
           "title": "阿里 Qwen 同名个人 AI 助理「千问」App 开始公测，该产品体验效果如何？",
@@ -280,7 +281,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -394,8 +395,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 20时36分]"
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 21时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-17）",
+          "url": "https://flash.jin10.com/detail/20251117210242767800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         }
       ]
     }
