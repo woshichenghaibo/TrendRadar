@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T03:14:13.056494+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-11-18T04:20:54.179761+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "成龙去世照片系AI生成",
@@ -39,8 +39,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
@@ -48,11 +48,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 04时20分]"
         },
         {
           "title": "CoreWeave史上最糟糕的一周，表明AI交易员正变得挑三拣四",
@@ -79,8 +80,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
         }
       ]
     }
