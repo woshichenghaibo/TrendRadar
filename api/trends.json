@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T03:15:39.529681+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2025-11-19T04:21:19.557586+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
@@ -48,11 +48,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -62,8 +63,68 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时21分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
+          "url": "https://www.cls.cn/detail/2203836",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时21分]"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
+          "url": "https://wallstreetcn.com/articles/3759559",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时21分]"
+        },
+        {
+          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
+          "url": "https://www.cls.cn/detail/2204017",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时21分]"
+        },
+        {
+          "title": "Plain Jane Remix编舞跳起来",
+          "url": "https://www.douyin.com/hot/2310465",
+          "source": "抖音",
+          "ranks": [
+            23,
+            26,
+            19,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时21分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：通过在微软(MSFT.O)全新Fairwater人工智能超级工厂中采用英伟达Spectrum-X以太网交换机，扩大与微软的合作范围。",
+          "url": "https://flash.jin10.com/detail/20251119040743481800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "市场消息：瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。",
@@ -88,52 +149,15 @@
           "time_info": "02时26分"
         },
         {
-          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
-          "url": "https://www.cls.cn/detail/2203836",
-          "source": "财联社热门",
+          "title": "知情人士：沙特获准采购大量美国AI芯片",
+          "url": "https://flash.jin10.com/detail/20251119040550958800",
+          "source": "金十数据",
           "ranks": [
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时15分]"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
-          "url": "https://wallstreetcn.com/articles/3759559",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时15分]"
-        },
-        {
-          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
-          "url": "https://www.cls.cn/detail/2204017",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时15分]"
-        },
-        {
-          "title": "Plain Jane Remix编舞跳起来",
-          "url": "https://www.douyin.com/hot/2310465",
-          "source": "抖音",
-          "ranks": [
-            23,
-            26,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。（彭博）",
@@ -229,6 +253,28 @@
           "time_info": "01时18分"
         },
         {
+          "title": "美国计划批准向沙特AI公司Humain出售芯片。",
+          "url": "https://wallstreetcn.com/livenews/3006708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "市场消息：美国计划批准向沙特阿拉伯人工智能企业Humain出售芯片。",
+          "url": "https://flash.jin10.com/detail/20251119034535713800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
           "title": "法国总统马克龙：德国和法国支持推后一年再出台高风险AI制度。",
           "url": "https://flash.jin10.com/detail/20251119002630860800",
           "source": "金十数据",
@@ -286,6 +332,23 @@
       ]
     },
     {
+      "keyword_group": "股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
+          "url": "https://flash.jin10.com/detail/20251119025030602800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -296,7 +359,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         }
