@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T21:29:33.772527+08:00",
-  "total_titles_processed": 1795,
+  "generated_at": "2025-11-20T22:18:31.713197+08:00",
+  "total_titles_processed": 1892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时08分 ~ 21时29分]"
+          "appearance_count": 16,
+          "time_info": "[11时08分 ~ 22时18分]"
         },
         {
           "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
@@ -128,8 +128,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时25分 ~ 21时29分]"
+          "appearance_count": 13,
+          "time_info": "[14时25分 ~ 22时18分]"
         },
         {
           "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
@@ -159,8 +159,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时23分 ~ 21时29分]"
+          "appearance_count": 28,
+          "time_info": "[00时23分 ~ 22时18分]"
         },
         {
           "title": "大力推进美国AI发展，特朗普又有“新计划”！",
@@ -488,6 +488,17 @@
           "time_info": "[02时26分 ~ 03时15分]"
         },
         {
+          "title": "NORM AI宣布获得黑石集团5000万美元投资，并推出全新原生人工智能律师事务所NORM LAW。",
+          "url": "https://flash.jin10.com/detail/20251120220815549800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：客户的财务问题是他们自己的事。 每个国家将为自己的（AI）基础设施提供融资。",
           "url": "https://wallstreetcn.com/livenews/3007458",
           "source": "华尔街见闻-快讯",
@@ -664,6 +675,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "OpenAI数据中心工厂将于2026年第一季度尽快开业。（The Information）",
+          "url": "https://flash.jin10.com/detail/20251120220406915800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "AMD、思科联手沙特Humain成立AI数据中心合资企业",
           "url": "https://flash.jin10.com/detail/20251120002125058800",
           "source": "金十数据",
@@ -673,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "软银将向OpenAI数据中心工厂投资高达30亿美元。",
+          "url": "https://flash.jin10.com/detail/20251120220240882800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "英伟达AI营收、展望均超预期 黄仁勋直言卖爆了",
@@ -739,6 +772,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-20）",
+          "url": "https://flash.jin10.com/detail/20251120215241633800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
