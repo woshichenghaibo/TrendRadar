@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T12:20:51.701675+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2025-11-20T13:18:37.822108+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -43,8 +43,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 13时18分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -94,8 +94,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 13时18分]"
         },
         {
           "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
@@ -155,6 +155,19 @@
           "time_info": "07时17分"
         },
         {
+          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
+          "url": "https://www.cls.cn/detail/2205653",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 13时18分]"
+        },
+        {
           "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架 。",
           "url": "https://flash.jin10.com/detail/20251120021055474800",
           "source": "金十数据",
@@ -175,6 +188,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
+          "url": "https://www.cls.cn/detail/2205700",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 13时18分]"
         },
         {
           "title": "市场消息：一项草案显示，美国总统特朗普正在考虑签署一项行政令，以优先于各州AI法规实施联邦规定。",
@@ -199,19 +224,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时26分 ~ 04时18分]"
-        },
-        {
-          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
-          "url": "https://www.cls.cn/detail/2205653",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 12时20分]"
         },
         {
           "title": "微软CEO就AI经济接触其顾问。（Business Insider）",
@@ -239,18 +251,6 @@
           "time_info": "[00时23分 ~ 01时17分]"
         },
         {
-          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
-          "url": "https://www.cls.cn/detail/2205700",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 12时20分]"
-        },
-        {
           "title": "OpenAI：推出面向教师的ChatGPT，并将其免费开放至2027年6月。2027年6月之后可能会调整定价，但目标是让面向教师的ChatGPT对教育工作者来说仍然负担得起。",
           "url": "https://flash.jin10.com/detail/20251120021224475800",
           "source": "金十数据",
@@ -273,6 +273,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时17分]"
+        },
+        {
+          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
+          "url": "https://www.cls.cn/detail/2205637",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 13时18分]"
         },
         {
           "title": "沙特公司Humain与Adobe宣布全球战略合作伙伴关系，将打造AI模型和基于AI技术的应用。 Humain与马斯克旗下xAI构建合作伙伴关系，将在沙特打造下一代AI算力、部署Grok，从而支持“最赋能AI国家”目标。",
@@ -300,19 +313,6 @@
           "time_info": "[02时26分 ~ 03时15分]"
         },
         {
-          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
-          "url": "https://www.cls.cn/detail/2205637",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 12时20分]"
-        },
-        {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
           "url": "https://wallstreetcn.com/articles/3759756",
           "source": "华尔街见闻",
@@ -320,8 +320,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 13时18分]"
         },
         {
           "title": "马斯克旗下xAI：在沙特全境部署Grok。 Grok还将被整合到沙特公司Humain的代理平台Humain One。",
@@ -358,6 +358,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时15分]"
+        },
+        {
+          "title": "美议员警告AI泡沫风险：或引发类似2008年的经济动荡",
+          "url": "https://www.cls.cn/detail/2205574",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时18分]"
         },
         {
           "title": "沙特人工智能初创公司Humain：和Adobe(ADBE.O)在美沙投资论坛上宣布全球战略伙伴关系，将为阿拉伯世界构建定制的AI模型和AI驱动的应用程序。",
@@ -457,9 +468,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "华尔街分析师激辩：英伟达财报能否平息“AI泡沫”担忧？",
+          "url": "https://www.cls.cn/detail/2205868",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "英伟达CEO黄仁勋：对投资OpenAI 采取审慎态度。",
@@ -482,17 +504,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        },
-        {
-          "title": "美议员警告AI泡沫风险：或引发类似2008年的经济动荡",
-          "url": "https://www.cls.cn/detail/2205574",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架。",
