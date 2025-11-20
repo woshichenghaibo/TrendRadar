@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T06:17:44.104553+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2025-11-21T07:16:43.919016+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "UP主翻唱AI歌曲美猴亡",
@@ -19,8 +19,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -42,19 +42,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "量化私募集体跨界AI领域",
-          "url": "https://wallstreetcn.com/livenews/3008211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "英伟达一度转跌，英伟达CEO黄仁勋此前驳斥“AI泡沫”论，称：“我们看到了截然不同的东西”。",
@@ -66,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "鸿海与OpenAI合作，将共同设计数据中心的硬件",
+          "url": "https://wallstreetcn.com/livenews/3008222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "AI初创公司FireBird获得美国出口授权。",
@@ -104,6 +104,18 @@
           "time_info": "[04时20分 ~ 05时16分]"
         },
         {
+          "title": "量化私募集体跨界AI领域",
+          "url": "https://wallstreetcn.com/livenews/3008211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
           "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
           "url": "https://wallstreetcn.com/articles/3759784",
           "source": "华尔街见闻",
@@ -113,8 +125,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时20分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[04时20分 ~ 07时16分]"
         },
         {
           "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
@@ -125,8 +137,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时16分]"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -162,6 +174,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "富士康：OpenAI将可提前访问以评估富士康的系统，并拥有购买这些系统的选项。",
+          "url": "https://flash.jin10.com/detail/20251121065219599800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "富士康：富士康与OpenAI合作，以加强美国在人工智能供应链上的制造业实力。将在美国生产人工智能数据中心的关键设备。",
+          "url": "https://flash.jin10.com/detail/20251121065116546800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "市场消息：美国可持续投资公司Overwatch Capital和Idemitsu达成1吉瓦的合作，在美国十个州建设高密度AI数据中心。",
+          "url": "https://flash.jin10.com/detail/20251121061512933800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "南非央行行长警告AI泡沫风险 新兴市场面临溢出效应冲击",
