@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T18:19:59.811779+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2025-11-20T19:16:35.014200+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时08分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时08分 ~ 19时16分]"
         },
         {
           "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
@@ -86,8 +86,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时23分 ~ 18时19分]"
+          "appearance_count": 24,
+          "time_info": "[00时23分 ~ 19时16分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -140,8 +140,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时23分 ~ 18时19分]"
+          "appearance_count": 24,
+          "time_info": "[00时23分 ~ 19时16分]"
         },
         {
           "title": "大力推进美国AI发展，特朗普又有“新计划”！",
@@ -158,19 +158,6 @@
           "time_info": "[14时25分 ~ 18时19分]"
         },
         {
-          "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
-          "url": "https://wallstreetcn.com/articles/3759684",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时17分 ~ 11时08分]"
-        },
-        {
           "title": "华尔街分析师激辩：英伟达财报能否平息“AI泡沫”担忧？",
           "url": "https://www.cls.cn/detail/2205868",
           "source": "财联社热门",
@@ -182,8 +169,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时18分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[13时18分 ~ 19时16分]"
         },
         {
           "title": "UP主翻唱AI歌曲美猴亡",
@@ -194,11 +181,25 @@
             22,
             26,
             20,
-            13
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时25分 ~ 19时16分]"
+        },
+        {
+          "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
+          "url": "https://wallstreetcn.com/articles/3759684",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[14时25分 ~ 18时19分]"
+          "time_info": "[04时17分 ~ 11时08分]"
         },
         {
           "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
