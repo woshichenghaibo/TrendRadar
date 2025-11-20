@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T19:16:35.014200+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2025-11-20T20:36:14.038581+08:00",
+  "total_titles_processed": 1690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时08分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[11时08分 ~ 20时36分]"
         },
         {
           "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
@@ -86,8 +86,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时23分 ~ 19时16分]"
+          "appearance_count": 26,
+          "time_info": "[00时23分 ~ 20时36分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -114,6 +114,23 @@
           "time_info": "[00时23分 ~ 07时17分]"
         },
         {
+          "title": "UP主翻唱AI歌曲美猴亡",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            22,
+            26,
+            20,
+            13,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时25分 ~ 20时36分]"
+        },
+        {
           "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
           "url": "https://www.cls.cn/detail/2205150",
           "source": "财联社热门",
@@ -137,11 +154,12 @@
             18,
             20,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时23分 ~ 19时16分]"
+          "appearance_count": 26,
+          "time_info": "[00时23分 ~ 20时36分]"
         },
         {
           "title": "大力推进美国AI发展，特朗普又有“新计划”！",
@@ -173,22 +191,6 @@
           "time_info": "[13时18分 ~ 19时16分]"
         },
         {
-          "title": "UP主翻唱AI歌曲美猴亡",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            22,
-            26,
-            20,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时25分 ~ 19时16分]"
-        },
-        {
           "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
           "url": "https://wallstreetcn.com/articles/3759684",
           "source": "华尔街见闻",
@@ -213,6 +215,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时17分 ~ 15时17分]"
+        },
+        {
+          "title": "NVIDIA大涨是AI泡沫吗",
+          "url": "https://search.bilibili.com/all?keyword=Nvidia%E5%A4%A7%E6%B6%A8%E6%98%AFAI%E6%B3%A1%E6%B2%AB%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 20时36分]"
         },
         {
           "title": "美国商务部：已批准向位于阿联酋的G42公司和位于沙特的Humain公司出口先进的美国半导体产品。",
@@ -692,6 +705,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "马斯克、黄仁勋同台对话：AI和人形机器人会消除贫困",
+          "url": "https://wallstreetcn.com/livenews/3007912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "特朗普考虑最早周五签署有关AI的行政令。（The Verge）",
