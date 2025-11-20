@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T20:36:14.038581+08:00",
-  "total_titles_processed": 1690,
+  "generated_at": "2025-11-20T21:29:33.772527+08:00",
+  "total_titles_processed": 1795,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时08分 ~ 20时36分]"
+          "appearance_count": 15,
+          "time_info": "[11时08分 ~ 21时29分]"
         },
         {
           "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
@@ -86,8 +86,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时23分 ~ 20时36分]"
+          "appearance_count": 27,
+          "time_info": "[00时23分 ~ 21时29分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -124,11 +124,12 @@
             20,
             13,
             25,
-            24
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时25分 ~ 20时36分]"
+          "appearance_count": 12,
+          "time_info": "[14时25分 ~ 21时29分]"
         },
         {
           "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
@@ -158,8 +159,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时23分 ~ 20时36分]"
+          "appearance_count": 27,
+          "time_info": "[00时23分 ~ 21时29分]"
         },
         {
           "title": "大力推进美国AI发展，特朗普又有“新计划”！",
@@ -204,6 +205,17 @@
           "time_info": "[04时17分 ~ 11时08分]"
         },
         {
+          "title": "NVIDIA大涨是AI泡沫吗",
+          "url": "https://search.bilibili.com/all?keyword=Nvidia%E5%A4%A7%E6%B6%A8%E6%98%AFAI%E6%B3%A1%E6%B2%AB%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 21时29分]"
+        },
+        {
           "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
           "url": "https://www.cls.cn/detail/2205637",
           "source": "财联社热门",
@@ -215,17 +227,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时17分 ~ 15时17分]"
-        },
-        {
-          "title": "NVIDIA大涨是AI泡沫吗",
-          "url": "https://search.bilibili.com/all?keyword=Nvidia%E5%A4%A7%E6%B6%A8%E6%98%AFAI%E6%B3%A1%E6%B2%AB%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
         },
         {
           "title": "美国商务部：已批准向位于阿联酋的G42公司和位于沙特的Humain公司出口先进的美国半导体产品。",
@@ -713,7 +714,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
