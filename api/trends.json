@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T12:21:21.502308+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2025-11-21T13:18:35.376842+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
@@ -56,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 13时18分]"
         },
         {
           "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
@@ -70,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时20分 ~ 12时21分]"
+          "appearance_count": 8,
+          "time_info": "[04时20分 ~ 13时18分]"
         },
         {
           "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
@@ -84,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时16分 ~ 12时21分]"
+          "appearance_count": 7,
+          "time_info": "[05时16分 ~ 13时18分]"
         },
         {
           "title": "英伟达一度转跌，英伟达CEO黄仁勋此前驳斥“AI泡沫”论，称：“我们看到了截然不同的东西”。",
@@ -97,6 +97,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "桥水达利欧：AI泡沫确实存在 但暂未到破裂时刻",
+          "url": "https://www.cls.cn/detail/2206796",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 13时18分]"
         },
         {
           "title": "鸿海与OpenAI合作，将共同设计数据中心的硬件",
@@ -130,19 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "桥水达利欧：AI泡沫确实存在 但暂未到破裂时刻",
-          "url": "https://www.cls.cn/detail/2206796",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 12时21分]"
         },
         {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
@@ -182,6 +182,17 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
+          "url": "https://wallstreetcn.com/articles/3759838",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 13时18分]"
+        },
+        {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
           "url": "https://flash.jin10.com/detail/20251121020447251800",
           "source": "金十数据",
@@ -206,15 +217,16 @@
           "time_info": "[11时09分 ~ 12时21分]"
         },
         {
-          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
-          "url": "https://wallstreetcn.com/articles/3759838",
-          "source": "华尔街见闻",
+          "title": "特朗普晒与C罗在白宫踢球AI视频",
+          "url": "https://www.toutiao.com/trending/7574730776219369513/",
+          "source": "今日头条",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时21分]"
+          "time_info": "[12时21分 ~ 13时18分]"
         },
         {
           "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
@@ -227,6 +239,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时14分]"
+        },
+        {
+          "title": "元宝上线AI视频能力，实现“图文音视”多模态覆盖",
+          "url": "https://wallstreetcn.com/livenews/3008411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "OpenAI被数字实验室APP开发商OverDrive起诉，自称“Sora”商标被Sam Altman公司的视频大模型Sora侵权。",
@@ -251,17 +274,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "特朗普晒与C罗在白宫踢球AI视频",
-          "url": "https://www.toutiao.com/trending/7574730776219369513/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
           "title": "“创世纪计划”！特朗普下周一签署AI新政，类比“曼哈顿计划”和“太空竞赛”",
           "url": "https://wallstreetcn.com/articles/3759760",
           "source": "华尔街见闻",
@@ -282,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "英伟达黄胜斌：我们正与鸿海合作将AI带进工厂和生产线。",
+          "url": "https://wallstreetcn.com/livenews/3008402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "市场消息：美国可持续投资公司Overwatch Capital和Idemitsu达成1吉瓦的合作，在美国十个州建设高密度AI数据中心。",
@@ -370,6 +393,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "13位女性科学家当选两院院士",
+          "url": "https://www.toutiao.com/trending/7574987623811268614/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         }
       ]
     },
