@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T14:27:41.540051+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2025-11-21T15:18:33.033226+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
@@ -19,6 +19,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 09时17分]"
+        },
+        {
+          "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
+          "url": "https://www.zhihu.com/question/1974839795554484978",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时17分 ~ 15时18分]"
         },
         {
           "title": "UP主翻唱AI歌曲美猴亡",
@@ -36,30 +49,6 @@
           "time_info": "[00时23分 ~ 09时17分]"
         },
         {
-          "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
-          "url": "https://www.zhihu.com/question/1974839795554484978",
-          "source": "知乎",
-          "ranks": [
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 14时27分]"
-        },
-        {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 09时17分]"
-        },
-        {
           "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
           "url": "https://wallstreetcn.com/articles/3759810",
           "source": "华尔街见闻",
@@ -71,8 +60,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时16分 ~ 14时27分]"
+          "appearance_count": 9,
+          "time_info": "[05时16分 ~ 15时18分]"
+        },
+        {
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时17分]"
         },
         {
           "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
@@ -98,8 +98,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[09时17分 ~ 15时18分]"
         },
         {
           "title": "英伟达一度转跌，英伟达CEO黄仁勋此前驳斥“AI泡沫”论，称：“我们看到了截然不同的东西”。",
@@ -146,6 +146,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
+          "url": "https://wallstreetcn.com/articles/3759838",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时09分 ~ 15时18分]"
+        },
+        {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
           "url": "https://wallstreetcn.com/livenews/3008126",
           "source": "华尔街见闻-快讯",
@@ -181,17 +192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
-          "url": "https://wallstreetcn.com/articles/3759838",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时09分 ~ 14时27分]"
         },
         {
           "title": "元宝上线AI视频能力，实现“图文音视”多模态覆盖",
@@ -240,6 +240,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 13时18分]"
+        },
+        {
+          "title": "鸿海董事长：若与OpenAI合作将先从加州实验室开始，然后可能扩展到在俄亥俄州的生产业务。",
+          "url": "https://wallstreetcn.com/livenews/3008440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时18分]"
         },
         {
           "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
@@ -298,24 +310,13 @@
           "time_info": "07时16分"
         },
         {
-          "title": "鸿海董事长：若与OpenAI合作将先从加州实验室开始，然后可能扩展到在俄亥俄州的生产业务。",
-          "url": "https://wallstreetcn.com/livenews/3008440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
           "title": "鸿海董事长刘扬伟：与OpenAI的合作将从加州的一个实验室开始，随后可能扩展到俄亥俄州的制造业务。",
           "url": "https://flash.jin10.com/detail/20251121134910969800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -337,7 +338,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -348,9 +349,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "小米智驾起步太晚？小米高管回应：今年在AI领域研发投入超70亿，智驾团队超1800人",
+          "url": "https://wallstreetcn.com/livenews/3008466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "市场消息：美国可持续投资公司Overwatch Capital和Idemitsu达成1吉瓦的合作，在美国十个州建设高密度AI数据中心。",
@@ -381,7 +393,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
