@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T22:18:24.667200+08:00",
-  "total_titles_processed": 2095,
+  "generated_at": "2025-11-21T23:16:55.808217+08:00",
+  "total_titles_processed": 2172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时24分 ~ 22时18分]"
+          "appearance_count": 13,
+          "time_info": "[16时24分 ~ 23时16分]"
         },
         {
           "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
@@ -72,8 +72,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时09分 ~ 22时18分]"
+          "appearance_count": 18,
+          "time_info": "[11时09分 ~ 23时16分]"
         },
         {
           "title": "易梦玲称和胡彦斌海边视频是AI",
@@ -116,6 +116,20 @@
           "time_info": "[00时23分 ~ 09时17分]"
         },
         {
+          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
+          "url": "https://www.cls.cn/detail/2207484",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 23时16分]"
+        },
+        {
           "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
           "url": "https://wallstreetcn.com/articles/3759784",
           "source": "华尔街见闻",
@@ -143,28 +157,17 @@
           "time_info": "[09时17分 ~ 15时18分]"
         },
         {
-          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
-          "url": "https://www.cls.cn/detail/2207484",
+          "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
+          "url": "https://www.cls.cn/detail/2207687",
           "source": "财联社热门",
           "ranks": [
-            11,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 22时18分]"
-        },
-        {
-          "title": "美联储副主席Jefferson：金融体系稳健且具有韧性。 当前市场与互联网泡沫时代存在差异，因此我们不太可能正在经历上世纪90年代末的重演。 与互联网泡沫时期不同，人工智能相关股票的上涨主要因为AI公司确实有实际盈利。 杠杆使用更有限，可能会减少任何由AI情绪转变传导至经济的程度，但我们正密切关注AI企业的债务发行情况。 现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
-          "url": "https://wallstreetcn.com/livenews/3008750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            6,
+            2,
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时27分 ~ 23时16分]"
         },
         {
           "title": "英伟达一度转跌，英伟达CEO黄仁勋此前驳斥“AI泡沫”论，称：“我们看到了截然不同的东西”。",
@@ -178,28 +181,17 @@
           "time_info": "01时15分"
         },
         {
-          "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
-          "url": "https://www.cls.cn/detail/2207687",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 22时18分]"
-        },
-        {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
           "url": "https://www.zhihu.com/question/1975115860181022671",
           "source": "知乎",
           "ranks": [
             3,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 22时18分]"
+          "appearance_count": 4,
+          "time_info": "[21时27分 ~ 23时16分]"
         },
         {
           "title": "鸿海与OpenAI合作，将共同设计数据中心的硬件",
@@ -282,6 +274,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "美联储副主席Jefferson：金融体系稳健且具有韧性。 当前市场与互联网泡沫时代存在差异，因此我们不太可能正在经历上世纪90年代末的重演。 与互联网泡沫时期不同，人工智能相关股票的上涨主要因为AI公司确实有实际盈利。 杠杆使用更有限，可能会减少任何由AI情绪转变传导至经济的程度，但我们正密切关注AI企业的债务发行情况。 现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
+          "url": "https://wallstreetcn.com/livenews/3008750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时16分]"
         },
         {
           "title": "元宝上线AI视频能力，实现“图文音视”多模态覆盖",
@@ -411,6 +415,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
+          "url": "https://www.cls.cn/detail/2207779",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "鸿海董事长刘扬伟：与OpenAI的合作将从加州的一个实验室开始，随后可能扩展到俄亥俄州的制造业务。",
           "url": "https://flash.jin10.com/detail/20251121134910969800",
           "source": "金十数据",
@@ -461,7 +476,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -530,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        },
+        {
+          "title": "胡彦斌 不是AI的",
+          "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%20%E4%B8%8D%E6%98%AFAI%E7%9A%84&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "鸿海董事长：我们一周能生产1000个AI机柜，明年会更多。 电动车已接近委外代工的临界点。 我们正在研发量子计算。",
@@ -617,7 +643,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
