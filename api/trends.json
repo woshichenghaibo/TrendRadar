@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T13:18:35.376842+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2025-11-21T14:27:41.540051+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
@@ -36,6 +36,19 @@
           "time_info": "[00时23分 ~ 09时17分]"
         },
         {
+          "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
+          "url": "https://www.zhihu.com/question/1974839795554484978",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 14时27分]"
+        },
+        {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
           "source": "贴吧",
@@ -47,17 +60,19 @@
           "time_info": "[00时23分 ~ 09时17分]"
         },
         {
-          "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
-          "url": "https://www.zhihu.com/question/1974839795554484978",
-          "source": "知乎",
+          "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
+          "url": "https://wallstreetcn.com/articles/3759810",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            1,
-            2
+            10,
+            9,
+            6,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 13时18分]"
+          "appearance_count": 8,
+          "time_info": "[05时16分 ~ 14时27分]"
         },
         {
           "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
@@ -74,18 +89,17 @@
           "time_info": "[04时20分 ~ 13时18分]"
         },
         {
-          "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
-          "url": "https://wallstreetcn.com/articles/3759810",
-          "source": "华尔街见闻",
+          "title": "桥水达利欧：AI泡沫确实存在 但暂未到破裂时刻",
+          "url": "https://www.cls.cn/detail/2206796",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9,
+            8,
             6,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时16分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 14时27分]"
         },
         {
           "title": "英伟达一度转跌，英伟达CEO黄仁勋此前驳斥“AI泡沫”论，称：“我们看到了截然不同的东西”。",
@@ -97,19 +111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "桥水达利欧：AI泡沫确实存在 但暂未到破裂时刻",
-          "url": "https://www.cls.cn/detail/2206796",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 13时18分]"
         },
         {
           "title": "鸿海与OpenAI合作，将共同设计数据中心的硬件",
@@ -189,8 +190,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时09分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时09分 ~ 14时27分]"
+        },
+        {
+          "title": "元宝上线AI视频能力，实现“图文音视”多模态覆盖",
+          "url": "https://wallstreetcn.com/livenews/3008411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时27分]"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -241,17 +254,6 @@
           "time_info": "[02时26分 ~ 03时14分]"
         },
         {
-          "title": "元宝上线AI视频能力，实现“图文音视”多模态覆盖",
-          "url": "https://wallstreetcn.com/livenews/3008411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
           "title": "OpenAI被数字实验室APP开发商OverDrive起诉，自称“Sora”商标被Sam Altman公司的视频大模型Sora侵权。",
           "url": "https://wallstreetcn.com/livenews/3008088",
           "source": "华尔街见闻-快讯",
@@ -296,15 +298,59 @@
           "time_info": "07时16分"
         },
         {
+          "title": "鸿海董事长：若与OpenAI合作将先从加州实验室开始，然后可能扩展到在俄亥俄州的生产业务。",
+          "url": "https://wallstreetcn.com/livenews/3008440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "鸿海董事长刘扬伟：与OpenAI的合作将从加州的一个实验室开始，随后可能扩展到俄亥俄州的制造业务。",
+          "url": "https://flash.jin10.com/detail/20251121134910969800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "英伟达黄胜斌：我们正与鸿海合作将AI带进工厂和生产线。",
           "url": "https://wallstreetcn.com/livenews/3008402",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "鸿海董事长刘扬伟：与OpenAI合作的一个关键原因是他们是最大的生成式AI用户且拥有丰富的经验，但他们也看到了当前数据中心架构的局限性。",
+          "url": "https://flash.jin10.com/detail/20251121134120644800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "鸿海董事长刘扬伟：目前转移到美国的产品大多与AI相关。",
+          "url": "https://wallstreetcn.com/livenews/3008431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "市场消息：美国可持续投资公司Overwatch Capital和Idemitsu达成1吉瓦的合作，在美国十个州建设高密度AI数据中心。",
@@ -327,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        },
+        {
+          "title": "鸿海董事长刘扬伟：未提及与OpenAI成立合资企业或产量承诺，并不意味着未来不会发生。",
+          "url": "https://flash.jin10.com/detail/20251121133919252800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "鸿海董事长称计划每年在AI领域投入20亿至30亿美元",
@@ -405,11 +462,12 @@
           "url": "https://www.toutiao.com/trending/7574987623811268614/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时27分]"
         }
       ]
     },
