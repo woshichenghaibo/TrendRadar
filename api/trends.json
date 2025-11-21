@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T21:27:37.502091+08:00",
-  "total_titles_processed": 2003,
+  "generated_at": "2025-11-21T22:18:24.667200+08:00",
+  "total_titles_processed": 2095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时24分 ~ 21时27分]"
+          "appearance_count": 12,
+          "time_info": "[16时24分 ~ 22时18分]"
         },
         {
           "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
@@ -72,8 +72,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时09分 ~ 21时27分]"
+          "appearance_count": 17,
+          "time_info": "[11时09分 ~ 22时18分]"
+        },
+        {
+          "title": "易梦玲称和胡彦斌海边视频是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时18分 ~ 22时18分]"
         },
         {
           "title": "UP主翻唱AI歌曲美猴亡",
@@ -116,19 +130,6 @@
           "time_info": "[04时20分 ~ 13时18分]"
         },
         {
-          "title": "易梦玲称和胡彦斌海边视频是AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时18分 ~ 21时27分]"
-        },
-        {
           "title": "桥水达利欧：AI泡沫确实存在 但暂未到破裂时刻",
           "url": "https://www.cls.cn/detail/2206796",
           "source": "财联社热门",
@@ -142,6 +143,30 @@
           "time_info": "[09时17分 ~ 15时18分]"
         },
         {
+          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
+          "url": "https://www.cls.cn/detail/2207484",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 22时18分]"
+        },
+        {
+          "title": "美联储副主席Jefferson：金融体系稳健且具有韧性。 当前市场与互联网泡沫时代存在差异，因此我们不太可能正在经历上世纪90年代末的重演。 与互联网泡沫时期不同，人工智能相关股票的上涨主要因为AI公司确实有实际盈利。 杠杆使用更有限，可能会减少任何由AI情绪转变传导至经济的程度，但我们正密切关注AI企业的债务发行情况。 现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
+          "url": "https://wallstreetcn.com/livenews/3008750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "英伟达一度转跌，英伟达CEO黄仁勋此前驳斥“AI泡沫”论，称：“我们看到了截然不同的东西”。",
           "url": "https://wallstreetcn.com/livenews/3008093",
           "source": "华尔街见闻-快讯",
@@ -153,6 +178,30 @@
           "time_info": "01时15分"
         },
         {
+          "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
+          "url": "https://www.cls.cn/detail/2207687",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 22时18分]"
+        },
+        {
+          "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
+          "url": "https://www.zhihu.com/question/1975115860181022671",
+          "source": "知乎",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 22时18分]"
+        },
+        {
           "title": "鸿海与OpenAI合作，将共同设计数据中心的硬件",
           "url": "https://wallstreetcn.com/livenews/3008222",
           "source": "华尔街见闻-快讯",
@@ -162,17 +211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
-          "url": "https://www.zhihu.com/question/1975115860181022671",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
         },
         {
           "title": "台股鸿海盘初跌逾4%，此前公司宣布将与OpenAI共同在美国打造下一代AI基础设施硬体。",
@@ -195,6 +233,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "我AI的易梦玲胡彦斌",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%91AI%E7%9A%84%E6%98%93%E6%A2%A6%E7%8E%B2%E8%83%A1%E5%BD%A6%E6%96%8C&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时34分 ~ 22时18分]"
         },
         {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
@@ -232,29 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
-          "url": "https://www.cls.cn/detail/2207484",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 21时27分]"
-        },
-        {
-          "title": "我AI的易梦玲胡彦斌",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%91AI%E7%9A%84%E6%98%93%E6%A2%A6%E7%8E%B2%E8%83%A1%E5%BD%A6%E6%96%8C&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 21时27分]"
         },
         {
           "title": "元宝上线AI视频能力，实现“图文音视”多模态覆盖",
@@ -338,17 +365,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时18分 ~ 18时19分]"
-        },
-        {
-          "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
-          "url": "https://www.cls.cn/detail/2207687",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
         },
         {
           "title": "OpenAI被数字实验室APP开发商OverDrive起诉，自称“Sora”商标被Sam Altman公司的视频大模型Sora侵权。",
@@ -437,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：AI企业的上涨潮不太可能重演当年互联网泡沫的情景",
+          "url": "https://flash.jin10.com/detail/20251121215455386800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "小米智驾起步太晚？小米高管回应：今年在AI领域研发投入超70亿，智驾团队超1800人",
@@ -576,6 +603,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时19分 ~ 19时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "贸易战",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "加拿大零售销售在第三季度放缓 贸易战阴影仍在",
+          "url": "https://flash.jin10.com/detail/20251121213856978800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
