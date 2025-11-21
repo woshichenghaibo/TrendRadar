@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-21T07:16:43.919016+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2025-11-21T09:17:59.135300+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
+          "url": "https://wallstreetcn.com/articles/3759756",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时17分]"
+        },
         {
           "title": "UP主翻唱AI歌曲美猴亡",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
@@ -19,20 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
-          "url": "https://wallstreetcn.com/articles/3759756",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时17分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -42,8 +43,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时17分]"
         },
         {
           "title": "英伟达一度转跌，英伟达CEO黄仁勋此前驳斥“AI泡沫”论，称：“我们看到了截然不同的东西”。",
@@ -63,9 +64,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
+          "url": "https://www.zhihu.com/question/1974839795554484978",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "台股鸿海盘初跌逾4%，此前公司宣布将与OpenAI共同在美国打造下一代AI基础设施硬体。",
+          "url": "https://flash.jin10.com/detail/20251121090147933800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "AI初创公司FireBird获得美国出口授权。",
@@ -77,6 +100,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
+          "url": "https://wallstreetcn.com/articles/3759784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时20分 ~ 09时17分]"
         },
         {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
@@ -116,29 +153,17 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
-          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
-          "url": "https://wallstreetcn.com/articles/3759784",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时20分 ~ 07时16分]"
-        },
-        {
           "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
           "url": "https://wallstreetcn.com/articles/3759810",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[05时16分 ~ 09时17分]"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -176,15 +201,37 @@
           "time_info": "01时15分"
         },
         {
+          "title": "桥水达利欧：AI泡沫确实存在 但暂未到破裂时刻",
+          "url": "https://www.cls.cn/detail/2206796",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
           "title": "富士康：OpenAI将可提前访问以评估富士康的系统，并拥有购买这些系统的选项。",
           "url": "https://flash.jin10.com/detail/20251121065219599800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "“创世纪计划”！特朗普下周一签署AI新政，类比“曼哈顿计划”和“太空竞赛”",
+          "url": "https://wallstreetcn.com/articles/3759760",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "富士康：富士康与OpenAI合作，以加强美国在人工智能供应链上的制造业实力。将在美国生产人工智能数据中心的关键设备。",
@@ -193,7 +240,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -204,9 +251,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "鸿海董事长称计划每年在AI领域投入20亿至30亿美元",
+          "url": "https://wallstreetcn.com/livenews/3008273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "南非央行行长警告AI泡沫风险 新兴市场面临溢出效应冲击",
