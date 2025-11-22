@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T02:23:07.380237+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2025-11-23T03:13:26.619538+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -47,11 +47,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "AI产业为何成为烧钱竞赛",
