@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T07:16:45.774624+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2025-11-22T09:15:28.649663+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时15分]"
         },
         {
           "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时15分]"
         },
         {
           "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
@@ -37,11 +37,12 @@
             11,
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时15分]"
         },
         {
           "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
@@ -73,8 +74,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时15分]"
         },
         {
           "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
@@ -87,6 +88,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时22分 ~ 04时20分]"
+        },
+        {
+          "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
+          "url": "https://www.cls.cn/detail/2207918",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         },
         {
           "title": "不是AI是爱",
@@ -106,11 +118,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时16分]"
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 09时15分]"
         },
         {
           "title": "Meta进军电力交易以支持AI扩张，应对供电挑战",
@@ -198,6 +211,39 @@
           "time_info": "[00时22分 ~ 01时16分]"
         },
         {
+          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
+          "url": "https://wallstreetcn.com/articles/3759889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
+          "url": "https://wallstreetcn.com/articles/3759852",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "胡彦斌疑似承认恋情：接吻视频非AI",
+          "url": "https://www.toutiao.com/trending/7575051643448741439/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
           "title": "枭起青壤AI动画热血番具象化",
           "url": "https://www.douyin.com/hot/2313063",
           "source": "抖音",
@@ -207,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "胡彦斌回应亲吻照：不是AI",
+          "url": "https://www.baidu.com/s?wd=%E8%83%A1%E5%BD%A6%E6%96%8C%E5%9B%9E%E5%BA%94%E4%BA%B2%E5%90%BB%E7%85%A7%EF%BC%9A%E4%B8%8D%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         },
         {
           "title": "谷歌：我们推出BigQuery AI。",
@@ -260,6 +317,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "霸王茶姬创始人辟谣：此前未有过婚姻",
+          "url": "https://www.baidu.com/s?wd=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%BE%9F%E8%B0%A3%EF%BC%9A%E6%AD%A4%E5%89%8D%E6%9C%AA%E6%9C%89%E8%BF%87%E5%A9%9A%E5%A7%BB",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         }
       ]
     }
