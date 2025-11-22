@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T16:21:35.076314+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2025-11-22T17:17:32.210228+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时17分]"
         },
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时17分]"
         },
         {
           "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
@@ -118,6 +118,19 @@
           "time_info": "[09时15分 ~ 16时21分]"
         },
         {
+          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
+          "url": "https://wallstreetcn.com/articles/3759885",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时02分 ~ 17时17分]"
+        },
+        {
           "title": "集体诉讼显示：Figma Inc.在训练自家人工智能（AI）模型方面并没有（事前）征求用户的意见。",
           "url": "https://wallstreetcn.com/livenews/3008923",
           "source": "华尔街见闻-快讯",
@@ -146,29 +159,6 @@
           "time_info": "[00时22分 ~ 04时20分]"
         },
         {
-          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
-          "url": "https://wallstreetcn.com/articles/3759885",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时02分 ~ 16时21分]"
-        },
-        {
-          "title": "第四届中国空间科学大会在京开幕 AI赋能空间科学跨越发展",
-          "url": "https://flash.jin10.com/detail/20251122151156685800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
           "title": "不是AI是爱",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%98%AFAI%E6%98%AF%E7%88%B1%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -186,11 +176,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时21分]"
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 17时17分]"
         },
         {
           "title": "Meta进军电力交易以支持AI扩张，应对供电挑战",
@@ -204,6 +195,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时15分 ~ 05时16分]"
+        },
+        {
+          "title": "第四届中国空间科学大会在京开幕 AI赋能空间科学跨越发展",
+          "url": "https://flash.jin10.com/detail/20251122151156685800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时17分]"
         },
         {
           "title": "胡彦斌回应亲吻照：不是AI",
@@ -311,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "华为AI突破性技术揭晓！",
+          "url": "https://wallstreetcn.com/articles/3759882",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "枭起青壤AI动画热血番具象化",
