@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T18:17:51.318808+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2025-11-22T19:13:49.392243+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 18时17分]"
+          "appearance_count": 10,
+          "time_info": "[09时15分 ~ 19时13分]"
         },
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 18时17分]"
+          "appearance_count": 10,
+          "time_info": "[09时15分 ~ 19时13分]"
         },
         {
           "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
@@ -113,11 +113,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时02分 ~ 18时17分]"
+          "appearance_count": 9,
+          "time_info": "[11时02分 ~ 19时13分]"
         },
         {
           "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
@@ -168,11 +169,12 @@
             1,
             6,
             13,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时16分 ~ 18时17分]"
+          "appearance_count": 5,
+          "time_info": "[15时16分 ~ 19时13分]"
         },
         {
           "title": "不是AI是爱",
