@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-24T05:15:59.149187+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2025-11-24T06:17:06.055284+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 6,
       "titles": [
-        {
-          "title": "英伟达财报背后的未来AI密码",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5AI%E5%AF%86%E7%A0%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
-        },
         {
           "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
           "url": "https://wallstreetcn.com/articles/3759951",
@@ -27,8 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 06时17分]"
+        },
+        {
+          "title": "英伟达财报背后的未来AI密码",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5AI%E5%AF%86%E7%A0%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
@@ -38,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "英伟达AI爆雷!334亿账款收不回",
@@ -51,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -62,8 +63,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
@@ -71,11 +72,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时15分]"
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 06时17分]"
         }
       ]
     },
@@ -92,8 +94,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 06时17分]"
         }
       ]
     },
