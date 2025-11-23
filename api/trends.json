@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T01:14:41.456297+08:00",
-  "total_titles_processed": 341,
+  "generated_at": "2025-11-24T02:23:47.319850+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
@@ -15,31 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
           "url": "https://wallstreetcn.com/articles/3759951",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时14分]"
-        },
-        {
-          "title": "英伟达AI爆雷!334亿账款收不回",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347412&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BEAI%E7%88%86%E9%9B%B7%21334%E4%BA%BF%E8%B4%A6%E6%AC%BE%E6%94%B6%E4%B8%8D%E5%9B%9E",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
@@ -49,8 +38,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
+        },
+        {
+          "title": "英伟达AI爆雷!334亿账款收不回",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347412&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BEAI%E7%88%86%E9%9B%B7%21334%E4%BA%BF%E8%B4%A6%E6%AC%BE%E6%94%B6%E4%B8%8D%E5%9B%9E",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -60,8 +62,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         }
       ]
     },
@@ -78,8 +80,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         }
       ]
     },
