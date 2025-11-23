@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T14:25:18.521695+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2025-11-23T15:16:54.056401+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 15时16分]"
         },
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 15时16分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -45,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 15时16分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -55,11 +55,12 @@
           "ranks": [
             6,
             8,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 15时16分]"
         },
         {
           "title": "第一批AI公司，已经开始破产了",
@@ -71,8 +72,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 15时16分]"
         },
         {
           "title": "AI又团灭一个行业",
@@ -84,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 15时16分]"
         },
         {
           "title": "林园：明年投资还是这两个方向，目前不投AI，不确定性高",
@@ -96,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 14时25分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 15时16分]"
         },
         {
           "title": "AI大神Karpathy：LLM渴望的不是生存，而是你的点赞",
@@ -125,25 +126,8 @@
       ]
     },
     {
-      "keyword_group": "婚姻 女性",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "霸王茶姬创始人张俊杰辟谣：此前从未有过婚姻，也从未有“茶叶富商残疾女儿”的任何故事，家人受到很大伤害，有必要站出来说话",
-          "url": "https://wallstreetcn.com/articles/3759927",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "赚钱 方法",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "小米汽车开始赚钱了 但雷军还有点烦",
@@ -157,6 +141,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时25分 ~ 13时17分]"
+        },
+        {
+          "title": "小米汽车开始赚钱了 但雷军还有点烦",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%A7%8B%E8%B5%9A%E9%92%B1%E4%BA%86+%E4%BD%86%E9%9B%B7%E5%86%9B%E8%BF%98%E6%9C%89%E7%82%B9%E7%83%A6",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "霸王茶姬创始人张俊杰辟谣：此前从未有过婚姻，也从未有“茶叶富商残疾女儿”的任何故事，家人受到很大伤害，有必要站出来说话",
+          "url": "https://wallstreetcn.com/articles/3759927",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 15时16分]"
         }
       ]
     }
