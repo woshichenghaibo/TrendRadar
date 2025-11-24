@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T14:28:18.849964+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2025-11-24T15:18:32.261070+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
@@ -20,6 +20,19 @@
           "time_info": "[00时19分 ~ 13时19分]"
         },
         {
+          "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
+          "url": "https://www.cls.cn/detail/2208386",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 15时18分]"
+        },
+        {
           "title": "英伟达财报背后的未来AI密码",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5AI%E5%AF%86%E7%A0%81",
           "source": "bilibili 热搜",
@@ -29,11 +42,12 @@
             9,
             19,
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 14时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 15时18分]"
         },
         {
           "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
@@ -55,11 +69,12 @@
             8,
             9,
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 14时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 15时18分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -74,28 +89,16 @@
           "time_info": "[00时19分 ~ 09时23分]"
         },
         {
-          "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
-          "url": "https://www.cls.cn/detail/2208386",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 14时28分]"
-        },
-        {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
           "url": "https://wallstreetcn.com/articles/3759968",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时18分]"
         },
         {
           "title": "需要AI给答案",
@@ -106,8 +109,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 15时18分]"
+        },
+        {
+          "title": "英伟达救不了AI股，市场想看到什么？",
+          "url": "https://wallstreetcn.com/articles/3759961",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时22分 ~ 14时28分]"
+          "time_info": "[12时32分 ~ 15时18分]"
         },
         {
           "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
@@ -124,29 +140,18 @@
           "time_info": "[04时19分 ~ 07时16分]"
         },
         {
-          "title": "英伟达救不了AI股，市场想看到什么？",
-          "url": "https://wallstreetcn.com/articles/3759961",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 14时28分]"
-        },
-        {
           "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
           "url": "https://www.cls.cn/detail/2208561",
           "source": "财联社热门",
           "ranks": [
             13,
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 14时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 15时18分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -167,9 +172,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
+          "url": "https://wallstreetcn.com/articles/3759964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "银行系股权投资“扩军”，三家股份制银行AIC已上阵",
@@ -189,7 +205,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -200,7 +216,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -233,8 +249,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 14时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 15时18分]"
         }
       ]
     },
