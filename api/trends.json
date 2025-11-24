@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T04:20:46.940837+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2025-11-25T05:17:41.437984+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2208933",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时17分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -26,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时17分]"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
@@ -37,19 +38,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时17分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
           "url": "https://www.cls.cn/detail/2209008",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时17分]"
         },
         {
           "title": "网店用AI生成模特试穿视频画面诡异",
@@ -59,11 +61,12 @@
             30,
             16,
             13,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时17分]"
         },
         {
           "title": "英伟达AI爆雷!334亿账款收不回",
@@ -73,19 +76,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时20分]"
-        },
-        {
-          "title": "OpenAI：还将在ChatGPT Pulse中提供购物搜索内容，目前该功能仅向ChatGPT专业版用户开放。",
-          "url": "https://flash.jin10.com/detail/20251125024002118800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时17分]"
         },
         {
           "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
@@ -98,8 +90,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 05时17分]"
+        },
+        {
+          "title": "OpenAI：还将在ChatGPT Pulse中提供购物搜索内容，目前该功能仅向ChatGPT专业版用户开放。",
+          "url": "https://flash.jin10.com/detail/20251125024002118800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "亚马逊向美国政府部门的AI和超算基建追加至多500亿美元投资",
@@ -194,7 +197,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -233,7 +236,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         }
