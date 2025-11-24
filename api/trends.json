@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T17:22:51.564717+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2025-11-24T18:20:56.206072+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
@@ -62,6 +62,19 @@
           "time_info": "[00时19分 ~ 11时22分]"
         },
         {
+          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
+          "url": "https://wallstreetcn.com/articles/3759968",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时28分 ~ 18时20分]"
+        },
+        {
           "title": "英伟达AI爆雷!334亿账款收不回",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347412&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BEAI%E7%88%86%E9%9B%B7%21334%E4%BA%BF%E8%B4%A6%E6%AC%BE%E6%94%B6%E4%B8%8D%E5%9B%9E",
           "source": "贴吧",
@@ -76,8 +89,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 17时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 18时20分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -92,18 +105,6 @@
           "time_info": "[00时19分 ~ 09时23分]"
         },
         {
-          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
-          "url": "https://wallstreetcn.com/articles/3759968",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 17时22分]"
-        },
-        {
           "title": "英伟达救不了AI股，市场想看到什么？",
           "url": "https://wallstreetcn.com/articles/3759961",
           "source": "华尔街见闻",
@@ -111,11 +112,12 @@
             8,
             7,
             6,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 18时20分]"
         },
         {
           "title": "需要AI给答案",
@@ -127,8 +129,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 16时26分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 18时20分]"
         },
         {
           "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
@@ -139,11 +141,37 @@
             12,
             10,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 18时20分]"
+        },
+        {
+          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
+          "url": "https://www.cls.cn/detail/2208653",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
+          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
+          "url": "https://wallstreetcn.com/articles/3759964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 18时20分]"
         },
         {
           "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
@@ -160,27 +188,16 @@
           "time_info": "[04时19分 ~ 07时16分]"
         },
         {
-          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
-          "url": "https://wallstreetcn.com/articles/3759964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时22分]"
-        },
-        {
-          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
-          "url": "https://www.cls.cn/detail/2208653",
+          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
+          "url": "https://www.cls.cn/detail/2208933",
           "source": "财联社热门",
           "ranks": [
-            9,
-            6
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时22分]"
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时20分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -250,15 +267,15 @@
           "time_info": "14时28分"
         },
         {
-          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
-          "url": "https://www.cls.cn/detail/2208933",
+          "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
+          "url": "https://www.cls.cn/detail/2209008",
           "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时22分"
+          "time_info": "18时20分"
         },
         {
           "title": "A股三大指数午后再度翻红，中船系、军工装备、智谱AI板块涨幅居前。",
@@ -298,11 +315,29 @@
             18,
             12,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 17时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 18时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "男装水洗标文字被质疑歧视女性",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%A3%85%E6%B0%B4%E6%B4%97%E6%A0%87%E6%96%87%E5%AD%97%E8%A2%AB%E8%B4%A8%E7%96%91%E6%AD%A7%E8%A7%86%E5%A5%B3%E6%80%A7%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },
