@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T07:17:23.402550+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2025-11-25T09:18:53.589984+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 09时18分]"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
@@ -38,21 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时17分]"
-        },
-        {
-          "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
-          "url": "https://www.cls.cn/detail/2209008",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 09时18分]"
         },
         {
           "title": "网店用AI生成模特试穿视频画面诡异",
@@ -65,11 +52,12 @@
             22,
             25,
             15,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 09时18分]"
         },
         {
           "title": "英伟达AI爆雷!334亿账款收不回",
@@ -77,6 +65,19 @@
           "source": "贴吧",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 09时18分]"
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
+          "url": "https://www.cls.cn/detail/2209008",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -97,6 +98,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时17分 ~ 07时17分]"
+        },
+        {
+          "title": "市场消息：贝恩资本（Bain Capital）拟通过一致性行动大宗交易筹集11.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20251125091404623800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "OpenAI：还将在ChatGPT Pulse中提供购物搜索内容，目前该功能仅向ChatGPT专业版用户开放。",
@@ -238,9 +250,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
+          "url": "https://www.cls.cn/detail/2209531",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "知名苹果爆料人：库克退休传言纯属虚假 OpenAI正在狂挖硬件人才",
+          "url": "https://www.cls.cn/detail/2209345",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
+          "url": "https://www.zhihu.com/question/1976223014631733240",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席Kashkari：人们因通胀而感到经济困难。 AI确实有真实应用场景，但加密货币没有。",
+          "url": "https://wallstreetcn.com/livenews/3009841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "谷歌云：Anthropico的全新Claude Opus 4.5现在Vertex AI上正式发布。",
@@ -252,6 +308,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "风投基金Accel宣布其Atoms AI孵化计划将于2026年遴选约5至10家印度AI初创公司。谷歌AI未来基金与Accel将向每家初创企业联合投资最高200万美元。",
+          "url": "https://flash.jin10.com/detail/20251125083542227800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "谷歌与Accel 合作，通过 AI Futures Fund 为印度人工智能初创企业提供资金支持，每家公司最高可获得 200 万美元的资助，目标是扶持5至10家企业。此举旨在加快印度在全球人工智能创新领域的作用。（道琼斯）",
+          "url": "https://wallstreetcn.com/livenews/3009837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "亚马逊投资最高500亿美元 美国政府机构拓展AI和超级计算基础设施",
@@ -271,9 +349,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "据中国台湾媒体，台积电计划在台湾增建三座2纳米厂，以满足AI芯片订单激增的需求。 台积电原已在新竹和高雄规划投资七座2纳米厂，近期将再投资3座2纳米厂，地点将位于台湾南部科学园区附近，新增投资总额推估将达9,000亿元新台币。",
+          "url": "https://wallstreetcn.com/livenews/3009829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "欧洲央行行长拉加德警告：欧盟在AI领域错失良机，未来面临风险",
@@ -302,6 +391,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "男装水洗标文字被质疑歧视女性",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E8%A3%85%E6%B0%B4%E6%B4%97%E6%A0%87%E6%96%87%E5%AD%97%E8%A2%AB%E8%B4%A8%E7%96%91%E6%AD%A7%E8%A7%86%E5%A5%B3%E6%80%A7",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     }
