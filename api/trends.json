@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T22:18:50.337306+08:00",
-  "total_titles_processed": 1964,
+  "generated_at": "2025-11-25T23:20:38.210987+08:00",
+  "total_titles_processed": 2059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
@@ -58,11 +58,12 @@
             10,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时24分 ~ 22时18分]"
+          "appearance_count": 13,
+          "time_info": "[12时24分 ~ 23时20分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -90,6 +91,35 @@
           "time_info": "[13时18分 ~ 20时37分]"
         },
         {
+          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
+          "url": "https://www.cls.cn/detail/2210305",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时22分 ~ 23时20分]"
+        },
+        {
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时18分 ~ 23时20分]"
+        },
+        {
           "title": "两美刀逼疯AI!怒要报官告公司",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
           "source": "贴吧",
@@ -102,11 +132,12 @@
             23,
             26,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 22时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 23时20分]"
         },
         {
           "title": "网店用AI生成模特试穿视频画面诡异",
@@ -138,33 +169,29 @@
           "time_info": "[00时20分 ~ 09时18分]"
         },
         {
-          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
-          "url": "https://www.cls.cn/detail/2210305",
+          "title": "马斯克将用AI挑战顶尖LOL战队",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E7%94%A8AI%E6%8C%91%E6%88%98%E9%A1%B6%E5%B0%96LOL%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 23时20分]"
+        },
+        {
+          "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
+          "url": "https://www.cls.cn/detail/2210415",
           "source": "财联社热门",
           "ranks": [
-            11,
-            5,
-            4,
-            3
+            6,
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时22分 ~ 22时18分]"
-        },
-        {
-          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
-          "url": "https://wallstreetcn.com/articles/3760047",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时18分 ~ 22时18分]"
+          "time_info": "[19时16分 ~ 23时20分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
@@ -178,17 +205,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 07时17分]"
-        },
-        {
-          "title": "马斯克将用AI挑战顶尖LOL战队",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E7%94%A8AI%E6%8C%91%E6%88%98%E9%A1%B6%E5%B0%96LOL%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 22时18分]"
         },
         {
           "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
@@ -207,16 +223,17 @@
           "time_info": "[01时17分 ~ 07时17分]"
         },
         {
-          "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
-          "url": "https://www.cls.cn/detail/2210415",
-          "source": "财联社热门",
+          "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
+          "url": "https://www.zhihu.com/question/1975840016744858598",
+          "source": "知乎",
           "ranks": [
-            6,
-            2
+            7,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 22时18分]"
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 23时20分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -227,8 +244,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 22时18分]"
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 23时20分]"
+        },
+        {
+          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
+          "url": "https://www.cls.cn/detail/2210324",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时22分 ~ 23时20分]"
         },
         {
           "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
@@ -244,19 +275,6 @@
           "time_info": "[09时18分 ~ 15时18分]"
         },
         {
-          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
-          "url": "https://www.cls.cn/detail/2210324",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 22时18分]"
-        },
-        {
           "title": "市场消息：贝恩资本（Bain Capital）拟通过一致性行动大宗交易筹集11.4亿美元。",
           "url": "https://flash.jin10.com/detail/20251125091404623800",
           "source": "金十数据",
@@ -266,6 +284,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
+          "url": "https://www.cls.cn/detail/2210485",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 23时20分]"
         },
         {
           "title": "OpenAI：还将在ChatGPT Pulse中提供购物搜索内容，目前该功能仅向ChatGPT专业版用户开放。",
@@ -290,16 +321,28 @@
           "time_info": "06时17分"
         },
         {
-          "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
-          "url": "https://www.zhihu.com/question/1975840016744858598",
+          "title": "阿里电话会：千问有望成未来AI生活入口，预计闪购Q4投入显著收缩，3800亿资本开支可能偏小",
+          "url": "https://wallstreetcn.com/articles/3760106",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "如何评价华为 Mate 80 系列首发搭载 A2A 系统级 AI 能力，对行业来说有何意义？",
+          "url": "https://www.zhihu.com/question/1976610994328445009",
           "source": "知乎",
           "ranks": [
-            7,
-            4
+            13,
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时32分 ~ 22时18分]"
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 23时20分]"
         },
         {
           "title": "亚马逊向美国政府部门的AI和超算基建追加至多500亿美元投资",
@@ -351,30 +394,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时13分]"
-        },
-        {
-          "title": "如何评价华为 Mate 80 系列首发搭载 A2A 系统级 AI 能力，对行业来说有何意义？",
-          "url": "https://www.zhihu.com/question/1976610994328445009",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 22时18分]"
-        },
-        {
-          "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
-          "url": "https://www.cls.cn/detail/2210485",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时32分 ~ 22时18分]"
         },
         {
           "title": "日本料将在六大战略科技领域提及人工智能（AI）与核聚变。（日经新闻）",
@@ -703,6 +722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.28%，标普500指数跌0.06%，纳指跌0.39%。谷歌母公司Alphabet涨2%，此前报道称，谷歌正与Meta商讨一项价值数十亿美元的协议，计划自2027年起向Meta的数据中心供应定制AI芯片。英伟达(NVDA.O)跌4%。阿里巴巴(BABA.N)涨2%。",
+          "url": "https://flash.jin10.com/detail/20251125223046114800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
@@ -741,6 +771,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "男子为骗拆迁补助与男友姐姐“假结婚”？法院认定婚姻有效，其母将申请再审",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32031494",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时20分]"
+        },
+        {
           "title": "男装水洗标文字被质疑歧视女性",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E8%A3%85%E6%B0%B4%E6%B4%97%E6%A0%87%E6%96%87%E5%AD%97%E8%A2%AB%E8%B4%A8%E7%96%91%E6%AD%A7%E8%A7%86%E5%A5%B3%E6%80%A7",
           "source": "百度热搜",
@@ -751,17 +793,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时18分 ~ 11时13分]"
-        },
-        {
-          "title": "男子为骗拆迁补助与男友姐姐“假结婚”？法院认定婚姻有效，其母将申请再审",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32031494",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
         }
       ]
     }
