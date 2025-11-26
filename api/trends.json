@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T15:18:14.812985+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2025-11-26T16:25:05.431377+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
@@ -45,6 +45,18 @@
           "time_info": "[00时24分 ~ 07时17分]"
         },
         {
+          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
+          "url": "https://wallstreetcn.com/articles/3760086",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时18分 ~ 16时25分]"
+        },
+        {
           "title": "阿里电话会：千问有望成未来AI生活入口，预计闪购Q4投入显著收缩，3800亿资本开支可能偏小",
           "url": "https://wallstreetcn.com/articles/3760106",
           "source": "华尔街见闻",
@@ -54,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 15时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 16时25分]"
         },
         {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
@@ -79,18 +91,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时24分 ~ 09时19分]"
-        },
-        {
-          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
-          "url": "https://wallstreetcn.com/articles/3760086",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时18分 ~ 15时18分]"
         },
         {
           "title": "马斯克将用AI挑战顶尖LOL战队",
@@ -122,8 +122,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 15时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 16时25分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -138,6 +138,18 @@
           "time_info": "[00时24分 ~ 07时17分]"
         },
         {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时18分 ~ 16时25分]"
+        },
+        {
           "title": "两美刀逼疯AI!怒要报官告公司",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
           "source": "贴吧",
@@ -150,31 +162,6 @@
           "time_info": "[00时24分 ~ 07时17分]"
         },
         {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时18分 ~ 15时18分]"
-        },
-        {
-          "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
-          "url": "https://wallstreetcn.com/articles/3760084",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 15时18分]"
-        },
-        {
           "title": "马斯克宣布旗下 AI 将在尽可能模拟真人习惯的限定条件下挑战《英雄联盟》最强人类战队，你觉得谁会赢？",
           "url": "https://www.zhihu.com/question/1976705955216516456",
           "source": "知乎",
@@ -183,11 +170,26 @@
             11,
             12,
             9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时13分 ~ 16时25分]"
+        },
+        {
+          "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
+          "url": "https://wallstreetcn.com/articles/3760084",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[11时13分 ~ 16时25分]"
         },
         {
           "title": "日本电磁炮试射炸毁舰船？系AI合成",
@@ -198,8 +200,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[11时13分 ~ 16时25分]"
         },
         {
           "title": "戴尔科技预计全年营收1112亿-1122亿美元，公司原本预计1050亿-1090亿美元。预计AI服务器发货258亿美元，分析师预期208.2亿美元，公司原本预计200亿美元。",
@@ -222,6 +224,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 04时20分]"
+        },
+        {
+          "title": "人类正在被AI反向训练吗",
+          "url": "https://www.douyin.com/hot/2317425",
+          "source": "抖音",
+          "ranks": [
+            18,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 16时25分]"
         },
         {
           "title": "00后谈恋爱用AI当“僚机”",
@@ -269,6 +284,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时18分 ~ 11时13分]"
+        },
+        {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时27分 ~ 16时25分]"
         },
         {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
@@ -321,31 +349,6 @@
           "time_info": "[03时15分 ~ 04时20分]"
         },
         {
-          "title": "人类正在被AI反向训练吗",
-          "url": "https://www.douyin.com/hot/2317425",
-          "source": "抖音",
-          "ranks": [
-            18,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 15时18分]"
-        },
-        {
-          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
-          "url": "https://www.cls.cn/detail/2211188",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时27分 ~ 15时18分]"
-        },
-        {
           "title": "UP超治愈演唱AI音乐无岸",
           "url": "https://search.bilibili.com/all?keyword=UP%E8%B6%85%E6%B2%BB%E6%84%88%E6%BC%94%E5%94%B1AI%E9%9F%B3%E4%B9%90%E6%97%A0%E5%B2%B8",
           "source": "bilibili 热搜",
@@ -356,6 +359,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时23分 ~ 14时27分]"
+        },
+        {
+          "title": "谷歌AI平台全球第一 火山引擎中国第一",
+          "url": "https://www.toutiao.com/trending/7576941585242505243/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
+          "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
+          "url": "https://wallstreetcn.com/articles/3760129",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
@@ -380,6 +405,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时17分]"
+        },
+        {
+          "title": "AI为小米汽车带来出行新体验",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E4%B8%BA%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B8%A6%E6%9D%A5%E5%87%BA%E8%A1%8C%E6%96%B0%E4%BD%93%E9%AA%8C%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "戴尔第四财季指引乐观 AI服务器销售强劲成驱动力",
@@ -433,9 +469,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
+          "url": "https://flash.jin10.com/detail/20251126153143429800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         }
       ]
     },
@@ -449,11 +496,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 16时25分]"
         },
         {
           "title": "广东：探索将并购重组、资产盘活等纳入国企考核体系 提高资产证券化水平",
@@ -482,8 +530,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 15时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 16时25分]"
         },
         {
           "title": "男子为骗拆迁补助与男友姐姐“假结婚”？法院认定婚姻有效",
@@ -493,8 +541,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时18分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[09时18分 ~ 16时25分]"
         }
       ]
     }
