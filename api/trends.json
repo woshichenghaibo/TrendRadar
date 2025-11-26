@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T13:18:39.588159+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2025-11-26T14:27:46.120705+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 13时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 14时27分]"
         },
         {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
@@ -99,19 +99,6 @@
           "time_info": "[00时24分 ~ 09时19分]"
         },
         {
-          "title": "马斯克下战书!AI对决LOL冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 13时18分]"
-        },
-        {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
           "url": "https://wallstreetcn.com/articles/3760086",
           "source": "华尔街见闻",
@@ -120,8 +107,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 14时27分]"
+        },
+        {
+          "title": "马斯克下战书!AI对决LOL冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 14时27分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -156,8 +157,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 14时27分]"
         },
         {
           "title": "戴尔科技预计全年营收1112亿-1122亿美元，公司原本预计1050亿-1090亿美元。预计AI服务器发货258亿美元，分析师预期208.2亿美元，公司原本预计200亿美元。",
@@ -229,6 +230,45 @@
           "time_info": "[09时18分 ~ 11时13分]"
         },
         {
+          "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
+          "url": "https://wallstreetcn.com/articles/3760084",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 14时27分]"
+        },
+        {
+          "title": "马斯克宣布旗下 AI 将在尽可能模拟真人习惯的限定条件下挑战《英雄联盟》最强人类战队，你觉得谁会赢？",
+          "url": "https://www.zhihu.com/question/1976705955216516456",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 14时27分]"
+        },
+        {
+          "title": "日本电磁炮试射炸毁舰船？系AI合成",
+          "url": "https://www.toutiao.com/trending/7576307867385888810/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 14时27分]"
+        },
+        {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
           "url": "https://wallstreetcn.com/livenews/3010381",
           "source": "华尔街见闻-快讯",
@@ -279,41 +319,16 @@
           "time_info": "[03时15分 ~ 04时20分]"
         },
         {
-          "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
-          "url": "https://wallstreetcn.com/articles/3760084",
-          "source": "华尔街见闻",
+          "title": "UP超治愈演唱AI音乐无岸",
+          "url": "https://search.bilibili.com/all?keyword=UP%E8%B6%85%E6%B2%BB%E6%84%88%E6%BC%94%E5%94%B1AI%E9%9F%B3%E4%B9%90%E6%97%A0%E5%B2%B8",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 13时18分]"
-        },
-        {
-          "title": "日本电磁炮试射炸毁舰船？系AI合成",
-          "url": "https://www.toutiao.com/trending/7576307867385888810/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 13时18分]"
-        },
-        {
-          "title": "马斯克宣布旗下 AI 将在尽可能模拟真人习惯的限定条件下挑战《英雄联盟》最强人类战队，你觉得谁会赢？",
-          "url": "https://www.zhihu.com/question/1976705955216516456",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 14时27分]"
         },
         {
           "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
@@ -326,6 +341,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "人类正在被AI反向训练吗",
+          "url": "https://www.douyin.com/hot/2317425",
+          "source": "抖音",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时27分]"
         },
         {
           "title": "戴尔上调全年AI服务器发货预期",
@@ -352,17 +379,6 @@
           "time_info": "[06时20分 ~ 07时17分]"
         },
         {
-          "title": "UP超治愈演唱AI音乐无岸",
-          "url": "https://search.bilibili.com/all?keyword=UP%E8%B6%85%E6%B2%BB%E6%84%88%E6%BC%94%E5%94%B1AI%E9%9F%B3%E4%B9%90%E6%97%A0%E5%B2%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 12时24分]"
-        },
-        {
           "title": "AI应用推升存储芯片需求，业内称行业高景气度或持续至明年年中",
           "url": "https://wallstreetcn.com/livenews/3010427",
           "source": "华尔街见闻-快讯",
@@ -385,6 +401,17 @@
           "time_info": "09时19分"
         },
         {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "市场消息：法拉第未来（FF）和FX系列的领导层参加哈伊马角投资与商业峰会，以推动中东地区EAI移动战略；首辆FX Super One车辆计划于11月27日在迪拜交付给安德烈斯·伊涅斯塔（西班牙著名足球运动员）。",
           "url": "https://flash.jin10.com/detail/20251126103920805800",
           "source": "金十数据",
@@ -394,17 +421,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
-        },
-        {
-          "title": "人类正在被AI反向训练吗",
-          "url": "https://www.douyin.com/hot/2317425",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
         }
       ]
     },
@@ -417,11 +433,12 @@
           "url": "https://www.cls.cn/detail/2211100",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时27分]"
         },
         {
           "title": "广东：探索将并购重组、资产盘活等纳入国企考核体系 提高资产证券化水平",
@@ -450,8 +467,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 13时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 14时27分]"
         },
         {
           "title": "男子为骗拆迁补助与男友姐姐“假结婚”？法院认定婚姻有效",
@@ -461,8 +478,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 14时27分]"
         }
       ]
     }
