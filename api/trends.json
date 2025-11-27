@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T11:10:16.824317+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2025-11-27T12:22:35.065431+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 11时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 12时22分]"
         },
         {
           "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
@@ -56,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 11时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 12时22分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -106,11 +106,12 @@
             18,
             11,
             20,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时22分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -118,11 +119,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 11时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 12时22分]"
         },
         {
           "title": "GAI进化论6万人重庆场记录",
@@ -190,6 +192,18 @@
           "time_info": "[00时23分 ~ 01时17分]"
         },
         {
+          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
+          "url": "https://www.cls.cn/detail/2212089",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时22分]"
+        },
+        {
           "title": "AI硬件为何大涨",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%A1%AC%E4%BB%B6%E4%B8%BA%E4%BD%95%E5%A4%A7%E6%B6%A8",
           "source": "bilibili 热搜",
@@ -201,15 +215,15 @@
           "time_info": "00时23分"
         },
         {
-          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
-          "url": "https://www.cls.cn/detail/2212089",
+          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
+          "url": "https://www.cls.cn/detail/2212151",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "12时22分"
         }
       ]
     },
@@ -241,11 +255,12 @@
           "source": "微博",
           "ranks": [
             13,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 11时10分]"
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 12时22分]"
         }
       ]
     }
