@@ -1,231 +1,83 @@
 {
-  "generated_at": "2025-11-27T23:18:55.376469+08:00",
-  "total_titles_processed": 1995,
+  "generated_at": "2025-11-28T00:22:26.339935+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 15,
+      "match_count": 4,
       "titles": [
         {
-          "title": "降息预期升温，全球股市齐涨，美股集体高开，甲骨文涨超6%",
-          "url": "https://wallstreetcn.com/articles/3760164",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时18分]"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-11-27）",
-          "url": "https://flash.jin10.com/detail/20251127090504848800",
-          "source": "金十数据",
+          "title": "非洲股市收盘播报｜周四（11月27日），南非富时/JSE非洲领先40可交易指数收跌1.31%，至10.3万点下方。 毛里求斯证交所SEMDEX指数收跌0.04%，尼日利亚证交所全部股指收涨0.12%，肯尼亚内罗毕证交所全股指数收跌0.79%。",
+          "url": "https://wallstreetcn.com/livenews/3011598",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "00时22分"
         },
         {
-          "title": "盛宝集团：进入年底，股市可能会横盘或小幅上涨",
-          "url": "https://flash.jin10.com/detail/20251127165505451800",
-          "source": "金十数据",
+          "title": "中东股市收盘播报｜沙特阿美本周跌超4.4%",
+          "url": "https://wallstreetcn.com/livenews/3011593",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "00时22分"
         },
         {
-          "title": "金十图示：2025年11月27日（周四）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20251127182449115800",
+          "title": "金十图示：2025年11月27日（周四）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251127231608000800",
           "source": "金十数据",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "金十图示：2025年11月27日（周四）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20251127161150733800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 17时20分]"
-        },
-        {
-          "title": "金十图示：2025年11月27日（周四）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251127004527695800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时22分]"
-        },
-        {
-          "title": "希腊股市重新涨向2010年1月顶部",
-          "url": "https://wallstreetcn.com/livenews/3010964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股市收涨1.4%，金矿股领跑",
-          "url": "https://wallstreetcn.com/livenews/3010962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "摩根大通看好中国股市 列出多项增量支撑因素",
-          "url": "https://wallstreetcn.com/livenews/3011474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
-        },
-        {
-          "title": "金十图示：2025年11月26日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251127050546180800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时16分]"
+          "time_info": "00时22分"
         },
         {
           "title": "对冲基金传奇Mark Spitznagel重申最近一段时期的警告：股市可能会崩跌80%。",
           "url": "https://wallstreetcn.com/livenews/3011585",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出273.46亿元，占比1.6%；大单资金净流出146.21亿元，占比0.86%；小单资金净流入279.60亿元，占比1.64%。",
-          "url": "https://flash.jin10.com/detail/20251127150626899800",
-          "source": "金十数据",
-          "ranks": [
-            10
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "摩根士丹利：已撤回看涨英镑的建议，该货币可能已迎来近期最后的利好催化剂。尽管周三英国预算案公布后可能出现短暂反弹，但涨势恐难持久。英镑兑美元的吸引力已受打击，因其与股市的关联度已降至零，且近期缺乏积极的本土驱动因素。",
-          "url": "https://flash.jin10.com/detail/20251127135313288800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "业内：A股市场底部已基本确立",
-          "url": "https://www.toutiao.com/trending/7577325754254364196/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "德国、意大利、荷兰股市收涨超1%，丹麦股市两天反弹超4.5%",
-          "url": "https://wallstreetcn.com/livenews/3010982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "当地储能需求上升 中国企业考虑在印度建电池厂",
-          "url": "https://wallstreetcn.com/livenews/3011425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 17时20分]"
-        },
-        {
-          "title": "中国贸促会：应美国商会邀请，将于12月初组织中国企业家代表团访美",
-          "url": "https://wallstreetcn.com/livenews/3011334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "日本越来越多女性为养牛郎出国卖淫",
+          "url": "https://www.toutiao.com/trending/7576828276576895019/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
         {
           "title": "孙菲菲回应丧偶式婚姻",
           "url": "https://www.douyin.com/hot/2319172",
           "source": "抖音",
           "ranks": [
-            24,
-            22,
             25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时28分 ~ 23时18分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     }
