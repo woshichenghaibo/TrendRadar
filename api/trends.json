@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T04:18:02.476464+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2025-11-28T05:16:21.956008+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -92,8 +92,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 05时16分]"
         },
         {
           "title": "孙菲菲回应丧偶式婚姻",
@@ -104,11 +104,12 @@
             29,
             26,
             24,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 05时16分]"
         }
       ]
     }
