@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T19:16:44.883175+08:00",
-  "total_titles_processed": 1698,
+  "generated_at": "2025-11-27T20:37:57.661119+08:00",
+  "total_titles_processed": 1791,
   "failed_sources": [],
   "trends": [
     {
@@ -48,7 +48,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -208,11 +208,12 @@
           "url": "https://www.douyin.com/hot/2319172",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时28分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[14时28分 ~ 20时37分]"
         }
       ]
     }
