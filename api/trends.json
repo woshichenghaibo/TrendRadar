@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T09:16:54.635401+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2025-11-28T11:10:16.508924+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周四（11月27日），南非富时/JSE非洲领先40可交易指数收跌1.31%，至10.3万点下方。 毛里求斯证交所SEMDEX指数收跌0.04%，尼日利亚证交所全部股指收涨0.12%，肯尼亚内罗毕证交所全股指数收跌0.79%。",
@@ -57,13 +57,24 @@
           "time_info": "[00时22分 ~ 01时15分]"
         },
         {
+          "title": "金十图示：2025年11月28日（周五）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20251128103227197800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "金十数据整理：隔日全球股市走势回顾（2025-11-28）",
           "url": "https://flash.jin10.com/detail/20251128084306189800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
