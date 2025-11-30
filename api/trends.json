@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-11-30T07:16:26.344404+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2025-11-30T09:28:02.769562+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待中国股市“慢牛”行情",
+          "url": "https://www.toutiao.com/trending/7578180574511107626/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://trend.guao.de/img/news.jpg"
 }
