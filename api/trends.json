@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T18:21:39.128333+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2025-12-01T19:16:48.766454+08:00",
+  "total_titles_processed": 1514,
   "failed_sources": [],
   "trends": [
     {
@@ -72,11 +72,12 @@
             3,
             8,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 18时21分]"
+          "appearance_count": 10,
+          "time_info": "[11时49分 ~ 19时16分]"
         },
         {
           "title": "女性生育3到4个子女死亡风险最低",
