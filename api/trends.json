@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T05:15:45.990682+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-12-02T06:15:49.556259+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2025年12月02日（周二）全球股市指数-欧洲市场（收盘）",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251202050601898800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     },
@@ -57,8 +68,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时15分]"
         }
       ]
     }
