@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T11:17:14.529800+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2025-12-02T12:29:06.398863+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2025年12月02日（周二）全球股市指数-欧洲市场（收盘）",
@@ -32,13 +32,24 @@
           "time_info": "[00时25分 ~ 01时20分]"
         },
         {
+          "title": "美股市场全线杀跌发生了什么",
+          "url": "https://www.toutiao.com/trending/7579051553873481270/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
+        },
+        {
           "title": "金十图示：2025年12月02日（周二）亚太市场股市指数（盘初）",
           "url": "https://flash.jin10.com/detail/20251202102519490800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -77,11 +88,12 @@
           "ranks": [
             14,
             15,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 11时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 12时29分]"
         }
       ]
     }
