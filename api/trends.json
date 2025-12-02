@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T09:20:45.342610+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2025-12-02T11:17:14.529800+08:00",
+  "total_titles_processed": 893,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2025年12月02日（周二）全球股市指数-欧洲市场（收盘）",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时20分]"
+        },
+        {
+          "title": "金十图示：2025年12月02日（周二）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20251202102519490800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "德国股市收跌1%，空客德国股价跌5.9%，领跌一众成分股",
@@ -65,11 +76,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 09时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时17分]"
         }
       ]
     }
