@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T02:28:43.149903+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2025-12-04T03:17:17.246581+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时17分]"
         },
         {
           "title": "高盛交易员Molavi称：股市以多空对决态势迈向新一年",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时17分]"
         }
       ]
     }
