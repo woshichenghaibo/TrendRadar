@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T05:18:15.854872+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2025-12-05T06:16:27.002750+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2025年12月04日（周四）全球股市指数-欧洲市场（收盘）",
@@ -34,6 +34,17 @@
           "time_info": "[01时21分 ~ 02时29分]"
         },
         {
+          "title": "金十图示：2025年12月04日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251205051011448800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
           "title": "欧洲股市收涨超0.4%，雷诺、奔驰、保时捷、宝马等汽车概念股至少涨超4%",
           "url": "https://wallstreetcn.com/livenews/3015291",
           "source": "华尔街见闻-快讯",
@@ -58,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时16分]"
         }
       ]
     }
