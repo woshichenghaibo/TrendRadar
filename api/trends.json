@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T22:19:52.076973+08:00",
-  "total_titles_processed": 1919,
+  "generated_at": "2025-12-04T23:21:42.216152+08:00",
+  "total_titles_processed": 2012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-12-04）",
@@ -78,6 +78,17 @@
           "time_info": "19时18分"
         },
         {
+          "title": "金十图示：2025年12月04日（周四）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251204230416832800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "股市资金流向图：今日沪深两市主力资金净流出321.57亿元，占比2.08%；大单资金净流出209.93亿元，占比1.36%；小单资金净流入327.86亿元，占比2.12%。",
           "url": "https://flash.jin10.com/detail/20251204150617008800",
           "source": "金十数据",
@@ -95,7 +106,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -220,7 +231,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         }
