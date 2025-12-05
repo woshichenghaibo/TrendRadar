@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T21:31:16.915121+08:00",
-  "total_titles_processed": 1845,
+  "generated_at": "2025-12-05T22:19:20.995274+08:00",
+  "total_titles_processed": 1938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金十图示：2025年12月04日（周四）全球股市指数-欧洲市场（收盘）",
@@ -78,6 +78,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-05）",
+          "url": "https://flash.jin10.com/detail/20251205213443554800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "金十数据整理：隔日全球股市走势回顾（2025-12-05）",
