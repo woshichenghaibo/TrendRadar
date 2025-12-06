@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T02:25:08.248174+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2025-12-07T03:14:16.670831+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
@@ -9,26 +9,27 @@
       "titles": [
         {
           "title": "劲酒如何成了年轻女性的神仙水",
+          "url": "https://www.toutiao.com/trending/7580635985789062692/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时14分]"
+        },
+        {
+          "title": "劲酒如何成了年轻女性的神仙水",
           "url": "https://www.baidu.com/s?wd=%E5%8A%B2%E9%85%92%E5%A6%82%E4%BD%95%E6%88%90%E4%BA%86%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7%E7%9A%84%E7%A5%9E%E4%BB%99%E6%B0%B4",
           "source": "百度热搜",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时25分]"
-        },
-        {
-          "title": "劲酒如何成了年轻女性的神仙水",
-          "url": "https://www.toutiao.com/trending/7580635985789062692/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时14分]"
         },
         {
           "title": "爱奇艺年度喜爱女性角色",
@@ -55,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时14分]"
         }
       ]
     }
