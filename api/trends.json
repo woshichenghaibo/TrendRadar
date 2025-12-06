@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T09:17:12.748213+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2025-12-06T11:08:21.945494+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 09时17分]"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 11时08分]"
         },
         {
           "title": "金十图示：2025年12月05日（周五）全球股市指数-欧洲市场（收盘）",
@@ -50,6 +50,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时22分 ~ 07时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "22 岁女性与辅导员微信争执后轻生，校方应承担哪些责任？",
+          "url": "https://www.zhihu.com/question/1974172802765562399",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     }
