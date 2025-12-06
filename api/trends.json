@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T05:15:42.140000+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2025-12-07T06:16:44.166615+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             2,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "劲酒如何成了年轻女性的神仙水",
@@ -30,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "爱奇艺年度喜爱女性角色",
@@ -58,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         }
       ]
     }
