@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T11:25:49.250505+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2025-12-07T12:31:44.062150+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
@@ -61,11 +61,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时31分]"
         },
         {
           "title": "中国贸促会会长任鸿斌率中国企业家代表团访问美国",
@@ -93,8 +94,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 11时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 12时31分]"
         }
       ]
     }
