@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T13:20:46.367589+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2025-12-08T14:31:21.705964+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,20 @@
           "time_info": "[00时19分 ~ 09时21分]"
         },
         {
+          "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
+          "url": "https://www.cls.cn/detail/2222232",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 14时31分]"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2025-12-08）",
           "url": "https://flash.jin10.com/detail/20251208091024122800",
           "source": "金十数据",
@@ -30,19 +44,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
-        },
-        {
-          "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
-          "url": "https://www.cls.cn/detail/2222232",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 13时20分]"
         },
         {
           "title": "中东股市收盘播报｜沙特阿美收跌0.4%，埃及股指涨超0.6%连续三天创收盘历史新高",
@@ -129,11 +130,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 14时31分]"
         }
       ]
     }
