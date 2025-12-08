@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T14:31:21.705964+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2025-12-08T15:22:18.073850+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             12,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 15时22分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-12-08）",
