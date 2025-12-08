@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-12-08T16:28:18.259357+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2025-12-08T17:26:21.272957+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 5,
       "titles": [
+        {
+          "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
+          "url": "https://www.cls.cn/detail/2222232",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 17时26分]"
+        },
         {
           "title": "从“怀疑”到“认可独特价值”，华尔街看好中国股市明年继续上涨",
           "url": "https://wallstreetcn.com/articles/3760860",
@@ -19,21 +35,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时19分 ~ 09时21分]"
-        },
-        {
-          "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
-          "url": "https://www.cls.cn/detail/2222232",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时19分 ~ 16时28分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-12-08）",
