@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-10T04:19:23.771137+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2025-12-10T05:16:29.128743+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 3,
       "titles": [
-        {
-          "title": "金十图示：2025年12月10日（周三）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251210004615907800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
         {
           "title": "国际清算银行警告「黄金与股市走势趋同，可能是泡沫信号，要警惕市场突然回调」，对此你怎么看？",
           "url": "https://www.zhihu.com/question/1981647390378309560",
@@ -28,8 +17,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时16分]"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251210004615907800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
         },
         {
           "title": "欧洲股市继续窄幅波动",
@@ -59,8 +59,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时16分]"
         },
         {
           "title": "京爷赠房挽婚姻,净身出户背巨债",
@@ -70,8 +70,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时16分]"
         }
       ]
     }
