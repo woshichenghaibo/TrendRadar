@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T03:14:36.784991+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2025-12-10T04:19:23.771137+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时19分]"
         },
         {
           "title": "欧洲股市继续窄幅波动",
@@ -59,8 +59,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时19分]"
         },
         {
           "title": "京爷赠房挽婚姻,净身出户背巨债",
@@ -70,8 +70,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时19分]"
         }
       ]
     }
