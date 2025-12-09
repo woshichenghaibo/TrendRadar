@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T18:22:12.930151+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2025-12-09T19:18:11.108399+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
@@ -120,11 +120,12 @@
           "url": "https://wallstreetcn.com/articles/3760956",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 19时18分]"
         }
       ]
     },
@@ -142,11 +143,12 @@
             8,
             9,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时24分 ~ 18时22分]"
+          "appearance_count": 25,
+          "time_info": "[00时24分 ~ 19时18分]"
         },
         {
           "title": "研究称怀孕会使女性衰老加速超5岁",
