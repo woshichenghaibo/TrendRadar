@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T01:19:18.038917+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-12-10T02:45:23.936119+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         },
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时45分]"
         },
         {
           "title": "欧洲股市继续窄幅波动",
@@ -37,7 +38,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         }
@@ -53,11 +54,12 @@
           "source": "微博",
           "ranks": [
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时45分]"
         },
         {
           "title": "京爷赠房挽婚姻,净身出户背巨债",
@@ -67,8 +69,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时45分]"
         }
       ]
     }
