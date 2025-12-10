@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T14:39:54.085060+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2025-12-10T15:21:37.494589+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国际清算银行警告「黄金与股市走势趋同，可能是泡沫信号，要警惕市场突然回调」，对此你怎么看？",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出335.68亿元，占比1.89%；大单资金净流出185.73亿元，占比1.04%；小单资金净流入293.42亿元，占比1.65%。",
+          "url": "https://flash.jin10.com/detail/20251210150709485800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "欧洲股市继续窄幅波动",
@@ -144,11 +155,12 @@
             17,
             20,
             24,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时43分 ~ 14时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时43分 ~ 15时21分]"
         },
         {
           "title": "10小时了解闪耀中国历史的女性",
