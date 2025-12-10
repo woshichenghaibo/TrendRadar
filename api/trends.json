@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T13:19:49.078771+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2025-12-10T14:39:54.085060+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -143,11 +143,12 @@
           "ranks": [
             17,
             20,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 13时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 14时39分]"
         },
         {
           "title": "10小时了解闪耀中国历史的女性",
