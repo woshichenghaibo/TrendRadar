@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T06:19:15.299127+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2025-12-12T07:18:14.494609+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
@@ -60,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "江苏新任命一名女性代市长 系80后",
@@ -72,11 +72,12 @@
             21,
             19,
             18,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 07时18分]"
         }
       ]
     }
