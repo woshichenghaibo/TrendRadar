@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T20:40:36.424121+08:00",
-  "total_titles_processed": 1962,
+  "generated_at": "2025-12-11T21:37:48.048473+08:00",
+  "total_titles_processed": 2057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出857.75亿元，占比4.62%；大单资金净流出347.64亿元，占比1.87%；小单资金净流入654.76亿元，占比3.53%。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-11）",
+          "url": "https://flash.jin10.com/detail/20251211211225908800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "金十图示：2025年12月11日（周四）亚太市场股市指数（收盘）",
@@ -126,7 +137,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         }
