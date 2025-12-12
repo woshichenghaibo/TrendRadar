@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T16:26:56.548146+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2025-12-12T17:23:07.473213+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[05时20分 ~ 06时19分]"
         },
         {
+          "title": "金十图示：2025年12月12日（周五）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251212161130463800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时23分]"
+        },
+        {
           "title": "杰富瑞：日本股市2026年前景具有强劲吸引力",
           "url": "https://flash.jin10.com/detail/20251212105158547800",
           "source": "金十数据",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
-        },
-        {
-          "title": "金十图示：2025年12月12日（周五）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20251212161130463800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         },
         {
           "title": "金十数据整理：隔日全球股市走势回顾（2025-12-12）",
@@ -101,7 +102,7 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "42岁陈妍希 建议所有女性来学",
@@ -133,6 +134,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时23分 ~ 07时18分]"
+        },
+        {
+          "title": "择偶新标准!宅男竟成婚姻抢手货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347928&amp;topic_name=%E6%8B%A9%E5%81%B6%E6%96%B0%E6%A0%87%E5%87%86%21%E5%AE%85%E7%94%B7%E7%AB%9F%E6%88%90%E5%A9%9A%E5%A7%BB%E6%8A%A2%E6%89%8B%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
         },
         {
           "title": "陈妍希建议女性不要为了结婚而结婚",
