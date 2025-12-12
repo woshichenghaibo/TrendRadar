@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T12:32:26.070243+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2025-12-12T13:20:24.120527+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
@@ -71,7 +71,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -90,7 +90,7 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "42岁陈妍希 建议所有女性来学",
@@ -122,6 +122,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时23分 ~ 07时18分]"
+        },
+        {
+          "title": "陈妍希建议女性不要为了结婚而结婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%BB%BA%E8%AE%AE%E5%A5%B3%E6%80%A7%E4%B8%8D%E8%A6%81%E4%B8%BA%E4%BA%86%E7%BB%93%E5%A9%9A%E8%80%8C%E7%BB%93%E5%A9%9A%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         }
       ]
     }
