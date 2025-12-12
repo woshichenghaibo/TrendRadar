@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T11:22:11.822035+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2025-12-12T12:32:26.070243+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "非洲股市收盘播报｜南非股市收涨超1.1%，贵金属矿业股领跑",
@@ -38,7 +38,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -60,9 +60,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "分析师：泰国提前大选提振股市 泰铢受影响或有限",
+          "url": "https://flash.jin10.com/detail/20251212111602388800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "特朗普称赞股市再创新高",
