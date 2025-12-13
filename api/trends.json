@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T11:14:33.989491+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2025-12-13T12:24:19.744573+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
@@ -54,11 +54,12 @@
           "ranks": [
             7,
             8,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 11时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 12时24分]"
         },
         {
           "title": "中使馆：个别在巴基斯坦中国公民对当地女性拍摄，引发治安事件",
