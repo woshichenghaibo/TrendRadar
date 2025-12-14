@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T14:27:12.383229+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2025-12-14T15:17:43.150297+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "分析师：越南银行间利率创2022年以来新高，和贷款利率上行风险冲击到股市近期表现",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "当美国股市走向“邀请制”：私募交易催生越来越多巨无霸私企，普通散户被“拒之门外”",
+          "url": "https://wallstreetcn.com/articles/3761350",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         }
       ]
     },
@@ -75,8 +86,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 14时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 15时17分]"
         },
         {
           "title": "盲人老太被质疑诱骗女性 痛哭求还清白",
