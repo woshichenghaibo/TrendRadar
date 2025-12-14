@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T15:17:43.150297+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2025-12-14T16:23:01.623417+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,17 @@
           "time_info": "[06时17分 ~ 09时28分]"
         },
         {
+          "title": "当美国股市走向“邀请制”：私募交易催生越来越多巨无霸私企，普通散户被“拒之门外”",
+          "url": "https://wallstreetcn.com/articles/3761350",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 16时23分]"
+        },
+        {
           "title": "中国银河宏观解读11月金融数据：居民存款未明显流向股市，部分可能流向理财",
           "url": "https://wallstreetcn.com/articles/3761325",
           "source": "华尔街见闻",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "当美国股市走向“邀请制”：私募交易催生越来越多巨无霸私企，普通散户被“拒之门外”",
-          "url": "https://wallstreetcn.com/articles/3761350",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
         }
       ]
     },
@@ -83,11 +83,12 @@
           "ranks": [
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 15时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 16时23分]"
         },
         {
           "title": "盲人老太被质疑诱骗女性 痛哭求还清白",
