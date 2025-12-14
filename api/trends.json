@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T18:18:27.381368+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2025-12-14T19:14:49.783017+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 19时14分]"
         },
         {
           "title": "中国银河宏观解读11月金融数据：居民存款未明显流向股市，部分可能流向理财",
@@ -85,11 +85,12 @@
             24,
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 18时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 19时14分]"
         },
         {
           "title": "盲人老太被质疑诱骗女性 痛哭求还清白",
