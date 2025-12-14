@@ -1,109 +1,22 @@
 {
-  "generated_at": "2025-12-14T23:17:25.554021+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2025-12-15T00:20:51.801469+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "股市",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "分析师：越南银行间利率创2022年以来新高，和贷款利率上行风险冲击到股市近期表现",
-          "url": "https://wallstreetcn.com/livenews/3020271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 09时28分]"
-        },
-        {
-          "title": "当美国股市走向“邀请制”：私募交易催生越来越多巨无霸私企，普通散户被“拒之门外”",
-          "url": "https://wallstreetcn.com/articles/3761350",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时17分 ~ 20时34分]"
-        },
-        {
-          "title": "中国银河宏观解读11月金融数据：居民存款未明显流向股市，部分可能流向理财",
-          "url": "https://wallstreetcn.com/articles/3761325",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "跨国企业看中国市场：2026将是深化在华合作关键年",
-          "url": "https://wallstreetcn.com/livenews/3020309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时35分]"
-        },
-        {
-          "title": "美国企业云计算和服务管理解决方案提供商ServiceNow据悉接近以高达70亿美元的价格收购Armis。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3020293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "婚姻 女性",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "择偶新标准!宅男竟成婚姻抢手货",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347928&amp;topic_name=%E6%8B%A9%E5%81%B6%E6%96%B0%E6%A0%87%E5%87%86%21%E5%AE%85%E7%94%B7%E7%AB%9F%E6%88%90%E5%A9%9A%E5%A7%BB%E6%8A%A2%E6%89%8B%E8%B4%A7",
           "source": "贴吧",
           "ranks": [
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
             29
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时20分 ~ 23时17分]"
-        },
-        {
-          "title": "盲人老太被质疑诱骗女性 痛哭求还清白",
-          "url": "https://www.toutiao.com/trending/7582609000417230889/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     }
