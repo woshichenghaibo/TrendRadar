@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T03:57:06.893986+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2025-12-16T04:21:32.867202+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3761378",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 03时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时21分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）全球股市指数-欧洲市场（收盘）",
