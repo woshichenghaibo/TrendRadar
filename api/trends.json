@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T01:23:23.622913+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2025-12-16T02:28:48.841476+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）全球股市指数-欧洲市场（收盘）",
@@ -25,7 +25,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         }
