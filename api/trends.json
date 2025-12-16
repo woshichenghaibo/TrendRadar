@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T13:20:59.359213+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2025-12-16T14:30:27.699070+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时18分]"
+        },
+        {
+          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
+          "url": "https://wallstreetcn.com/articles/3761466",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 14时30分]"
         },
         {
           "title": "美国财长贝森特谈论股市，重申国会议员必须停止股票交易行为。",
@@ -53,17 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
-        },
-        {
-          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
-          "url": "https://wallstreetcn.com/articles/3761466",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
         },
         {
           "title": "金十数据整理：隔日全球股市走势回顾（2025-12-16）",
