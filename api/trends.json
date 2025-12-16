@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:21:45.909107+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2025-12-16T16:27:56.129629+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 16时27分]"
         },
         {
           "title": "美国财长贝森特谈论股市，重申国会议员必须停止股票交易行为。",
@@ -74,7 +74,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -96,7 +96,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
