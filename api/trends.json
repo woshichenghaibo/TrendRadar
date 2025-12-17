@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T17:26:12.572986+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2025-12-17T18:22:22.602998+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时25分 ~ 12时32分]"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）全球股市指数-亚太市场",
+          "url": "https://flash.jin10.com/detail/20251217180141198800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "金十数据整理：隔日全球股市走势回顾（2025-12-17）",
