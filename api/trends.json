@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T22:20:24.395938+08:00",
-  "total_titles_processed": 2078,
+  "generated_at": "2025-12-17T23:21:09.423751+08:00",
+  "total_titles_processed": 2162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -97,7 +97,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -111,6 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251217230709946800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "报道：讲好“股市叙事” 稳定市场预期",
@@ -141,7 +152,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
