@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T21:32:55.176178+08:00",
-  "total_titles_processed": 1985,
+  "generated_at": "2025-12-17T22:20:24.395938+08:00",
+  "total_titles_processed": 2078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -91,6 +91,17 @@
           "time_info": "[17时25分 ~ 17时26分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-17）",
+          "url": "https://flash.jin10.com/detail/20251217220805221800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "金十图示：2025年12月17日（周三）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251217004530189800",
           "source": "金十数据",
@@ -122,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "美联储理事沃勒：蓬勃发展的股市正在帮助更富裕的美国人。",
+          "url": "https://flash.jin10.com/detail/20251217215411368800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "德国股指收跌超0.6%，荷兰股市跌超1.1%，意大利银行板块涨0.2%",
