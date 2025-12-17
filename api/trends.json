@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T16:27:17.986173+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2025-12-17T17:26:12.572986+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时22分]"
+        },
+        {
+          "title": "中国股市接下来走不走牛",
+          "url": "https://www.toutiao.com/trending/7584716935829392934/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "金十图示：2025年12月17日（周三）全球股市指数-欧洲市场（收盘）",
