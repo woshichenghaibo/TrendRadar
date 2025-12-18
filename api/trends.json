@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-18T11:19:36.079460+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2025-12-18T12:32:39.344067+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美国银行警告称，股市泡沫风险依然存在，但认为人工智能领域仍有更大的上涨空间。",
+          "url": "https://flash.jin10.com/detail/20251218121012213800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
         {
           "title": "金十图示：2025年12月17日（周三）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251218050627520800",
@@ -60,7 +71,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
