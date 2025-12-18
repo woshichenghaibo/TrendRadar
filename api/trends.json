@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-18T22:20:54.989615+08:00",
-  "total_titles_processed": 2041,
+  "generated_at": "2025-12-18T23:21:13.189313+08:00",
+  "total_titles_processed": 2157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "金十图示：2025年12月18日（周四）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251218230030616800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
         {
           "title": "金十图示：2025年12月18日（周四）全球股市指数-欧洲市场（盘初）",
           "url": "https://flash.jin10.com/detail/20251218161210034800",
@@ -43,6 +54,19 @@
           "time_info": "[05时19分 ~ 06时18分]"
         },
         {
+          "title": "外资行：中国股市撕掉不可投资标签",
+          "url": "https://www.toutiao.com/trending/7584391748689526825/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时21分]"
+        },
+        {
           "title": "非洲股市收盘播报｜周三（12月17日，假日归来），南非富时/JSE非洲领先40可交易指数收涨1.12%，至10.64万点上方。",
           "url": "https://wallstreetcn.com/livenews/3022520",
           "source": "华尔街见闻-快讯",
@@ -53,18 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时22分]"
-        },
-        {
-          "title": "外资行：中国股市撕掉不可投资标签",
-          "url": "https://www.toutiao.com/trending/7584391748689526825/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时35分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）亚太市场股市指数（收盘）",
@@ -117,7 +129,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
