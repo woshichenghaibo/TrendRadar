@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-19T07:18:10.804178+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2025-12-19T09:23:08.111424+08:00",
+  "total_titles_processed": 886,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-12-19）",
+          "url": "https://flash.jin10.com/detail/20251219090625445800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
         {
           "title": "金十图示：2025年12月18日（周四）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251219050625506800",
@@ -42,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2025-12-19）",
+          "url": "https://flash.jin10.com/detail/20251219083747869800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "金十图示：2025年12月19日（周五）全球股市指数-欧洲市场（收盘）",
@@ -93,6 +115,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新疆多个景区设婚姻登记点，天山天池、赛里木湖、库车老城在列",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32205236",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 09时23分]"
         }
       ]
     }
