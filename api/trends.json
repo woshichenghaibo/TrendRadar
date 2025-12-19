@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T19:17:10.321481+08:00",
-  "total_titles_processed": 1889,
+  "generated_at": "2025-12-19T20:37:26.593634+08:00",
+  "total_titles_processed": 1998,
   "failed_sources": [],
   "trends": [
     {
@@ -155,11 +155,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时22分 ~ 19时17分]"
+          "appearance_count": 15,
+          "time_info": "[09时22分 ~ 20时37分]"
         },
         {
           "title": "爱泼斯坦案新披露照片呈现女性小腿",
