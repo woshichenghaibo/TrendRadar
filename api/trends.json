@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T20:37:26.593634+08:00",
-  "total_titles_processed": 1998,
+  "generated_at": "2025-12-19T21:32:07.116871+08:00",
+  "total_titles_processed": 2102,
   "failed_sources": [],
   "trends": [
     {
@@ -238,6 +238,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国企",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国贸易代表格里尔：我们就欧盟监管美国企业的问题谈得很好。",
+          "url": "https://flash.jin10.com/detail/20251219212413907800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     }
