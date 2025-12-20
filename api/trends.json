@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T20:34:01.925379+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2025-12-20T21:25:56.052566+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时23分 ~ 20时34分]"
+          "appearance_count": 9,
+          "time_info": "[16时23分 ~ 21时25分]"
         },
         {
           "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
@@ -92,11 +92,29 @@
           "ranks": [
             5,
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 20时34分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 21时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2025国产剧女性角色盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E5%9B%BD%E4%BA%A7%E5%89%A7%E5%A5%B3%E6%80%A7%E8%A7%92%E8%89%B2%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         }
       ]
     }
