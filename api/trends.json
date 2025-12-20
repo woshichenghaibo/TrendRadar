@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T21:25:56.052566+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2025-12-20T22:16:54.416230+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时23分 ~ 21时25分]"
+          "appearance_count": 10,
+          "time_info": "[16时23分 ~ 22时16分]"
         },
         {
           "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
@@ -93,11 +93,12 @@
             5,
             14,
             18,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 21时25分]"
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 22时16分]"
         }
       ]
     },
@@ -112,7 +113,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         }
