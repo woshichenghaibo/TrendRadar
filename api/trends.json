@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T12:36:17.973739+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2025-12-21T13:19:34.182493+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,29 @@
           "source": "今日头条",
           "ranks": [
             25,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 13时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "二战日本集中营女性遭遇曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%88%98%E6%97%A5%E6%9C%AC%E9%9B%86%E4%B8%AD%E8%90%A5%E5%A5%B3%E6%80%A7%E9%81%AD%E9%81%87%E6%9B%9D%E5%85%89%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     }
