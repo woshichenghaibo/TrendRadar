@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-23T03:16:30.382990+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2025-12-23T04:20:52.690384+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 7,
       "titles": [
+        {
+          "title": "高盛：2026年全球股市牛市将延续 建议多元化投资",
+          "url": "https://www.cls.cn/detail/2236392",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 04时20分]"
+        },
         {
           "title": "金十图示：2025年12月23日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251223004552919800",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时28分]"
-        },
-        {
-          "title": "高盛：2026年全球股市牛市将延续 建议多元化投资",
-          "url": "https://www.cls.cn/detail/2236392",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 03时16分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收涨约1.1%，因帕拉白金控股等贵金属矿业股领跑",
