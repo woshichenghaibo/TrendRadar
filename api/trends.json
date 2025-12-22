@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T07:17:09.312840+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2025-12-22T09:26:28.294125+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "中东股市收盘播报｜沙特阿美周日收涨超0.7%，埃及股指涨1%",
@@ -20,6 +20,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时24分 ~ 07时17分]"
+        },
+        {
+          "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
+          "url": "https://www.cls.cn/detail/2235799",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-12-22）",
+          "url": "https://flash.jin10.com/detail/20251222090337480800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "金十数据整理：上周五全球股市走势回顾（2025-12-22）",
+          "url": "https://flash.jin10.com/detail/20251222083909942800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     }
