@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T13:22:48.762374+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2025-12-22T14:31:50.966308+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 13时22分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 14时31分]"
         },
         {
           "title": "中东股市收盘播报｜沙特阿美周日收涨超0.7%，埃及股指涨1%",
@@ -82,7 +82,7 @@
     },
     {
       "keyword_group": "国企",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "广州“十五五”规划建议：做强做优做大国有资本和国有企业 打造一批数字化、平台化新型国企",
@@ -96,6 +96,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时41分 ~ 13时22分]"
+        },
+        {
+          "title": "国企的微信礼仪",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BC%81%E7%9A%84%E5%BE%AE%E4%BF%A1%E7%A4%BC%E4%BB%AA&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         }
       ]
     }
