@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T07:18:28.198692+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2025-12-23T09:23:10.162102+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2025年12月22日（周一）全球股市指数-美洲市场（收盘）",
@@ -65,6 +65,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-12-23）",
+          "url": "https://flash.jin10.com/detail/20251223090445944800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2025-12-23）",
+          "url": "https://flash.jin10.com/detail/20251223084000404800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "法国、意大利股指收跌将近0.4%，丹麦股市跌超1.5%",
