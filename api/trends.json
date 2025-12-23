@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T19:17:28.983436+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2025-12-23T20:38:55.849210+08:00",
+  "total_titles_processed": 1785,
   "failed_sources": [],
   "trends": [
     {
@@ -141,7 +141,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -182,8 +182,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 20时38分]"
+        },
+        {
+          "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32227837",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时38分]"
         },
         {
           "title": "今年11月中国企业信用指数持续稳中有进",
@@ -195,17 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
-        },
-        {
-          "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32227837",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
         },
         {
           "title": "外交部回应美方将大疆无人机列入“受管制清单”：坚决反对无理打压中国企业",
