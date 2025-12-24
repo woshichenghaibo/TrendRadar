@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T11:22:43.822716+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2025-12-24T12:34:51.366043+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "金十图示：2025年12月24日（周三）全球股市指数-欧洲市场（收盘）",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "多地股市今日提前收市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20251224120442097800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "欧洲股市收涨约0.4%",
@@ -101,6 +112,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "澳大利亚股市圣诞前夕提前收市 收盘下跌0.38%",
+          "url": "https://flash.jin10.com/detail/20251224112644579800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "金十图示：2025年12月23日（周二）全球股市指数-美洲市场（盘初）",
           "url": "https://flash.jin10.com/detail/20251223230105459800",
           "source": "金十数据",
@@ -118,7 +140,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         }
@@ -138,8 +160,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 11时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 12时34分]"
         },
         {
           "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
@@ -159,7 +181,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         }
@@ -187,11 +209,12 @@
           "url": "https://www.zhihu.com/question/20066914",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时34分]"
         }
       ]
     }
