@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-25T03:14:58.552934+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2025-12-25T04:20:23.789257+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 6,
       "titles": [
+        {
+          "title": "金十图示：2025年12月25日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251225021049374800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时20分]"
+        },
         {
           "title": "金十图示：2025年12月25日（周四）欧洲多国股市休市，法国、英国、西班牙股市今日提前收市。",
           "url": "https://flash.jin10.com/detail/20251225010921111800",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "金十图示：2025年12月25日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251225021049374800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时14分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收涨超0.4%，连续多日创历史新高",
