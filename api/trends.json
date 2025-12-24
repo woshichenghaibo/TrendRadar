@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T04:20:23.789257+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2025-12-25T05:17:10.589373+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             13,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 05时17分]"
         },
         {
           "title": "金十图示：2025年12月25日（周四）欧洲多国股市休市，法国、英国、西班牙股市今日提前收市。",
