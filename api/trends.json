@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T09:21:57.892044+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2025-12-24T11:22:43.822716+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2025年12月24日（周三）全球股市指数-欧洲市场（收盘）",
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -110,12 +110,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "金十图示：2025年12月24日（周三）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20251224102952865800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     },
     {
       "keyword_group": "国企",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
@@ -127,8 +138,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 11时22分]"
         },
         {
           "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
@@ -140,12 +151,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "中国复旦微电港股一度涨5.5%，第一大股东将成为上海国企。",
+          "url": "https://wallstreetcn.com/livenews/3025921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "克林顿回应被曝多张与女性亲密合影",
@@ -159,6 +181,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时18分 ~ 07时17分]"
+        },
+        {
+          "title": "为什么窦唯时常说他与王菲的婚姻是一场阴谋？",
+          "url": "https://www.zhihu.com/question/20066914",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     }
