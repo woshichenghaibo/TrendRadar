@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T20:37:18.798084+08:00",
-  "total_titles_processed": 1672,
+  "generated_at": "2025-12-25T21:31:31.652516+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时37分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时31分]"
         },
         {
           "title": "金十图示：2025年12月25日（周四）全球股市指数-美洲市场（收盘）",
