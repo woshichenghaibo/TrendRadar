@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T03:14:53.572469+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2025-12-26T04:20:21.140902+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "东南亚股市收盘播报｜越南股市收跌超2.2%，尾盘重挫，温纳集团宣布退出南北高铁项目",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时20分]"
         },
         {
           "title": "中东股市收盘播报｜以色列股市周四收跌超3.1%本周沙特股指涨超0.7%",
@@ -40,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时20分]"
         },
         {
           "title": "人民币汇率破7对房价股市有何影响",
