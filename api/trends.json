@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-25T19:16:43.951097+08:00",
-  "total_titles_processed": 1589,
+  "generated_at": "2025-12-25T20:37:18.798084+08:00",
+  "total_titles_processed": 1672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 14,
       "titles": [
-        {
-          "title": "人民币汇率破7对房价股市有何影响",
-          "url": "https://www.toutiao.com/trending/7587658680007396883/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
-        },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出235.59亿元，占比1.22%；大单资金净流出178.94亿元，占比0.93%；小单资金净流入301.72亿元，占比1.57%。",
           "url": "https://flash.jin10.com/detail/20251225150902227800",
@@ -39,6 +28,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "人民币汇率破7对房价股市有何影响",
+          "url": "https://www.toutiao.com/trending/7587658680007396883/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时37分]"
         },
         {
           "title": "金十图示：2025年12月25日（周四）全球股市指数-美洲市场（收盘）",
@@ -133,7 +134,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -183,7 +184,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
