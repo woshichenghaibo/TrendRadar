@@ -1,48 +1,12 @@
 {
-  "generated_at": "2025-12-25T23:18:38.715162+08:00",
-  "total_titles_processed": 1883,
+  "generated_at": "2025-12-26T00:22:59.883036+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 15,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "人民币汇率破7对房价股市有何影响",
-          "url": "https://www.toutiao.com/trending/7587658680007396883/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            13,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 22时18分]"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出235.59亿元，占比1.22%；大单资金净流出178.94亿元，占比0.93%；小单资金净流入301.72亿元，占比1.57%。",
-          "url": "https://flash.jin10.com/detail/20251225150902227800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "人民币汇率破7对房价股市有什么影响",
-          "url": "https://www.toutiao.com/trending/7587658680007396883/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
         {
           "title": "高盛：中国股市赚钱逻辑彻底变了",
           "url": "https://www.toutiao.com/trending/7587755130850643519/",
@@ -50,174 +14,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "00时22分"
         },
         {
-          "title": "金十图示：2025年12月25日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251225021049374800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时26分 ~ 05时17分]"
-        },
-        {
-          "title": "金十图示：2025年12月25日（周四）欧洲多国股市休市，法国、英国、西班牙股市今日提前收市。",
-          "url": "https://flash.jin10.com/detail/20251225010921111800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股市收涨超0.4%，连续多日创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3026279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
-        },
-        {
-          "title": "业内：明年或是中国股市配置价值元年",
-          "url": "https://www.toutiao.com/trending/7587690320272297478/",
+          "title": "人民币汇率破7对房价股市有何影响",
+          "url": "https://www.toutiao.com/trending/7587658680007396883/",
           "source": "今日头条",
           "ranks": [
-            22,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
-        },
-        {
-          "title": "欧洲股市大致收平",
-          "url": "https://wallstreetcn.com/livenews/3026288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时14分]"
-        },
-        {
-          "title": "金十数据整理：隔日全球股市走势回顾（2025-12-25）",
-          "url": "https://flash.jin10.com/detail/20251225084537468800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收跌0.02%，报588.61点。 欧元区STOXX 50指数初步收跌0.05%，报5746.24点。 富时泛欧绩优300指数初步收跌0.04%，报2345.85点。 法国CAC 40指数收跌不到0.01%，报8103.58点。 英国富时100指数收跌0.19%，报9870.68点，富时250指数收跌0.16%，富时350指数收跌0.18%。 荷兰AEX指数收跌0.09%。 德国、意大利、希腊、丹麦股市休市。",
-          "url": "https://wallstreetcn.com/livenews/3026288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "金十图示：2025年12月25日（周四）全球股市指数-亚太市场",
-          "url": "https://flash.jin10.com/detail/20251225180207161800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "金十图示：2025年12月25日（周四）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20251225103647534800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "日经225指数开盘上涨0.25%，报50469.64点。 韩国股市今日休市。",
-          "url": "https://wallstreetcn.com/livenews/3026395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "金十图示：2025年12月24日（周三）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20251224230034512800",
-          "source": "金十数据",
-          "ranks": [
-            29
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "多地推动国企“近亲繁殖”问题整治",
-          "url": "https://www.toutiao.com/trending/7587659753636511754/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为何不吸烟女性反而成肺癌“重灾区”",
-          "url": "https://www.toutiao.com/trending/7587431105259831350/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时36分]"
         }
       ]
     }
