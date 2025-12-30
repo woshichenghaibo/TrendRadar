@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T13:22:36.120521+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2025-12-30T14:29:36.809559+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
@@ -102,8 +102,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时17分 ~ 09时23分]"
+          "appearance_count": 9,
+          "time_info": "[01时17分 ~ 14时29分]"
         },
         {
           "title": "韩国企划财政部：韩国将于明年初公布纳入MSCI明晟发达市场指数的路线图。",
@@ -115,6 +115,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         }
       ]
     },
