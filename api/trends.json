@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T03:14:43.956901+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-01-01T04:20:37.848915+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时20分]"
         },
         {
           "title": "南亚股市收盘播报｜巴基斯坦股市2025年涨超51%，和斯里兰卡股市连续三年走强",
