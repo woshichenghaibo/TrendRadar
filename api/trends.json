@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T17:23:23.809491+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2025-12-31T18:19:58.572158+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "金十图示：2025年12月30日（周二）全球股市指数-美洲市场（收盘）",
@@ -88,9 +88,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "分析师：欧洲股市徘徊在历史高位，有望创下自2021年以来最好一年",
+          "url": "https://flash.jin10.com/detail/20251231170538082800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "巴西圣保罗证交所指数收涨0.71%，报16.2万点，2025年累计上涨大约35%。 12月30日，巴西雷亚尔兑美元涨1.74%，报5.4753雷亚尔，2025年以来累计上涨11.31%。 巴西股市将于12月31日休市。",
