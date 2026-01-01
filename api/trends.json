@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T04:21:43.058141+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-01-02T05:18:01.817146+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时18分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股指新年首日涨超0.5%",
@@ -30,8 +30,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "南亚股市收盘播报｜莫迪将按香烟长度征收消费税，印度烟草股ITC跌9.7%，巴基斯坦股市创历史新高",
@@ -44,8 +44,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时18分]"
         }
       ]
     },
@@ -61,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时18分]"
         }
       ]
     }
