@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-01T22:19:11.655113+08:00",
-  "total_titles_processed": 1519,
+  "generated_at": "2026-01-01T23:19:18.077743+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 8,
       "titles": [
+        {
+          "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
+          "url": "https://wallstreetcn.com/articles/3762416",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时16分 ~ 23时19分]"
+        },
         {
           "title": "中东股市收盘播报｜沙特股市2025年累跌将近13%，埃及股指涨超40%，土耳其里拉贬值超21%",
           "url": "https://wallstreetcn.com/livenews/3029453",
@@ -20,19 +33,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时26分 ~ 05时17分]"
-        },
-        {
-          "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
-          "url": "https://wallstreetcn.com/articles/3762416",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 22时19分]"
         },
         {
           "title": "希腊雅典证交所综合指数收跌0.01%，报2120.71点，2025年累计上涨将近44.30%。 希腊股市连续六个季度走强，并连续五年上涨。",
@@ -131,8 +131,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时48分 ~ 22时19分]"
+          "appearance_count": 14,
+          "time_info": "[11时48分 ~ 23时19分]"
         }
       ]
     }
