@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T20:37:59.032513+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-01-01T21:32:18.391253+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
@@ -60,6 +60,19 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
+          "url": "https://wallstreetcn.com/articles/3762416",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时32分]"
+        },
+        {
           "title": "南亚股市收盘播报｜巴基斯坦股市2025年涨超51%，和斯里兰卡股市连续三年走强",
           "url": "https://wallstreetcn.com/livenews/3029431",
           "source": "华尔街见闻-快讯",
@@ -71,18 +84,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时14分]"
-        },
-        {
-          "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
-          "url": "https://wallstreetcn.com/articles/3762416",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时37分]"
         },
         {
           "title": "非洲股市收盘播报｜周三（12月31日），南非富时/JSE非洲领先40可交易指数收跌0.69%，报10.8万点，大致持稳于12月24日所创历史最高位（接近11.0万点）附近。 南非股市2025年累计上涨大约46.35%，虽然屡屡遭到特朗普政府的威胁，但月线上仍然全年走高、连续四个季度走强，并连续三年上涨。",
@@ -125,11 +126,12 @@
             5,
             6,
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 20时37分]"
+          "appearance_count": 11,
+          "time_info": "[11时48分 ~ 21时32分]"
         }
       ]
     }
