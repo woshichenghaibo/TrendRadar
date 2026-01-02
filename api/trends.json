@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T21:32:02.027645+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2026-01-02T22:19:21.757123+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时22分 ~ 21时32分]"
+          "appearance_count": 10,
+          "time_info": "[17时22分 ~ 22时19分]"
         },
         {
           "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
@@ -138,7 +139,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -183,8 +184,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时23分 ~ 21时32分]"
+          "appearance_count": 30,
+          "time_info": "[00时23分 ~ 22时19分]"
         },
         {
           "title": "央视跨年晚会上的女性",
