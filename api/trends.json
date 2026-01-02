@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T06:19:01.871819+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-01-03T07:18:02.453206+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 07时18分]"
         },
         {
           "title": "金十图示：2026年01月03日（周六）全球股市指数-欧洲市场（收盘）",
@@ -29,8 +29,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 06时19分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 07时18分]"
         },
         {
           "title": "非洲股市收盘播报｜周五（1月2日），南非富时/JSE非洲领先40可交易指数收涨0.23%，至10.8万点上方，本周（四个交易日）累计下跌1.26%。",
@@ -124,8 +124,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 07时18分]"
         }
       ]
     }
