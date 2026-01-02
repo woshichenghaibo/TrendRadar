@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T07:18:38.255333+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-01-02T09:25:08.732969+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
@@ -48,12 +48,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时18分 ~ 05时18分]"
+        },
+        {
+          "title": "今日韩国股市推迟一小时开盘",
+          "url": "https://flash.jin10.com/detail/20260102073758795800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "2026年亚洲股市或温和开局",
+          "url": "https://flash.jin10.com/detail/20260102073341729800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         }
       ]
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "拒交工资遭诬告,婚姻工作全泡汤",
@@ -63,8 +85,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时25分]"
+        },
+        {
+          "title": "央视跨年晚会上的女性",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E4%B8%8A%E7%9A%84%E5%A5%B3%E6%80%A7&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
         }
       ]
     }
