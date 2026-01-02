@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T20:37:15.208643+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-01-02T21:32:02.027645+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "全球股市开门红：纳指期货涨1%，英股创新高，欧股集体走高，金银领衔贵金属反弹，伦铝站上3000美元",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时22分 ~ 20时37分]"
+          "appearance_count": 9,
+          "time_info": "[17时22分 ~ 21时32分]"
         },
         {
           "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
@@ -132,6 +132,17 @@
           "time_info": "15时22分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-02）",
+          "url": "https://flash.jin10.com/detail/20260102210040946800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "今日韩国股市推迟一小时开盘",
           "url": "https://flash.jin10.com/detail/20260102073758795800",
           "source": "金十数据",
@@ -172,8 +183,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时23分 ~ 20时37分]"
+          "appearance_count": 29,
+          "time_info": "[00时23分 ~ 21时32分]"
         },
         {
           "title": "央视跨年晚会上的女性",
