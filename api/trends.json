@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T17:22:47.514025+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-01-02T18:20:09.794596+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
@@ -36,6 +36,29 @@
           "time_info": "[00时24分 ~ 07时18分]"
         },
         {
+          "title": "全球股市开门红：纳指期货涨1%，英股创新高，欧股集体走高，金银领衔贵金属反弹，伦铝站上3000美元",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 18时20分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260102180343888800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "金十图示：2026年01月02日（周五）全球股市指数-欧洲市场（盘初）",
           "url": "https://flash.jin10.com/detail/20260102161150000800",
           "source": "金十数据",
@@ -45,17 +68,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
-        },
-        {
-          "title": "全球股市开门红：纳指期货涨1%，英股创新高，欧股集体走高，金银领衔贵金属反弹，伦铝站上3000美元",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "南亚股市收盘播报｜莫迪将按香烟长度征收消费税，印度烟草股ITC跌9.7%，巴基斯坦股市创历史新高",
@@ -157,8 +169,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时23分 ~ 17时22分]"
+          "appearance_count": 23,
+          "time_info": "[00时23分 ~ 18时20分]"
         },
         {
           "title": "央视跨年晚会上的女性",
