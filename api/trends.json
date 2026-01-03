@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T14:28:11.778419+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-01-03T15:18:08.303485+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
@@ -141,19 +141,21 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 14时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 15时18分]"
         },
         {
           "title": "2026开年第一对女性反杀",
           "url": "https://s.weibo.com/weibo?q=2026%E5%BC%80%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AF%B9%E5%A5%B3%E6%80%A7%E5%8F%8D%E6%9D%80&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 4,
+          "time_info": "[14时27分 ~ 15时18分]"
         },
         {
           "title": "用一生完成一代女性的复仇",
