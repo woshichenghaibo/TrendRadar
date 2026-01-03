@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T11:20:54.222104+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-01-03T12:31:20.134656+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
@@ -74,6 +74,19 @@
           "time_info": "[01时17分 ~ 03时12分]"
         },
         {
+          "title": "金十图示：2026年01月02日（周五）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260103084335455800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 12时31分]"
+        },
+        {
           "title": "欧洲股市在2026年首个交易日创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3029892",
           "source": "华尔街见闻-快讯",
@@ -85,18 +98,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时26分 ~ 04时20分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260103084335455800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 11时20分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）全球股市指数-美洲市场（盘初）",
@@ -138,8 +139,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 11时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 12时31分]"
         },
         {
           "title": "《罚罪2》女性角色撑起半边天",
