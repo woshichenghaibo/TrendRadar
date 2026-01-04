@@ -1,107 +1,22 @@
 {
-  "generated_at": "2026-01-04T23:17:53.425540+08:00",
-  "total_titles_processed": 1612,
+  "generated_at": "2026-01-05T00:22:25.755005+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "中东股市收盘播报｜周日（1月4日），卡塔尔证交所指数收涨0.21%，报10785.36点。 科威特证交所超级市场价格回报指数收跌0.71%，报9431.03点，逼近12月2日收盘位9370.92点，12月14日涨至9756.75点创盘中历史新高、按9715.05点创收盘历史最高以来，持续回落。",
-          "url": "https://wallstreetcn.com/livenews/3030300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时35分]"
-        },
-        {
-          "title": "A股市场将于1月5日正常开市",
-          "url": "https://www.toutiao.com/trending/7590264111125479467/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 17时18分]"
-        },
         {
           "title": "中东股市收盘播报｜沙特股市收跌超1.7%，埃及股指跌超2.2%，投资者担忧地缘政治风险",
           "url": "https://wallstreetcn.com/livenews/3030300",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 23时17分]"
-        },
-        {
-          "title": "2026年A股市场行情特征将有何变化",
-          "url": "https://www.toutiao.com/trending/7591309828417392191/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国企业高管们准备3月份前往委内瑞拉。 美国金融行业考虑在委内瑞拉投资。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3030163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "美国企业高管们准备3月份前往委内瑞拉。 美国金融行业关注委内瑞拉境内的投资。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3030163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时20分 ~ 07时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "拒交工资遭诬告,婚姻工作全泡汤",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348619&amp;topic_name=%E6%8B%92%E4%BA%A4%E5%B7%A5%E8%B5%84%E9%81%AD%E8%AF%AC%E5%91%8A%2C%E5%A9%9A%E5%A7%BB%E5%B7%A5%E4%BD%9C%E5%85%A8%E6%B3%A1%E6%B1%A4",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            21,
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 14时28分]"
+          "time_info": "00时22分"
         }
       ]
     }
