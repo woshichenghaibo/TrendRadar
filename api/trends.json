@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-04T18:18:28.089568+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-01-04T19:15:26.076625+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "中东股市收盘播报｜周日（1月4日），卡塔尔证交所指数收涨0.21%，报10785.36点。 科威特证交所超级市场价格回报指数收跌0.71%，报9431.03点，逼近12月2日收盘位9370.92点，12月14日涨至9756.75点创盘中历史新高、按9715.05点创收盘历史最高以来，持续回落。",
+          "url": "https://wallstreetcn.com/livenews/3030300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
         {
           "title": "A股市场将于1月5日正常开市",
           "url": "https://www.toutiao.com/trending/7590264111125479467/",
