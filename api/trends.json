@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T16:31:47.922336+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-01-05T17:29:42.630889+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中东股市收盘播报｜沙特股市收跌超1.7%，埃及股指跌超2.2%，投资者担忧地缘政治风险",
@@ -33,13 +33,25 @@
           "time_info": "[09时42分 ~ 13时34分]"
         },
         {
+          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
+          "url": "https://wallstreetcn.com/articles/3762525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 17时29分]"
+        },
+        {
           "title": "金十图示：2026年01月05日（周一）全球股市指数-欧洲市场（盘初）",
           "url": "https://flash.jin10.com/detail/20260105161143079800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -55,15 +67,15 @@
           "time_info": "15时27分"
         },
         {
-          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
-          "url": "https://wallstreetcn.com/articles/3762525",
+          "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
+          "url": "https://wallstreetcn.com/articles/3762526",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "17时29分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-01-05）",
