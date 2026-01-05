@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T18:22:41.306606+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-01-05T19:18:14.796643+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
@@ -26,9 +26,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
+          "url": "https://wallstreetcn.com/articles/3762525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 19时18分]"
         },
         {
           "title": "委内瑞拉现在这情况周一会对黄金和股市产生什么样的影响?",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时42分 ~ 13时34分]"
-        },
-        {
-          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
-          "url": "https://wallstreetcn.com/articles/3762525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 18时22分]"
         },
         {
           "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
@@ -117,7 +117,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
@@ -137,6 +137,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "李在明夫人感谢中国女性代表",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%A4%AB%E4%BA%BA%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E4%BB%A3%E8%A1%A8%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
         }
       ]
     }
