@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T17:29:42.630889+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-01-05T18:22:41.306606+08:00",
+  "total_titles_processed": 1447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "中东股市收盘播报｜沙特股市收跌超1.7%，埃及股指跌超2.2%，投资者担忧地缘政治风险",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 07时17分]"
+        },
+        {
+          "title": "金十图示：2026年01月05日（周一）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260105180130939800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "委内瑞拉现在这情况周一会对黄金和股市产生什么样的影响?",
@@ -41,8 +52,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 18时22分]"
+        },
+        {
+          "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
+          "url": "https://wallstreetcn.com/articles/3762526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时55分 ~ 17时29分]"
+          "time_info": "[17时29分 ~ 18时22分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）全球股市指数-欧洲市场（盘初）",
@@ -67,17 +89,6 @@
           "time_info": "15时27分"
         },
         {
-          "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
-          "url": "https://wallstreetcn.com/articles/3762526",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "金十数据整理：每日港股市场要闻速递（2026-01-05）",
           "url": "https://flash.jin10.com/detail/20260105091005739800",
           "source": "金十数据",
@@ -98,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "机构：2026年中国股市将延续涨势",
+          "url": "https://www.toutiao.com/trending/7591699571902778886/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     },
