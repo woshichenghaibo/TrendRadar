@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T09:42:23.862999+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-01-05T11:53:51.742596+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
@@ -20,24 +20,25 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
+          "title": "委内瑞拉现在这情况周一会对黄金和股市产生什么样的影响?",
+          "url": "https://www.zhihu.com/question/1990861679899209879",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时53分]"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2026-01-05）",
           "url": "https://flash.jin10.com/detail/20260105091005739800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "委内瑞拉现在这情况周一会对黄金和股市产生什么样的影响?",
-          "url": "https://www.zhihu.com/question/1990861679899209879",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         }
