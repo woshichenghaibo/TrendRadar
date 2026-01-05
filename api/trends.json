@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T12:55:19.775531+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-01-05T13:34:22.477207+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 13时34分]"
         },
         {
           "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
@@ -39,7 +39,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
