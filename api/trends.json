@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T02:30:25.312900+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-01-06T03:19:52.554704+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -48,7 +48,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         }
@@ -63,11 +63,12 @@
           "url": "https://flash.jin10.com/detail/20260106021238113800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 03时19分]"
         },
         {
           "title": "组织敲定全球最低税协议，为美国企业设立例外安排",
