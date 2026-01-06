@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T21:36:46.646131+08:00",
-  "total_titles_processed": 1949,
+  "generated_at": "2026-01-06T22:20:56.413997+08:00",
+  "total_titles_processed": 2027,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时24分 ~ 21时36分]"
+          "appearance_count": 8,
+          "time_info": "[15时24分 ~ 22时20分]"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出88.36亿元，占比0.31%；大单资金净流出202.49亿元，占比0.72%；小单资金净流入198.16亿元，占比0.71%。",
@@ -36,11 +37,12 @@
           "url": "https://wallstreetcn.com/livenews/3031704",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时20分]"
         },
         {
           "title": "亚太股市爆发",
