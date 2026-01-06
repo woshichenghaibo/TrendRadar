@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-06T17:24:57.803451+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-01-06T18:21:26.917544+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 11,
       "titles": [
+        {
+          "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
+          "url": "https://www.zhihu.com/question/1991814689013850864",
+          "source": "知乎",
+          "ranks": [
+            13,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 18时21分]"
+        },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出88.36亿元，占比0.31%；大单资金净流出202.49亿元，占比0.72%；小单资金净流入198.16亿元，占比0.71%。",
           "url": "https://flash.jin10.com/detail/20260106150624354800",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
-        },
-        {
-          "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
-          "url": "https://www.zhihu.com/question/1991814689013850864",
-          "source": "知乎",
-          "ranks": [
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 17时24分]"
         },
         {
           "title": "亚太股市爆发",
