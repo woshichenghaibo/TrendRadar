@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T19:17:24.529340+08:00",
-  "total_titles_processed": 1762,
+  "generated_at": "2026-01-06T20:39:44.717166+08:00",
+  "total_titles_processed": 1863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 19时17分]"
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 20时39分]"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出88.36亿元，占比0.31%；大单资金净流出202.49亿元，占比0.72%；小单资金净流入198.16亿元，占比0.71%。",
@@ -86,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "国防与基建支出加码 机构看好2026年欧英股市比肩美国",
+          "url": "https://flash.jin10.com/detail/20260106195233319800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "金十图示：2026年01月06日（周二）全球股市指数-欧洲市场（收盘）",
