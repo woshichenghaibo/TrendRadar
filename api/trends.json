@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T22:20:56.413997+08:00",
-  "total_titles_processed": 2027,
+  "generated_at": "2026-01-06T23:20:45.703260+08:00",
+  "total_titles_processed": 2122,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时24分 ~ 22时20分]"
+          "appearance_count": 9,
+          "time_info": "[15时24分 ~ 23时20分]"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出88.36亿元，占比0.31%；大单资金净流出202.49亿元，占比0.72%；小单资金净流入198.16亿元，占比0.71%。",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "高盛看好欧洲股市 科技与成本优化助力长期增长",
+          "url": "https://flash.jin10.com/detail/20260106230056187800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国总统特朗普称赞股市上涨。",
@@ -55,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "金十图示：2026年01月06日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260106230033267800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "金十图示：2026年01月06日（周二）全球股市指数-欧洲市场（盘初）",
