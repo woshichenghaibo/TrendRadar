@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T01:22:05.474621+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-01-07T02:28:39.323558+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时28分]"
+        },
+        {
+          "title": "12个部门联手整治股市",
+          "url": "https://www.toutiao.com/trending/7592234699129359918/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 02时28分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指涨超1.9%，首次收于11万点关口上方，贵金属概念股领跑",
@@ -31,24 +43,13 @@
           "time_info": "[00时25分 ~ 01时22分]"
         },
         {
-          "title": "12个部门联手整治股市",
-          "url": "https://www.toutiao.com/trending/7592234699129359918/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
-        },
-        {
           "title": "金十图示：2026年01月07日（周三）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260107004522566800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
         },
@@ -59,7 +60,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
         },
@@ -70,7 +71,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
         }
