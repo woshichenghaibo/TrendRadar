@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T03:15:41.860177+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-01-07T04:21:50.663846+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "12个部门联手整治股市",
@@ -26,11 +27,12 @@
           "ranks": [
             18,
             27,
-            22
+            22,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 04时21分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指涨超1.9%，首次收于11万点关口上方，贵金属概念股领跑",
