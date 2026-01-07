@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T11:28:10.118070+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-01-07T12:39:12.619056+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 11时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 12时39分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指涨超1.9%，首次收于11万点关口上方，贵金属概念股领跑",
