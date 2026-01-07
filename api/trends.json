@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T20:40:31.179167+08:00",
-  "total_titles_processed": 1926,
+  "generated_at": "2026-01-07T21:38:36.852170+08:00",
+  "total_titles_processed": 2018,
   "failed_sources": [],
   "trends": [
     {
@@ -39,6 +39,20 @@
           "time_info": "[01时21分 ~ 07时19分]"
         },
         {
+          "title": "怎么感觉全世界的股市都在创新高，发生了什么？",
+          "url": "https://www.zhihu.com/question/1991822368646067112",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 21时38分]"
+        },
+        {
           "title": "闲置资金重回股市，美股1月份收涨概率超60%",
           "url": "https://flash.jin10.com/detail/20260107160316304800",
           "source": "金十数据",
@@ -61,19 +75,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时25分 ~ 12时39分]"
-        },
-        {
-          "title": "怎么感觉全世界的股市都在创新高，发生了什么？",
-          "url": "https://www.zhihu.com/question/1991822368646067112",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 20时40分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指涨超1.9%，首次收于11万点关口上方，贵金属概念股领跑",
@@ -208,11 +209,12 @@
           "url": "https://www.zhihu.com/question/1990834310601782849",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时38分]"
         }
       ]
     }
