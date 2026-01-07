@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T06:18:54.547141+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-01-08T07:19:26.535171+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             3,
             4,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "美国股市延续跌势，道指跌幅扩大至1%。",
@@ -51,7 +52,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -80,8 +81,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时19分]"
         }
       ]
     }
