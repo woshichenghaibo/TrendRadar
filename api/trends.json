@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T03:19:40.557249+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-01-08T04:22:25.345679+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 04时22分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市跌约0.8%脱离收盘历史最高位，矿业股表现垫底",
@@ -57,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 04时22分]"
         }
       ]
     }
