@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T14:30:58.120421+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2026-01-07T15:23:46.343693+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
@@ -75,6 +75,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出633.24亿元，占比2.22%；大单资金净流出343.72亿元，占比1.2%；小单资金净流入576.26亿元，占比2.02%。",
+          "url": "https://flash.jin10.com/detail/20260107150652315800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2026-01-07）",
           "url": "https://flash.jin10.com/detail/20260107090410547800",
           "source": "金十数据",
@@ -84,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "沙特阿拉伯股市指数（TASI）在早盘交易中上涨2%。此前，沙特宣布其资本市场向所有类型的外国投资者开放。",
+          "url": "https://flash.jin10.com/detail/20260107150325846800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "英国股市涨超1.4%",
