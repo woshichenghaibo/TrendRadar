@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T17:26:39.347558+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2026-01-07T18:22:10.715202+08:00",
+  "total_titles_processed": 1702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
@@ -73,6 +73,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时22分]"
+        },
+        {
+          "title": "怎么感觉全世界的股市都在创新高，发生了什么？",
+          "url": "https://www.zhihu.com/question/1991822368646067112",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "金十图示：2026年01月07日（周三）全球股市指数-欧洲市场（收盘）",
