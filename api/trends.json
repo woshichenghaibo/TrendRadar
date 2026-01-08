@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T21:39:30.871140+08:00",
-  "total_titles_processed": 1970,
+  "generated_at": "2026-01-08T22:23:35.662672+08:00",
+  "total_titles_processed": 2061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "怎么感觉全世界的股市都在创新高，发生了什么？",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-08）",
+          "url": "https://flash.jin10.com/detail/20260108214805611800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "金十数据整理：隔日全球股市走势回顾（2026-01-08）",
