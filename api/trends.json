@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T05:19:18.488199+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-01-09T06:19:14.269386+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "希腊股市收涨约1.9%，自2010年1月以来首次站上2200点",
@@ -29,6 +29,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "金十图示：2026年01月08日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260109050958828800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "韩国方面表示，2025年12月外国对本地股市的净投资额增加1.52万亿韩元，而11月为减少13.37万亿韩元；12月外国对本地债券的净投资额增加7.89万亿韩元，而11月为增加16.25万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20260109050227552800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收跌0.9%，贵金属矿业股领跌",
