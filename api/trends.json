@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T16:28:05.623471+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2026-01-08T17:26:58.846757+08:00",
+  "total_titles_processed": 1567,
   "failed_sources": [],
   "trends": [
     {
@@ -143,6 +143,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时28分 ~ 15时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "汇丰银行：受地缘政治风险和财政债务上升影响，黄金价格或在2026年上半年触及5000美元/盎司；交易波动性水平可能较高。",
+          "url": "https://flash.jin10.com/detail/20260108171213389800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         }
       ]
     }
