@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T12:38:16.498129+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-01-08T13:23:10.634449+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -123,11 +123,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 12时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 13时23分]"
         },
         {
           "title": "骄阳似我每个女性角色都闪闪发光",
@@ -135,11 +136,12 @@
           "source": "抖音",
           "ranks": [
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 12时38分]"
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 13时23分]"
         }
       ]
     }
