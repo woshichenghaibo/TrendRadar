@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T09:26:13.250105+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2026-01-08T11:28:25.143775+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "怎么感觉全世界的股市都在创新高，发生了什么？",
@@ -40,7 +40,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -63,7 +63,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -90,13 +90,24 @@
           "time_info": "01时25分"
         },
         {
+          "title": "金十图示：2026年01月08日（周四）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20260108102536054800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "韩国财长：将制定措施鼓励对本地股市的投资。",
           "url": "https://flash.jin10.com/detail/20260108081935608800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
@@ -104,7 +115,7 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待 34 岁北大毕业高知女性何如佳在美创业却沦为「网络毒贩」？",
@@ -115,8 +126,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 09时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 11时28分]"
+        },
+        {
+          "title": "骄阳似我每个女性角色都闪闪发光",
+          "url": "https://www.douyin.com/hot/2359990",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     }
