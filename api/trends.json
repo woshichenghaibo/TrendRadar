@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T16:27:46.750849+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-01-09T17:26:26.901384+08:00",
+  "total_titles_processed": 1610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-01-09）",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -98,6 +98,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "沪指 16 连阳站稳 4100 点，市场成交额第五次突破 3 万亿大关，如何看待当下 A 股市场行情？",
+          "url": "https://www.zhihu.com/question/1992892734177039752",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "金十图示：2026年01月09日（周五）亚太市场股市指数（盘初）",
           "url": "https://flash.jin10.com/detail/20260109102523450800",
           "source": "金十数据",
@@ -134,7 +145,7 @@
     },
     {
       "keyword_group": "国企",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "近180亿元，重庆国企新年“第一签”投向先进制造业",
@@ -147,6 +158,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时39分 ~ 13时23分]"
+        },
+        {
+          "title": "智元第一、宇树第二！中国企业正主宰全球人形机器人市场",
+          "url": "https://www.cls.cn/detail/2252663",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "报告显示德国企业申请破产数量创20年来新高",
