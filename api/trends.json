@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T20:39:50.178099+08:00",
-  "total_titles_processed": 1934,
+  "generated_at": "2026-01-09T21:36:50.481529+08:00",
+  "total_titles_processed": 2036,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             13,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时26分 ~ 20时39分]"
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 21时36分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-01-09）",
