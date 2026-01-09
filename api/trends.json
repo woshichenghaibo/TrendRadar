@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T18:21:06.964009+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2026-01-09T19:18:13.072516+08:00",
+  "total_titles_processed": 1814,
   "failed_sources": [],
   "trends": [
     {
@@ -47,9 +47,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "沪指 16 连阳站稳 4100 点，市场成交额第五次突破 3 万亿大关，如何看待当下 A 股市场行情？",
+          "url": "https://www.zhihu.com/question/1992892734177039752",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 19时18分]"
         },
         {
           "title": "希腊股市收涨约1.9%，自2010年1月以来首次站上2200点",
@@ -62,18 +74,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时25分]"
-        },
-        {
-          "title": "沪指 16 连阳站稳 4100 点，市场成交额第五次突破 3 万亿大关，如何看待当下 A 股市场行情？",
-          "url": "https://www.zhihu.com/question/1992892734177039752",
-          "source": "知乎",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 18时21分]"
         },
         {
           "title": "金十图示：2026年01月08日（周四）全球股市指数-美洲市场（收盘）",
@@ -168,8 +168,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 19时18分]"
         },
         {
           "title": "近180亿元，重庆国企新年“第一签”投向先进制造业",
