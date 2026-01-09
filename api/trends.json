@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T17:26:26.901384+08:00",
-  "total_titles_processed": 1610,
+  "generated_at": "2026-01-09T18:21:06.964009+08:00",
+  "total_titles_processed": 1705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-01-09）",
@@ -41,6 +41,17 @@
           "time_info": "15时24分"
         },
         {
+          "title": "金十图示：2026年01月09日（周五）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260109180517729800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "希腊股市收涨约1.9%，自2010年1月以来首次站上2200点",
           "url": "https://wallstreetcn.com/livenews/3033455",
           "source": "华尔街见闻-快讯",
@@ -51,6 +62,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时25分]"
+        },
+        {
+          "title": "沪指 16 连阳站稳 4100 点，市场成交额第五次突破 3 万亿大关，如何看待当下 A 股市场行情？",
+          "url": "https://www.zhihu.com/question/1992892734177039752",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 18时21分]"
         },
         {
           "title": "金十图示：2026年01月08日（周四）全球股市指数-美洲市场（收盘）",
@@ -98,17 +121,6 @@
           "time_info": "06时19分"
         },
         {
-          "title": "沪指 16 连阳站稳 4100 点，市场成交额第五次突破 3 万亿大关，如何看待当下 A 股市场行情？",
-          "url": "https://www.zhihu.com/question/1992892734177039752",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
           "title": "金十图示：2026年01月09日（周五）亚太市场股市指数（盘初）",
           "url": "https://flash.jin10.com/detail/20260109102523450800",
           "source": "金十数据",
@@ -148,6 +160,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "智元第一、宇树第二！中国企业正主宰全球人形机器人市场",
+          "url": "https://www.cls.cn/detail/2252663",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 18时21分]"
+        },
+        {
           "title": "近180亿元，重庆国企新年“第一签”投向先进制造业",
           "url": "https://wallstreetcn.com/livenews/3033733",
           "source": "华尔街见闻-快讯",
@@ -158,17 +182,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时39分 ~ 13时23分]"
-        },
-        {
-          "title": "智元第一、宇树第二！中国企业正主宰全球人形机器人市场",
-          "url": "https://www.cls.cn/detail/2252663",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
         },
         {
           "title": "报告显示德国企业申请破产数量创20年来新高",
