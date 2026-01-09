@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T01:21:42.996777+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-01-10T02:28:57.444730+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收涨超0.9%，矿业股表现突出，嘉能可涨超10%领跑",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
