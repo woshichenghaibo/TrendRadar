@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-09T19:18:13.072516+08:00",
-  "total_titles_processed": 1814,
+  "generated_at": "2026-01-09T20:39:50.178099+08:00",
+  "total_titles_processed": 1934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 13,
       "titles": [
+        {
+          "title": "沪指 16 连阳站稳 4100 点，市场成交额第五次突破 3 万亿大关，如何看待当下 A 股市场行情？",
+          "url": "https://www.zhihu.com/question/1992892734177039752",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时26分 ~ 20时39分]"
+        },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-01-09）",
           "url": "https://flash.jin10.com/detail/20260109090847498800",
@@ -50,18 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
-        },
-        {
-          "title": "沪指 16 连阳站稳 4100 点，市场成交额第五次突破 3 万亿大关，如何看待当下 A 股市场行情？",
-          "url": "https://www.zhihu.com/question/1992892734177039752",
-          "source": "知乎",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 19时18分]"
         },
         {
           "title": "希腊股市收涨约1.9%，自2010年1月以来首次站上2200点",
