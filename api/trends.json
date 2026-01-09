@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T09:25:52.634860+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-01-09T11:29:07.512632+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-01-09）",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -49,7 +49,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -74,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "金十图示：2026年01月09日（周五）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20260109102523450800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收跌0.9%，贵金属矿业股领跌",
