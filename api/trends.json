@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T19:16:23.634782+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2026-01-10T20:35:36.052793+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "沪指 16 连阳站稳 4100 点，市场成交额第五次突破 3 万亿大关，如何看待当下 A 股市场行情？",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "管涛：股市汇市各有运行逻辑 近期股市走强不应简单归结为人民币升值",
+          "url": "https://flash.jin10.com/detail/20260110193648734800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "德国股市在非农日创收盘历史新高",
