@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T22:17:54.732372+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2026-01-10T23:17:56.411868+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
           "ranks": [
             6,
             13,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 22时17分]"
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 23时17分]"
         },
         {
           "title": "德国股市在非农日创收盘历史新高",
