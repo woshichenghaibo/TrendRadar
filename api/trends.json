@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-11T00:21:56.492673+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-11T01:16:14.124154+08:00",
+  "total_titles_processed": 341,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "国企",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "甘肃一国企职工长期失联被解聘",
+          "url": "https://www.toutiao.com/trending/7593688389875695662/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 01时16分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://trend.guao.de/img/news.jpg"
 }
