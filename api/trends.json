@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T13:19:58.086333+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-01-10T14:27:41.576091+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
           "ranks": [
             3,
             12,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时27分]"
         },
         {
           "title": "德国股市在非农日创收盘历史新高",
@@ -79,11 +80,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 14时27分]"
         }
       ]
     },
@@ -97,11 +99,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 14时27分]"
         }
       ]
     }
