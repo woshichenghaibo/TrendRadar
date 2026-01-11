@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T01:16:18.379491+08:00",
-  "total_titles_processed": 338,
+  "generated_at": "2026-01-12T02:25:59.600554+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "兴业证券：新兴市场股市市值与企业盈利上升空间刚刚打开",
@@ -26,8 +26,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         }
       ]
     }
