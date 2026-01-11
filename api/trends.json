@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-11T21:29:02.098392+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2026-01-11T22:18:05.357378+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 5,
       "titles": [
-        {
-          "title": "兴业证券：新兴市场股市市值与企业盈利上升空间刚刚打开",
-          "url": "https://flash.jin10.com/detail/20260111202605827800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
         {
           "title": "兴业证券王涵：中国股市市值占比还未到顶，不必担心有泡沫",
           "url": "https://wallstreetcn.com/livenews/3034661",
@@ -30,6 +19,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时23分 ~ 18时19分]"
+        },
+        {
+          "title": "兴业证券：新兴市场股市市值与企业盈利上升空间刚刚打开",
+          "url": "https://flash.jin10.com/detail/20260111202605827800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时18分]"
         },
         {
           "title": "华西证券刘郁：改革后股市最明显变化是有了下限",
@@ -60,11 +61,12 @@
           "url": "https://wallstreetcn.com/livenews/3034700",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时18分]"
         }
       ]
     },
