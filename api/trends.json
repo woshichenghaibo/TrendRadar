@@ -1,92 +1,33 @@
 {
-  "generated_at": "2026-01-11T23:18:19.373283+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-01-12T00:22:12.681093+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "兴业证券王涵：中国股市市值占比还未到顶，不必担心有泡沫",
-          "url": "https://wallstreetcn.com/livenews/3034661",
+          "title": "中东股市收盘播报｜沙特股市周日收涨1.3%，埃及股指涨约2.5%创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3034700",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            18,
-            25
+            21
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 18时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "兴业证券：新兴市场股市市值与企业盈利上升空间刚刚打开",
           "url": "https://flash.jin10.com/detail/20260111202605827800",
           "source": "金十数据",
           "ranks": [
-            4,
-            14,
-            27
+            28
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 23时18分]"
-        },
-        {
-          "title": "中东股市收盘播报｜沙特股市周日收涨1.3%，埃及股指涨约2.5%创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3034700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 23时18分]"
-        },
-        {
-          "title": "华西证券刘郁：改革后股市最明显变化是有了下限",
-          "url": "https://wallstreetcn.com/livenews/3034684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时15分]"
-        },
-        {
-          "title": "中东股市收盘播报｜周日（1月11日），卡塔尔证交所指数收涨1.11%，报11090.84点，逼近11月11日收盘位11140.77点和8月14日收盘位11648.81点。 科威特证交所超级市场价格回报指数收跌0.50%，报9396.87点，12月14日涨至9756.75点创盘中历史新高、按9715.05点创收盘历史最高以来，逐步回撤。",
-          "url": "https://wallstreetcn.com/livenews/3034700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "甘肃一国企职工长期失联被解聘",
-          "url": "https://www.toutiao.com/trending/7593688389875695662/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     }
