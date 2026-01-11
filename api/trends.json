@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T22:18:05.357378+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-01-11T23:18:19.373283+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,25 @@
           "source": "金十数据",
           "ranks": [
             4,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时18分]"
+        },
+        {
+          "title": "中东股市收盘播报｜沙特股市周日收涨1.3%，埃及股指涨约2.5%创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3034700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时18分]"
         },
         {
           "title": "华西证券刘郁：改革后股市最明显变化是有了下限",
@@ -55,18 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时15分 ~ 20时36分]"
-        },
-        {
-          "title": "中东股市收盘播报｜沙特股市周日收涨1.3%，埃及股指涨约2.5%创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3034700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时18分]"
         }
       ]
     },
