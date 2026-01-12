@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-01-13T00:24:58.806922+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-13T01:21:54.038840+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "非洲股市收盘播报｜南非股市涨2%创收盘历史新高，金银矿业股领跑",
           "url": "https://wallstreetcn.com/livenews/3035448",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "金十图示：2026年01月13日（周二）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260113004534613800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时21分"
+        },
+        {
+          "title": "德国股市再创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3035465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         }
       ]
     }
