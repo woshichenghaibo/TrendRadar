@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T14:33:24.864464+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-01-12T15:25:48.285751+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-01-12）",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出346.98亿元，占比0.96%；大单资金净流出357.37亿元，占比0.99%；小单资金净流入442.17亿元，占比1.23%。",
+          "url": "https://flash.jin10.com/detail/20260112150637530800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "金十数据整理：上周五全球股市走势回顾（2026-01-12）",
