@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T21:41:32.424196+08:00",
-  "total_titles_processed": 1702,
+  "generated_at": "2026-01-12T22:23:40.982594+08:00",
+  "total_titles_processed": 1765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金十图示：2026年01月12日（周一）全球股市指数-欧洲市场（盘初）",
@@ -85,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-12）",
+          "url": "https://flash.jin10.com/detail/20260112214500163800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "金十数据整理：上周五全球股市走势回顾（2026-01-12）",
