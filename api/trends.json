@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T22:23:38.978998+08:00",
-  "total_titles_processed": 2022,
+  "generated_at": "2026-01-13T23:23:39.955753+08:00",
+  "total_titles_processed": 2131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "金十图示：2026年01月13日（周二）全球股市指数-欧洲市场（盘初）",
@@ -98,6 +98,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "金十图示：2026年01月13日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260113230125321800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "日本经济团体联合会筒井义信：日元的疲软程度有些过度。 日本股市的上涨反映了全球趋势。",
