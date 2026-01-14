@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-01-14T07:18:33.533537+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2026-01-14T09:28:34.182353+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-01-14）",
+          "url": "https://flash.jin10.com/detail/20260114090234545800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2026-01-14）",
+          "url": "https://flash.jin10.com/detail/20260114083844716800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
         {
           "title": "金十图示：2026年01月14日（周三）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260114004522433800",
