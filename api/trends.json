@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T21:39:14.740949+08:00",
-  "total_titles_processed": 2057,
+  "generated_at": "2026-01-15T22:23:23.013704+08:00",
+  "total_titles_processed": 2152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2026年01月15日（周四）全球股市指数-欧洲市场（收盘）",
@@ -53,6 +53,17 @@
           "time_info": "16时28分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-15）",
+          "url": "https://flash.jin10.com/detail/20260115215848815800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "金十数据整理：隔日全球股市走势回顾（2026-01-15）",
           "url": "https://flash.jin10.com/detail/20260115083829124800",
           "source": "金十数据",
@@ -85,11 +96,12 @@
           "url": "https://www.douyin.com/hot/2368925",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 21时39分]"
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 22时23分]"
         },
         {
           "title": "越完美的婚姻越容不下走神",
