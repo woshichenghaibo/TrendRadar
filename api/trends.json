@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T20:40:38.365965+08:00",
-  "total_titles_processed": 1957,
+  "generated_at": "2026-01-15T21:39:14.740949+08:00",
+  "total_titles_processed": 2057,
   "failed_sources": [],
   "trends": [
     {
@@ -78,8 +78,19 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "赵孝柔发现王光明背叛婚姻",
+          "url": "https://www.douyin.com/hot/2368925",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
+        },
         {
           "title": "越完美的婚姻越容不下走神",
           "url": "https://s.weibo.com/weibo?q=%E8%B6%8A%E5%AE%8C%E7%BE%8E%E7%9A%84%E5%A9%9A%E5%A7%BB%E8%B6%8A%E5%AE%B9%E4%B8%8D%E4%B8%8B%E8%B5%B0%E7%A5%9E&t=31&band_rank=18&Refer=top",
@@ -98,7 +109,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         }
