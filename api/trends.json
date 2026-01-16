@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T18:21:47.879361+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2026-01-16T19:18:36.013601+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
@@ -74,8 +74,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 19时18分]"
         },
         {
           "title": "股市迎来央行政策利好",
@@ -95,7 +95,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
