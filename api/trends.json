@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-17T18:18:35.690919+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-01-17T19:15:53.063490+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 5,
       "titles": [
+        {
+          "title": "“新兴市场教父”：黄金已失去吸引力 中国股市上涨具备可持续性",
+          "url": "https://www.cls.cn/detail/2261030",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 19时15分]"
+        },
         {
           "title": "金十图示：2026年01月16日（周五）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260117050530478800",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时19分 ~ 09时22分]"
-        },
-        {
-          "title": "“新兴市场教父”：黄金已失去吸引力 中国股市上涨具备可持续性",
-          "url": "https://www.cls.cn/detail/2261030",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 18时18分]"
         },
         {
           "title": "金十图示：2026年01月17日（周六）全球股市指数-欧洲市场（收盘）",
