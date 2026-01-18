@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-01-18T21:27:59.141876+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-01-18T22:16:51.769503+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "股市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "巴菲特：我不知道股市下周下月明年怎么走，直到戴上格雷厄姆教给我的“眼镜”",
+          "url": "https://wallstreetcn.com/livenews/3039271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "银河证券：A股市场长牛、慢牛基础进一步夯实",
+          "url": "https://flash.jin10.com/detail/20260118180625220800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时27分]"
+        }
+      ]
+    },
     {
       "keyword_group": "国企",
       "match_count": 2,
@@ -26,30 +56,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 21时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "股市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "银河证券：A股市场长牛、慢牛基础进一步夯实",
-          "url": "https://flash.jin10.com/detail/20260118180625220800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            17,
-            29
+            30,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时27分]"
+          "time_info": "[20时35分 ~ 22时16分]"
         }
       ]
     },
