@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T02:25:10.404263+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2026-01-19T03:14:36.514007+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时14分]"
         },
         {
           "title": "巴菲特：我不知道股市下周下月明年怎么走，直到戴上格雷厄姆教给我的“眼镜”",
@@ -26,11 +27,12 @@
           "ranks": [
             9,
             14,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时14分]"
         }
       ]
     },
@@ -48,8 +50,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 03时14分]"
         }
       ]
     }
