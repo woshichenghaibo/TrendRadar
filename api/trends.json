@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T22:16:51.769503+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-01-18T23:18:23.192684+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3039271",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时18分]"
         },
         {
           "title": "银河证券：A股市场长牛、慢牛基础进一步夯实",
@@ -38,6 +39,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "国企高管夫人起诉国企高管儿子",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E9%AB%98%E7%AE%A1%E5%A4%AB%E4%BA%BA%E8%B5%B7%E8%AF%89%E5%9B%BD%E4%BC%81%E9%AB%98%E7%AE%A1%E5%84%BF%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            30,
+            24,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 23时18分]"
+        },
+        {
           "title": "女子起诉国企高管儿子不赡养",
           "url": "https://www.toutiao.com/trending/7596300460492423209/",
           "source": "今日头条",
@@ -49,19 +64,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时44分 ~ 13时22分]"
-        },
-        {
-          "title": "国企高管夫人起诉国企高管儿子",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E9%AB%98%E7%AE%A1%E5%A4%AB%E4%BA%BA%E8%B5%B7%E8%AF%89%E5%9B%BD%E4%BC%81%E9%AB%98%E7%AE%A1%E5%84%BF%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 22时16分]"
         }
       ]
     },
