@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T02:32:30.617768+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-01-21T04:11:19.248406+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 04时11分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）全球股市指数-欧洲市场（收盘）",
@@ -62,11 +62,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32423066",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 04时11分]"
         }
       ]
     }
