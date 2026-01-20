@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T20:44:19.792836+08:00",
-  "total_titles_processed": 1809,
+  "generated_at": "2026-01-20T21:45:00.161642+08:00",
+  "total_titles_processed": 1908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时32分 ~ 14时33分]"
+        },
+        {
+          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2264127",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 21时45分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）全球股市指数-欧洲市场（收盘）",
@@ -173,8 +184,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 20时44分]"
+          "appearance_count": 7,
+          "time_info": "[16时29分 ~ 21时45分]"
         },
         {
           "title": "【财政部：中国财政补贴规模远远低于一些国际机构估算】1月20日，财政部副部长廖岷在国新办新闻发布会上表示，中国财政补贴规模远远低于一些国际机构估算。中国企业的技术进步和竞争优势，靠的不是补贴，而是靠中国企业持续的研发投入，和千千万万企业家艰苦创业赢得的。",
