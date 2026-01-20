@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T19:22:22.155661+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2026-01-20T20:44:19.792836+08:00",
+  "total_titles_processed": 1809,
   "failed_sources": [],
   "trends": [
     {
@@ -169,11 +169,12 @@
           "ranks": [
             19,
             18,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 19时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 20时44分]"
         },
         {
           "title": "【财政部：中国财政补贴规模远远低于一些国际机构估算】1月20日，财政部副部长廖岷在国新办新闻发布会上表示，中国财政补贴规模远远低于一些国际机构估算。中国企业的技术进步和竞争优势，靠的不是补贴，而是靠中国企业持续的研发投入，和千千万万企业家艰苦创业赢得的。",
@@ -226,11 +227,12 @@
           "ranks": [
             12,
             15,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 20时44分]"
         }
       ]
     },
