@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T13:27:10.997905+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-01-20T14:33:01.178457+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时18分 ~ 13时27分]"
+          "appearance_count": 10,
+          "time_info": "[07时18分 ~ 14时33分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-01-20）",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 12时43分]"
+        },
+        {
+          "title": "拍卖遇冷！日债抛售潮加剧、收益率迈入“4时代”，日韩股市下跌，黄金再创新高、白银震荡",
+          "url": "https://wallstreetcn.com/articles/3763645",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）全球股市指数-欧洲市场（收盘）",
