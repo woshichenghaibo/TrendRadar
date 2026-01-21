@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T07:20:31.570867+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-01-21T09:28:19.759638+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -13,11 +13,34 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 07时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 09时28分]"
+        },
+        {
+          "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
+          "url": "https://www.cls.cn/detail/2264320",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "全球股市全线下跌 金银“狂飙”再刷历史高位 | 环球市场",
+          "url": "https://www.cls.cn/detail/2264318",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "金十图示：2026年01月21日（周三）全球股市指数-欧洲市场（收盘）",
@@ -29,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-01-21）",
+          "url": "https://flash.jin10.com/detail/20260121091410973800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "美国银行调查显示基金经理对股市极度看多，但对回调准备不足",
@@ -51,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2026-01-21）",
+          "url": "https://flash.jin10.com/detail/20260121084054435800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "金十图示：2026年01月20日（周二）全球股市指数-美洲市场（收盘）",
@@ -79,8 +124,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 07时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 09时28分]"
         }
       ]
     }
