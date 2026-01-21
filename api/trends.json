@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T13:27:22.642414+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-01-21T14:33:19.677100+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 13时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 14时33分]"
         },
         {
           "title": "全球股市全线下跌 金银“狂飙”再刷历史高位 | 环球市场",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 13时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 14时33分]"
         },
         {
           "title": "韩国总统李在明：誓言要打击股市操纵行为。 韩国股市被低估。 无法对首尔综合指数作出预测。 股市出现分化是正常现象。 股市面临来自地缘政治和公司治理的风险，政治风险也是导致韩国股市折价的原因之一。 人工智能和半导体的繁荣是股市中的意外因素。 韩国股市正在走向正常化。",
@@ -170,8 +170,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 13时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 14时33分]"
         }
       ]
     }
