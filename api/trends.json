@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T04:24:19.717555+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-01-23T05:21:34.748146+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
@@ -17,8 +17,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时21分]"
+        },
+        {
+          "title": "金十图示：2026年01月22日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260123050531878800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "非洲股市收盘播报｜南非股市涨超0.5%创收盘历史新高，矿业股普跌",
