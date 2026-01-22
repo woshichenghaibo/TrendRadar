@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T15:26:09.877694+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-01-22T16:29:17.364812+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出276.62亿元，占比1.03%；大单资金净流出166.95亿元，占比0.62%；小单资金净流入295.41亿元，占比1.1%。",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时22分]"
+        },
+        {
+          "title": "金十图示：2026年01月22日（周四）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260122161404383800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收涨约0.2%，矿业股领跑",
@@ -89,7 +100,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
@@ -129,6 +140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "黄金价格再创新高背后",
+          "url": "https://www.toutiao.com/trending/7597964523915447862/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     },
@@ -141,11 +163,12 @@
           "url": "https://wallstreetcn.com/livenews/3041861",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 16时29分]"
         },
         {
           "title": "暴力行为愈发猖獗 美国企业大幅增加高管安保支出",
@@ -216,8 +239,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 15时26分]"
+          "appearance_count": 8,
+          "time_info": "[11时46分 ~ 16时29分]"
         }
       ]
     }
