@@ -1,302 +1,33 @@
 {
-  "generated_at": "2026-01-22T23:28:57.491308+08:00",
-  "total_titles_processed": 2158,
+  "generated_at": "2026-01-23T00:33:03.064884+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出276.62亿元，占比1.03%；大单资金净流出166.95亿元，占比0.62%；小单资金净流入295.41亿元，占比1.1%。",
-          "url": "https://flash.jin10.com/detail/20260122150753713800",
-          "source": "金十数据",
+          "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
+          "url": "https://wallstreetcn.com/articles/3763892",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时33分]"
         },
         {
-          "title": "金十图示：2026年01月22日（周四）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260122230711649800",
-          "source": "金十数据",
+          "title": "非洲股市收盘播报｜南非股市涨超0.5%创收盘历史新高，矿业股普跌",
+          "url": "https://wallstreetcn.com/livenews/3042185",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-01-22）",
-          "url": "https://flash.jin10.com/detail/20260122090738066800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "金十图示：2026年01月21日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260122050534372800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时22分]"
-        },
-        {
-          "title": "金十图示：2026年01月22日（周四）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260122180555077800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "金十图示：2026年01月22日（周四）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260122161404383800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-22）",
-          "url": "https://flash.jin10.com/detail/20260122214419415800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股市收涨约0.2%，矿业股领跑",
-          "url": "https://wallstreetcn.com/livenews/3041397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "金十图示：2026年01月22日（周四）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260122013811071800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "金十数据整理：隔日全球股市走势回顾（2026-01-22）",
-          "url": "https://flash.jin10.com/detail/20260122083827892800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "欧洲股市大致收平，特朗普在达沃斯淡化武力抢夺格陵兰的风险",
-          "url": "https://wallstreetcn.com/livenews/3041417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 07时23分]"
-        },
-        {
-          "title": "黄金价格会崩吗",
-          "url": "https://www.toutiao.com/trending/7597976651418308122/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            14,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 15时26分]"
-        },
-        {
-          "title": "高盛将2026年12月黄金价格预期上调500美元，至每盎司5400美元，原因是各国央行及交易所交易基金纷纷买入。",
-          "url": "https://flash.jin10.com/detail/20260122105858083800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "黄金价格再创新高背后",
-          "url": "https://www.toutiao.com/trending/7597964523915447862/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "商务部：坚决反对欧盟将部分中国企业列为高风险供应商",
-          "url": "https://wallstreetcn.com/livenews/3041861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 16时29分]"
-        },
-        {
-          "title": "北京新一轮国资国企改革蓄势待发，提速战略性重组和专业化整合",
-          "url": "https://wallstreetcn.com/livenews/3042060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "暴力行为愈发猖獗 美国企业大幅增加高管安保支出",
-          "url": "https://flash.jin10.com/detail/20260122132925945800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "马克龙称美国企图削弱和控制欧洲",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%BC%81%E5%9B%BE%E5%89%8A%E5%BC%B1%E5%92%8C%E6%8E%A7%E5%88%B6%E6%AC%A7%E6%B4%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普 贸易战",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            14,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 09时28分]"
-        },
-        {
-          "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
-          "url": "https://www.cls.cn/detail/2265774",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 15时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "博主自称“性商”第一人，教授女性吸引异性，学费最高8.8万",
-          "url": "https://news.ifeng.com/c/8q7EnUhusmu",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时46分 ~ 18时25分]"
-        },
-        {
-          "title": "「黑白颠周媛」情感付费课爆火，收入已超 2400 万元，如何评价其授课内容？切中了当代女性的哪些需求？",
-          "url": "https://www.zhihu.com/question/1997576270565828512",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 19时21分]"
+          "time_info": "00时33分"
         }
       ]
     }
