@@ -1,272 +1,22 @@
 {
-  "generated_at": "2026-01-23T23:23:39.804642+08:00",
-  "total_titles_processed": 2229,
+  "generated_at": "2026-01-24T00:27:34.288012+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 16,
+      "match_count": 1,
       "titles": [
         {
-          "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
-          "url": "https://wallstreetcn.com/articles/3763892",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时20分]"
-        },
-        {
-          "title": "金十图示：2026年01月22日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260123050531878800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-01-23）",
-          "url": "https://flash.jin10.com/detail/20260123091151896800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "金十图示：2026年01月23日（周五）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260123230934132800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "六问股市大V乱象",
-          "url": "https://www.toutiao.com/trending/7598364164817423926/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时24分]"
-        },
-        {
-          "title": "菲律宾股市指数下跌1%，至6333.92 点。",
-          "url": "https://wallstreetcn.com/livenews/3042618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-23）",
-          "url": "https://flash.jin10.com/detail/20260123215250387800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股市涨超0.5%创收盘历史新高，矿业股普跌",
-          "url": "https://wallstreetcn.com/livenews/3042185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "金十图示：2026年01月23日（周五）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260123180638646800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "明晟公司MSCI新兴市场股票指数涨1%，创历史新高，亚洲、拉美股市走高。 成分股三星电子创历史新高，带动韩国股指首次突破5000点整数位心理关口。 MSCI拉美股票指数涨1.9%，创2018年4月份以来新高；拉美/原材料指数已经在2026年迄今狂飙17%，更大范围的股票指数同期也涨12%。 MSCI发展中国家外汇指数涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3042326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "金十数据整理：隔日全球股市走势回顾（2026-01-23）",
-          "url": "https://flash.jin10.com/detail/20260123084040627800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出224.99亿元，占比0.73%；大单资金净流出211.19亿元，占比0.68%；小单资金净流入361.07亿元，占比1.17%。",
-          "url": "https://flash.jin10.com/detail/20260123150634060800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "多伦多股市指数盘中升至历史新高，超越1月19日的峰值。",
-          "url": "https://flash.jin10.com/detail/20260123014451141800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "德法意股市收涨超1%，丹麦股市涨超3.4%",
-          "url": "https://wallstreetcn.com/livenews/3042202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "欧洲股市收涨超1%",
-          "url": "https://wallstreetcn.com/livenews/3042201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "金十图示：2026年01月23日（周五）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260123004518688800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时25分 ~ 21时41分]"
-        },
-        {
-          "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3042361",
+          "title": "非洲股市收盘播报｜南非股市本周涨超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3043051",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
-          "url": "https://flash.jin10.com/detail/20260123120453959800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 13时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "2025年上海国企资产总额达32.5万亿元",
-          "url": "https://wallstreetcn.com/livenews/3042929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "美国商务部：2025年帮助美国企业赢得了2440亿美元的外国政府采购合同，而2024年这一数字为870亿美元。",
-          "url": "https://flash.jin10.com/detail/20260123190050166800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "马克龙称美国企图削弱和控制欧洲",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%BC%81%E5%9B%BE%E5%89%8A%E5%BC%B1%E5%92%8C%E6%8E%A7%E5%88%B6%E6%AC%A7%E6%B4%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "00时27分"
         }
       ]
     },
@@ -279,16 +29,11 @@
           "url": "https://search.bilibili.com/all?keyword=30%E5%B2%81%E5%A5%B3%E6%80%A7%E7%9A%84%E9%9B%86%E4%BD%93%E5%9B%B0%E6%83%91",
           "source": "bilibili 热搜",
           "ranks": [
-            20,
-            19,
-            13,
-            18,
-            26,
-            15
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时27分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         }
       ]
     }
