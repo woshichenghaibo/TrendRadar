@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T17:28:35.222171+08:00",
-  "total_titles_processed": 1675,
+  "generated_at": "2026-01-23T18:22:55.983234+08:00",
+  "total_titles_processed": 1750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
@@ -74,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "金十图示：2026年01月23日（周五）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260123180638646800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "明晟公司MSCI新兴市场股票指数涨1%，创历史新高，亚洲、拉美股市走高。 成分股三星电子创历史新高，带动韩国股指首次突破5000点整数位心理关口。 MSCI拉美股票指数涨1.9%，创2018年4月份以来新高；拉美/原材料指数已经在2026年迄今狂飙17%，更大范围的股票指数同期也涨12%。 MSCI发展中国家外汇指数涨0.15%。",
@@ -169,8 +180,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时25分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时25分 ~ 18时22分]"
         },
         {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
@@ -224,11 +235,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时22分]"
         }
       ]
     }
