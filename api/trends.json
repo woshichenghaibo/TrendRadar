@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T22:23:47.896290+08:00",
-  "total_titles_processed": 2130,
+  "generated_at": "2026-01-23T23:23:39.804642+08:00",
+  "total_titles_processed": 2229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
@@ -43,6 +43,17 @@
           "time_info": "09时25分"
         },
         {
+          "title": "金十图示：2026年01月23日（周五）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260123230934132800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "六问股市大V乱象",
           "url": "https://www.toutiao.com/trending/7598364164817423926/",
           "source": "今日头条",
@@ -71,7 +82,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -272,11 +283,12 @@
             19,
             13,
             18,
-            26
+            26,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 22时23分]"
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 23时23分]"
         }
       ]
     }
