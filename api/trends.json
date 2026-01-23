@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T19:19:34.085315+08:00",
-  "total_titles_processed": 1858,
+  "generated_at": "2026-01-23T20:41:39.391508+08:00",
+  "total_titles_processed": 1957,
   "failed_sources": [],
   "trends": [
     {
@@ -180,8 +180,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时25分 ~ 19时19分]"
+          "appearance_count": 14,
+          "time_info": "[09时25分 ~ 20时41分]"
         },
         {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
@@ -210,8 +210,19 @@
     },
     {
       "keyword_group": "国企",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "2025年上海国企资产总额达32.5万亿元",
+          "url": "https://wallstreetcn.com/livenews/3042929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
         {
           "title": "美国商务部：2025年帮助美国企业赢得了2440亿美元的外国政府采购合同，而2024年这一数字为870亿美元。",
           "url": "https://flash.jin10.com/detail/20260123190050166800",
@@ -219,7 +230,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -251,8 +262,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时19分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时41分]"
         }
       ]
     }
