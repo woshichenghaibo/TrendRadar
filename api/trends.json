@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T21:29:56.438789+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2026-01-24T22:18:07.073975+08:00",
+  "total_titles_processed": 1543,
   "failed_sources": [],
   "trends": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "30岁女性的集体困惑",
@@ -91,8 +91,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 21时29分]"
+          "appearance_count": 27,
+          "time_info": "[00时27分 ~ 22时18分]"
+        },
+        {
+          "title": "保时捷女销冠称顾客超6成是女性",
+          "url": "https://www.toutiao.com/trending/7598868634668711955/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
         }
       ]
     }
