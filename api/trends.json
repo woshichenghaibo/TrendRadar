@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T09:23:52.747333+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-01-24T11:25:36.446228+08:00",
+  "total_titles_processed": 826,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,18 @@
           "time_info": "[01时25分 ~ 02时30分]"
         },
         {
+          "title": "北交所新股市场热度高，网上冻结资金刷新纪录",
+          "url": "https://wallstreetcn.com/livenews/3043182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 11时25分]"
+        },
+        {
           "title": "新兴市场股市有望创5月以来最长连涨周数，投资者不声不响撤出美国资产",
           "url": "https://wallstreetcn.com/livenews/3043074",
           "source": "华尔街见闻-快讯",
@@ -54,17 +66,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时30分 ~ 03时23分]"
-        },
-        {
-          "title": "北交所新股市场热度高，网上冻结资金刷新纪录",
-          "url": "https://wallstreetcn.com/livenews/3043182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
         }
       ]
     },
@@ -86,8 +87,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 11时25分]"
         }
       ]
     }
