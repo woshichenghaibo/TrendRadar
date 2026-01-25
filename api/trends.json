@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T11:53:05.212057+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-01-25T12:50:58.302294+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "30岁女性的集体困惑",
@@ -22,8 +22,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 11时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 12时50分]"
         },
         {
           "title": "保时捷女销冠称顾客超6成是女性",
@@ -35,6 +35,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "保时捷销冠牟倩文称顾客超6成是女性",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E9%94%80%E5%86%A0%E7%89%9F%E5%80%A9%E6%96%87%E7%A7%B0%E9%A1%BE%E5%AE%A2%E8%B6%856%E6%88%90%E6%98%AF%E5%A5%B3%E6%80%A7",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "白银价格跟随黄金狂飙",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E8%B7%9F%E9%9A%8F%E9%BB%84%E9%87%91%E7%8B%82%E9%A3%99%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         }
       ]
     }
