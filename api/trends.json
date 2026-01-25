@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T13:27:12.249626+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-01-25T14:29:01.779979+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             11,
             12,
             22,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 13时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 14时29分]"
         },
         {
           "title": "保时捷销冠牟倩文称顾客超6成是女性",
@@ -31,11 +32,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 13时27分]"
+          "appearance_count": 5,
+          "time_info": "[12时50分 ~ 14时29分]"
         },
         {
           "title": "保时捷女销冠称顾客超6成是女性",
