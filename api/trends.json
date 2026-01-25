@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T18:19:57.795351+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-01-25T19:16:24.215479+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
           "ranks": [
             2,
             5,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 19时16分]"
         },
         {
           "title": "白银价格跟随黄金狂飙",
