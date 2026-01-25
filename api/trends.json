@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T07:18:10.965443+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-01-25T09:43:59.316633+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "30岁女性的集体困惑",
@@ -17,11 +17,23 @@
             13,
             16,
             11,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时43分]"
+        },
+        {
+          "title": "保时捷女销冠称顾客超6成是女性",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E7%A7%B0%E9%A1%BE%E5%AE%A2%E8%B6%856%E6%88%90%E6%98%AF%E5%A5%B3%E6%80%A7%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         }
       ]
     }
