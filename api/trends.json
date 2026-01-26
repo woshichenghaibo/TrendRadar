@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T15:26:17.269808+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-01-26T16:29:48.424491+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -19,13 +19,24 @@
           "time_info": "[11时55分 ~ 14时33分]"
         },
         {
+          "title": "金十图示：2026年01月26日（周一）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260126161130460800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -36,9 +47,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "MSCI调整在即，印尼股市16周来首现外资撤离",
+          "url": "https://flash.jin10.com/detail/20260126154046923800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-01-26）",
@@ -63,11 +85,27 @@
           "source": "知乎",
           "ranks": [
             6,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 15时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时55分 ~ 16时29分]"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时55分 ~ 16时29分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%。百度、小鹏汽车、快手跌超3%。 老铺黄金股价一度上涨14%，受黄金价格上涨等提振。",
@@ -79,20 +117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
-        },
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 15时26分]"
         },
         {
           "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
@@ -118,11 +142,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 15时26分]"
+          "appearance_count": 6,
+          "time_info": "[12时54分 ~ 16时29分]"
         }
       ]
     }
