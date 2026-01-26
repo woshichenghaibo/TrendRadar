@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T18:24:25.099212+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2026-01-26T19:19:44.109878+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时19分]"
         },
         {
           "title": "MSCI调整在即，印尼股市16周来首现外资撤离",
@@ -81,7 +82,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -115,8 +116,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时55分 ~ 18时24分]"
+          "appearance_count": 10,
+          "time_info": "[11时55分 ~ 19时19分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -127,11 +128,12 @@
             13,
             17,
             16,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时55分 ~ 18时24分]"
+          "appearance_count": 10,
+          "time_info": "[11时55分 ~ 19时19分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%。百度、小鹏汽车、快手跌超3%。 老铺黄金股价一度上涨14%，受黄金价格上涨等提振。",
