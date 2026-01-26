@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T09:43:54.949891+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-01-26T11:55:39.248325+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "恒生科技指数日内跌幅扩大至1%。百度、小鹏汽车、快手跌超3%。 老铺黄金股价一度上涨14%，受黄金价格上涨等提振。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -29,13 +29,46 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 05时17分]"
+        },
+        {
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
     {
       "keyword_group": "股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-01-26）",
           "url": "https://flash.jin10.com/detail/20260126091018473800",
@@ -43,7 +76,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         }
