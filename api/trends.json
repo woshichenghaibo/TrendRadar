@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T20:42:39.340195+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2026-01-26T21:42:45.834586+08:00",
+  "total_titles_processed": 1665,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
           "ranks": [
             13,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 20时42分]"
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 21时42分]"
         },
         {
           "title": "MSCI调整在即，印尼股市16周来首现外资撤离",
@@ -114,11 +115,12 @@
             9,
             7,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时55分 ~ 20时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时55分 ~ 21时42分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -186,7 +188,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         }
