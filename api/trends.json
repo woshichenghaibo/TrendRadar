@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T05:21:50.931467+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-01-27T06:20:11.543221+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2026年01月26日（周一）全球股市指数-欧洲市场（收盘）",
@@ -42,6 +42,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "金十图示：2026年01月26日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260127050542615800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
           "title": "非洲股市收盘播报｜南非股市涨2%，与涨幅前三大的成分股同创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3044099",
           "source": "华尔街见闻-快讯",
@@ -66,8 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时20分]"
         },
         {
           "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
