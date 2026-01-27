@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T12:45:15.345720+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-01-27T13:25:36.225535+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -92,7 +92,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -123,8 +123,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 13时25分]"
         },
         {
           "title": "国企董事长上门殴打他人被行拘3天",
@@ -192,11 +192,12 @@
           "ranks": [
             20,
             12,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 13时25分]"
         },
         {
           "title": "明代普通女性的真实生存状况是怎样的？",
