@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T15:26:38.079907+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-01-27T16:30:47.979089+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "韩国总统李在明表示，经济正逐步改善。将继续改进股市的不公平规则。将在住房市场采取积极措施。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时32分]"
+        },
+        {
+          "title": "金十图示：2026年01月27日（周二）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260127161133264800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "日元、通胀与股市成三重挑战，高市早苗政府面临市场大考",
@@ -103,7 +114,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -139,6 +150,18 @@
           "time_info": "[09时40分 ~ 14时31分]"
         },
         {
+          "title": "国企转让95只羊：1根毛都不能私自处理",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%BD%AC%E8%AE%A995%E5%8F%AA%E7%BE%8A%EF%BC%9A1%E6%A0%B9%E6%AF%9B%E9%83%BD%E4%B8%8D%E8%83%BD%E7%A7%81%E8%87%AA%E5%A4%84%E7%90%86",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 16时30分]"
+        },
+        {
           "title": "国企董事长上门殴打他人被行拘3天",
           "url": "https://www.toutiao.com/trending/7599503309749764139/",
           "source": "今日头条",
@@ -161,17 +184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时28分]"
-        },
-        {
-          "title": "国企转让95只羊：1根毛都不能私自处理",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%BD%AC%E8%AE%A995%E5%8F%AA%E7%BE%8A%EF%BC%9A1%E6%A0%B9%E6%AF%9B%E9%83%BD%E4%B8%8D%E8%83%BD%E7%A7%81%E8%87%AA%E5%A4%84%E7%90%86",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
         }
       ]
     },
