@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T21:45:29.050263+08:00",
-  "total_titles_processed": 1958,
+  "generated_at": "2026-01-27T22:27:59.161430+08:00",
+  "total_titles_processed": 2019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "韩国总统李在明表示，经济正逐步改善。将继续改进股市的不公平规则。将在住房市场采取积极措施。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-27）",
+          "url": "https://flash.jin10.com/detail/20260127220608508800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "金十图示：2026年01月26日（周一）全球股市指数-欧洲市场（收盘）",
@@ -157,8 +168,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 21时45分]"
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 22时27分]"
         },
         {
           "title": "国企董事长殴打他人被拘 当地通报",
@@ -187,6 +198,19 @@
           "time_info": "[02时31分 ~ 07时20分]"
         },
         {
+          "title": "多地对国企“近亲繁殖”出手了",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E5%9B%BD%E4%BC%81%E2%80%9C%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E2%80%9D%E5%87%BA%E6%89%8B%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时27分]"
+        },
+        {
           "title": "华尔街两大投行：预计美国企业盈利开始走出大型科技股独大",
           "url": "https://wallstreetcn.com/livenews/3044103",
           "source": "华尔街见闻-快讯",
@@ -197,18 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时28分]"
-        },
-        {
-          "title": "多地对国企“近亲繁殖”出手了",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E5%9B%BD%E4%BC%81%E2%80%9C%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E2%80%9D%E5%87%BA%E6%89%8B%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时45分]"
         },
         {
           "title": "多地对国企“近亲繁殖”出手",
@@ -228,7 +240,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         }
