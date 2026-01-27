@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T20:43:17.602365+08:00",
-  "total_titles_processed": 1847,
+  "generated_at": "2026-01-27T21:45:29.050263+08:00",
+  "total_titles_processed": 1958,
   "failed_sources": [],
   "trends": [
     {
@@ -133,7 +133,7 @@
     },
     {
       "keyword_group": "国企",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "国企转让95只羊：1根毛都不能私自处理",
@@ -149,6 +149,18 @@
           "time_info": "[15时26分 ~ 20时43分]"
         },
         {
+          "title": "多地对国企近亲繁殖出手了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%AF%B9%E5%9B%BD%E4%BC%81%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E5%87%BA%E6%89%8B%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时45分]"
+        },
+        {
           "title": "国企董事长殴打他人被拘 当地通报",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%AE%B4%E6%89%93%E4%BB%96%E4%BA%BA%E8%A2%AB%E6%8B%98+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -161,18 +173,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时40分 ~ 14时31分]"
-        },
-        {
-          "title": "多地对国企近亲繁殖出手了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%AF%B9%E5%9B%BD%E4%BC%81%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E5%87%BA%E6%89%8B%E4%BA%86%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时43分]"
         },
         {
           "title": "国企董事长上门殴打他人被行拘3天",
@@ -199,26 +199,38 @@
           "time_info": "[00时31分 ~ 01时28分]"
         },
         {
+          "title": "多地对国企“近亲繁殖”出手了",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E5%9B%BD%E4%BC%81%E2%80%9C%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E2%80%9D%E5%87%BA%E6%89%8B%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时45分]"
+        },
+        {
           "title": "多地对国企“近亲繁殖”出手",
           "url": "https://www.toutiao.com/trending/7599181936439164971/",
           "source": "今日头条",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
         {
-          "title": "多地对国企“近亲繁殖”出手了",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E5%9B%BD%E4%BC%81%E2%80%9C%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E2%80%9D%E5%87%BA%E6%89%8B%E4%BA%86",
-          "source": "百度热搜",
+          "title": "印度石油公司董事长：外国企业对在印度进行石油勘探表现出浓厚兴趣。",
+          "url": "https://flash.jin10.com/detail/20260127205309275800",
+          "source": "金十数据",
           "ranks": [
-            10
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "21时45分"
         }
       ]
     },
