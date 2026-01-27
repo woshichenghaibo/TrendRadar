@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T09:41:08.393018+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-01-27T11:46:28.051728+08:00",
+  "total_titles_processed": 935,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -115,6 +115,18 @@
           "time_info": "[02时31分 ~ 07时20分]"
         },
         {
+          "title": "国企董事长殴打他人被拘 当地通报",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%AE%B4%E6%89%93%E4%BB%96%E4%BA%BA%E8%A2%AB%E6%8B%98+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时46分]"
+        },
+        {
           "title": "华尔街两大投行：预计美国企业盈利开始走出大型科技股独大",
           "url": "https://wallstreetcn.com/livenews/3044103",
           "source": "华尔街见闻-快讯",
@@ -125,17 +137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时28分]"
-        },
-        {
-          "title": "国企董事长殴打他人被拘 当地通报",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%AE%B4%E6%89%93%E4%BB%96%E4%BA%BA%E8%A2%AB%E6%8B%98+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 09时41分]"
         }
       ]
     },
@@ -173,6 +174,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
+          "url": "https://www.zhihu.com/question/1998804557132690728",
+          "source": "知乎",
+          "ranks": [
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时46分]"
+        },
+        {
           "title": "明代普通女性的真实生存状况是怎样的？",
           "url": "https://www.zhihu.com/question/1996977130500748428",
           "source": "知乎",
@@ -183,17 +196,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 01时28分]"
-        },
-        {
-          "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
-          "url": "https://www.zhihu.com/question/1998804557132690728",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 09时41分]"
         }
       ]
     }
