@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T16:29:23.954577+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-01-28T17:32:34.701026+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
@@ -107,7 +107,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -181,7 +181,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -193,8 +193,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 16时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 17时32分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -206,8 +206,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 16时29分]"
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 17时32分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
@@ -227,6 +238,22 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "多地推动「人情岗」「世袭岗」整治，国企「近亲繁殖」问题为啥难以根除？",
+          "url": "https://www.zhihu.com/question/1987528523913643854",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9,
+            8,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 17时32分]"
+        },
+        {
           "title": "多地对国企“近亲繁殖”出手了",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E5%9B%BD%E4%BC%81%E2%80%9C%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E2%80%9D%E5%87%BA%E6%89%8B%E4%BA%86",
           "source": "百度热搜",
@@ -243,21 +270,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 09时27分]"
-        },
-        {
-          "title": "多地推动「人情岗」「世袭岗」整治，国企「近亲繁殖」问题为啥难以根除？",
-          "url": "https://www.zhihu.com/question/1987528523913643854",
-          "source": "知乎",
-          "ranks": [
-            12,
-            9,
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 16时29分]"
         },
         {
           "title": "下一轮国企改革思路和方向明确",
@@ -295,11 +307,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%A5%B3%E6%80%A7%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时32分]"
         }
       ]
     }
