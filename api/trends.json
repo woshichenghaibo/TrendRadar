@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T15:24:39.239639+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-01-28T16:29:23.954577+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -36,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -85,7 +85,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -96,9 +96,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "金十图示：2026年01月28日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260128161430093800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-01-28）",
@@ -129,7 +140,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -151,7 +162,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -162,7 +173,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
@@ -182,8 +193,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 15时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 16时29分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -195,8 +206,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 15时24分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 16时29分]"
         },
         {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
@@ -241,11 +252,12 @@
             12,
             9,
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 16时29分]"
         },
         {
           "title": "下一轮国企改革思路和方向明确",
@@ -262,7 +274,7 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "日本一女性在同一家公司上班近70年",
@@ -277,6 +289,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 09时27分]"
+        },
+        {
+          "title": "阿富汗永久禁止女性上学",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%A5%B3%E6%80%A7%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     }
