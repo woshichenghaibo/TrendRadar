@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T21:46:40.759956+08:00",
-  "total_titles_processed": 2004,
+  "generated_at": "2026-01-28T22:27:57.918334+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -198,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-28）",
+          "url": "https://flash.jin10.com/detail/20260128213140703800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     },
@@ -238,11 +249,12 @@
           "ranks": [
             4,
             6,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 21时46分]"
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 22时27分]"
         },
         {
           "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
@@ -291,11 +303,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E8%BD%A6%E7%A5%B875%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%A5%B3%E6%80%A7%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 22时27分]"
         },
         {
           "title": "阿富汗永久禁止女性上学",
@@ -339,8 +352,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时43分 ~ 21时46分]"
+          "appearance_count": 13,
+          "time_info": "[11时43分 ~ 22时27分]"
         },
         {
           "title": "多地对国企“近亲繁殖”出手了",
