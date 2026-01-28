@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T05:27:48.342493+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-01-29T06:24:38.657821+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
@@ -61,7 +61,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -91,11 +91,12 @@
             20,
             24,
             19,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "贝加尔湖车祸75岁中国籍女性死亡",
@@ -104,11 +105,12 @@
           "ranks": [
             29,
             27,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 06时24分]"
         }
       ]
     },
@@ -126,8 +128,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时24分]"
         }
       ]
     },
@@ -143,11 +145,12 @@
             7,
             13,
             12,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时24分]"
         }
       ]
     }
