@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T20:44:17.727676+08:00",
-  "total_titles_processed": 1905,
+  "generated_at": "2026-01-28T21:46:40.759956+08:00",
+  "total_titles_processed": 2004,
   "failed_sources": [],
   "trends": [
     {
@@ -237,11 +237,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 21时46分]"
         },
         {
           "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
@@ -268,6 +269,60 @@
       ]
     },
     {
+      "keyword_group": "婚姻 女性",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "日本一女性在同一家公司上班近70年",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A5%B3%E6%80%A7%E5%9C%A8%E5%90%8C%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%B8%8A%E7%8F%AD%E8%BF%9170%E5%B9%B4%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            11,
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时27分]"
+        },
+        {
+          "title": "贝加尔湖车祸75岁中国籍女性死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E8%BD%A6%E7%A5%B875%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%A5%B3%E6%80%A7%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
+          "title": "阿富汗永久禁止女性上学",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%A5%B3%E6%80%A7%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时32分]"
+        },
+        {
+          "title": "日本一女性在同一家公司上班近70年",
+          "url": "https://www.toutiao.com/trending/7600085165348143140/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "国企",
       "match_count": 3,
       "titles": [
@@ -284,8 +339,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时43分 ~ 20时44分]"
+          "appearance_count": 12,
+          "time_info": "[11时43分 ~ 21时46分]"
         },
         {
           "title": "多地对国企“近亲繁殖”出手了",
@@ -315,49 +370,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 13时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "日本一女性在同一家公司上班近70年",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A5%B3%E6%80%A7%E5%9C%A8%E5%90%8C%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%B8%8A%E7%8F%AD%E8%BF%9170%E5%B9%B4%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            11,
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时27分]"
-        },
-        {
-          "title": "阿富汗永久禁止女性上学",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%A5%B3%E6%80%A7%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时32分]"
-        },
-        {
-          "title": "日本一女性在同一家公司上班近70年",
-          "url": "https://www.toutiao.com/trending/7600085165348143140/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         }
       ]
     }
