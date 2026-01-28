@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T22:27:57.918334+08:00",
-  "total_titles_processed": 2075,
+  "generated_at": "2026-01-28T23:31:30.882042+08:00",
+  "total_titles_processed": 2179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美元兑加元维持超过0.2%的跌幅，此前加拿大央行宣布按兵不动。 加拿大10年期国债收益率短线从3.418%拉升至3.427%，刷新日高；两年期加债收益率也从2.585%上方拉升至2.595%，转而刷新日高。 加拿大股市休市。",
+          "url": "https://wallstreetcn.com/livenews/3045669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "印尼股市恢复交易，下跌8.2%。",
@@ -167,6 +178,17 @@
           "time_info": "15时24分"
         },
         {
+          "title": "金十图示：2026年01月28日（周三）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260128230029536800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "金十数据整理：隔日全球股市走势回顾（2026-01-28）",
           "url": "https://flash.jin10.com/detail/20260128084208140800",
           "source": "金十数据",
@@ -206,7 +228,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         }
@@ -250,11 +272,12 @@
             4,
             6,
             29,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 22时27分]"
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 23时31分]"
         },
         {
           "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
@@ -282,7 +305,7 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "日本一女性在同一家公司上班近70年",
@@ -304,11 +327,12 @@
           "source": "微博",
           "ranks": [
             2,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时27分]"
+          "appearance_count": 3,
+          "time_info": "[21时46分 ~ 23时31分]"
         },
         {
           "title": "阿富汗永久禁止女性上学",
@@ -332,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "阿富汗女性教育到小学为止",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A5%B3%E6%80%A7%E6%95%99%E8%82%B2%E5%88%B0%E5%B0%8F%E5%AD%A6%E4%B8%BA%E6%AD%A2%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         }
       ]
     },
@@ -349,11 +384,12 @@
             8,
             4,
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时43分 ~ 22时27分]"
+          "appearance_count": 14,
+          "time_info": "[11时43分 ~ 23时31分]"
         },
         {
           "title": "多地对国企“近亲繁殖”出手了",
