@@ -1,44 +1,58 @@
 {
-  "generated_at": "2026-01-29T00:34:15.348464+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-29T01:31:19.822447+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金十图示：2026年01月29日（周四）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260129004528567800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
         {
           "title": "高盛测算，在MSCI评估市场准入情况后，印尼股市在良性情景下可能面临22亿美元的被动资金流出，在极端情景下这一数字可能高达78亿美元。",
           "url": "https://flash.jin10.com/detail/20260129003312980800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时31分]"
         },
         {
           "title": "希腊股市涨超1.4%，创2009年以来收盘新高",
           "url": "https://wallstreetcn.com/livenews/3045696",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时31分]"
         },
         {
           "title": "非洲股市收盘播报｜周三（1月28日），南非富时/JSE非洲领先40可交易指数收涨1.49%，时隔一个交易日再创收盘历史新高，逼近11.75万点。",
           "url": "https://wallstreetcn.com/livenews/3045694",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时31分]"
         }
       ]
     },
@@ -51,11 +65,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A5%B3%E6%80%A7%E6%95%99%E8%82%B2%E5%88%B0%E5%B0%8F%E5%AD%A6%E4%B8%BA%E6%AD%A2%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 00时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时31分]"
         },
         {
           "title": "贝加尔湖车祸75岁中国籍女性死亡",
@@ -79,11 +94,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 00时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时31分]"
         }
       ]
     },
@@ -96,11 +112,12 @@
           "url": "https://www.zhihu.com/question/1987528523913643854",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 00时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时31分]"
         }
       ]
     }
