@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T15:39:01.943637+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-01-29T16:36:23.000924+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "印尼股市创1998年以来最大两日跌幅",
@@ -83,7 +83,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -97,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260129161131474800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "印尼股市在市场暂停后恢复交易，跌9.6%。",
@@ -155,6 +166,18 @@
           "time_info": "[00时33分 ~ 07时24分]"
         },
         {
+          "title": "外籍女性在中国从事婚姻诈骗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E7%B1%8D%E5%A5%B3%E6%80%A7%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BB%8E%E4%BA%8B%E5%A9%9A%E5%A7%BB%E8%AF%88%E9%AA%97",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时41分 ~ 16时36分]"
+        },
+        {
           "title": "贝加尔湖车祸75岁中国籍女性死亡",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E8%BD%A6%E7%A5%B875%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%A5%B3%E6%80%A7%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -171,27 +194,16 @@
           "time_info": "[00时33分 ~ 09时48分]"
         },
         {
-          "title": "外籍女性在中国从事婚姻诈骗",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E7%B1%8D%E5%A5%B3%E6%80%A7%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BB%8E%E4%BA%8B%E5%A9%9A%E5%A7%BB%E8%AF%88%E9%AA%97",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 15时39分]"
-        },
-        {
           "title": "外籍女性婚姻诈骗团伙被打掉",
           "url": "https://www.toutiao.com/trending/7600600826655932452/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 16时36分]"
         }
       ]
     },
@@ -240,11 +252,12 @@
             21,
             23,
             22,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 15时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 16时36分]"
         }
       ]
     }
