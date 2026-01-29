@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T12:06:39.417899+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-01-29T13:42:07.448284+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -83,7 +83,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -94,7 +94,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -116,7 +116,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         }
@@ -124,7 +124,7 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "阿富汗女性教育到小学为止",
@@ -158,6 +158,49 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 09时48分]"
+        },
+        {
+          "title": "外籍女性在中国从事婚姻诈骗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E7%B1%8D%E5%A5%B3%E6%80%A7%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BB%8E%E4%BA%8B%E5%A9%9A%E5%A7%BB%E8%AF%88%E9%AA%97",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国企",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "多地推动「人情岗」「世袭岗」整治，国企「近亲繁殖」问题为啥难以根除？",
+          "url": "https://www.zhihu.com/question/1987528523913643854",
+          "source": "知乎",
+          "ranks": [
+            7,
+            13,
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时24分]"
+        },
+        {
+          "title": "多地整治国企「近亲繁殖」问题，成效如何？",
+          "url": "https://www.zhihu.com/question/1987930230648743659",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
         }
       ]
     },
@@ -175,29 +218,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 12时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "多地推动「人情岗」「世袭岗」整治，国企「近亲繁殖」问题为啥难以根除？",
-          "url": "https://www.zhihu.com/question/1987528523913643854",
-          "source": "知乎",
-          "ranks": [
-            7,
-            13,
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 13时42分]"
         }
       ]
     }
