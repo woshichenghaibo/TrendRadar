@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T19:29:29.512052+08:00",
-  "total_titles_processed": 1834,
+  "generated_at": "2026-01-29T20:52:50.572145+08:00",
+  "total_titles_processed": 1941,
   "failed_sources": [],
   "trends": [
     {
@@ -161,8 +161,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 19时29分]"
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 20时52分]"
         },
         {
           "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
@@ -171,7 +171,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -194,7 +194,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -234,11 +234,12 @@
             15,
             2,
             14,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时41分 ~ 19时29分]"
+          "appearance_count": 10,
+          "time_info": "[13时41分 ~ 20时52分]"
         },
         {
           "title": "阿富汗女性教育到小学为止",
