@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T05:24:57.190100+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-01-30T06:25:38.216783+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周三（8月6日），南非富时/JSE非洲领先40可交易指数收涨0.17%，再次创收盘历史新高，逼近11.8万点，盘初飙升至11.9万点上方创盘中历史新高，随后回吐涨幅。",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260130050649746800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         }
       ]
     },
@@ -87,8 +98,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 06时25分]"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
