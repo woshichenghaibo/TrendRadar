@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-29T09:48:57.253170+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-01-29T12:06:39.417899+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "印尼股市创1998年以来最大两日跌幅",
+          "url": "https://wallstreetcn.com/livenews/3046079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
         {
           "title": "金十图示：2026年01月29日（周四）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260129004528567800",
@@ -66,6 +77,28 @@
           "time_info": "05时27分"
         },
         {
+          "title": "印尼证券交易所：印尼金融监管机构和证券交易所将于周四格林尼治时间06:00（北京时间14:00）就近期股市发展向媒体发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260129112838901800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "印尼股市在市场暂停后恢复交易，跌9.6%。",
+          "url": "https://wallstreetcn.com/livenews/3046052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "法国股市收跌1%，意大利银行板块跌超1.6%，丹麦股指跌超1.9%",
           "url": "https://wallstreetcn.com/livenews/3045709",
           "source": "华尔街见闻-快讯",
@@ -75,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "印尼股市暴跌之际，印尼兑兑美元下跌0.5%，创10月份以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3046037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         }
       ]
     },
@@ -131,8 +175,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 09时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 12时06分]"
         }
       ]
     },
