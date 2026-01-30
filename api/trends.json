@@ -1,307 +1,33 @@
 {
-  "generated_at": "2026-01-30T23:32:02.919493+08:00",
-  "total_titles_processed": 2172,
+  "generated_at": "2026-01-31T00:36:41.848909+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 18,
+      "match_count": 2,
       "titles": [
         {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-30）",
-          "url": "https://flash.jin10.com/detail/20260130220954692800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周三（8月6日），南非富时/JSE非洲领先40可交易指数收涨0.17%，再次创收盘历史新高，逼近11.8万点，盘初飙升至11.9万点上方创盘中历史新高，随后回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3046587",
+          "title": "希腊股市本周涨2.2%，1月份涨超9.1%",
+          "url": "https://wallstreetcn.com/livenews/3047480",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "00时36分"
         },
         {
-          "title": "AI股民在股市里会如何表现",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%82%A1%E6%B0%91%E5%9C%A8%E8%82%A1%E5%B8%82%E9%87%8C%E4%BC%9A%E5%A6%82%E4%BD%95%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时54分 ~ 22时34分]"
-        },
-        {
-          "title": "金十图示：2026年01月30日（周五）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260130230020661800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
-          "title": "印尼公布更多提升股市公信力的措施。",
-          "url": "https://wallstreetcn.com/livenews/3046984",
+          "title": "非洲股市收盘播报｜南非股指重挫超4.5%，1月累计涨幅收窄至4.1%",
+          "url": "https://wallstreetcn.com/livenews/3047474",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "标普500指数维持下跌1%的状态，道指跌0.2%，纳指跌1.8%，半导体指数跌1.5%。 1月29日临近纽约中午，美国总统特朗普赞扬股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3046610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "美国总统特朗普赞扬股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3046609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "金十数据整理：隔日全球股市走势回顾（2026-01-30）",
-          "url": "https://flash.jin10.com/detail/20260130084029927800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "金十图示：2026年01月30日（周五）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260130180115106800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "全球股市触及卖出警戒线 美银警示超买风险",
-          "url": "https://flash.jin10.com/detail/20260130185211046800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "印度尼西亚经济统筹部长：总统正密切关注股市状况。重申将致力于维护市场信誉与稳定。",
-          "url": "https://wallstreetcn.com/livenews/3046980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "印尼首席经济部长：计划进行结构性转型，以减少股市中的利益冲突。",
-          "url": "https://flash.jin10.com/detail/20260130122656021800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "美国总统特朗普称赞股市上涨。",
-          "url": "https://flash.jin10.com/detail/20260130004846125800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "印尼首席经济部长：总统正在密切关注股市状况。",
-          "url": "https://flash.jin10.com/detail/20260130122347910800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "金十图示：2026年01月30日（周五）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260130004802399800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "德国股市收跌约2%",
-          "url": "https://wallstreetcn.com/livenews/3046600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "印尼经济部长：将采取措施提高股市透明度",
-          "url": "https://flash.jin10.com/detail/20260130134735266800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "金十图示：2026年01月29日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260130050649746800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时40分 ~ 16时35分]"
-        },
-        {
-          "title": "黄金价格回调开始了吗",
-          "url": "https://www.toutiao.com/trending/7600951694344405055/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            21,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时44分 ~ 18时31分]"
-        },
-        {
-          "title": "黄金价格暴跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            22,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 15时39分]"
-        },
-        {
-          "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
-          "url": "https://www.zhihu.com/question/2000353838817882383",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "黄金白银价格双双暴跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时36分]"
-        },
-        {
-          "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
-          "url": "https://wallstreetcn.com/livenews/3046568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国企业是否考虑扩大在委内瑞拉的能源投资？外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3047108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "00时36分"
         }
       ]
     }
