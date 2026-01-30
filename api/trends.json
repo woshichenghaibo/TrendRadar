@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T17:36:42.517923+08:00",
-  "total_titles_processed": 1540,
+  "generated_at": "2026-01-30T18:31:43.625654+08:00",
+  "total_titles_processed": 1657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周三（8月6日），南非富时/JSE非洲领先40可交易指数收涨0.17%，再次创收盘历史新高，逼近11.8万点，盘初飙升至11.9万点上方创盘中历史新高，随后回吐涨幅。",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "金十图示：2026年01月30日（周五）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260130180115106800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "印度尼西亚经济统筹部长：总统正密切关注股市状况。重申将致力于维护市场信誉与稳定。",
@@ -175,11 +186,12 @@
           "ranks": [
             7,
             21,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时44分 ~ 17时36分]"
+          "appearance_count": 7,
+          "time_info": "[14时44分 ~ 18时31分]"
         },
         {
           "title": "黄金价格暴跌原因",
