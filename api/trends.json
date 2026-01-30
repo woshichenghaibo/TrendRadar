@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T07:24:25.389649+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-01-30T09:49:45.608867+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周三（8月6日），南非富时/JSE非洲领先40可交易指数收涨0.17%，再次创收盘历史新高，逼近11.8万点，盘初飙升至11.9万点上方创盘中历史新高，随后回吐涨幅。",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2026-01-30）",
+          "url": "https://flash.jin10.com/detail/20260130084029927800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美国总统特朗普称赞股市上涨。",
@@ -98,8 +109,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 09时49分]"
         },
         {
           "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
@@ -108,7 +119,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
