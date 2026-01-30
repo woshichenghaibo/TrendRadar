@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T20:49:21.043729+08:00",
-  "total_titles_processed": 1883,
+  "generated_at": "2026-01-30T21:55:16.689357+08:00",
+  "total_titles_processed": 2005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周三（8月6日），南非富时/JSE非洲领先40可交易指数收涨0.17%，再次创收盘历史新高，逼近11.8万点，盘初飙升至11.9万点上方创盘中历史新高，随后回吐涨幅。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "AI股民在股市里会如何表现",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%82%A1%E6%B0%91%E5%9C%A8%E8%82%A1%E5%B8%82%E9%87%8C%E4%BC%9A%E5%A6%82%E4%BD%95%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
         },
         {
           "title": "印尼公布更多提升股市公信力的措施。",
