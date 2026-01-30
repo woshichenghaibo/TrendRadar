@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T16:35:54.326304+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2026-01-30T17:36:42.517923+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
@@ -169,6 +169,19 @@
           "time_info": "[00时40分 ~ 16时35分]"
         },
         {
+          "title": "黄金价格回调开始了吗",
+          "url": "https://www.toutiao.com/trending/7600951694344405055/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时44分 ~ 17时36分]"
+        },
+        {
           "title": "黄金价格暴跌原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -194,27 +207,16 @@
           "time_info": "07时24分"
         },
         {
-          "title": "黄金价格回调开始了吗",
-          "url": "https://www.toutiao.com/trending/7600951694344405055/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时44分 ~ 16时35分]"
-        },
-        {
           "title": "黄金白银价格双双暴跌原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时36分]"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
@@ -240,7 +242,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
