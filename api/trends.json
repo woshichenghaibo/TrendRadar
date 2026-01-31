@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T01:22:14.321079+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2026-02-01T02:28:44.763106+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32505648",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "男子假冒飞行员与100多名女性暧昧",
@@ -27,8 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "日本山林发现的中国籍女性已死亡数周",
@@ -38,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 02时28分]"
         }
       ]
     },
@@ -55,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时28分]"
         },
         {
           "title": "暴跌之后印尼宣布将调查股市操纵行为",
@@ -66,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时28分]"
         }
       ]
     }
