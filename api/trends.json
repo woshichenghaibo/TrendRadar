@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T03:19:53.621295+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-02-01T04:22:52.760887+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "男子假冒飞行员与100多名女性暧昧",
@@ -29,8 +29,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "日本山林发现的中国籍女性已死亡数周",
@@ -40,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 04时22分]"
         }
       ]
     },
@@ -57,19 +57,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
         },
         {
           "title": "暴跌之后印尼宣布将调查股市操纵行为",
           "url": "https://wallstreetcn.com/livenews/3047704",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
         }
       ]
     }
