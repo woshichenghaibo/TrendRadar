@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T07:20:06.126353+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-02-01T10:04:03.323214+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 10时04分]"
+        },
+        {
+          "title": "日本山林发现的中国籍女性已死亡数周",
+          "url": "https://www.toutiao.com/trending/7601433708915572779/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时20分]"
+          "time_info": "[01时21分 ~ 10时04分]"
         },
         {
           "title": "男子假冒飞行员与100多名女性暧昧",
@@ -27,22 +39,12 @@
           "ranks": [
             15,
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时20分]"
-        },
-        {
-          "title": "日本山林发现的中国籍女性已死亡数周",
-          "url": "https://www.toutiao.com/trending/7601433708915572779/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时21分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 10时04分]"
         }
       ]
     },
@@ -55,11 +57,12 @@
           "url": "https://flash.jin10.com/detail/20260131213640323800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 10时04分]"
         },
         {
           "title": "暴跌之后印尼宣布将调查股市操纵行为",
