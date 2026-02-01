@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T15:36:42.462188+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-02-01T16:29:51.592237+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 15时36分]"
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 16时29分]"
         },
         {
           "title": "安德鲁在女性身上跪爬被拍",
@@ -65,11 +65,12 @@
           "source": "微博",
           "ranks": [
             11,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 15时36分]"
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 16时29分]"
         },
         {
           "title": "安德鲁跪爬在女性上方照片曝光",
@@ -78,15 +79,15 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 16时29分]"
         }
       ]
     },
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "印尼金融监管机构官员：将启动股市操纵调查，印尼金融厅致力于资本市场改革。",
@@ -119,11 +120,12 @@
           "url": "https://flash.jin10.com/detail/20260201150604487800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 16时29分]"
         },
         {
           "title": "印度周日安排股市特别交易时段 金属股和ETF遭重创",
@@ -136,6 +138,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 14时02分]"
+        },
+        {
+          "title": "印度提高股票衍生品交易税 印度股市应声下跌",
+          "url": "https://flash.jin10.com/detail/20260201152609786800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     },
