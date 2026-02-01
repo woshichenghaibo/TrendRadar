@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T20:43:01.465760+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-02-01T21:41:58.857029+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
@@ -68,8 +68,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时36分 ~ 20时43分]"
+          "appearance_count": 8,
+          "time_info": "[15时36分 ~ 21时41分]"
         },
         {
           "title": "安德鲁在女性身上跪爬被拍",
@@ -97,8 +97,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时41分]"
         },
         {
           "title": "为什么有女性不做美甲",
@@ -106,11 +106,12 @@
           "source": "微博",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时43分]"
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 21时41分]"
         }
       ]
     },
@@ -145,6 +146,21 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
+          "title": "沙特股市因地缘政治与黄金暴跌创六月以来最大跌幅",
+          "url": "https://flash.jin10.com/detail/20260201171429390800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6,
+            18,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 21时41分]"
+        },
+        {
           "title": "贵金属巨震将如何影响股市",
           "url": "https://search.bilibili.com/all?keyword=%E8%B4%B5%E9%87%91%E5%B1%9E%E5%B7%A8%E9%9C%87%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%82%A1%E5%B8%82",
           "source": "bilibili 热搜",
@@ -154,20 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
-        },
-        {
-          "title": "沙特股市因地缘政治与黄金暴跌创六月以来最大跌幅",
-          "url": "https://flash.jin10.com/detail/20260201171429390800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时43分]"
         },
         {
           "title": "印度股市扩大跌幅，印度NIFTY50指数跌超2%，国防指数跌超8%，公有银行指数跌6%，金融服务指数、汽车指数跌2.5%，油气指数下跌2.1%。",
