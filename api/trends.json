@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T06:21:40.372427+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-02-02T07:22:17.787513+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时22分]"
         },
         {
           "title": "为什么有女性不做美甲",
@@ -26,11 +26,12 @@
           "source": "微博",
           "ranks": [
             16,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时22分]"
         },
         {
           "title": "安德鲁在女性身上跪爬被拍",
