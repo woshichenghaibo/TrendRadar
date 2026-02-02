@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T09:56:21.139059+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-02-02T12:23:59.990306+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 12时23分]"
         },
         {
           "title": "为什么有女性不做美甲",
@@ -35,6 +35,18 @@
           "time_info": "[00时26分 ~ 07时22分]"
         },
         {
+          "title": "男子冒充军人与100多名女性搞暧昧，已被检察机关提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510754",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 12时23分]"
+        },
+        {
           "title": "安德鲁在女性身上跪爬被拍",
           "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%B7%E9%B2%81%E5%9C%A8%E5%A5%B3%E6%80%A7%E8%BA%AB%E4%B8%8A%E8%B7%AA%E7%88%AC%E8%A2%AB%E6%8B%8D",
           "source": "百度热搜",
@@ -44,17 +56,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 00时27分]"
-        },
-        {
-          "title": "男子冒充军人与100多名女性搞暧昧，已被检察机关提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510754",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
         }
       ]
     },
@@ -69,7 +70,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
