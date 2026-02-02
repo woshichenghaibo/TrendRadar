@@ -1,286 +1,84 @@
 {
-  "generated_at": "2026-02-02T23:36:44.098435+08:00",
-  "total_titles_processed": 1775,
+  "generated_at": "2026-02-03T00:37:27.403950+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 12,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "非洲股市收盘播报｜周一（2月2日），南非富时/JSE非洲领先40可交易指数收跌1.16%，报11.1万点，跳空低开之后、迅速在北京时间15:08跌至10.5万点下方刷新日低，随后逐步收复失地。",
+          "url": "https://wallstreetcn.com/livenews/3048449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
         {
           "title": "韩国股市大跌触发熔断机制",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C%E8%A7%A6%E5%8F%91%E7%86%94%E6%96%AD%E6%9C%BA%E5%88%B6",
           "source": "百度热搜",
           "ranks": [
-            6,
-            7,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时48分 ~ 22时02分]"
-        },
-        {
-          "title": "金十图示：2026年02月02日（周一）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260202180650351800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "美银警告全球股市面临下行风险",
-          "url": "https://www.toutiao.com/trending/7601708244939522084/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "商品暴跌震动市场！全球股市遭遇“黑色星期一”，纳指期货跌超1%，甲骨文盘前上涨4%，现货金银“V”型反转，布油跌5%",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "市场消息：南非股市指数下跌6.1%，为2020年3月以来的最大跌幅。",
-          "url": "https://flash.jin10.com/detail/20260202151505464800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "商品暴跌震动市场！全球股市遭遇“黑色星期一”，纳指期货跌超1%，黄金股盘前大跌，印尼跌停",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 19时34分]"
-        },
-        {
-          "title": "韩国股市大跌触发熔断",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C%E8%A7%A6%E5%8F%91%E7%86%94%E6%96%AD%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时44分]"
-        },
-        {
-          "title": "金十图示：2026年02月02日（周一）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260202161136659800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出1019.98亿元，占比3.95%；大单资金净流出325.98亿元，占比1.26%；小单资金净流入688.73亿元，占比2.66%。",
-          "url": "https://flash.jin10.com/detail/20260202150705186800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "金十图示：2026年02月02日（周一）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260202230054360800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-02-02）",
-          "url": "https://flash.jin10.com/detail/20260202091829877800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "技术面与情绪压力双重夹击 金银震荡波及亚洲股市",
-          "url": "https://flash.jin10.com/detail/20260202134800970800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "安德鲁跪爬在女性上方照片曝光",
-          "url": "https://www.toutiao.com/trending/7601353892488495167/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            18,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 14时02分]"
-        },
-        {
-          "title": "为什么有女性不做美甲",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E5%A5%B3%E6%80%A7%E4%B8%8D%E5%81%9A%E7%BE%8E%E7%94%B2&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时22分]"
-        },
-        {
-          "title": "男子冒充军人与100多名女性搞暧昧，已被检察机关提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510754",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 16时40分]"
-        },
-        {
-          "title": "《飞驰人生 3》想看数破 40 万女性观众近六成，为何赛车电影会受女性青睐？",
-          "url": "https://www.zhihu.com/question/1997429712155337482",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时34分 ~ 23时36分]"
-        },
-        {
-          "title": "安德鲁在女性身上跪爬被拍",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%B7%E9%B2%81%E5%9C%A8%E5%A5%B3%E6%80%A7%E8%BA%AB%E4%B8%8A%E8%B7%AA%E7%88%AC%E8%A2%AB%E6%8B%8D",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "time_info": "00时37分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
           "url": "https://www.cls.cn/detail/2278016",
           "source": "财联社热门",
           "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 23时36分]"
-        },
-        {
-          "title": "尽管金价暴跌，德意志银行维持对黄金价格为6000美元的预测。",
-          "url": "https://flash.jin10.com/detail/20260202151209166800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
-          "url": "https://wallstreetcn.com/livenews/3048241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
+          "time_info": "00时37分"
         }
       ]
     },
     {
       "keyword_group": "国企",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国企业批评波兰拟推数字服务税",
-          "url": "https://flash.jin10.com/detail/20260202214615823800",
-          "source": "金十数据",
+          "title": "年营收超4千亿元的国企公开招聘总裁",
+          "url": "https://www.toutiao.com/trending/7601448727152607273/",
+          "source": "今日头条",
           "ranks": [
-            4
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时02分"
-        },
+          "time_info": "00时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "外交部：中方要求美国执法部门立即停止错误行径 停止对中国企业人员的无端盘查",
-          "url": "https://wallstreetcn.com/livenews/3048172",
-          "source": "华尔街见闻-快讯",
+          "title": "《飞驰人生 3》想看数破 40 万女性观众近六成，为何赛车电影会受女性青睐？",
+          "url": "https://www.zhihu.com/question/1997429712155337482",
+          "source": "知乎",
           "ranks": [
-            14,
-            29
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 16时40分]"
+          "appearance_count": 1,
+          "time_info": "00时37分"
         }
       ]
     }
