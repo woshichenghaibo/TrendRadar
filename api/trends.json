@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T12:23:59.990306+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-02-02T14:02:29.864261+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 12时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 14时02分]"
         },
         {
           "title": "为什么有女性不做美甲",
@@ -40,11 +40,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 12时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 14时02分]"
         },
         {
           "title": "安德鲁在女性身上跪爬被拍",
@@ -61,7 +62,7 @@
     },
     {
       "keyword_group": "股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-02-02）",
@@ -73,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "技术面与情绪压力双重夹击 金银震荡波及亚洲股市",
+          "url": "https://flash.jin10.com/detail/20260202134800970800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     }
