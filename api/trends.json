@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T07:22:17.787513+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-02-02T09:56:21.139059+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "安德鲁跪爬在女性上方照片曝光",
@@ -14,11 +14,12 @@
           "ranks": [
             21,
             18,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时56分]"
         },
         {
           "title": "为什么有女性不做美甲",
@@ -43,6 +44,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 00时27分]"
+        },
+        {
+          "title": "男子冒充军人与100多名女性搞暧昧，已被检察机关提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510754",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-02-02）",
+          "url": "https://flash.jin10.com/detail/20260202091829877800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     }
