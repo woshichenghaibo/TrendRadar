@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T20:54:28.942616+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-02-02T22:02:27.297170+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             7,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时48分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[15时48分 ~ 22时02分]"
         },
         {
           "title": "金十图示：2026年02月02日（周一）亚太市场股市指数（收盘）",
@@ -38,7 +39,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -176,8 +177,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 20时54分]"
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 22时02分]"
         },
         {
           "title": "安德鲁在女性身上跪爬被拍",
@@ -201,11 +202,12 @@
           "url": "https://www.cls.cn/detail/2278016",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时02分]"
         },
         {
           "title": "尽管金价暴跌，德意志银行维持对黄金价格为6000美元的预测。",
@@ -233,8 +235,19 @@
     },
     {
       "keyword_group": "国企",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美国企业批评波兰拟推数字服务税",
+          "url": "https://flash.jin10.com/detail/20260202214615823800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
         {
           "title": "外交部：中方要求美国执法部门立即停止错误行径 停止对中国企业人员的无端盘查",
           "url": "https://wallstreetcn.com/livenews/3048172",
