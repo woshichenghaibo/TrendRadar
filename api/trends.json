@@ -1,325 +1,44 @@
 {
-  "generated_at": "2026-02-03T23:46:36.879407+08:00",
-  "total_titles_processed": 1986,
+  "generated_at": "2026-02-04T00:50:43.073416+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 19,
+      "match_count": 3,
       "titles": [
         {
-          "title": "韩国股市强劲反弹 AI芯片需求推动科技巨头领涨",
-          "url": "https://flash.jin10.com/detail/20260203094652173800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "风险偏好修复 亚太股市大幅收涨",
-          "url": "https://flash.jin10.com/detail/20260203143149502800",
-          "source": "金十数据",
+          "title": "南亚股市收盘播报｜印度股市收涨超2.5%，卢比涨超1.3%，政府融资成本跌超4个基点",
+          "url": "https://wallstreetcn.com/livenews/3049161",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时47分"
+          "time_info": "00时50分"
         },
         {
-          "title": "金十图示：2026年02月03日（周二）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260203161128685800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "分析师看好印尼股市前景 称近期回调为买入良机",
-          "url": "https://flash.jin10.com/detail/20260203093851955800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "凯投宏观：韩国股市走强难以提振宏观经济",
-          "url": "https://flash.jin10.com/detail/20260203181542640800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "韩国股市大跌触发熔断机制",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C%E8%A7%A6%E5%8F%91%E7%86%94%E6%96%AD%E6%9C%BA%E5%88%B6",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时40分]"
-        },
-        {
-          "title": "大反弹！纽约期金突破4900，亚太股市齐升，韩股领涨6%，三星上涨10%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 16时34分]"
-        },
-        {
-          "title": "股市金属大反弹！纽约期金突破4900，韩股领涨亚太涨超6%，三星上涨10%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时46分 ~ 14时47分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜周一（2月2日），南非富时/JSE非洲领先40可交易指数收跌1.16%，报11.1万点，跳空低开之后、迅速在北京时间15:08跌至10.5万点下方刷新日低，随后逐步收复失地。",
-          "url": "https://wallstreetcn.com/livenews/3048449",
+          "title": "非洲股市收盘播报｜周二（2月3日），南非富时/JSE非洲领先40可交易指数收涨1.36%，逼近11.25万点，约翰内斯堡盘初急剧拉升，随后持续高位窄幅震荡。",
+          "url": "https://wallstreetcn.com/livenews/3049218",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            30
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时36分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
-          "title": "印度股市大涨5%，印度卢比兑美元涨超1%，此前印度与美国达成贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/3048793",
+          "title": "希腊股市创2009年以来收盘新高",
+          "url": "https://wallstreetcn.com/livenews/3049216",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "金十图示：2026年02月03日（周二）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260203230021770800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "金十图示：2026年02月03日（周二）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260203180119779800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "意大利银行板块涨1.8%，和英国股市创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3048465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "欧洲股市收高 斯托克600指数创下收盘新高",
-          "url": "https://flash.jin10.com/detail/20260203005846832800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "欧洲股市创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3048464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "金十图示：2026年02月03日（周二）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260203004547510800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流入144.00亿元，占比0.57%；大单资金净流出20.40亿元，占比0.08%；小单资金净流入129.24亿元，占比0.51%。",
-          "url": "https://flash.jin10.com/detail/20260203150612590800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "韩国股市因芯片制造商带动反弹",
-          "url": "https://wallstreetcn.com/livenews/3048836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
-          "title": "美联储巴尔金：需求集中，易受股市下跌影响。",
-          "url": "https://flash.jin10.com/detail/20260203210517896800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "李玉导演：作为女性导演，更需要清楚表达的底线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32513853",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            19,
-            17,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时26分 ~ 16时34分]"
-        },
-        {
-          "title": "陕西一医院直播做手术，疑似暴露女性患者隐私部位，医院违反了哪些规定？能在公共平台直播手术过程吗？",
-          "url": "https://www.zhihu.com/question/2001988634123969676",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 20时54分]"
-        },
-        {
-          "title": "《飞驰人生 3》想看数破 40 万女性观众近六成，为何赛车电影会受女性青睐？",
-          "url": "https://www.zhihu.com/question/1997429712155337482",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时40分]"
-        },
-        {
-          "title": "爱泼斯坦生前采访谈到女性",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E7%94%9F%E5%89%8D%E9%87%87%E8%AE%BF%E8%B0%88%E5%88%B0%E5%A5%B3%E6%80%A7%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
-          "url": "https://www.cls.cn/detail/2278016",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 07时26分]"
-        },
-        {
-          "title": "黄金价格剧烈波动 国有六大行强化黄金投资业务风险管控",
-          "url": "https://wallstreetcn.com/livenews/3048655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "年营收超4千亿元的国企公开招聘总裁",
-          "url": "https://www.toutiao.com/trending/7601448727152607273/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时40分]"
+          "time_info": "00时50分"
         }
       ]
     }
