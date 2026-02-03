@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T19:33:19.773485+08:00",
-  "total_titles_processed": 1625,
+  "generated_at": "2026-02-03T20:54:33.272514+08:00",
+  "total_titles_processed": 1751,
   "failed_sources": [],
   "trends": [
     {
@@ -223,11 +223,12 @@
           "url": "https://www.zhihu.com/question/2001988634123969676",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时54分]"
         },
         {
           "title": "《飞驰人生 3》想看数破 40 万女性观众近六成，为何赛车电影会受女性青睐？",
