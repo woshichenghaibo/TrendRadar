@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T14:47:09.620043+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-02-03T15:41:17.539135+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "韩国股市强劲反弹 AI芯片需求推动科技巨头领涨",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -75,6 +75,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时36分]"
+        },
+        {
+          "title": "大反弹！纽约期金突破4900，亚太股市齐升，韩股领涨6%，三星上涨10%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "印度股市大涨5%，印度卢比兑美元涨超1%，此前印度与美国达成贸易协议。",
@@ -132,13 +143,24 @@
           "time_info": "01时36分"
         },
         {
+          "title": "股市资金流向图：今日沪深两市主力资金净流入144.00亿元，占比0.57%；大单资金净流出20.40亿元，占比0.08%；小单资金净流入129.24亿元，占比0.51%。",
+          "url": "https://flash.jin10.com/detail/20260203150612590800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "韩国股市因芯片制造商带动反弹",
           "url": "https://wallstreetcn.com/livenews/3048836",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         }
@@ -156,11 +178,12 @@
             16,
             19,
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时26分 ~ 14时47分]"
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 15时41分]"
         },
         {
           "title": "《飞驰人生 3》想看数破 40 万女性观众近六成，为何赛车电影会受女性青睐？",
