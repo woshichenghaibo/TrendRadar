@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T17:38:14.354815+08:00",
-  "total_titles_processed": 1427,
+  "generated_at": "2026-02-03T18:37:46.771245+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "韩国股市强劲反弹 AI芯片需求推动科技巨头领涨",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "凯投宏观：韩国股市走强难以提振宏观经济",
+          "url": "https://flash.jin10.com/detail/20260203181542640800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "韩国股市大跌触发熔断机制",
@@ -108,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "金十图示：2026年02月03日（周二）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260203180119779800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "意大利银行板块涨1.8%，和英国股市创收盘历史新高",
