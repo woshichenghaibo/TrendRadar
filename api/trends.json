@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T18:38:25.796372+08:00",
-  "total_titles_processed": 1646,
+  "generated_at": "2026-02-05T19:34:07.092375+08:00",
+  "total_titles_processed": 1744,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 01时43分]"
+        },
+        {
+          "title": "软件股恐慌蔓延至全球股市，韩股收跌3.9%，白银暴跌17%，铁矿石下探至100美元",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 19时34分]"
         },
         {
           "title": "A股市场迎来调整",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时24分]"
-        },
-        {
-          "title": "软件股恐慌蔓延至全球股市，韩股收跌3.9%，白银暴跌17%，铁矿石下探至100美元",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时38分]"
         },
         {
           "title": "希腊股市自2009年以来首次收于2400点关口上方",
@@ -83,7 +84,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -173,11 +174,12 @@
             20,
             15,
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时51分 ~ 18时38分]"
+          "appearance_count": 12,
+          "time_info": "[09时51分 ~ 19时34分]"
         }
       ]
     }
