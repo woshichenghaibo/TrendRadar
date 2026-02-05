@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T22:05:34.241486+08:00",
-  "total_titles_processed": 1986,
+  "generated_at": "2026-02-05T23:39:30.850423+08:00",
+  "total_titles_processed": 2109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周三（2月4日），南非富时/JSE非洲领先40可交易指数收涨0.31%，逼近11.28万点。",
@@ -111,6 +111,17 @@
           "time_info": "02时44分"
         },
         {
+          "title": "金十图示：2026年02月05日（周四）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260205230421252800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "2026春节股市放假时间休市安排",
           "url": "https://www.toutiao.com/trending/7602919330120695827/",
           "source": "今日头条",
@@ -147,7 +158,7 @@
     },
     {
       "keyword_group": "国企",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "曝中方要求国企暂停谈判巴拿马新项目",
@@ -159,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
+        },
+        {
+          "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1,042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
+          "url": "https://www.zhihu.com/question/2000151959752168666",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "外交部：坚决维护中国企业的正当合法权益",
@@ -187,11 +209,12 @@
             12,
             10,
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时51分 ~ 22时05分]"
+          "appearance_count": 15,
+          "time_info": "[09时51分 ~ 23时39分]"
         }
       ]
     }
