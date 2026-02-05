@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T19:34:07.092375+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2026-02-05T20:56:48.739980+08:00",
+  "total_titles_processed": 1865,
   "failed_sources": [],
   "trends": [
     {
@@ -147,8 +147,19 @@
     },
     {
       "keyword_group": "国企",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "曝中方要求国企暂停谈判巴拿马新项目",
+          "url": "https://www.toutiao.com/trending/7602856172231806470/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
         {
           "title": "外交部：坚决维护中国企业的正当合法权益",
           "url": "https://wallstreetcn.com/livenews/3050468",
@@ -178,8 +189,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 19时34分]"
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 20时56分]"
         }
       ]
     }
