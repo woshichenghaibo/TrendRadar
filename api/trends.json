@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T12:13:13.051916+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-02-05T13:54:09.657376+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周三（2月4日），南非富时/JSE非洲领先40可交易指数收涨0.31%，逼近11.28万点。",
@@ -43,6 +43,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "瑞银：预计年底全球股市将上涨约10%，建议分散配置至中国、日本和欧洲",
+          "url": "https://wallstreetcn.com/livenews/3050354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
           "title": "美国财长贝森特：我们仍然看到大量外资流入美国国债，以及巨额资金流入美国股市。",
           "url": "https://flash.jin10.com/detail/20260205014132918800",
           "source": "金十数据",
@@ -76,11 +87,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 12时13分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 13时54分]"
         }
       ]
     }
