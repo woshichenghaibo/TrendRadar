@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T05:26:05.088913+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-02-06T06:25:05.643350+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "欧洲股市收跌约1.3%",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时44分]"
+        },
+        {
+          "title": "金十图示：2026年02月05日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260206050543017800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         }
       ]
     },
@@ -33,11 +44,13 @@
             13,
             14,
             15,
-            10
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 06时25分]"
         }
       ]
     },
@@ -51,11 +64,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 06时25分]"
         }
       ]
     }
