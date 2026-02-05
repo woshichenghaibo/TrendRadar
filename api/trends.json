@@ -1,197 +1,39 @@
 {
-  "generated_at": "2026-02-05T23:39:30.850423+08:00",
-  "total_titles_processed": 2109,
+  "generated_at": "2026-02-06T00:43:49.527473+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 13,
+      "match_count": 1,
       "titles": [
         {
-          "title": "非洲股市收盘播报｜周三（2月4日），南非富时/JSE非洲领先40可交易指数收涨0.31%，逼近11.28万点。",
-          "url": "https://wallstreetcn.com/livenews/3050010",
+          "title": "欧洲股市收跌约1.3%",
+          "url": "https://wallstreetcn.com/livenews/3050796",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时43分]"
-        },
-        {
-          "title": "软件股恐慌蔓延至全球股市，韩股收跌3.9%，白银暴跌17%，铁矿石下探至100美元",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时41分 ~ 19时34分]"
-        },
-        {
-          "title": "A股市场迎来调整",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B8%82%E5%9C%BA%E8%BF%8E%E6%9D%A5%E8%B0%83%E6%95%B4%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 15时49分]"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260205050538146800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时24分]"
-        },
-        {
-          "title": "希腊股市自2009年以来首次收于2400点关口上方",
-          "url": "https://wallstreetcn.com/livenews/3049998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "金十图示：2026年02月05日（周四）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260205161131891800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "金十图示：2026年02月05日（周四）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260205180320577800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "瑞银：预计年底全球股市将上涨约10%，建议分散配置至中国、日本和欧洲",
-          "url": "https://wallstreetcn.com/livenews/3050354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "美国财长贝森特：我们仍然看到大量外资流入美国国债，以及巨额资金流入美国股市。",
-          "url": "https://flash.jin10.com/detail/20260205014132918800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "金十图示：2026年02月05日（周四）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260205230421252800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "2026春节股市放假时间休市安排",
-          "url": "https://www.toutiao.com/trending/7602919330120695827/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "美国股市延续跌势，纳指跌超2%，标普500指数跌1%。特斯拉(TSLA.O)跌幅扩大至5%。",
-          "url": "https://flash.jin10.com/detail/20260205013852825800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出836.62亿元，占比3.84%；大单资金净流出358.92亿元，占比1.65%；小单资金净流入641.92亿元，占比2.95%。",
-          "url": "https://flash.jin10.com/detail/20260205150615647800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "00时43分"
         }
       ]
     },
     {
       "keyword_group": "国企",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "曝中方要求国企暂停谈判巴拿马新项目",
-          "url": "https://www.toutiao.com/trending/7602856172231806470/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
         {
           "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1,042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
           "url": "https://www.zhihu.com/question/2000151959752168666",
           "source": "知乎",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "外交部：坚决维护中国企业的正当合法权益",
-          "url": "https://wallstreetcn.com/livenews/3050468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "00时43分"
         }
       ]
     },
@@ -204,17 +46,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32534981",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            15,
-            12,
-            10,
-            11,
-            8,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时51分 ~ 23时39分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     }
