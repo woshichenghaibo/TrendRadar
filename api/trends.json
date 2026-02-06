@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T16:38:47.059671+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2026-02-06T17:40:07.654641+08:00",
+  "total_titles_processed": 1562,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时51分 ~ 16时38分]"
+          "appearance_count": 5,
+          "time_info": "[14时51分 ~ 17时40分]"
         },
         {
           "title": "科技股抛压暂缓，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币、金银V形反弹",
@@ -60,7 +60,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
