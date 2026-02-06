@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T17:40:07.654641+08:00",
-  "total_titles_processed": 1562,
+  "generated_at": "2026-02-06T18:37:18.006487+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "科技股抛压暂缓，金银V形反弹，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币止跌",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "金十图示：2026年02月06日（周五）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260206180219517800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "欧洲股市收跌约1.3%",
