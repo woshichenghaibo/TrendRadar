@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T19:31:57.702093+08:00",
-  "total_titles_processed": 1747,
+  "generated_at": "2026-02-06T20:54:04.204081+08:00",
+  "total_titles_processed": 1871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "科技股抛压暂缓，金银V形反弹，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币止跌",
@@ -85,12 +85,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "股市下跌、美伊紧张局势持续的背景下 避险需求推动金价上涨",
+          "url": "https://flash.jin10.com/detail/20260206200753583800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
     {
       "keyword_group": "国企",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1,042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
@@ -132,6 +143,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时44分 ~ 16时38分]"
+        },
+        {
+          "title": "中方已要求国企暂停与巴拿马洽谈新项目？外交部回应",
+          "url": "https://www.cls.cn/detail/2282816",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         }
       ]
     },
