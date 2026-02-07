@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T12:07:04.626588+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-02-07T13:40:24.867342+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[07时23分 ~ 12时07分]"
         },
         {
+          "title": "特朗普：创纪录的股市得益于关税政策 道指将涨至10万点",
+          "url": "https://flash.jin10.com/detail/20260207095445721800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时40分]"
+        },
+        {
           "title": "非洲股市收盘播报｜南非股市收涨约1.4%，成分股安格鲁阿山帝黄金涨约4.7%领跑",
           "url": "https://wallstreetcn.com/livenews/3051542",
           "source": "华尔街见闻-快讯",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时40分]"
-        },
-        {
-          "title": "特朗普：创纪录的股市得益于关税政策 道指将涨至10万点",
-          "url": "https://flash.jin10.com/detail/20260207095445721800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
         },
         {
           "title": "金十图示：2026年02月07日（周六）全球股市指数-欧洲市场（收盘）",
@@ -58,7 +59,7 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "涉嫌性侵19名残障女性，韩国“色动院”负责人再被传唤",
@@ -93,6 +94,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 09时48分]"
+        },
+        {
+          "title": "超25000名30岁以上运动员参与这项大师赛！还有女性专属场地(图)",
+          "url": "https://sports.ifeng.com/c/8qXQVVY6hiw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         }
       ]
     },
