@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T22:24:35.328331+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2026-02-07T23:22:21.727735+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7604016502437580307/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时24分]"
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时22分]"
         },
         {
           "title": "巴西总统卢拉：我接受了央行自治（独立性）的理念。 我不会因为高水平的利率而哭哭啼啼的。 巴西需要经济稳定性、财政稳定性、社会稳定性、法律稳定性，以及可预见性。 我们配置3000亿巴西雷亚尔的信用措施，来刺激所有行业的活动，这使得经济实现了增长。 巴西失业率创历史最低。 巴西股市在1月份获得外国资金流入，超过了2025年的（月度）最高水平。（地方广播电台TV Aratu）",
@@ -71,7 +72,7 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "涉嫌性侵19名残障女性，韩国“色动院”负责人再被传唤",
@@ -95,6 +96,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时40分 ~ 19时20分]"
+        },
+        {
+          "title": "韩官员称“进口越南女性嫁到韩国农村”，越方抗议",
+          "url": "https://news.ifeng.com/c/8qYTTLZmfrd",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "超25000人参与！这项大师赛还有女性专属场地(图)",
