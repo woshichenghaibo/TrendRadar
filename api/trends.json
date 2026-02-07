@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T13:40:24.867342+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-02-07T14:39:02.450244+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时40分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时39分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收涨约1.4%，成分股安格鲁阿山帝黄金涨约4.7%领跑",
@@ -74,6 +75,17 @@
           "time_info": "[00时41分 ~ 07时23分]"
         },
         {
+          "title": "超25000名30岁以上运动员参与这项大师赛！还有女性专属场地(图)",
+          "url": "https://sports.ifeng.com/c/8qXQVVY6hiw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 14时39分]"
+        },
+        {
           "title": "超25000人参与！这项大师赛还有女性专属场地(图)",
           "url": "https://sports.ifeng.com/c/8qXQVVY6hiw",
           "source": "凤凰网",
@@ -94,17 +106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "超25000名30岁以上运动员参与这项大师赛！还有女性专属场地(图)",
-          "url": "https://sports.ifeng.com/c/8qXQVVY6hiw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
         }
       ]
     },
