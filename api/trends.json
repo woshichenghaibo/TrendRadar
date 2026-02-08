@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T16:30:24.100340+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-02-08T17:28:18.912434+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "韩官员称“进口越南女性嫁到韩国农村”，越方抗议",
@@ -29,8 +29,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时45分 ~ 16时30分]"
+          "appearance_count": 5,
+          "time_info": "[14时45分 ~ 17时28分]"
         },
         {
           "title": "博主：一场婚姻革命已经开始",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
+          "title": "如何看待女性占用男厕现象",
+          "url": "https://www.toutiao.com/trending/7604377479670726710/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     },
@@ -59,6 +70,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么最近黄金价格波动这么大",
+          "url": "https://www.toutiao.com/trending/7604386572770741796/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     }
