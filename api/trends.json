@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T20:43:16.643679+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-02-08T21:43:03.814814+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 20时43分]"
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 21时43分]"
         },
         {
           "title": "博主：一场婚姻革命已经开始",
@@ -81,11 +81,12 @@
           "ranks": [
             2,
             5,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 21时43分]"
         },
         {
           "title": "35岁国企女掌门受贿4900万案情披露",
@@ -93,11 +94,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时43分]"
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 21时43分]"
         }
       ]
     },
