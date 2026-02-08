@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T22:26:14.291022+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-02-08T23:24:12.685421+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             16,
             15,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时28分 ~ 22时26分]"
+          "appearance_count": 11,
+          "time_info": "[17时28分 ~ 23时24分]"
         },
         {
           "title": "餐厅用跪姿旗袍女性摆件引争议",
@@ -110,8 +111,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
+          "appearance_count": 4,
+          "time_info": "[22时25分 ~ 23时24分]"
         }
       ]
     },
