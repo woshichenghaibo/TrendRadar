@@ -1,164 +1,33 @@
 {
-  "generated_at": "2026-02-09T23:53:37.537886+08:00",
-  "total_titles_processed": 1782,
+  "generated_at": "2026-02-10T01:50:30.320065+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "机构：A股市场存在显著的春节“日历效应”，持股过节或是更优选择",
-          "url": "https://wallstreetcn.com/livenews/3051893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "金十图示：2026年02月09日（周一）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260209161252969800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "日本股市连破三道大关创下新高 显示出市场愿意暂时信任高市早苗政府",
-          "url": "https://flash.jin10.com/detail/20260209151611623800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "金十图示：2026年02月09日（周一）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260209180148422800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流入261.26亿元，占比1.16%；大单资金净流出97.90亿元，占比0.44%；小单资金净流出2.71亿元，占比0.01%。",
-          "url": "https://flash.jin10.com/detail/20260209150750142800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "金十图示：2026年02月09日（周一）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260209230204688800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "35岁国企女掌门受贿4900万案情披露",
-          "url": "https://www.baidu.com/s?wd=35%E5%B2%81%E5%9B%BD%E4%BC%81%E5%A5%B3%E6%8E%8C%E9%97%A8%E5%8F%97%E8%B4%BF4900%E4%B8%87%E6%A1%88%E6%83%85%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时28分]"
-        },
-        {
-          "title": "35岁国企女掌门受贿4900万案情披露",
-          "url": "https://www.toutiao.com/trending/7604351090494259251/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            24,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 04时24分]"
-        },
-        {
-          "title": "国企招考现场突然通知考试取消",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E6%8B%9B%E8%80%83%E7%8E%B0%E5%9C%BA%E7%AA%81%E7%84%B6%E9%80%9A%E7%9F%A5%E8%80%83%E8%AF%95%E5%8F%96%E6%B6%88%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 22时50分]"
-        },
-        {
-          "title": "美国企业对特定汽车零部件、组件及下游车辆提起337调查申请",
-          "url": "https://wallstreetcn.com/livenews/3052045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
       "match_count": 2,
       "titles": [
         {
-          "title": "如何看待女性占用男厕现象",
-          "url": "https://www.toutiao.com/trending/7604377479670726710/",
-          "source": "今日头条",
+          "title": "中道左派崩塌、自民党独大、股市狂飙，众议院选举重塑日本政经版图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32566607",
+          "source": "澎湃新闻",
           "ranks": [
-            18,
-            16,
-            17,
-            19,
-            13
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 09时58分]"
+          "appearance_count": 1,
+          "time_info": "01时50分"
         },
         {
-          "title": "郑州一餐厅回应使用跪姿旗袍女性摆件",
-          "url": "https://www.toutiao.com/trending/7604343553171111942/",
-          "source": "今日头条",
+          "title": "金十图示：2026年02月10日（周二）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260210005138098800",
+          "source": "金十数据",
           "ranks": [
-            30,
-            23
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 05时24分]"
+          "appearance_count": 1,
+          "time_info": "01时50分"
         }
       ]
     }
