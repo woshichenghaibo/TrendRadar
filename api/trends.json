@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-10T05:37:39.293107+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-02-10T06:34:09.897286+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 3,
       "titles": [
-        {
-          "title": "金十图示：2026年02月09日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260210050629741800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
         {
           "title": "中道左派崩塌、自民党独大、股市狂飙，众议院选举重塑日本政经版图",
           "url": "https://m.thepaper.cn/newsDetail_forward_32566607",
@@ -27,8 +16,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 05时37分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时34分]"
+        },
+        {
+          "title": "金十图示：2026年02月09日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260210050629741800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时34分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）全球股市指数-欧洲市场（收盘）",
