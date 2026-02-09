@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T21:03:18.221487+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2026-02-09T22:50:06.291537+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
@@ -66,7 +66,7 @@
     },
     {
       "keyword_group": "国企",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "35岁国企女掌门受贿4900万案情披露",
@@ -93,6 +93,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 04时24分]"
+        },
+        {
+          "title": "国企招考现场突然通知考试取消",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E6%8B%9B%E8%80%83%E7%8E%B0%E5%9C%BA%E7%AA%81%E7%84%B6%E9%80%9A%E7%9F%A5%E8%80%83%E8%AF%95%E5%8F%96%E6%B6%88%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 22时50分]"
         },
         {
           "title": "美国企业对特定汽车零部件、组件及下游车辆提起337调查申请",
