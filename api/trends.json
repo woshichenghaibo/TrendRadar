@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T07:28:55.375308+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-02-09T09:58:25.785977+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,12 @@
             18,
             16,
             17,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 09时58分]"
         },
         {
           "title": "郑州一餐厅回应使用跪姿旗袍女性摆件",
@@ -78,7 +79,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
