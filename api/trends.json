@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T15:56:11.313377+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-02-09T16:47:27.743590+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "机构：A股市场存在显著的春节“日历效应”，持股过节或是更优选择",
@@ -19,13 +19,24 @@
           "time_info": "07时28分"
         },
         {
+          "title": "金十图示：2026年02月09日（周一）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260209161252969800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "日本股市连破三道大关创下新高 显示出市场愿意暂时信任高市早苗政府",
           "url": "https://flash.jin10.com/detail/20260209151611623800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         }
