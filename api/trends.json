@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T16:03:48.577379+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-02-10T17:58:57.613496+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时50分 ~ 16时03分]"
+          "appearance_count": 13,
+          "time_info": "[01时50分 ~ 17时58分]"
         },
         {
           "title": "分析师：马来西亚改革有望提振股市 维持2026年底KLCI指数目标为1772点",
@@ -63,7 +63,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
