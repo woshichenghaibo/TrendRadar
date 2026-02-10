@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T07:34:44.796525+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-02-10T10:08:58.234589+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             18,
-            19
+            19,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 07时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时50分 ~ 10时08分]"
         },
         {
           "title": "金十图示：2026年02月09日（周一）全球股市指数-美洲市场（收盘）",
@@ -39,7 +40,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
