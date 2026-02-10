@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T18:57:11.298475+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-02-10T19:50:36.746105+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
           "url": "https://wallstreetcn.com/articles/3765361",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 18时57分]"
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 19时50分]"
         },
         {
           "title": "开云集团CEO：如果人工智能被证明是泡沫，美国面临的一大风险可能是股市崩盘。",
@@ -63,7 +64,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -74,7 +75,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
