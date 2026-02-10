@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T17:58:57.613496+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-02-10T18:57:11.298475+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "中道左派崩塌、自民党独大、股市狂飙，众议院选举重塑日本政经版图",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时50分 ~ 17时58分]"
+          "appearance_count": 15,
+          "time_info": "[01时50分 ~ 18时57分]"
         },
         {
           "title": "分析师：马来西亚改革有望提振股市 维持2026年底KLCI指数目标为1772点",
@@ -44,6 +44,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时34分]"
+        },
+        {
+          "title": "全球股市创历史新高，欧股奢侈品大涨，台积电夜盘涨超3%，金银下挫，美元企稳人民币走强",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "开云集团CEO：如果人工智能被证明是泡沫，美国面临的一大风险可能是股市崩盘。",
+          "url": "https://flash.jin10.com/detail/20260210180402456800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260210180156765800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "亚洲股市周二有望再度走高 追随美股科技股反弹势头",
