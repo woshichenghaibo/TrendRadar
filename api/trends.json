@@ -1,122 +1,33 @@
 {
-  "generated_at": "2026-02-11T23:59:00.298121+08:00",
-  "total_titles_processed": 1944,
+  "generated_at": "2026-02-12T01:08:20.342735+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
-          "title": "金十图示：2026年02月10日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260211050703550800",
+          "title": "金十图示：2026年02月12日（周四）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260212004533063800",
           "source": "金十数据",
           "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时37分]"
-        },
-        {
-          "title": "四张图告诉你：缘何AI巨头在美股市场上纷纷哑火？",
-          "url": "https://www.cls.cn/detail/2286766",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
-        },
-        {
-          "title": "李大霄解读日本股市大涨",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E6%97%A5%E6%9C%AC%E8%82%A1%E5%B8%82%E5%A4%A7%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "01时08分"
         },
         {
-          "title": "非洲股市收盘播报｜周二（2月10日），南非富时/JSE非洲领先40可交易指数收涨0.59%，逼近11.3万点。",
-          "url": "https://wallstreetcn.com/livenews/3053141",
+          "title": "欧洲股市创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3053870",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出528.08亿元，占比2.66%；大单资金净流出266.10亿元，占比1.34%；小单资金净流入502.29亿元，占比2.53%。",
-          "url": "https://flash.jin10.com/detail/20260211150633345800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "金十图示：2026年02月11日（周三）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260211180248490800",
-          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "MSCI降级预警致印尼股市千亿市值蒸发 国有社保基金称拟增持股票",
-          "url": "https://flash.jin10.com/detail/20260211175549841800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说的。 我认为2026年将会很棒。 重申股市应该因为好消息而上涨。",
-          "url": "https://wallstreetcn.com/livenews/3053247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "受非农就业数据超预期提振，欧洲股市延续涨势。",
-          "url": "https://flash.jin10.com/detail/20260211220245369800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "金十图示：2026年02月11日（周三）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260211161210784800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时44分"
+          "time_info": "01时08分"
         }
       ]
     }
