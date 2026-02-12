@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T05:31:42.823613+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-02-13T06:30:24.817751+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2026年02月13日（周五）全球股市指数-欧洲市场（收盘）",
@@ -23,11 +23,12 @@
           "url": "https://flash.jin10.com/detail/20260213051129222800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时30分]"
         },
         {
           "title": "美国总统特朗普宣扬股市上涨。 特朗普称，环境保护署（EPA）的行动将有助于降低汽车价格。",
@@ -40,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 04时32分]"
+        },
+        {
+          "title": "黄金和白银突遭抛售，股市大跌引发了算法卖盘",
+          "url": "https://wallstreetcn.com/livenews/3054745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         },
         {
           "title": "新兴市场外汇和股市回吐涨幅。 标普500指数跌幅扩大至1%，纳斯达克100指数跌1.5%，半导体指数跌1.51%。",
