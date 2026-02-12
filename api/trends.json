@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T02:59:31.842437+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-02-13T03:51:35.665352+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2026年02月13日（周五）全球股市指数-欧洲市场（收盘）",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "美国总统特朗普宣扬股市上涨。 特朗普称，环境保护署（EPA）的行动将有助于降低汽车价格。",
+          "url": "https://wallstreetcn.com/livenews/3054685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "非洲股市收盘播报｜周四（2月12日），南非富时/JSE非洲领先40可交易指数收涨0.35%，报11.4万点。",
