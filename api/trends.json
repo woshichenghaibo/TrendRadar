@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T22:54:26.902686+08:00",
-  "total_titles_processed": 1979,
+  "generated_at": "2026-02-13T23:40:04.195250+08:00",
+  "total_titles_processed": 2038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "金十图示：2026年02月13日（周五）全球股市指数-欧洲市场（收盘）",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 04时32分]"
+        },
+        {
+          "title": "金十图示：2026年02月13日（周五）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260213230021594800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "新兴市场外汇和股市回吐涨幅。 标普500指数跌幅扩大至1%，纳斯达克100指数跌1.5%，半导体指数跌1.51%。",
@@ -105,7 +116,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
