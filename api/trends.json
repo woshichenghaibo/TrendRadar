@@ -1,197 +1,33 @@
 {
-  "generated_at": "2026-02-13T23:40:04.195250+08:00",
-  "total_titles_processed": 2038,
+  "generated_at": "2026-02-14T00:42:38.347811+08:00",
+  "total_titles_processed": 299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 13,
+      "match_count": 2,
       "titles": [
         {
-          "title": "金十图示：2026年02月13日（周五）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260213004543785800",
-          "source": "金十数据",
+          "title": "非洲股市收盘播报｜周五（2月13日），南非富时/JSE非洲领先40可交易指数收跌1.45%，报11.3万点，本周累计上涨0.47%。 南非股市周一V形反转，至周四持续走高，周五一度完全回吐本周涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3055295",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "金十图示：2026年02月12日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260213051129222800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时30分]"
-        },
-        {
-          "title": "黄金和白银突遭抛售，股市大跌引发了算法卖盘",
-          "url": "https://wallstreetcn.com/livenews/3054745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时26分]"
-        },
-        {
-          "title": "美国总统特朗普宣扬股市上涨。 特朗普称，环境保护署（EPA）的行动将有助于降低汽车价格。",
-          "url": "https://wallstreetcn.com/livenews/3054685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 04时32分]"
+          "time_info": "00时42分"
         },
         {
           "title": "金十图示：2026年02月13日（周五）全球股市指数-美洲市场（盘初）",
           "url": "https://flash.jin10.com/detail/20260213230021594800",
           "source": "金十数据",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "新兴市场外汇和股市回吐涨幅。 标普500指数跌幅扩大至1%，纳斯达克100指数跌1.5%，半导体指数跌1.51%。",
-          "url": "https://wallstreetcn.com/livenews/3054623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "高盛将日本股市评级上调至增持。",
-          "url": "https://wallstreetcn.com/livenews/3054825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "股市“首要难题”被高盛破解了？两张表涵盖AI颠覆下的赢家与输家！",
-          "url": "https://www.cls.cn/detail/2289272",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "金十图示：2026年02月13日（周五）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260213161146578800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "美国银行：德国政府扩大开支正开始在经济数据中体现出来，应该有助于提振该国股市。",
-          "url": "https://wallstreetcn.com/livenews/3055243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周四（2月12日），南非富时/JSE非洲领先40可交易指数收涨0.35%，报11.4万点。",
-          "url": "https://wallstreetcn.com/livenews/3054614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "金十图示：2026年02月13日（周五）全球股市指数-亚太市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260213110747522800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "金十图示：2026年02月13日（周五）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260213180234647800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "澳新银行上调黄金价格预测，目前预计金价将在2026年第二季度达到5,800美元/盎司（此前预测为5,400美元/盎司）。 澳新银行表示，预计白银表现将逊于黄金，导致金银比回升至70倍。 澳新银行称，预计未来几年白银市场将供应不足，但2026年的供应缺口可能会缩小。",
-          "url": "https://wallstreetcn.com/livenews/3054896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 13时58分]"
-        },
-        {
-          "title": "澳新银行：预计黄金价格第二季度可能升至每盎司5800美元",
-          "url": "https://wallstreetcn.com/livenews/3054937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "澳新银行：上调黄金价格预测，预计黄金将在2026年第二季度触及5800美元/盎司（此前为5400美元/盎司）。",
-          "url": "https://flash.jin10.com/detail/20260213120307520800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "00时42分"
         }
       ]
     }
