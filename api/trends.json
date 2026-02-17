@@ -1,130 +1,39 @@
 {
-  "generated_at": "2026-02-17T23:51:19.903670+08:00",
-  "total_titles_processed": 1778,
+  "generated_at": "2026-02-18T00:55:00.992879+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
         {
-          "title": "非洲股市收盘播报｜周一（2月16日），南非富时/JSE非洲领先40可交易指数收涨0.28%，至11.28万点上方。",
-          "url": "https://wallstreetcn.com/livenews/3055800",
+          "title": "非洲股市收盘播报｜周二（2月17日），南非富时/JSE非洲领先40可交易指数收跌1.40%，至11.14万点下方。 现货黄金跌超2.5%，持稳于北京时间22:01刷新的日低4843.51美元附近。",
+          "url": "https://wallstreetcn.com/livenews/3056044",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            13,
-            21,
-            25
+            12
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时28分]"
-        },
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国企",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "高盛：人工智能基建热潮引爆亚洲股市，对冲基金扫货力度创近十年之最",
-          "url": "https://flash.jin10.com/detail/20260217010521987800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 03时31分]"
-        },
-        {
-          "title": "金十图示：2026年02月17日（周二）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260217004722031800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 03时31分]"
-        },
-        {
-          "title": "德国股市收跌超0.4%，丹麦股指跌约0.7%",
-          "url": "https://wallstreetcn.com/livenews/3055804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 04时28分]"
-        },
-        {
-          "title": "欧洲股市收涨超0.1%，软件公司达索系统跌超10.4%",
-          "url": "https://wallstreetcn.com/livenews/3055803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 04时28分]"
-        },
-        {
-          "title": "金十图示：2026年02月17日（周二）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260217161324383800",
+          "title": "乌克兰外长：俄罗斯故意袭击在乌克兰的美国企业。",
+          "url": "https://flash.jin10.com/detail/20260217235742971800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-02-17）",
-          "url": "https://flash.jin10.com/detail/20260217214857731800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "金十图示：2026年02月16日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260217052334485800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "金十图示：2026年02月17日（周二）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260217230049324800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "金十图示：2026年02月17日（周二）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20260217104233400800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
+          "time_info": "00时55分"
         }
       ]
     },
@@ -137,12 +46,11 @@
           "url": "https://news.ifeng.com/c/8qoybr5PROJ",
           "source": "凤凰网",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时44分 ~ 23时51分]"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         }
       ]
     }
