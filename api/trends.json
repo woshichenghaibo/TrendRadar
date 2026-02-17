@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T22:07:40.608284+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-02-17T23:51:19.903670+08:00",
+  "total_titles_processed": 1778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周一（2月16日），南非富时/JSE非洲领先40可交易指数收涨0.28%，至11.28万点上方。",
@@ -89,7 +89,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -103,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "金十图示：2026年02月17日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260217230049324800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "金十图示：2026年02月17日（周二）亚太市场股市指数（盘初）",
@@ -130,8 +141,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时44分 ~ 22时07分]"
+          "appearance_count": 5,
+          "time_info": "[19时44分 ~ 23时51分]"
         }
       ]
     }
