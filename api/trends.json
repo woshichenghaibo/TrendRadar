@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-19T15:02:40.890535+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-02-19T16:40:52.985423+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "金十图示：2026年02月19日（周四）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260219161220616800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
         {
           "title": "金十图示：2026年02月18日（周三）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260219051901394800",
@@ -55,13 +66,24 @@
           "time_info": "[13时57分 ~ 13时58分]"
         },
         {
+          "title": "地缘局势升温推高金银油，黄金站上5000美元，日韩股市收涨",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "科技股担忧暂缓，日韩股市收涨，韩股创新高，三星电子涨4%，日元走弱至154，地缘局势升温推高金银油，黄金重回5000",
           "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
