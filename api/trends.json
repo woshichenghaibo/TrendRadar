@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-19T22:12:09.484448+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2026-02-19T23:45:20.012154+08:00",
+  "total_titles_processed": 1822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 12,
       "titles": [
-        {
-          "title": "金十图示：2026年02月19日（周四）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260219161220616800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
         {
           "title": "首席展望｜融通基金李进：股市上行逻辑未破，三大驱动变量是观察核心",
           "url": "https://m.thepaper.cn/newsDetail_forward_32629219",
@@ -28,8 +17,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时40分 ~ 22时12分]"
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 23时45分]"
+        },
+        {
+          "title": "金十图示：2026年02月19日（周四）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260219161220616800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "金十图示：2026年02月19日（周四）全球股市指数-亚太市场",
