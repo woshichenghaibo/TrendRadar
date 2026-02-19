@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T19:37:18.286757+08:00",
-  "total_titles_processed": 1525,
+  "generated_at": "2026-02-19T20:59:48.830811+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
@@ -67,6 +67,18 @@
           "time_info": "[01时01分 ~ 01时56分]"
         },
         {
+          "title": "首席展望｜融通基金李进：股市上行逻辑未破，三大驱动变量是观察核心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629219",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 20时59分]"
+        },
+        {
           "title": "科技股担忧暂缓，日韩股市上涨，韩股创新高，三星电子涨5%，日元走弱至154，地缘局势升温推高金银油价",
           "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
@@ -76,17 +88,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时57分 ~ 13时58分]"
-        },
-        {
-          "title": "首席展望｜融通基金李进：股市上行逻辑未破，三大驱动变量是观察核心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629219",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 18时41分]"
         },
         {
           "title": "地缘局势升温推高金银油，黄金站上5000美元，日韩股市收涨",
