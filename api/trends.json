@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T06:29:12.566513+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-02-20T07:28:25.486773+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时28分]"
         },
         {
           "title": "非洲股市收盘播报｜周四（2月19日），南非富时/JSE非洲领先40可交易指数收跌0.60%，逼近11.35万点，全天持续走低。",
@@ -84,7 +84,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
