@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T02:47:16.523495+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-02-20T03:38:19.974822+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时38分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收跌0.6%，矿业股跌幅居前",
@@ -61,7 +61,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
         }
