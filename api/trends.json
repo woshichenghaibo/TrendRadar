@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T13:58:13.423244+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-02-19T15:02:40.890535+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金十图示：2026年02月18日（周三）全球股市指数-美洲市场（收盘）",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时57分 ~ 13时58分]"
+        },
+        {
+          "title": "科技股担忧暂缓，日韩股市收涨，韩股创新高，三星电子涨4%，日元走弱至154，地缘局势升温推高金银油，黄金重回5000",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收涨超2.7%，矿业股领跑",
