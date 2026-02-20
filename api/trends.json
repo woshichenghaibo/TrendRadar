@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T07:28:25.486773+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-02-20T09:52:27.580740+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             19,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 09时52分]"
         },
         {
           "title": "非洲股市收盘播报｜周四（2月19日），南非富时/JSE非洲领先40可交易指数收跌0.60%，逼近11.35万点，全天持续走低。",
@@ -109,6 +110,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛：若以看涨期权结构来衡量，若私营部门进一步实现多元化，那么黄金价格的预测将面临显著的上涨风险。",
+          "url": "https://flash.jin10.com/detail/20260220093805016800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         }
       ]
     }
