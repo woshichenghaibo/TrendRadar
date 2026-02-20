@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T19:30:59.101376+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2026-02-20T20:54:03.225612+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时30分]"
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 20时54分]"
         },
         {
           "title": "股市暴跌导致Atlassian亿万富翁身家缩水三分之一",
@@ -130,7 +131,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
