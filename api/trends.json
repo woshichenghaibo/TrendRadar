@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T00:26:25.672165+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-22T01:24:01.269021+08:00",
+  "total_titles_processed": 339,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260221225521006800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时24分]"
         },
         {
           "title": "报告：央国企积极入局房地产代建业务 部分企业提前布局城市更新赛道",
@@ -26,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时24分]"
         }
       ]
     },
@@ -43,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时24分]"
         }
       ]
     }
