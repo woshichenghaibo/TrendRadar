@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T06:38:53.773519+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-02-24T07:33:26.753856+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3765972",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 06时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时33分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）全球股市指数-美洲市场（收盘）",
@@ -35,11 +36,12 @@
           "url": "https://wallstreetcn.com/livenews/3057676",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时33分]"
         },
         {
           "title": "德国股市收跌约1.2%",
@@ -122,11 +124,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 06时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时33分]"
         }
       ]
     }
