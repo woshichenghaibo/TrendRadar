@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T04:41:59.706651+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-02-24T05:42:21.267023+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "韩国股市“领涨全球”的秘密武器：当总统“曾经是韭菜”",
@@ -15,8 +15,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 05时42分]"
+        },
+        {
+          "title": "金十图示：2026年02月23日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260224051116048800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "德国股市收跌约1.2%",
@@ -51,22 +62,24 @@
           "url": "https://flash.jin10.com/detail/20260224041218301800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时42分]"
         },
         {
           "title": "惠誉评级：尽管局势暂时缓解，美国企业再次面临关税不确定性的挑战。",
           "url": "https://flash.jin10.com/detail/20260224040922889800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时42分]"
         }
       ]
     },
@@ -100,8 +113,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 05时42分]"
         }
       ]
     }
