@@ -1,196 +1,67 @@
 {
-  "generated_at": "2026-02-23T23:43:41.429563+08:00",
-  "total_titles_processed": 1644,
+  "generated_at": "2026-02-24T01:16:58.467584+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
           "title": "韩国股市“领涨全球”的秘密武器：当总统“曾经是韭菜”",
           "url": "https://wallstreetcn.com/articles/3765972",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时04分 ~ 23时43分]"
-        },
-        {
-          "title": "全球资金推动拉丁美洲股市创下历史性强劲开局",
-          "url": "https://flash.jin10.com/detail/20260222224916288800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            5,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时22分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜周一（2月23日），南非富时/JSE非洲领先40可交易指数收涨1.92%，报11.7万点，逼近1月29日所创11.8万点上方的收盘历史最高位和盘中所创历史最高位。",
-          "url": "https://wallstreetcn.com/livenews/3057552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "巴西股市被热捧：1月大涨17%、外资流入超去年全年、投资大佬重仓",
-          "url": "https://wallstreetcn.com/articles/3765946",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 16时45分]"
-        },
-        {
-          "title": "金十图示：2026年02月23日（周一）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260223181125129800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 19时38分]"
-        },
-        {
-          "title": "金十图示：2026年02月23日（周一）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260223230617727800",
-          "source": "金十数据",
-          "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "泰国股市最高上涨1.5%，至1501.96点，创下自2024年10月18日以来的新高。",
-          "url": "https://flash.jin10.com/detail/20260223112631783800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "01时16分"
         },
         {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-02-23）",
-          "url": "https://flash.jin10.com/detail/20260223220342200800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
-          "title": "金十图示：2026年02月23日（周一）全球股市指数-亚太市场",
-          "url": "https://flash.jin10.com/detail/20260223102735938800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "韩国首尔综指高开1.6%。 日本股市因假期休市。",
-          "url": "https://wallstreetcn.com/livenews/3057312",
+          "title": "德国股市收跌约1.2%",
+          "url": "https://wallstreetcn.com/livenews/3057576",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "01时16分"
         }
       ]
     },
     {
-      "keyword_group": "国企",
-      "match_count": 2,
+      "keyword_group": "黄金",
+      "match_count": 1,
       "titles": [
         {
-          "title": "伊朗提议，让美国企业参与（伊朗的）能源行业。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3057292",
+          "title": "COMEX黄金期货涨3%，欧美主权债价格涨幅扩大，特朗普重燃贸易不确定性，投资者寻求避险",
+          "url": "https://wallstreetcn.com/livenews/3057571",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时23分 ~ 07时23分]"
-        },
-        {
-          "title": "德国企业信心指数2月超预期上升",
-          "url": "https://flash.jin10.com/detail/20260223174859611800",
-          "source": "金十数据",
-          "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "01时16分"
         }
       ]
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "深一度｜谷爱凌，一朵绽放女性风采的雪中玫瑰",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32643301",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            12,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时56分 ~ 20时58分]"
-        },
         {
           "title": "杨幂：插足别人婚姻是错误的",
           "url": "https://www.toutiao.com/trending/7609239787178065961/",
           "source": "今日头条",
           "ranks": [
-            22,
-            21,
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时45分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "01时16分"
         }
       ]
     }
