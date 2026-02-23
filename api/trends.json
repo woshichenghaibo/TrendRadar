@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T19:38:58.158694+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-02-23T20:58:51.596155+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时04分 ~ 19时38分]"
+          "appearance_count": 7,
+          "time_info": "[14时04分 ~ 20时58分]"
         },
         {
           "title": "巴西股市被热捧：1月大涨17%、外资流入超去年全年、投资大佬重仓",
@@ -138,11 +139,12 @@
             8,
             12,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 19时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 20时58分]"
         },
         {
           "title": "杨幂：插足别人婚姻是错误的",
@@ -150,11 +152,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时45分 ~ 19时38分]"
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 20时58分]"
         }
       ]
     }
