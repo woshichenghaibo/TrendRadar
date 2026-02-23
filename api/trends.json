@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T03:27:21.123933+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-02-24T04:41:59.706651+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 03时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时41分]"
         },
         {
           "title": "德国股市收跌约1.2%",
@@ -39,6 +39,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国企",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "惠誉评级：不要指望2月20日的关税裁决会转化为美国企业评级的利好因素或会推动评级上调。",
+          "url": "https://flash.jin10.com/detail/20260224041218301800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "惠誉评级：尽管局势暂时缓解，美国企业再次面临关税不确定性的挑战。",
+          "url": "https://flash.jin10.com/detail/20260224040922889800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         }
       ]
     },
@@ -72,8 +100,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 03时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时41分]"
         }
       ]
     }
