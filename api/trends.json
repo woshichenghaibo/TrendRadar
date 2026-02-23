@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T02:36:02.807445+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-02-24T03:27:21.123933+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时27分]"
         },
         {
           "title": "德国股市收跌约1.2%",
@@ -36,7 +36,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         }
@@ -72,8 +72,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时27分]"
         }
       ]
     }
