@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T07:23:58.786054+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-02-23T09:56:35.524135+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "全球资金推动拉丁美洲股市创下历史性强劲开局",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 06时22分]"
+        },
+        {
+          "title": "韩国首尔综指高开1.6%。 日本股市因假期休市。",
+          "url": "https://wallstreetcn.com/livenews/3057312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     },
@@ -39,6 +50,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时23分 ~ 07时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "深一度｜谷爱凌，一朵绽放女性风采的雪中玫瑰",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32643301",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     }
