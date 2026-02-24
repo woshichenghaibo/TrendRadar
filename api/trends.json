@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T07:33:26.753856+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-02-24T09:53:36.310440+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "韩国股市“领涨全球”的秘密武器：当总统“曾经是韭菜”",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 09时53分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）全球股市指数-美洲市场（收盘）",
@@ -64,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-02-24）",
+          "url": "https://flash.jin10.com/detail/20260224090512682800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
