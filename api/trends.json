@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T16:04:57.061694+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-02-24T16:47:22.073886+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "韩国股市“领涨全球”的秘密武器：当总统“曾经是韭菜”",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时33分]"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260224161211158800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         },
         {
           "title": "德国股市收跌约1.2%",
