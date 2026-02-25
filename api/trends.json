@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T20:59:09.072386+08:00",
-  "total_titles_processed": 1698,
+  "generated_at": "2026-02-25T22:12:01.564888+08:00",
+  "total_titles_processed": 1809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -14,22 +14,24 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时52分 ~ 20时59分]"
+          "appearance_count": 8,
+          "time_info": "[17时52分 ~ 22时12分]"
         },
         {
           "title": "马年股市四大机会与风险",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4%E8%82%A1%E5%B8%82%E5%9B%9B%E5%A4%A7%E6%9C%BA%E4%BC%9A%E4%B8%8E%E9%A3%8E%E9%99%A9",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
+          "appearance_count": 4,
+          "time_info": "[20时58分 ~ 22时12分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）全球股市指数-美洲市场（收盘）",
@@ -52,6 +54,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-25）",
+          "url": "https://flash.jin10.com/detail/20260225220210090800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "韩国股市总市值达到3.76万亿美元，超过法国股市。",
@@ -148,8 +161,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时52分 ~ 20时59分]"
+          "appearance_count": 8,
+          "time_info": "[17时52分 ~ 22时12分]"
         }
       ]
     }
