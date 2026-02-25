@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T03:02:52.195673+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-02-26T04:33:40.002910+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 04时33分]"
         },
         {
           "title": "非洲股市收盘播报｜周三（2月25日），南非富时/JSE非洲领先40可交易指数收涨1.47%，至11.85万点上方。",
@@ -36,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 04时33分]"
         },
         {
           "title": "金十图示：2026年02月26日（周三）全球股市指数-欧洲市场（收盘）",
