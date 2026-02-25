@@ -1,22 +1,37 @@
 {
-  "generated_at": "2026-02-26T04:33:40.002910+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-02-26T05:33:08.376571+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
           "url": "https://wallstreetcn.com/articles/3766126",
           "source": "华尔街见闻",
           "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 05时33分]"
+        },
+        {
+          "title": "马年股市四大机会与风险",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4%E8%82%A1%E5%B8%82%E5%9B%9B%E5%A4%A7%E6%9C%BA%E4%BC%9A%E4%B8%8E%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            20,
+            19,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 04时33分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时33分]"
         },
         {
           "title": "非洲股市收盘播报｜周三（2月25日），南非富时/JSE非洲领先40可交易指数收涨1.47%，至11.85万点上方。",
@@ -31,17 +46,15 @@
           "time_info": "[00时19分 ~ 01时15分]"
         },
         {
-          "title": "马年股市四大机会与风险",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4%E8%82%A1%E5%B8%82%E5%9B%9B%E5%A4%A7%E6%9C%BA%E4%BC%9A%E4%B8%8E%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
+          "title": "金十图示：2026年02月25日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260226050537499800",
+          "source": "金十数据",
           "ranks": [
-            25,
-            20,
-            19
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 04时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "金十图示：2026年02月26日（周三）全球股市指数-欧洲市场（收盘）",
