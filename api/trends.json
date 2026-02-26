@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T18:43:08.846993+08:00",
-  "total_titles_processed": 1618,
+  "generated_at": "2026-02-26T19:38:30.136987+08:00",
+  "total_titles_processed": 1694,
   "failed_sources": [],
   "trends": [
     {
@@ -131,7 +131,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         }
@@ -162,11 +162,12 @@
             12,
             14,
             28,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时14分 ~ 18时43分]"
+          "appearance_count": 12,
+          "time_info": "[12时14分 ~ 19时38分]"
         },
         {
           "title": "霍金与比基尼女性合照现爱泼斯坦档案",
@@ -197,7 +198,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
@@ -212,6 +213,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时51分 ~ 15时55分]"
+        },
+        {
+          "title": "印度证券交易委员会：经认可的证券交易所公布的即期价格可用于对共同基金计划持有的黄金和白银进行估值。",
+          "url": "https://flash.jin10.com/detail/20260226184611823800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "印度证券交易委员会：自4月1日起，共同基金将采用经认可证券交易所公布的即期现货价格对实物黄金和白银进行估值。",
+          "url": "https://flash.jin10.com/detail/20260226184527380800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         }
       ]
     }
