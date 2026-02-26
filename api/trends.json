@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T06:31:25.965852+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-02-27T07:27:16.188619+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
@@ -57,8 +57,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时27分]"
         },
         {
           "title": "霍金与比基尼女性合照现爱泼斯坦档案",
@@ -67,11 +67,12 @@
           "ranks": [
             15,
             24,
-            21
+            21,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时42分 ~ 05时31分]"
+          "appearance_count": 5,
+          "time_info": "[03时42分 ~ 07时27分]"
         }
       ]
     }
