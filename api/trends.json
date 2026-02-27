@@ -1,34 +1,33 @@
 {
-  "generated_at": "2026-02-27T23:36:24.137114+08:00",
-  "total_titles_processed": 2110,
+  "generated_at": "2026-02-28T00:38:28.524994+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 10,
+      "match_count": 3,
       "titles": [
         {
-          "title": "周五，全球基金抛售了创纪录的韩国股票（近50亿美元），这表明在今年韩国股市基准指数上涨近50%之后出现了获利回吐的迹象。",
-          "url": "https://flash.jin10.com/detail/20260227153351294800",
-          "source": "金十数据",
+          "title": "欧洲股市本周涨约0.6%",
+          "url": "https://wallstreetcn.com/livenews/3060419",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时44分"
+          "time_info": "00时38分"
         },
         {
-          "title": "金十图示：2026年02月26日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260227050838676800",
-          "source": "金十数据",
+          "title": "非洲股市收盘播报｜南非股市涨超1.5%创收盘历史新高，本周涨超4.7%",
+          "url": "https://wallstreetcn.com/livenews/3060408",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            21
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时31分]"
+          "appearance_count": 1,
+          "time_info": "00时38分"
         },
         {
           "title": "获利了结！外资创纪录卖出韩国股市，单日抛售6.8万亿韩元",
@@ -38,130 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时43分]"
-        },
-        {
-          "title": "金十图示：2026年02月27日（周五）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260227161216043800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-02-27）",
-          "url": "https://flash.jin10.com/detail/20260227090934122800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出278.52亿元，占比1.12%；大单资金净流出201.21亿元，占比0.81%；小单资金净流入266.69亿元，占比1.07%。",
-          "url": "https://flash.jin10.com/detail/20260227150759441800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "金十图示：2026年02月27日（周五）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260227180338495800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "金十图示：2026年02月27日（周五）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260227230030433800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "法国股市收涨超0.7%，英国、西班牙股市继续创收盘历史新高，英伟达拖累荷兰股市走低",
-          "url": "https://wallstreetcn.com/livenews/3059689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "金十图示：2026年02月26日（周四）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260227004633762800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "比尔盖茨出轨女性身份曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%87%BA%E8%BD%A8%E5%A5%B3%E6%80%A7%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            14,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 09时50分]"
-        },
-        {
-          "title": "霍金与比基尼女性合照现爱泼斯坦档案",
-          "url": "https://www.toutiao.com/trending/7610621645552123914/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            24,
-            21,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时42分 ~ 07时27分]"
-        },
-        {
-          "title": "《镖人》女性角色塑造有多惊喜",
-          "url": "https://www.toutiao.com/trending/7611389868618288683/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "time_info": "00时38分"
         }
       ]
     }
