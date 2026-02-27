@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T07:27:16.188619+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-02-27T09:50:01.221802+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2026年02月26日（周四）全球股市指数-美洲市场（收盘）",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时31分]"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-02-27）",
+          "url": "https://flash.jin10.com/detail/20260227090934122800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "法国股市收涨超0.7%，英国、西班牙股市继续创收盘历史新高，英伟达拖累荷兰股市走低",
@@ -54,11 +65,12 @@
           "ranks": [
             15,
             14,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时50分]"
         },
         {
           "title": "霍金与比基尼女性合照现爱泼斯坦档案",
