@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T21:59:32.685149+08:00",
-  "total_titles_processed": 1925,
+  "generated_at": "2026-02-27T22:43:38.997471+08:00",
+  "total_titles_processed": 2014,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,17 @@
           "time_info": "[05时31分 ~ 06时31分]"
         },
         {
+          "title": "获利了结！外资创纪录卖出韩国股市，单日抛售6.8万亿韩元",
+          "url": "https://wallstreetcn.com/articles/3766355",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时43分]"
+        },
+        {
           "title": "金十图示：2026年02月27日（周五）全球股市指数-欧洲市场（盘初）",
           "url": "https://flash.jin10.com/detail/20260227161216043800",
           "source": "金十数据",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
-        },
-        {
-          "title": "获利了结！外资创纪录卖出韩国股市，单日抛售6.8万亿韩元",
-          "url": "https://wallstreetcn.com/articles/3766355",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-02-27）",
