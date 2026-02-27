@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T06:20:53.942500+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-02-28T07:22:35.669423+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时22分]"
         },
         {
           "title": "欧洲股市本周涨约0.6%",
@@ -79,7 +80,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         }
