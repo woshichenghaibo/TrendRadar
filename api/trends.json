@@ -1,152 +1,22 @@
 {
-  "generated_at": "2026-02-28T23:20:28.529357+08:00",
-  "total_titles_processed": 2151,
+  "generated_at": "2026-03-01T00:23:31.194837+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "获利了结！外资创纪录卖出韩国股市，单日抛售6.8万亿韩元",
-          "url": "https://wallstreetcn.com/articles/3766355",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时22分]"
-        },
         {
           "title": "美以袭击伊朗对股市有何影响",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%AF%B9%E8%82%A1%E5%B8%82%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            13,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时39分 ~ 23时20分]"
-        },
-        {
-          "title": "欧洲股市本周涨约0.6%",
-          "url": "https://wallstreetcn.com/livenews/3060419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时33分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股市涨超1.5%创收盘历史新高，本周涨超4.7%",
-          "url": "https://wallstreetcn.com/livenews/3060408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时33分]"
-        },
-        {
-          "title": "英国股市本周涨超2%，意大利银行板块累跌超2%",
-          "url": "https://wallstreetcn.com/livenews/3060420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "金十图示：2026年02月27日（周五）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260228004612668800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国贸促会将适时组织中国企业家代表团访美",
-          "url": "https://wallstreetcn.com/livenews/3060700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "美国企图取消中国最惠国待遇",
-          "url": "https://www.toutiao.com/trending/7611695842210090502/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 12时53分]"
-        },
-        {
-          "title": "美国企业2月披露回购计划达2330亿美元，创历年同期新高",
-          "url": "https://wallstreetcn.com/livenews/3060518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "你看好马布里跨国婚姻吗",
-          "url": "https://www.toutiao.com/trending/7611564180409303050/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
-          "title": "日本警察竟偷拍女性遗体",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AD%A6%E5%AF%9F%E7%AB%9F%E5%81%B7%E6%8B%8D%E5%A5%B3%E6%80%A7%E9%81%97%E4%BD%93%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
+          "time_info": "00时23分"
         }
       ]
     }
