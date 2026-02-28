@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T19:17:37.706611+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2026-02-28T20:40:01.458135+08:00",
+  "total_titles_processed": 1893,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "获利了结！外资创纪录卖出韩国股市，单日抛售6.8万亿韩元",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时33分]"
+        },
+        {
+          "title": "美以袭击伊朗对股市有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%AF%B9%E8%82%A1%E5%B8%82%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
         },
         {
           "title": "英国股市本周涨超2%，意大利银行板块累跌超2%",
