@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T05:19:18.933336+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-03-01T06:20:44.813949+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             23,
             26,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股市2月份跌5.9%，阿美跌约3.3%，埃及股市涨超3.2%",
