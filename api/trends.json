@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T04:22:57.080713+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-03-01T05:19:18.933336+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时19分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股市2月份跌5.9%，阿美跌约3.3%，埃及股市涨超3.2%",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时19分]"
         }
       ]
     }
