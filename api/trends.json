@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T05:20:56.917786+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-03-02T06:21:37.344564+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "高盛预计，未来将有 3.6 万亿增量资金流入中国股市，会给 A 股带来哪些影响？",
@@ -16,11 +16,12 @@
             11,
             7,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "新西兰股市低开1%",
@@ -29,9 +30,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "惠灵顿开盘：新西兰股市低开1%",
+          "url": "https://wallstreetcn.com/livenews/3061294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
@@ -45,11 +57,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 06时21分]"
         }
       ]
     },
@@ -63,11 +76,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 06时21分]"
         }
       ]
     }
