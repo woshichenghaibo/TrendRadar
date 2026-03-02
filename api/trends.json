@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T09:53:14.155846+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-03-02T12:12:51.134062+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "高盛预计，未来将有 3.6 万亿增量资金流入中国股市，会给 A 股带来哪些影响？",
@@ -45,6 +45,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "沙特股市大幅下跌",
+          "url": "https://www.douyin.com/hot/2415530",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "印度股市遭遇全面抛售，Sensex指数开盘下跌3.4%。",
+          "url": "https://flash.jin10.com/detail/20260302114313019800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     },
