@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T15:48:04.848168+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-03-02T16:40:59.287348+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "高盛预计，未来将有 3.6 万亿增量资金流入中国股市，会给 A 股带来哪些影响？",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时47分 ~ 15时48分]"
+        },
+        {
+          "title": "伊朗危机冲击全球市场：欧美股市齐跌，巴基斯坦股市触及熔断，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "新西兰股市低开1%",
@@ -81,6 +92,17 @@
           "time_info": "[06时21分 ~ 07时21分]"
         },
         {
+          "title": "以色列特拉维夫股市开盘上涨3%；以色列新谢克尔兑美元汇率持平于3.12。",
+          "url": "https://flash.jin10.com/detail/20260302162534674800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "印度股市遭遇全面抛售，Sensex指数开盘下跌3.4%。",
           "url": "https://flash.jin10.com/detail/20260302114313019800",
           "source": "金十数据",
@@ -114,13 +136,24 @@
           "time_info": "14时54分"
         },
         {
+          "title": "金十图示：2026年03月02日（周一）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260302161225545800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "沙特股市指数早盘上涨1%。",
           "url": "https://flash.jin10.com/detail/20260302151240089800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         }
@@ -153,8 +186,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 15时48分]"
+          "appearance_count": 5,
+          "time_info": "[13时51分 ~ 16时40分]"
         },
         {
           "title": "商务部回应英制裁中国企业",
