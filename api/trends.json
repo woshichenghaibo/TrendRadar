@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T20:52:38.503129+08:00",
-  "total_titles_processed": 1888,
+  "generated_at": "2026-03-03T21:58:47.018684+08:00",
+  "total_titles_processed": 2004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊战火持续震动亚太股市：日韩股市双双重挫 Kospi一度跌超4%",
@@ -30,11 +30,12 @@
             26,
             14,
             18,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时47分 ~ 20时52分]"
+          "appearance_count": 8,
+          "time_info": "[14时47分 ~ 21时58分]"
         },
         {
           "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
@@ -61,6 +62,18 @@
           "time_info": "[14时47分 ~ 15时40分]"
         },
         {
+          "title": "韩国股市暴跌触发熔断，日经 225 指数一度跌超 2.7%，伊朗局势对亚太股市的影响是否会持续？",
+          "url": "https://www.zhihu.com/question/2012136408408680393",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 21时58分]"
+        },
+        {
           "title": "韩国股市暴跌触发熔断",
           "url": "https://www.douyin.com/hot/2417350",
           "source": "抖音",
@@ -72,17 +85,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时40分 ~ 17时39分]"
-        },
-        {
-          "title": "韩国股市暴跌触发熔断，日经 225 指数一度跌超 2.7%，伊朗局势对亚太股市的影响是否会持续？",
-          "url": "https://www.zhihu.com/question/2012136408408680393",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时36分 ~ 20时52分]"
         },
         {
           "title": "股市",
@@ -144,6 +146,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-03-03）",
+          "url": "https://flash.jin10.com/detail/20260303212356871800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "金十图示：2026年03月03日（周二）亚太市场股市指数（收盘）",
           "url": "https://flash.jin10.com/detail/20260303180101514800",
           "source": "金十数据",
@@ -161,7 +174,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
