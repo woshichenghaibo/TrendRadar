@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T19:31:45.750689+08:00",
-  "total_titles_processed": 1783,
+  "generated_at": "2026-03-03T20:52:38.503129+08:00",
+  "total_titles_processed": 1888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊战火持续震动亚太股市：日韩股市双双重挫 Kospi一度跌超4%",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时13分 ~ 19时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时13分 ~ 20时52分]"
         },
         {
           "title": "韩国股市暴跌触发熔断",
@@ -33,8 +33,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时47分 ~ 19时31分]"
+          "appearance_count": 7,
+          "time_info": "[14时47分 ~ 20时52分]"
         },
         {
           "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
@@ -74,6 +74,17 @@
           "time_info": "[15时40分 ~ 17时39分]"
         },
         {
+          "title": "韩国股市暴跌触发熔断，日经 225 指数一度跌超 2.7%，伊朗局势对亚太股市的影响是否会持续？",
+          "url": "https://www.zhihu.com/question/2012136408408680393",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 20时52分]"
+        },
+        {
           "title": "股市",
           "url": "https://s.weibo.com/weibo?q=%E8%82%A1%E5%B8%82&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -97,17 +108,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时23分]"
-        },
-        {
-          "title": "韩国股市暴跌触发熔断，日经 225 指数一度跌超 2.7%，伊朗局势对亚太股市的影响是否会持续？",
-          "url": "https://www.zhihu.com/question/2012136408408680393",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 19时31分]"
         },
         {
           "title": "金十图示：2026年03月02日（周一）全球股市指数-美洲市场（收盘）",
@@ -153,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "全球股市黑色星期二",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%BA%8C%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "非洲股市收盘播报｜南非富时收跌超1.2%，瑞士历峰跌超5.7%，英美公司跌超3%",
