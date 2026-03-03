@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-03T09:55:21.897057+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2026-03-03T12:14:15.338892+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美伊战火持续震动亚太股市：日韩股市双双重挫 Kospi一度跌超4%",
+          "url": "https://www.cls.cn/detail/2300746",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 12时14分]"
+        },
         {
           "title": "加拿大股市继续创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3062159",
