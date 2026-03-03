@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T12:14:15.338892+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-03-03T13:47:45.639303+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2300746",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 13时47分]"
         },
         {
           "title": "加拿大股市继续创收盘历史新高",
