@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T17:37:49.871939+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2026-03-04T18:34:12.706603+08:00",
+  "total_titles_processed": 1740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "罕见！全球股市、债市、黄金齐齐大跌 究竟发生了什么？",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时07分 ~ 17时37分]"
+          "appearance_count": 9,
+          "time_info": "[12时07分 ~ 18时34分]"
         },
         {
           "title": "伊朗局势冲击波席卷亚洲市场，韩股创金融危机来最大跌幅，日经225跌4%，泰国股市停牌",
@@ -32,6 +32,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时43分 ~ 15时37分]"
+        },
+        {
+          "title": "日韩股市崩了",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时36分 ~ 18时34分]"
+        },
+        {
+          "title": "中国石油A股市值重回第一",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9A%E8%82%A1%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 18时34分]"
         },
         {
           "title": "韩国股市暴跌 连续2天触发临时停牌",
@@ -70,6 +93,18 @@
           "time_info": "16时36分"
         },
         {
+          "title": "中石油时隔七年重夺A股市值冠军",
+          "url": "https://www.toutiao.com/trending/7612223959422337066/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 18时34分]"
+        },
+        {
           "title": "亚太股市三连跌，韩国综指单日狂泻12%触发熔断、两天暴跌20%，日经跌破5.4万点",
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
@@ -79,18 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
-        },
-        {
-          "title": "日韩股市崩了",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E5%B4%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时36分 ~ 17时37分]"
         },
         {
           "title": "全球股市全线暴跌",
@@ -105,6 +128,28 @@
           "time_info": "[14时43分 ~ 15时37分]"
         },
         {
+          "title": "以史为鉴：当世界陷入动荡，石油、黄金和股市都遵循这个规律……",
+          "url": "https://www.cls.cn/detail/2302075",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 18时34分]"
+        },
+        {
+          "title": "金十图示：2026年03月04日（周三）亚太市场股市指数",
+          "url": "https://flash.jin10.com/detail/20260304180402196800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "中韩半导体ETF迈向四连跌 此前韩国股市重挫并触发熔断",
           "url": "https://wallstreetcn.com/livenews/3063351",
           "source": "华尔街见闻-快讯",
@@ -114,17 +159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
-        },
-        {
-          "title": "中石油时隔七年重夺A股市值冠军",
-          "url": "https://www.toutiao.com/trending/7612223959422337066/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "亚太股市颓势依旧，日经指数跌3%，韩国股市暴跌触发熔断，三星电子跌超7%，欧美股指期货企稳",
@@ -144,7 +178,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
