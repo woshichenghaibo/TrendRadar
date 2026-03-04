@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T00:40:32.956862+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-05T01:37:21.864165+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/livenews/3063771",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时37分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股市收涨1.2%，迪拜股市跌4.7%，阿布扎比股市跌超1.9%",
           "url": "https://wallstreetcn.com/livenews/3063769",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时37分]"
         }
       ]
     }
