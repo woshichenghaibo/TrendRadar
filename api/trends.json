@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T18:34:12.706603+08:00",
-  "total_titles_processed": 1740,
+  "generated_at": "2026-03-04T19:28:42.038094+08:00",
+  "total_titles_processed": 1831,
   "failed_sources": [],
   "trends": [
     {
@@ -39,22 +39,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时36分 ~ 18时34分]"
-        },
-        {
-          "title": "中国石油A股市值重回第一",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9A%E8%82%A1%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 18时34分]"
+          "appearance_count": 7,
+          "time_info": "[15时36分 ~ 19时28分]"
         },
         {
           "title": "韩国股市暴跌 连续2天触发临时停牌",
@@ -116,6 +106,30 @@
           "time_info": "13时42分"
         },
         {
+          "title": "中国石油A股市值重回第一",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9A%E8%82%A1%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时33分 ~ 19时28分]"
+        },
+        {
+          "title": "以史为鉴：当世界陷入动荡，石油、黄金和股市都遵循这个规律……",
+          "url": "https://www.cls.cn/detail/2302075",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时33分 ~ 19时28分]"
+        },
+        {
           "title": "全球股市全线暴跌",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E5%85%A8%E7%BA%BF%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -128,24 +142,13 @@
           "time_info": "[14时43分 ~ 15时37分]"
         },
         {
-          "title": "以史为鉴：当世界陷入动荡，石油、黄金和股市都遵循这个规律……",
-          "url": "https://www.cls.cn/detail/2302075",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 18时34分]"
-        },
-        {
           "title": "金十图示：2026年03月04日（周三）亚太市场股市指数",
           "url": "https://flash.jin10.com/detail/20260304180402196800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
