@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T22:57:21.917019+08:00",
-  "total_titles_processed": 2058,
+  "generated_at": "2026-03-05T23:51:26.525687+08:00",
+  "total_titles_processed": 2132,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时10分 ~ 22时57分]"
+          "appearance_count": 16,
+          "time_info": "[12时10分 ~ 23时51分]"
         },
         {
           "title": "风险偏好重燃，日韩股市大幅反弹， 韩国综指飙升12%触发熔断， 三星电子大涨13%，SK海力士涨15%",
@@ -255,6 +255,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "首场部长通道亮出“硬核成绩单”：科技领跑、智造升级、国企焕新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32705570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时51分]"
+        },
+        {
           "title": "据英国央行调查，英国企业预计未来一年工资增长3.6%。",
           "url": "https://wallstreetcn.com/livenews/3064407",
           "source": "华尔街见闻-快讯",
@@ -265,17 +277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时36分 ~ 19时32分]"
-        },
-        {
-          "title": "首场部长通道亮出“硬核成绩单”：科技领跑、智造升级、国企焕新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32705570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
         }
       ]
     }
