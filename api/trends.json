@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T07:28:17.095609+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-03-05T09:52:35.137467+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "墨西哥股市收涨2.9%，巴西股指涨超1.4%",
@@ -50,9 +50,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "股市崩盘！韩国：若波动加剧，将积极启动100万亿韩元的市场稳定计划",
+          "url": "https://wallstreetcn.com/articles/3766700",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "全球最牛股市遭遇史上最大暴跌 韩国监管亮出百万亿“稳市弹药”",
+          "url": "https://www.cls.cn/detail/2302718",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-03-05）",
+          "url": "https://flash.jin10.com/detail/20260305091050662800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "金十图示：2026年03月04日（周三）全球股市指数-美洲市场（收盘）",
@@ -64,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "韩国总统李在明：需应对汇市、股市波动。",
+          "url": "https://flash.jin10.com/detail/20260305090748449800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         }
       ]
     }
