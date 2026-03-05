@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T16:38:02.710551+08:00",
-  "total_titles_processed": 1471,
+  "generated_at": "2026-03-05T17:40:47.670380+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美以袭击伊朗或令日本经济增长停滞，东京股市显著下跌，为何战争让日本先撑不住了？",
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             16,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时10分 ~ 16时38分]"
+          "appearance_count": 9,
+          "time_info": "[12时10分 ~ 17时40分]"
         },
         {
           "title": "风险偏好重燃，日韩股市大幅反弹， 韩国综指飙升12%触发熔断， 三星电子大涨13%，SK海力士涨15%",
@@ -63,7 +64,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -154,9 +155,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "欧洲股市走势逆转，欧洲斯托克600指数上涨0.5%，此前一度下跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20260305171634112800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "阿布扎比股市下跌2.1%，银行股领跌。阿布扎比国家石油天然气公司下跌1.2%，阿布扎比伊斯兰银行股价下跌4.9%，阿布扎比第一银行股价下跌4.94%。",
