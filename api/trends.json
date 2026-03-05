@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T03:51:10.497652+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-03-06T04:34:58.227959+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时51分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 04时34分]"
         },
         {
           "title": "欧洲各国股市普跌，德国股市跌超1.7%",
@@ -55,8 +55,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时51分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 04时34分]"
         }
       ]
     }
