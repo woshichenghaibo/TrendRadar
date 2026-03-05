@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T18:36:45.936293+08:00",
-  "total_titles_processed": 1653,
+  "generated_at": "2026-03-05T19:32:40.038652+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时10分 ~ 18时36分]"
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 19时32分]"
         },
         {
           "title": "风险偏好重燃，日韩股市大幅反弹， 韩国综指飙升12%触发熔断， 三星电子大涨13%，SK海力士涨15%",
@@ -247,11 +247,12 @@
           "url": "https://wallstreetcn.com/livenews/3064407",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 19时32分]"
         }
       ]
     }
