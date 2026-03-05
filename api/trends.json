@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T05:32:35.182824+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-03-06T06:28:56.282041+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时32分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时28分]"
         },
         {
           "title": "金十图示：2026年03月05日（周四）全球股市指数-美洲市场（收盘）",
@@ -25,7 +25,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         },
@@ -66,8 +66,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时32分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时28分]"
         }
       ]
     }
