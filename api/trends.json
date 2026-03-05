@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T14:48:25.307814+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-03-05T15:40:42.318410+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "风险偏好重燃，日韩股市大幅反弹， 韩国综指飙升12%触发熔断， 三星电子大涨13%，SK海力士涨15%",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时10分 ~ 13时45分]"
+        },
+        {
+          "title": "风险偏好重燃，日韩股市大幅反弹， 三星电子大涨13%，现货白银短线跳水，油价维持涨势",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 15时40分]"
         },
         {
           "title": "股市崩盘！韩国：若波动加剧，将积极启动100万亿韩元的市场稳定计划",
@@ -33,17 +44,6 @@
           "time_info": "[09时52分 ~ 14时48分]"
         },
         {
-          "title": "风险偏好重燃，日韩股市大幅反弹， 三星电子大涨13%，现货白银短线跳水，油价维持涨势",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
           "title": "美以袭击伊朗或令日本经济增长停滞，东京股市显著下跌，为何战争让日本先撑不住了？",
           "url": "https://www.zhihu.com/question/2011868258307941835",
           "source": "知乎",
@@ -53,8 +53,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 14时48分]"
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 15时40分]"
         },
         {
           "title": "墨西哥股市收涨2.9%，巴西股指涨超1.4%",
@@ -143,7 +143,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -165,7 +165,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -190,6 +190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流入56.54亿元，占比0.24%；大单资金净流出132.72亿元，占比0.56%；小单资金净流入76.98亿元，占比0.32%。",
+          "url": "https://flash.jin10.com/detail/20260305150616878800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         }
       ]
     }
