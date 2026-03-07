@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T19:18:37.860002+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-03-07T20:41:06.661968+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 20时41分]"
         },
         {
           "title": "伊朗宣布关闭股市",
@@ -31,6 +32,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时26分 ~ 19时18分]"
+        },
+        {
+          "title": "伊朗宣布关闭股市",
+          "url": "https://www.toutiao.com/trending/7614428838849462326/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 20时41分]"
         },
         {
           "title": "加拿大股市本周跌超3.6%，10年期加债收益率累涨约28个基点",
@@ -88,17 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
-        },
-        {
-          "title": "伊朗宣布关闭股市",
-          "url": "https://www.toutiao.com/trending/7614428838849462326/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
         },
         {
           "title": "中东股市收盘播报｜迪拜股市本周跌超11.3%，土耳其银行股周五跌约5.1%、本周累跌超16.4%",
