@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T21:37:23.796579+08:00",
-  "total_titles_processed": 1631,
+  "generated_at": "2026-03-07T22:22:12.542902+08:00",
+  "total_titles_processed": 1684,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,21 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时26分 ~ 21时37分]"
+          "appearance_count": 10,
+          "time_info": "[17时26分 ~ 22时22分]"
+        },
+        {
+          "title": "伊朗宣布关闭股市",
+          "url": "https://www.toutiao.com/trending/7614428838849462326/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时18分 ~ 22时22分]"
         },
         {
           "title": "伊朗宣布关闭股市",
@@ -33,18 +46,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时26分 ~ 19时18分]"
-        },
-        {
-          "title": "伊朗宣布关闭股市",
-          "url": "https://www.toutiao.com/trending/7614428838849462326/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 21时37分]"
         },
         {
           "title": "加拿大股市本周跌超3.6%，10年期加债收益率累涨约28个基点",
@@ -186,7 +187,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
