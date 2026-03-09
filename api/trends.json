@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T18:42:47.419035+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2026-03-09T19:33:34.353773+08:00",
+  "total_titles_processed": 1596,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时33分]"
         },
         {
           "title": "金十图示：2026年03月09日（周一）亚太市场股市指数",
@@ -39,7 +40,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -113,8 +114,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时41分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 19时33分]"
         },
         {
           "title": "张凯丽说天价彩礼不应归咎于女性",
