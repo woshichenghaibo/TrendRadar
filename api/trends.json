@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T01:45:12.375016+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-03-10T02:49:16.658624+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 02时49分]"
         },
         {
           "title": "非洲股市收盘播报｜周一（3月9日），南非富时/JSE非洲领先40可交易指数收涨0.36%，毛里求斯证交所SEMDEX指数收跌1.00%，肯尼亚内罗毕证交所全股指数收跌0.64%，尼日利亚证交所全部股指收涨0.12%。",
@@ -51,11 +51,12 @@
           "url": "https://www.toutiao.com/trending/7615156424453668874/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 02时49分]"
         }
       ]
     }
