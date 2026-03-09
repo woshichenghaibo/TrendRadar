@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T06:26:26.624474+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-03-10T07:26:01.506335+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 06时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时26分]"
         },
         {
           "title": "非洲股市收盘播报｜周一（3月9日），南非富时/JSE非洲领先40可交易指数收涨0.36%，毛里求斯证交所SEMDEX指数收跌1.00%，肯尼亚内罗毕证交所全股指数收跌0.64%，尼日利亚证交所全部股指收涨0.12%。",
@@ -79,11 +79,12 @@
             26,
             20,
             30,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 07时26分]"
         },
         {
           "title": "一千年前的女性喜欢穿什么",
@@ -92,7 +93,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         }
