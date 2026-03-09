@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T09:55:16.587595+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-03-09T12:15:50.731673+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "中东股市收盘播报｜沙特股市收涨超2.1%，阿美涨4.1%",
@@ -21,13 +21,35 @@
           "time_info": "[00时25分 ~ 05时21分]"
         },
         {
+          "title": "日本股市恐慌指数飙升至六年新高",
+          "url": "https://flash.jin10.com/detail/20260309113155465800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "高盛：日本股市恐慌指数飙升，或迎来大幅回调",
+          "url": "https://wallstreetcn.com/livenews/3066161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
           "title": "油价飙升致澳大利亚股市市值蒸发超800亿美元",
           "url": "https://flash.jin10.com/detail/20260309093539570800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         }
