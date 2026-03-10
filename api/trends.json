@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T03:37:05.293740+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-03-11T04:31:28.827254+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周二（3月10日），南非富时/JSE非洲领先40可交易指数收涨2.60%，逼近11.2万点，跳空高开之后，持续高位震荡。 毛里求斯证交所SEMDEX指数收跌0.05%，尼日利亚证交所全部股指收跌0.57%，肯尼亚内罗毕证交所全股指数收跌0.13%。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "金十图示：2026年03月10日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260311040549638800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "希腊雅典证交所综合指数收涨3.62%，报2178.76点，跳空高开之后、持续高位震荡。 日线图上，希腊股市3月2日跌穿2200点以来，持续低位震荡。",
