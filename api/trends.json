@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T18:37:11.471809+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2026-03-10T19:31:55.729753+08:00",
+  "total_titles_processed": 1770,
   "failed_sources": [],
   "trends": [
     {
@@ -49,11 +49,12 @@
           "url": "https://www.cls.cn/detail/2308020",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 19时31分]"
         },
         {
           "title": "金十图示：2026年03月10日（周二）全球股市指数-欧洲市场（盘初）",
@@ -136,11 +137,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%B6%88%E9%99%A4%E8%82%B2%E9%BE%84%E5%A5%B3%E6%80%A7%E8%81%8C%E5%9C%BA%E9%A1%BE%E8%99%91%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 19时31分]"
         },
         {
           "title": "一千年前的女性喜欢穿什么",
