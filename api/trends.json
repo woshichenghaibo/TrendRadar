@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T00:49:09.333277+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-12T01:46:51.153112+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "非洲股市收盘播报｜南非股市收跌约2%，哈莫尼跌约11.1%，领跌金银矿业股",
@@ -14,9 +14,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "金十图示：2026年03月12日（周四）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260312004643922800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
         }
       ]
     },
@@ -32,8 +43,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 00时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时46分]"
         }
       ]
     }
