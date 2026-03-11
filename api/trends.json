@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T05:31:29.806914+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-03-12T06:25:01.564767+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260312045725183800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时25分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收跌约2%，哈莫尼跌约11.1%，领跌金银矿业股",
@@ -36,7 +37,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -65,8 +66,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 06时25分]"
         }
       ]
     }
