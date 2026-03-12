@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T19:31:46.228134+08:00",
-  "total_titles_processed": 1731,
+  "generated_at": "2026-03-12T20:54:37.134059+08:00",
+  "total_titles_processed": 1849,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 19时31分]"
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 20时54分]"
         },
         {
           "title": "金十图示：2026年03月12日（周四）全球股市指数-欧洲市场（盘初）",
@@ -145,11 +146,12 @@
             25,
             19,
             20,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时12分 ~ 19时31分]"
+          "appearance_count": 11,
+          "time_info": "[12时12分 ~ 20时54分]"
         },
         {
           "title": "3名美国富豪强奸性侵60名女性",
