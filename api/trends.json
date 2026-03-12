@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T01:52:05.651654+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-03-13T02:51:05.706734+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 01时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "中东股市收盘播报｜迪拜股市收跌超3.6%，本周阿美涨约3.8%、以色列股市累跌超4.8%",
@@ -69,11 +69,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 01时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 02时51分]"
         }
       ]
     }
