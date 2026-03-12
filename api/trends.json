@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T13:50:02.917988+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-03-12T14:51:56.306052+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -96,11 +96,12 @@
           "url": "https://s.weibo.com/weibo?q=%233%E5%90%8D%E7%BE%8E%E5%9B%BD%E5%AF%8C%E8%B1%AA%E5%BC%BA%E5%A5%B8%E6%80%A7%E4%BE%B560%E5%90%8D%E5%A5%B3%E6%80%A7%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时48分 ~ 13时50分]"
+          "appearance_count": 18,
+          "time_info": "[00时48分 ~ 14时51分]"
         },
         {
           "title": "代表呼吁给生育女性补贴养老金",
@@ -110,8 +111,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 14时51分]"
         },
         {
           "title": "人大代表呼吁给生育女性补贴养老金",
