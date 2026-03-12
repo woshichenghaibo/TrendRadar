@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T20:54:37.134059+08:00",
-  "total_titles_processed": 1849,
+  "generated_at": "2026-03-12T22:03:08.236749+08:00",
+  "total_titles_processed": 1947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "韩国股市剧烈波动，期权成本凸显性价比",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时36分 ~ 20时54分]"
+        },
+        {
+          "title": "油价重燃连累股市 化肥巨头连续第二日走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2311247",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "金十图示：2026年03月12日（周四）全球股市指数-欧洲市场（盘初）",
@@ -147,11 +158,12 @@
             19,
             20,
             13,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时12分 ~ 20时54分]"
+          "appearance_count": 13,
+          "time_info": "[12时12分 ~ 22时03分]"
         },
         {
           "title": "3名美国富豪强奸性侵60名女性",
