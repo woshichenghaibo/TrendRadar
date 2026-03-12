@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T05:31:22.669867+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-03-13T06:46:45.550291+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 06时46分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）全球股市指数-欧洲市场",
@@ -88,8 +88,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 06时46分]"
         }
       ]
     }
