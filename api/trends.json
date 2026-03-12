@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T14:51:56.306052+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-03-12T15:44:41.393662+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "韩国股市剧烈波动，期权成本凸显性价比",
@@ -64,6 +64,17 @@
           "time_info": "01时46分"
         },
         {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出720.35亿元，占比2.95%；大单资金净流出365.76亿元，占比1.5%；小单资金净流入584.63亿元，占比2.39%。",
+          "url": "https://flash.jin10.com/detail/20260312150757751800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "韩国2月外国投资者净卖出本地股市资金创历史新高。",
           "url": "https://flash.jin10.com/detail/20260312110303334800",
           "source": "金十数据",
@@ -111,8 +122,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 15时44分]"
         },
         {
           "title": "人大代表呼吁给生育女性补贴养老金",
