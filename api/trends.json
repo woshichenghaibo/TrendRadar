@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T16:39:17.618779+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-03-12T17:40:00.083688+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -131,11 +131,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 16时39分]"
+          "appearance_count": 8,
+          "time_info": "[12时12分 ~ 17时40分]"
         },
         {
           "title": "人大代表呼吁给生育女性补贴养老金",
