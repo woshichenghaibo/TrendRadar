@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-13T02:51:05.706734+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-03-13T03:41:16.348203+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 3,
       "titles": [
+        {
+          "title": "油价重燃连累股市 化肥巨头连续第二日走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2311247",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时41分]"
+        },
         {
           "title": "金十图示：2026年03月13日（周五）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20260313004547556800",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
-        {
-          "title": "油价重燃连累股市 化肥巨头连续第二日走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2311247",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "中东股市收盘播报｜迪拜股市收跌超3.6%，本周阿美涨约3.8%、以色列股市累跌超4.8%",
@@ -70,11 +70,12 @@
           "ranks": [
             8,
             10,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 02时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时41分]"
         }
       ]
     }
