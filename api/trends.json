@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T00:58:56.596092+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-13T01:52:05.651654+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 01时52分]"
         },
         {
           "title": "中东股市收盘播报｜迪拜股市收跌超3.6%，本周阿美涨约3.8%、以色列股市累跌超4.8%",
@@ -68,11 +68,12 @@
           "url": "https://www.douyin.com/hot/2427736",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 01时52分]"
         }
       ]
     }
