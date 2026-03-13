@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T03:30:50.738979+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-03-14T04:31:40.279753+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
@@ -15,8 +15,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 03时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 04时31分]"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20260314040827703800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "金十图示：2026年03月14日（周六）全球股市指数-欧洲市场",
