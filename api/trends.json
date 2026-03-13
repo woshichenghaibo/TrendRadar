@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T17:36:52.999517+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-03-13T18:34:07.932055+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "油价重燃连累股市 化肥巨头连续第二日走强 | 今夜看点",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）亚太市场股市指数",
+          "url": "https://flash.jin10.com/detail/20260313180208313800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "南非股市较历史高点下跌10%，势将进入回调。",
