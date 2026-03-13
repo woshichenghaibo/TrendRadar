@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T02:38:04.528027+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-03-14T03:30:50.738979+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时30分]"
         },
         {
           "title": "金十图示：2026年03月14日（周六）全球股市指数-欧洲市场",
@@ -36,7 +36,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         }
