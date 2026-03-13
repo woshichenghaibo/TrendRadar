@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T20:53:49.875320+08:00",
-  "total_titles_processed": 1804,
+  "generated_at": "2026-03-13T21:59:44.342538+08:00",
+  "total_titles_processed": 1917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "油价重燃连累股市 化肥巨头连续第二日走强 | 今夜看点",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时31分]"
+        },
+        {
+          "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
+          "url": "https://wallstreetcn.com/articles/3767392",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "南非股市较历史高点下跌10%，预计将出现回调。",
