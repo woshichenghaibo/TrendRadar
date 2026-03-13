@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T22:50:44.279847+08:00",
-  "total_titles_processed": 2015,
+  "generated_at": "2026-03-13T23:40:26.246385+08:00",
+  "total_titles_processed": 2108,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时50分]"
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时40分]"
         },
         {
           "title": "南非股市较历史高点下跌10%，预计将出现回调。",
@@ -117,7 +117,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         }
