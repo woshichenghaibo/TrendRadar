@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T01:33:09.656424+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-03-14T02:38:04.528027+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 02时38分]"
         },
         {
           "title": "金十图示：2026年03月14日（周六）全球股市指数-欧洲市场",
@@ -25,9 +25,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "本周德国股市跌0.6%，意大利银行板块跌2%，挪威股市涨超2%",
+          "url": "https://wallstreetcn.com/livenews/3069941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "欧洲股市本周跌约0.5%",
+          "url": "https://wallstreetcn.com/livenews/3069940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         }
       ]
     }
