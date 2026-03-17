@@ -1,134 +1,22 @@
 {
-  "generated_at": "2026-03-17T22:54:06.840779+08:00",
-  "total_titles_processed": 1974,
+  "generated_at": "2026-03-18T00:03:58.475555+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "泰国股市SET指数一度上涨2.1%至1,434.99点，创3月2日以来最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3071367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "金十图示：2026年03月16日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260317040813487800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "金十图示：2026年03月17日（周二）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260317161143063800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周一（3月16日），南非富时/JSE非洲领先40可交易指数收涨1.50%，逼近10.9万点。 尼日利亚证交所全部股指收涨1.55%，逼近20.1万点，继续创收盘历史新高，最近三个交易日累计上涨2.85%。 毛里求斯证交所SEMDEX指数收跌0.41%，肯尼亚内罗毕证交所全股指数收涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3071046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "日本股市涨幅收窄，日经225指数现涨0.2%，此前一度涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3071266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "媒体：雷思维落马与分管国企领域相关",
-          "url": "https://www.toutiao.com/trending/7618181284749348390/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时05分 ~ 22时54分]"
-        },
-        {
-          "title": "南向资金今日大幅净卖出114.81亿元。港股通（沪）方面，盈富基金、恒生中国企业分别获净卖出64.44亿港元、18.23亿港元；耀才证券金融净买入额居首，金额为9.05亿港元；港股通（深）方面，盈富基金、长飞光纤光缆分别获净卖出23.77亿港元、8.52亿港元；耀才证券金融净买入额居首，金额为3.22亿港元。",
-          "url": "https://flash.jin10.com/detail/20260317173131279800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "香港恒生指数3月17日（周二）收盘上涨34.52点，涨幅0.13%，报25868.54点；<br/>香港恒生科技指数3月17日（周二）收盘下跌4.14点，跌幅0.08%，报5107.64点；<br/>国企指数3月17日（周二）收盘上涨10.41点，涨幅0.12%，报8826.73点；<br/>红筹指数3月17日（周二）收盘下跌3.26点，跌幅0.08%，报4312.14点。",
-          "url": "https://flash.jin10.com/detail/20260317161137405800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
-          "title": "香港恒生指数3月17日（周二）开盘上涨104.41点，涨幅0.4%，报25938.43点；<br/>香港恒生科技指数3月17日（周二）开盘上涨25.55点，涨幅0.5%，报5137.33点；<br/>国企指数3月17日（周二）开盘上涨23.49点，涨幅0.27%，报8839.81点；<br/>红筹指数3月17日（周二）开盘上涨3.75点，涨幅0.09%，报4319.15点。",
-          "url": "https://flash.jin10.com/detail/20260317092200173800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "黄金小幅走高 能源价格上升仍抑制金价",
-          "url": "https://flash.jin10.com/detail/20260317161959462800",
-          "source": "金十数据",
+          "title": "中东股市收盘播报｜迪拜股市收涨4.1%",
+          "url": "https://wallstreetcn.com/livenews/3071771",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时51分"
+          "time_info": "00时03分"
         }
       ]
     },
@@ -141,12 +29,11 @@
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E6%97%B6%E5%8F%91%E7%8E%B0%E5%90%8D%E4%B8%8B%E5%A4%9A%E5%87%BA%E4%B8%89%E6%AE%B5%E5%A9%9A%E5%A7%BB",
           "source": "百度热搜",
           "ranks": [
-            10,
-            20
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时05分 ~ 22时54分]"
+          "appearance_count": 1,
+          "time_info": "00时03分"
         }
       ]
     }
