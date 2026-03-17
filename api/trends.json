@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-17T09:53:42.989310+08:00",
-  "total_titles_processed": 880,
+  "generated_at": "2026-03-17T12:17:16.996581+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "泰国股市SET指数一度上涨2.1%至1,434.99点，创3月2日以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3071367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
         {
           "title": "金十图示：2026年03月16日（周一）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260317040813487800",
@@ -36,7 +47,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         }
@@ -53,7 +64,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         }
