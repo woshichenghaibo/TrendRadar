@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T03:56:01.562913+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-03-18T04:37:27.960839+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国总统特朗普夸赞美国股市表现。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时00分]"
+        },
+        {
+          "title": "金十图示：2026年03月17日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260318040732567800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
         },
         {
           "title": "中东股市收盘播报｜迪拜股市收涨4.1%",
@@ -77,11 +88,12 @@
             17,
             9,
             15,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 03时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 04时37分]"
         }
       ]
     }
