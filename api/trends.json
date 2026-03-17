@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T16:51:19.765293+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-03-17T17:54:00.533943+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -66,8 +66,19 @@
     },
     {
       "keyword_group": "国企",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "南向资金今日大幅净卖出114.81亿元。港股通（沪）方面，盈富基金、恒生中国企业分别获净卖出64.44亿港元、18.23亿港元；耀才证券金融净买入额居首，金额为9.05亿港元；港股通（深）方面，盈富基金、长飞光纤光缆分别获净卖出23.77亿港元、8.52亿港元；耀才证券金融净买入额居首，金额为3.22亿港元。",
+          "url": "https://flash.jin10.com/detail/20260317173131279800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
         {
           "title": "香港恒生指数3月17日（周二）收盘上涨34.52点，涨幅0.13%，报25868.54点；<br/>香港恒生科技指数3月17日（周二）收盘下跌4.14点，跌幅0.08%，报5107.64点；<br/>国企指数3月17日（周二）收盘上涨10.41点，涨幅0.12%，报8826.73点；<br/>红筹指数3月17日（周二）收盘下跌3.26点，跌幅0.08%，报4312.14点。",
           "url": "https://flash.jin10.com/detail/20260317161137405800",
@@ -75,7 +86,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -103,7 +114,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }
