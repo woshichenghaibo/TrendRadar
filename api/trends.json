@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T18:51:18.614361+08:00",
-  "total_titles_processed": 1592,
+  "generated_at": "2026-03-18T19:43:49.901672+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时45分 ~ 18时51分]"
+          "appearance_count": 11,
+          "time_info": "[07时45分 ~ 19时43分]"
         },
         {
           "title": "日韩股市涨幅扩大，韩国首尔综指日内涨4%，日经225指数涨2.6%站上55000点关口。",
@@ -117,7 +117,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -249,8 +249,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时44分 ~ 18时51分]"
+          "appearance_count": 4,
+          "time_info": "[16时44分 ~ 19时43分]"
         }
       ]
     }
