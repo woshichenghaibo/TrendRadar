@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T12:27:51.224632+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-03-18T14:02:27.871105+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -30,6 +30,19 @@
           "time_info": "01时58分"
         },
         {
+          "title": "高盛对冲基金主管：市场环境\"几乎史无前例\"，股市低估下行尾部风险",
+          "url": "https://wallstreetcn.com/articles/3767752",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时45分 ~ 14时02分]"
+        },
+        {
           "title": "美国总统特朗普兜售股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3071838",
           "source": "华尔街见闻-快讯",
@@ -40,19 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时00分]"
-        },
-        {
-          "title": "高盛对冲基金主管：市场环境\"几乎史无前例\"，股市低估下行尾部风险",
-          "url": "https://wallstreetcn.com/articles/3767752",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时45分 ~ 12时27分]"
         },
         {
           "title": "金十图示：2026年03月17日（周二）全球股市指数-美洲市场（收盘）",
@@ -139,7 +139,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
@@ -157,11 +157,12 @@
             27,
             28,
             10,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时31分 ~ 12时27分]"
+          "appearance_count": 6,
+          "time_info": "[06时31分 ~ 14时02分]"
         }
       ]
     }
