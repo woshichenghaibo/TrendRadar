@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T03:45:19.485441+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-03-20T04:34:40.306029+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时45分]"
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 04时34分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时34分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）全球股市指数-欧洲市场",
