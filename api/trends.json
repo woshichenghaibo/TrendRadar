@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T15:46:45.471092+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2026-03-19T16:39:40.660549+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 15时46分]"
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 16时39分]"
         },
         {
           "title": "加拿大股市收跌约1.9%，两年期加债收益率涨超9个基点",
