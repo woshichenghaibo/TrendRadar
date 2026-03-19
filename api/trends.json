@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-19T19:34:16.161244+08:00",
-  "total_titles_processed": 1795,
+  "generated_at": "2026-03-19T20:59:05.183532+08:00",
+  "total_titles_processed": 1925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "教授：股市跌破4000点也会很快回来",
+          "url": "https://www.toutiao.com/trending/7618195250993053734/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
         {
           "title": "油价上涨如何影响全球股市",
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82",
@@ -20,6 +31,17 @@
           "time_info": "[14时56分 ~ 16时39分]"
         },
         {
+          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2318602",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
           "title": "加拿大股市收跌约1.9%，两年期加债收益率涨超9个基点",
           "url": "https://wallstreetcn.com/livenews/3072702",
           "source": "华尔街见闻-快讯",
@@ -30,6 +52,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时45分]"
+        },
+        {
+          "title": "亚太股市再度跳水 A股结构分化",
+          "url": "https://www.toutiao.com/trending/7618879790426226742/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
         },
         {
           "title": "金十图示：2026年03月18日（周三）全球股市指数-美洲市场（收盘）",
@@ -63,6 +96,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "欧洲股市持续下跌，法国CAC指数下跌2%，至7809.02点；英国富时100指数下跌2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3073319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-03-19）",
+          "url": "https://flash.jin10.com/detail/20260319204334933800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "德国股市收跌超0.8%，意大利银行板块涨超0.4%",
