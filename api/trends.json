@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T22:02:36.160335+08:00",
-  "total_titles_processed": 1961,
+  "generated_at": "2026-03-20T22:53:09.102748+08:00",
+  "total_titles_processed": 2048,
   "failed_sources": [],
   "trends": [
     {
@@ -172,8 +172,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 22时02分]"
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 22时53分]"
         },
         {
           "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
@@ -233,8 +233,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时50分 ~ 22时02分]"
+          "appearance_count": 10,
+          "time_info": "[13时50分 ~ 22时53分]"
         }
       ]
     }
