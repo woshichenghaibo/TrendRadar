@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T22:53:09.102748+08:00",
-  "total_titles_processed": 2048,
+  "generated_at": "2026-03-20T23:40:56.332551+08:00",
+  "total_titles_processed": 2121,
   "failed_sources": [],
   "trends": [
     {
@@ -152,17 +152,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "国内金饰价格继续下探 老庙黄金领跌",
-          "url": "https://flash.jin10.com/detail/20260320132124842800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
           "title": "黄金白银价格为何双双暴跌",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
           "source": "百度热搜",
@@ -172,8 +161,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时29分 ~ 22时53分]"
+          "appearance_count": 6,
+          "time_info": "[19时29分 ~ 23时40分]"
+        },
+        {
+          "title": "国内金饰价格继续下探 老庙黄金领跌",
+          "url": "https://flash.jin10.com/detail/20260320132124842800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
@@ -233,8 +233,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时50分 ~ 22时53分]"
+          "appearance_count": 11,
+          "time_info": "[13时50分 ~ 23时40分]"
         }
       ]
     }
