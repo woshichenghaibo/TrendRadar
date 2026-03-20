@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T17:38:48.310027+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2026-03-20T18:35:58.667467+08:00",
+  "total_titles_processed": 1632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时15分 ~ 04时34分]"
+        },
+        {
+          "title": "伊朗冲击在亚洲减弱，但印度股市波动性仍高",
+          "url": "https://flash.jin10.com/detail/20260320181153264800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "金十图示：2026年03月20日（周五）全球股市指数-欧洲市场",
@@ -78,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "金十图示：2026年03月20日（周五）亚太市场股市指数",
+          "url": "https://flash.jin10.com/detail/20260320180237481800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "金十图示：2026年03月19日（周四）全球股市指数-美洲市场（收盘）",
@@ -196,8 +218,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时50分 ~ 17时38分]"
+          "appearance_count": 6,
+          "time_info": "[13时50分 ~ 18时35分]"
         }
       ]
     }
