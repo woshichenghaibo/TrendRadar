@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T07:27:17.433749+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-03-21T09:47:38.682616+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260321040647980800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时28分 ~ 07时27分]"
+          "appearance_count": 4,
+          "time_info": "[05时28分 ~ 09时47分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市本周累跌超4.8%",
