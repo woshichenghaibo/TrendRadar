@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T05:23:59.140560+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-03-23T06:22:51.305709+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "外国投资者逃离日本股市",
@@ -64,11 +64,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%80%A7%E5%AF%B9%E6%8A%97%E8%A1%B0%E8%80%81%E5%B0%B1%E6%98%AF%E5%8A%9B%E9%87%8F%E8%AE%AD%E7%BB%83&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            26,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
         }
       ]
     }
