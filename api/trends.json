@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T00:27:23.143289+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-23T01:23:59.130391+08:00",
+  "total_titles_processed": 342,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2439787",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时23分]"
         },
         {
           "title": "央行行长发声 关乎股市债市人民币",
