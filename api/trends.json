@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T04:36:24.496023+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-03-24T05:34:48.248446+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 05时34分]"
         },
         {
           "title": "金十图示：2026年03月24日（周二）全球股市指数-欧洲市场",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "金十图示：2026年03月23日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260324041004038800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         }
       ]
     }
