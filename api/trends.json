@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T14:10:07.395413+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2026-03-23T16:02:35.384290+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 14时10分]"
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 16时02分]"
         },
         {
           "title": "日韩股市，重挫“熔断”",
@@ -51,8 +52,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时00分 ~ 14时10分]"
+          "appearance_count": 7,
+          "time_info": "[10时00分 ~ 16时02分]"
         },
         {
           "title": "澳大利亚股市较3月高点下跌10%，迈向回调区间，日内跌幅1.9%。",
@@ -71,11 +72,12 @@
           "source": "微博",
           "ranks": [
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 14时10分]"
+          "appearance_count": 5,
+          "time_info": "[10时00分 ~ 16时02分]"
         },
         {
           "title": "分析师：情绪冰点后A股市场或迎反弹",
