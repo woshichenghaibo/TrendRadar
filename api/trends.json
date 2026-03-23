@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T07:25:19.093232+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-03-23T10:01:26.831472+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "中国股市债市规模均位居全球第二",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 10时01分]"
         },
         {
           "title": "澳大利亚股市较3月高点下跌10%，迈向回调区间，日内跌幅1.9%。",
@@ -26,9 +26,53 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "特朗普最后通牒还剩24小时，贝森特表态“先升级再缓和”，亚洲股市重挫、黄金一度跌超3%",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 10时01分]"
+        },
+        {
+          "title": "日韩股市，重挫“熔断”",
+          "url": "https://news.ifeng.com/c/8rirpGf6IFb",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 10时01分]"
+        },
+        {
+          "title": "韩国股市跌5%启动熔断机制",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E8%B7%8C5%25%E5%90%AF%E5%8A%A8%E7%86%94%E6%96%AD%E6%9C%BA%E5%88%B6%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 10时01分]"
+        },
+        {
+          "title": "股市",
+          "url": "https://s.weibo.com/weibo?q=%E8%82%A1%E5%B8%82&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 10时01分]"
         },
         {
           "title": "外国投资者逃离日本股市",
@@ -48,7 +92,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -67,7 +111,7 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "宁静回应中年女性对爱情的需求",
@@ -92,6 +136,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时25分]"
+        },
+        {
+          "title": "夫妻22年婚姻20年无性生活 水电分摊",
+          "url": "https://www.toutiao.com/trending/7619920158366416915/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 10时01分]"
         }
       ]
     }
