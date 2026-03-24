@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T13:58:40.989039+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-03-24T15:09:15.208412+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时58分 ~ 09时52分]"
+        },
+        {
+          "title": "迪拜股市指数回吐涨幅，现涨1.9%。",
+          "url": "https://flash.jin10.com/detail/20260324145235602800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "金十图示：2026年03月24日（周二）全球股市指数-欧洲市场",
@@ -48,9 +59,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时09分]"
         },
         {
           "title": "金十图示：2026年03月23日（周一）全球股市指数-美洲市场（收盘）",
@@ -62,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "日韩股市收涨 韩国股指涨近3%",
+          "url": "https://flash.jin10.com/detail/20260324143212231800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         }
       ]
     },
