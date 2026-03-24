@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T16:50:10.869806+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2026-03-24T17:54:15.233590+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
@@ -92,7 +92,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         }
@@ -100,7 +100,7 @@
     },
     {
       "keyword_group": "国企",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "韩国企划财政部：将在3月底前向国会提交追加预算案。",
@@ -120,9 +120,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "南向资金今日大幅净卖出273.61亿元。港股通（沪）方面，盈富基金、南方恒生科技分别获净卖出85.25亿港元、37.01亿港元；腾讯控股净买入额居首，金额为5.85亿港元；港股通（深）方面，盈富基金、恒生中国企业分别获净卖出45.46亿港元、25.45亿港元；泡泡玛特净买入额居首，金额为6.48亿港元。",
+          "url": "https://flash.jin10.com/detail/20260324173107666800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         }
       ]
     }
