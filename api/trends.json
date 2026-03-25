@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T15:11:49.237623+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2026-03-25T16:47:16.211434+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普一句话搅动市场风雨：亚太股市普遍高开 国际油价大幅下跌",
@@ -16,8 +16,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 15时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 16时47分]"
         },
         {
           "title": "金十图示：2026年03月24日（周二）全球股市指数-美洲市场（收盘）",
@@ -59,15 +59,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "金十图示：2026年03月25日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260325161132064800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         }
       ]
     },
     {
       "keyword_group": "国企",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "香港恒生指数3月25日（周三）开盘上涨216.81点，涨幅0.87%，报25280.52点；<br/>香港恒生科技指数3月25日（周三）开盘上涨47.75点，涨幅0.99%，报4878.64点；<br/>国企指数3月25日（周三）开盘上涨60.43点，涨幅0.71%，报8559.96点；<br/>红筹指数3月25日（周三）开盘上涨4.78点，涨幅0.11%，报4214.86点。",
@@ -79,12 +90,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "香港恒生指数3月25日（周三）收盘上涨272.24点，涨幅1.09%，报25335.95点；<br/>香港恒生科技指数3月25日（周三）收盘上涨92.05点，涨幅1.91%，报4922.94点；<br/>国企指数3月25日（周三）收盘上涨83.21点，涨幅0.98%，报8582.74点；<br/>红筹指数3月25日（周三）收盘上涨1.74点，涨幅0.04%，报4211.82点。",
+          "url": "https://flash.jin10.com/detail/20260325161124638800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         }
       ]
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "你奶奶的故事，值不值得被写成书？为什么三代女性的口述史，正在成为当下最动人的非虚构写作潮流？",
@@ -97,6 +119,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 02时59分]"
+        },
+        {
+          "title": "越来越多日本女性为供养牛郎跨境卖淫",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%80%A7%E4%B8%BA%E4%BE%9B%E5%85%BB%E7%89%9B%E9%83%8E%E8%B7%A8%E5%A2%83%E5%8D%96%E6%B7%AB%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 16时47分]"
         }
       ]
     }
