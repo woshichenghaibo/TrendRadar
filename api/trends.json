@@ -1,96 +1,12 @@
 {
-  "generated_at": "2026-03-26T23:51:23.364195+08:00",
-  "total_titles_processed": 1874,
+  "generated_at": "2026-03-27T00:58:22.860661+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "股市",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月25日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260326040633813800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-03-26）",
-          "url": "https://flash.jin10.com/detail/20260326203558390800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周三（3月25日），南非富时/JSE非洲领先40可交易指数收涨3.46%，逼近10.6万点。 尼日利亚证交所全部股指收涨0.11%，肯尼亚内罗毕证交所全股指数收跌1.10%，毛里求斯证交所SEMDEX指数收跌0.10%。",
-          "url": "https://wallstreetcn.com/livenews/3076796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "专家：现在是买进中国股市最好时机",
-          "url": "https://www.toutiao.com/trending/7620334525928095785/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 17时59分]"
-        },
-        {
-          "title": "迪拜股市指数早盘下跌2.4%，阿布扎比指数下跌1.3%。",
-          "url": "https://flash.jin10.com/detail/20260326142846520800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "婚姻 女性",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "奥运女子组赛事仅限生理女性参加",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%A5%E8%BF%90%E5%A5%B3%E5%AD%90%E7%BB%84%E8%B5%9B%E4%BA%8B%E4%BB%85%E9%99%90%E7%94%9F%E7%90%86%E5%A5%B3%E6%80%A7%E5%8F%82%E5%8A%A0",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "奥运女子比赛仅限生理女性",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%A5%B3%E5%AD%90%E6%AF%94%E8%B5%9B%E4%BB%85%E9%99%90%E7%94%9F%E7%90%86%E5%A5%B3%E6%80%A7%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
         {
           "title": "国际奥委会明确：奥运女子组赛事仅限生理女性参加",
           "url": "https://news.ifeng.com/c/8rofzgt9B85",
@@ -98,9 +14,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时51分"
+          "time_info": "00时58分"
+        },
+        {
+          "title": "奥运女子组赛事仅限生理女性参加",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%A5%E8%BF%90%E5%A5%B3%E5%AD%90%E7%BB%84%E8%B5%9B%E4%BA%8B%E4%BB%85%E9%99%90%E7%94%9F%E7%90%86%E5%A5%B3%E6%80%A7%E5%8F%82%E5%8A%A0",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
         }
       ]
     }
