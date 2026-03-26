@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T05:29:51.379070+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-03-27T06:27:08.981773+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时27分]"
         },
         {
           "title": "奥运女子组赛事仅限生理女性参加",
@@ -25,11 +25,12 @@
           "ranks": [
             22,
             21,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时27分]"
         }
       ]
     },
