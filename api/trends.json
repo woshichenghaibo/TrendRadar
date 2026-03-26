@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T15:04:55.332174+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-03-26T16:51:51.201550+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2026年03月25日（周三）全球股市指数-美洲市场（收盘）",
@@ -30,13 +30,24 @@
           "time_info": "00时09分"
         },
         {
+          "title": "专家：现在是买进中国股市最好时机",
+          "url": "https://www.toutiao.com/trending/7620334525928095785/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "迪拜股市指数早盘下跌2.4%，阿布扎比指数下跌1.3%。",
           "url": "https://flash.jin10.com/detail/20260326142846520800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         }
