@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T00:58:22.860661+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-03-27T02:02:08.991469+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "奥运女子组赛事仅限生理女性参加",
           "url": "https://www.baidu.com/s?wd=%E5%A5%A5%E8%BF%90%E5%A5%B3%E5%AD%90%E7%BB%84%E8%B5%9B%E4%BA%8B%E4%BB%85%E9%99%90%E7%94%9F%E7%90%86%E5%A5%B3%E6%80%A7%E5%8F%82%E5%8A%A0",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时02分]"
         }
       ]
     }
