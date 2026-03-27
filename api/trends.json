@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T01:48:10.122143+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-03-28T02:53:03.950800+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 02时53分]"
         },
         {
           "title": "奥运会女子比赛仅限生理女性",
@@ -27,8 +28,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 02时53分]"
         },
         {
           "title": "国际奥委会明确女子项目将仅限「生理女性」参赛，有哪些考量？会对当前赛事带来什么影响？",
@@ -74,8 +75,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 02时53分]"
         }
       ]
     }
