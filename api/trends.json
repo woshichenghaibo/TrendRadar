@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T17:53:07.335356+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2026-03-27T18:44:42.960475+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时03分 ~ 17时53分]"
+          "appearance_count": 6,
+          "time_info": "[15时03分 ~ 18时44分]"
         },
         {
           "title": "奥运会女子比赛仅限生理女性",
@@ -52,11 +53,12 @@
             17,
             20,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时05分 ~ 17时53分]"
+          "appearance_count": 7,
+          "time_info": "[13时05分 ~ 18时44分]"
         },
         {
           "title": "日本养牛郎女性发声",
@@ -82,7 +84,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
