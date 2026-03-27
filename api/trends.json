@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T19:40:12.377678+08:00",
-  "total_titles_processed": 1656,
+  "generated_at": "2026-03-27T21:00:50.609070+08:00",
+  "total_titles_processed": 1769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国际奥委会明确女子项目将仅限「生理女性」参赛，有哪些考量？会对当前赛事带来什么影响？",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时03分 ~ 19时40分]"
+          "appearance_count": 10,
+          "time_info": "[15时03分 ~ 21时00分]"
         },
         {
           "title": "国际奥委会明确：奥运女子组赛事仅限生理女性参加",
@@ -30,6 +31,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时58分 ~ 10时04分]"
+        },
+        {
+          "title": "奥运会女子比赛仅限生理女性",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352405&amp;topic_name=%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%A5%B3%E5%AD%90%E6%AF%94%E8%B5%9B%E4%BB%85%E9%99%90%E7%94%9F%E7%90%86%E5%A5%B3%E6%80%A7",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            20,
+            23,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时05分 ~ 21时00分]"
         },
         {
           "title": "奥运女子组赛事仅限生理女性参加",
@@ -46,19 +62,15 @@
           "time_info": "[00时58分 ~ 07时30分]"
         },
         {
-          "title": "奥运会女子比赛仅限生理女性",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352405&amp;topic_name=%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%A5%B3%E5%AD%90%E6%AF%94%E8%B5%9B%E4%BB%85%E9%99%90%E7%94%9F%E7%90%86%E5%A5%B3%E6%80%A7",
-          "source": "贴吧",
+          "title": "奥运女子比赛仅限生理女性",
+          "url": "https://www.douyin.com/hot/2444937",
+          "source": "抖音",
           "ranks": [
-            17,
-            20,
-            23,
-            25,
-            26
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时05分 ~ 19时40分]"
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时00分]"
         },
         {
           "title": "日本养牛郎女性发声",
