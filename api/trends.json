@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-28T09:56:35.488757+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2026-03-28T12:19:49.989522+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 5,
       "titles": [
+        {
+          "title": "美国消费者信心跌至三个月低点 最富裕阶层也因股市重挫遭受打击",
+          "url": "https://www.cls.cn/detail/2327642",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 12时19分]"
+        },
         {
           "title": "机构：油价持续高企可能导致美国股市下跌10%",
           "url": "https://wallstreetcn.com/livenews/3078479",
@@ -32,18 +45,6 @@
           "time_info": "[04时36分 ~ 05时32分]"
         },
         {
-          "title": "美国消费者信心跌至三个月低点 最富裕阶层也因股市重挫遭受打击",
-          "url": "https://www.cls.cn/detail/2327642",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 09时56分]"
-        },
-        {
           "title": "非洲股市收盘播报｜周五（3月27日），南非富时/JSE非洲领先40可交易指数收跌0.97%，没能守住10.4万点，本周累计上涨1.78%。",
           "url": "https://wallstreetcn.com/livenews/3078391",
           "source": "华尔街见闻-快讯",
@@ -62,7 +63,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
