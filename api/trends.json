@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T13:55:52.414214+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2026-03-28T14:56:07.693655+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 13时55分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 14时56分]"
         },
         {
           "title": "机构：油价持续高企可能导致美国股市下跌10%",
@@ -100,6 +100,18 @@
           "time_info": "[00时52分 ~ 09时56分]"
         },
         {
+          "title": "原来男性急救法救不了女性",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E7%94%B7%E6%80%A7%E6%80%A5%E6%95%91%E6%B3%95%E6%95%91%E4%B8%8D%E4%BA%86%E5%A5%B3%E6%80%A7",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 14时56分]"
+        },
+        {
           "title": "国际奥委会明确女子项目将仅限「生理女性」参赛，有哪些考量？会对当前赛事带来什么影响？",
           "url": "https://www.zhihu.com/question/2020619015588968001",
           "source": "知乎",
@@ -109,17 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "原来男性急救法救不了女性",
-          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E7%94%B7%E6%80%A7%E6%80%A5%E6%95%91%E6%B3%95%E6%95%91%E4%B8%8D%E4%BA%86%E5%A5%B3%E6%80%A7",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
         }
       ]
     },
