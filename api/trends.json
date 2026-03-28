@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T14:56:07.693655+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-03-28T15:43:51.726928+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时31分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[07时31分 ~ 15时43分]"
         },
         {
           "title": "机构：油价持续高企可能导致美国股市下跌10%",
@@ -105,11 +105,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 15时43分]"
         },
         {
           "title": "国际奥委会明确女子项目将仅限「生理女性」参赛，有哪些考量？会对当前赛事带来什么影响？",
