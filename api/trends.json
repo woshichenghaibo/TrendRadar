@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T19:26:22.002090+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2026-03-28T20:49:16.365304+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             9,
             7,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时31分 ~ 19时26分]"
+          "appearance_count": 12,
+          "time_info": "[07时31分 ~ 20时49分]"
         },
         {
           "title": "机构：油价持续高企可能导致美国股市下跌10%",
