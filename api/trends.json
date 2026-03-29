@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T00:32:21.246123+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-30T01:28:41.894490+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时28分]"
         },
         {
           "title": "中东股市收盘播报｜科威特股市周日收跌0.6%，卡塔尔股指跌约1%，埃及股指跌约1.3%",
@@ -26,8 +27,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时28分]"
         }
       ]
     }
