@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T21:18:08.983774+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2026-03-30T23:02:31.596012+08:00",
+  "total_titles_processed": 1693,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             3,
             4,
             2,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 21时18分]"
+          "appearance_count": 7,
+          "time_info": "[15时23分 ~ 23时02分]"
         },
         {
           "title": "以色列央行：迄今为止，包括风险溢价、汇率和股市价格在内的金融变量对此次冲突的反应相对温和。",
@@ -44,7 +45,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -112,7 +113,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
