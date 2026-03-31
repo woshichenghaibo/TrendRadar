@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T16:56:22.615342+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-03-31T18:04:30.015157+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "日韩股市集体大跌",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时40分]"
+        },
+        {
+          "title": "金十图示：2026年03月31日（周二）亚太市场股市指数",
+          "url": "https://flash.jin10.com/detail/20260331180123505800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "日韩股市收低 3月单月跌幅均创2008年10月以来最大",
