@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T15:09:37.720694+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-03-31T16:56:22.615342+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             25,
             19,
             15,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 15时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 16时56分]"
         },
         {
           "title": "报道称特朗普愿在海峡关闭时停战！油价转跌、纳指期货转涨1%，亚太股市V型拉升",
@@ -64,7 +65,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
