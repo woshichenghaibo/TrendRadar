@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-04-01T00:09:50.348901+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-04-01T02:09:01.611160+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "股市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "非洲股市收盘播报｜周二（3月31日），南非富时/JSE非洲领先40可交易指数收涨1.57%，报逼近10.65万点，3月份累跌11.64%，一季度累跌1.56%。",
+          "url": "https://wallstreetcn.com/livenews/3080312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "美国股市能源股下跌，航空股上涨，伊朗总统称有结束战争的意愿",
+          "url": "https://wallstreetcn.com/livenews/3080311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://trend.guao.de/img/news.jpg"
 }
