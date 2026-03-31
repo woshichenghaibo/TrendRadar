@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T07:32:48.466691+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-03-31T10:05:39.660310+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             16,
             25,
             19,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 10时05分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股市收涨超0.8%，埃及股市跌超2.6%，埃及镑创历史新低",
@@ -63,7 +64,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         }
