@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T15:25:20.122719+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-04-01T17:07:34.891419+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "亚太股市高开高收 分析师称抄底仍需警惕",
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 15时25分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 17时07分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（3月31日），南非富时/JSE非洲领先40可交易指数收涨1.57%，报逼近10.65万点，3月份累跌11.64%，一季度累跌1.56%。",
@@ -83,9 +84,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "撤军也没用？油价结构性走高或成定局，当心股市反杀！",
+          "url": "https://flash.jin10.com/detail/20260401164838178800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流入173.43亿元，占比0.86%；大单资金净流出70.26亿元，占比0.35%；小单资金净流入56.86亿元，占比0.28%。",
@@ -94,7 +106,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
