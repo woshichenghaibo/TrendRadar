@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T05:39:49.316104+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-04-02T06:54:34.777812+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             15,
             14,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 05时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 06时54分]"
         },
         {
           "title": "局势缓和信号提振市场 全球股市大涨 国际油价回落 | 今夜看点",
