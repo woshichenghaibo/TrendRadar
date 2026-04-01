@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T07:32:09.202954+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-04-01T10:14:05.136200+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周二（3月31日），南非富时/JSE非洲领先40可交易指数收涨1.57%，报逼近10.65万点，3月份累跌11.64%，一季度累跌1.56%。",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "印尼股市新规重拳提升透明度 强制上市公司公众持股比例达15%",
+          "url": "https://flash.jin10.com/detail/20260401095922164800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     }
