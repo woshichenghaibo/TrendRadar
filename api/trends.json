@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T18:57:14.382136+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2026-04-02T19:44:08.370213+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时01分 ~ 18时57分]"
+          "appearance_count": 9,
+          "time_info": "[13时01分 ~ 19时44分]"
         },
         {
           "title": "巴菲特称近期市场下跌与历史上真正的买点相比不值一提，股市估值仍未有吸引力，对此你怎么看？",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时15分 ~ 18时57分]"
+          "appearance_count": 7,
+          "time_info": "[14时15分 ~ 19时43分]"
         },
         {
           "title": "局势缓和信号提振市场 全球股市大涨 国际油价回落 | 今夜看点",
@@ -159,7 +159,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
