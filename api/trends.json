@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T12:16:29.473138+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-04-04T13:55:41.793081+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 13时55分]"
         },
         {
           "title": "中金：黄金投资需求和价格或均存向上修复空间",
@@ -61,7 +62,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
