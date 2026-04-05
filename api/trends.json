@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T18:31:55.088043+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-04-05T19:27:56.388019+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "高盛对冲基金业务主管：对“多空”都没信心，但股市的全面考验还没来",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 10时09分]"
+        },
+        {
+          "title": "中东股市收盘播报｜周日（4月5日），卡塔尔证交所指数收跌0.65%，报10160.38点，整体呈现出长尾L形走势。 科威特证交所超级市场价格回报指数收跌0.40%，报9032.40点。 沙特股市目前微幅上涨不到0.10%。",
+          "url": "https://wallstreetcn.com/livenews/3082607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         }
       ]
     }
