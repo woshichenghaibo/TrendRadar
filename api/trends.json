@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T02:40:12.210419+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-04-06T03:32:34.496416+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             26,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时32分]"
         },
         {
           "title": "日本整形医生性侵猥亵21名女性获刑",
@@ -29,8 +30,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 03时32分]"
         }
       ]
     }
