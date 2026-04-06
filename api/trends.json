@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T07:31:51.318152+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-04-06T10:10:31.839554+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "日本整形医生性侵猥亵21名女性获刑",
@@ -36,8 +36,36 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 10时10分]"
+        },
+        {
+          "title": "日本整形医生趁麻醉性侵21名女性",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%95%B4%E5%BD%A2%E5%8C%BB%E7%94%9F%E8%B6%81%E9%BA%BB%E9%86%89%E6%80%A7%E4%BE%B521%E5%90%8D%E5%A5%B3%E6%80%A7%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日有美国3月ISM非制造业PMI，多地股市休市。",
+          "url": "https://flash.jin10.com/detail/20260406083537311800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         }
       ]
     }
