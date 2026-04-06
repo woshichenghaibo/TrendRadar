@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-06T15:26:21.850704+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-04-06T17:06:11.333599+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "“48小时通牒”与“45天停火协议”挑动市场，周一油价冲高回落，黄金下跌、美股期货转涨，日韩股市收涨",
+          "url": "https://wallstreetcn.com/articles/3769300",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 17时06分]"
+        },
         {
           "title": "日韩股市同步收涨",
           "url": "https://flash.jin10.com/detail/20260406143146170800",
@@ -14,7 +25,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
