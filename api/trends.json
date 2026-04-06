@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-06T21:03:56.450312+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2026-04-06T22:44:07.643491+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "“48小时通牒”与“45天停火协议”挑动市场，油价冲高回落，股市与金属全线转涨",
+          "url": "https://wallstreetcn.com/articles/3769300",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时03分 ~ 22时44分]"
+        },
         {
           "title": "“48小时通牒”与“45天停火协议”挑动市场，周一油价冲高回落，股市与金属全线转涨",
           "url": "https://wallstreetcn.com/articles/3769300",
@@ -20,17 +32,6 @@
           "time_info": "[18时54分 ~ 19时47分]"
         },
         {
-          "title": "“48小时通牒”与“45天停火协议”挑动市场，油价冲高回落，股市与金属全线转涨",
-          "url": "https://wallstreetcn.com/articles/3769300",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
           "title": "“48小时通牒”与“45天停火协议”挑动市场，周一油价冲高回落，黄金下跌、美股期货转涨，日韩股市收涨",
           "url": "https://wallstreetcn.com/articles/3769300",
           "source": "华尔街见闻",
@@ -40,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时05分 ~ 17时06分]"
+        },
+        {
+          "title": "金十图示：2026年04月06日（周一）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260406221225556800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "日韩股市同步收涨",
