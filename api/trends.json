@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T03:02:58.062223+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-04-08T04:43:42.273757+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伊朗称针对股市复市制定多种方案",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 00时55分]"
+        },
+        {
+          "title": "金十图示：2026年04月07日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260408040904366800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         }
       ]
     },
@@ -30,11 +41,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时43分]"
         }
       ]
     }
