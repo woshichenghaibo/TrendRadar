@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T18:09:55.890257+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-04-08T19:53:44.162489+08:00",
+  "total_titles_processed": 1632,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 18时09分]"
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 19时53分]"
         },
         {
           "title": "伊朗称针对股市复市制定多种方案",
@@ -60,7 +60,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
