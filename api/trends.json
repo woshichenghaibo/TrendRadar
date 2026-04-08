@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T21:15:26.350303+08:00",
-  "total_titles_processed": 1751,
+  "generated_at": "2026-04-08T23:07:55.121913+08:00",
+  "total_titles_processed": 1886,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "停火协议达成如何影响股市",
@@ -66,13 +66,24 @@
           "time_info": "18时09分"
         },
         {
+          "title": "停火消息引发全球股市释然冲高 油价大幅回落 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2338327",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "欧洲股市有望创四年来最大单日涨幅",
           "url": "https://flash.jin10.com/detail/20260408210428191800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
