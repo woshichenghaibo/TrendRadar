@@ -1,155 +1,39 @@
 {
-  "generated_at": "2026-04-08T23:07:55.121913+08:00",
-  "total_titles_processed": 1886,
+  "generated_at": "2026-04-09T00:58:42.002078+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "停火协议达成如何影响股市",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%E8%BE%BE%E6%88%90%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%82%A1%E5%B8%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            8,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时22分 ~ 21时15分]"
-        },
-        {
-          "title": "伊朗称针对股市复市制定多种方案",
-          "url": "https://www.toutiao.com/trending/7625813062847103012/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
-        },
-        {
-          "title": "报复性反弹！美伊“停火两周”，全球股市急涨，金价重上4830关口，油价创近六年最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流入868.89亿元，占比3.57%；大单资金净流入100.98亿元，占比0.41%；小单资金净流出388.56亿元，占比1.6%。",
-          "url": "https://flash.jin10.com/detail/20260408150639101800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "停火两周！美伊局势逆转引发亚太市场“狂欢” 日韩股市领涨",
-          "url": "https://www.cls.cn/detail/2337348",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
         {
           "title": "停火消息引发全球股市释然冲高 油价大幅回落 | 今夜看点",
           "url": "https://www.cls.cn/detail/2338327",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "欧洲股市有望创四年来最大单日涨幅",
-          "url": "https://flash.jin10.com/detail/20260408210428191800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "金十图示：2026年04月07日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260408040904366800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "韩国散户周三在股市的抛售量或将创历史新高。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3083972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "市场消息：韩国散户周三在股市的抛售量或将创历史新高。",
-          "url": "https://flash.jin10.com/detail/20260408123253044800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
+          "time_info": "00时58分"
         }
       ]
     },
     {
-      "keyword_group": "婚姻 女性",
-      "match_count": 2,
+      "keyword_group": "国企",
+      "match_count": 1,
       "titles": [
         {
-          "title": "Y 染色体比 X 染色体少那么多基因，那男性比女性到底有什么不同？",
-          "url": "https://www.zhihu.com/question/30060763",
-          "source": "知乎",
+          "title": "美国白宫：匈牙利能源公司MOL集团从美国及美国企业购入51万吨原油，价值5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3084481",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            7,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时59分]"
-        },
-        {
-          "title": "这些习惯正在悄悄透支女性的生育力",
-          "url": "https://www.toutiao.com/trending/7625961183783092267/",
-          "source": "今日头条",
-          "ranks": [
-            28
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时58分"
+          "time_info": "00时58分"
         }
       ]
     }
