@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T16:58:25.582573+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-04-08T18:09:55.890257+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "停火协议达成如何影响股市",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时58分]"
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 18时09分]"
         },
         {
           "title": "伊朗称针对股市复市制定多种方案",
@@ -51,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "停火两周！美伊局势逆转引发亚太市场“狂欢” 日韩股市领涨",
+          "url": "https://www.cls.cn/detail/2337348",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "金十图示：2026年04月07日（周二）全球股市指数-美洲市场（收盘）",
@@ -112,7 +124,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         }
