@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-08T15:22:22.923227+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-04-08T16:58:25.582573+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 7,
       "titles": [
+        {
+          "title": "停火协议达成如何影响股市",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%E8%BE%BE%E6%88%90%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%82%A1%E5%B8%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时58分]"
+        },
         {
           "title": "伊朗称针对股市复市制定多种方案",
           "url": "https://www.toutiao.com/trending/7625813062847103012/",
@@ -25,18 +37,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "停火协议达成如何影响股市",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%E8%BE%BE%E6%88%90%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%82%A1%E5%B8%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -47,7 +48,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -88,7 +89,7 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Y 染色体比 X 染色体少那么多基因，那男性比女性到底有什么不同？",
@@ -103,6 +104,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 07时59分]"
+        },
+        {
+          "title": "这些习惯正在悄悄透支女性的生育力",
+          "url": "https://www.toutiao.com/trending/7625961183783092267/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         }
       ]
     }
