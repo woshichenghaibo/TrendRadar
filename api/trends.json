@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T13:09:16.999362+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-04-08T15:22:22.923227+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗称针对股市复市制定多种方案",
@@ -17,6 +17,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 00时55分]"
+        },
+        {
+          "title": "报复性反弹！美伊“停火两周”，全球股市急涨，金价重上4830关口，油价创近六年最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "停火协议达成如何影响股市",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%E8%BE%BE%E6%88%90%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%82%A1%E5%B8%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流入868.89亿元，占比3.57%；大单资金净流入100.98亿元，占比0.41%；小单资金净流出388.56亿元，占比1.6%。",
+          "url": "https://flash.jin10.com/detail/20260408150639101800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "金十图示：2026年04月07日（周二）全球股市指数-美洲市场（收盘）",
@@ -36,7 +69,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -47,7 +80,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         }
