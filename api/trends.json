@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T12:38:02.615066+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-04-09T14:20:38.231459+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "停火消息引发全球股市释然冲高 油价大幅回落 | 今夜看点",
@@ -21,6 +21,17 @@
           "time_info": "[00时58分 ~ 06时36分]"
         },
         {
+          "title": "外资23日连卖印度股市 2月底以来已累计撤资178亿美元",
+          "url": "https://flash.jin10.com/detail/20260409134635872800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "金十图示：2026年04月08日（周三）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260409040611455800",
           "source": "金十数据",
@@ -31,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时39分]"
+        },
+        {
+          "title": "霍尔木兹海峡再关闭对股市有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%86%8D%E5%85%B3%E9%97%AD%E5%AF%B9%E8%82%A1%E5%B8%82%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "新兴市场股市创2020年3月份以来最大单日涨幅。",
