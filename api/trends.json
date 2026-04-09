@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T07:36:07.548077+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-04-09T09:59:18.389617+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
@@ -47,7 +47,7 @@
     },
     {
       "keyword_group": "国企",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "白宫新闻秘书Leavitt：拿走伊朗的浓缩铀是美国的一个顶级优先目标。 美国企图通过外交手段拿走伊朗的浓缩铀。",
@@ -70,6 +70,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "香港恒生指数4月9日（周四）开盘下跌136.61点，跌幅0.53%，报25756.41点；<br/>香港恒生科技指数4月9日（周四）开盘下跌54.86点，跌幅1.11%，报4868.39点；<br/>国企指数4月9日（周四）开盘下跌53.6点，跌幅0.62%，报8623.71点；<br/>红筹指数4月9日（周四）开盘下跌13.38点，跌幅0.31%，报4241.94点。",
+          "url": "https://flash.jin10.com/detail/20260409092127698800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     }
