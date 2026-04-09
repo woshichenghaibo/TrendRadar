@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T04:45:42.646659+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-04-10T05:43:28.645435+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026 年清明档票房创近十年新低，进口片与女性故事均未能「救市」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2024891553655582756",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     }
