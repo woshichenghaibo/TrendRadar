@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T17:06:30.455462+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-04-10T18:51:42.088291+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流入14.59亿元，占比0.06%；大单资金净流出132.57亿元，占比0.57%；小单资金净流入174.24亿元，占比0.75%。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "因伊朗停火协议持续，以色列新谢克尔兑美元上涨0.3%，报3.043，创1995年10月以来新高；特拉维夫股市股指上涨1.6%。",
+          "url": "https://flash.jin10.com/detail/20260410183109729800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "金十图示：2026年04月09日（周四）全球股市指数-美洲市场（收盘）",
