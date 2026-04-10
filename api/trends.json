@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T22:45:38.932254+08:00",
-  "total_titles_processed": 1814,
+  "generated_at": "2026-04-10T23:50:36.893748+08:00",
+  "total_titles_processed": 1901,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/livenews/3085979",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时50分]"
         },
         {
           "title": "因伊朗停火协议持续，以色列新谢克尔兑美元上涨0.3%，报3.043，创1995年10月以来新高；特拉维夫股市股指上涨1.6%。",
@@ -58,7 +59,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         }
