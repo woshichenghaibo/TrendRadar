@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T15:24:23.508012+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2026-04-10T17:06:30.455462+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -44,11 +44,12 @@
             18,
             9,
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时43分 ~ 15时24分]"
+          "appearance_count": 8,
+          "time_info": "[05时43分 ~ 17时06分]"
         },
         {
           "title": "杨紫小夭女性角色热度TOP1",
