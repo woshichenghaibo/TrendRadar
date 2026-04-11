@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-04-11T21:54:55.268590+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-04-11T22:34:59.593355+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 3,
       "titles": [
+        {
+          "title": "“停火”后股市大涨，但华尔街的预期已变了",
+          "url": "https://wallstreetcn.com/articles/3769733",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时07分 ~ 22时34分]"
+        },
         {
           "title": "金十图示：2026年04月10日（周五）全球股市指数-美洲市场",
           "url": "https://flash.jin10.com/detail/20260411041034439800",
@@ -19,19 +33,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时20分 ~ 10时01分]"
-        },
-        {
-          "title": "“停火”后股市大涨，但华尔街的预期已变了",
-          "url": "https://wallstreetcn.com/articles/3769733",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时07分 ~ 21时54分]"
         },
         {
           "title": "非洲股市收盘播报｜周五（4月10日），南非富时/JSE非洲领先40可交易指数收涨0.69%，逼近11.15万点，本周累计上涨2.66%。",
