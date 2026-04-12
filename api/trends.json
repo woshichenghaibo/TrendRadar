@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T15:11:07.129185+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-04-12T16:43:56.407559+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "“停火”后股市大涨，但华尔街的预期已变了",
@@ -28,8 +28,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 15时11分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 16时43分]"
+        },
+        {
+          "title": "沙特阿拉伯股市指数早盘下跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20260412150154102800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "卡塔尔股市指数早盘下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260412144020402800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         }
       ]
     },
@@ -42,11 +64,12 @@
           "url": "https://www.toutiao.com/trending/7627382889730752548/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 15时11分]"
+          "appearance_count": 3,
+          "time_info": "[15时10分 ~ 16时43分]"
         },
         {
           "title": "2026 年清明档票房创近十年新低，进口片与女性故事均未能「救市」，这意味着什么？",
