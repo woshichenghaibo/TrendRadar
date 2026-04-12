@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T10:14:03.907096+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-04-12T13:21:37.522834+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“停火”后股市大涨，但华尔街的预期已变了",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 07时31分]"
+        },
+        {
+          "title": "在增长与油价双重压力下，外资创纪录流出印度股市",
+          "url": "https://wallstreetcn.com/articles/3769746",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     },
