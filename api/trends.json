@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T13:21:37.522834+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-04-12T15:11:07.129185+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
@@ -24,18 +24,30 @@
           "url": "https://wallstreetcn.com/articles/3769746",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时11分]"
         }
       ]
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "25岁男子猥亵20余名女性获刑8个月",
+          "url": "https://www.toutiao.com/trending/7627382889730752548/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        },
         {
           "title": "2026 年清明档票房创近十年新低，进口片与女性故事均未能「救市」，这意味着什么？",
           "url": "https://www.zhihu.com/question/2024891553655582756",
