@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T18:01:31.236463+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-04-13T19:23:03.060503+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时58分 ~ 18时01分]"
+          "appearance_count": 6,
+          "time_info": "[15时58分 ~ 19时23分]"
         },
         {
           "title": "美国总统特朗普：石油价格一开始可能降不下来，但最终还是会跌的。 原油价格与汽油价格可能会在中期选举之前下跌，也可能会略微更高。 坦率来说，汽油价格涨势并没有我（原来）想象的那么多。 （美国和以色列发动的伊朗）战争爆发以来，股市跌幅并不是非常大。",
@@ -106,6 +107,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时00分 ~ 18时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国企",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国企总经理“锁房”套现504万获刑",
+          "url": "https://www.toutiao.com/trending/7628131074174435337/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
         }
       ]
     }
