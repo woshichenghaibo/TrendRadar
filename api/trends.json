@@ -1,162 +1,22 @@
 {
-  "generated_at": "2026-04-13T23:14:43.367942+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2026-04-14T01:02:04.193936+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
           "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
           "url": "https://wallstreetcn.com/articles/3769786",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时58分 ~ 23时14分]"
-        },
-        {
-          "title": "美国总统特朗普：石油价格一开始可能降不下来，但最终还是会跌的。 原油价格与汽油价格可能会在中期选举之前下跌，也可能会略微更高。 坦率来说，汽油价格涨势并没有我（原来）想象的那么多。 （美国和以色列发动的伊朗）战争爆发以来，股市跌幅并不是非常大。",
-          "url": "https://wallstreetcn.com/livenews/3086448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时38分]"
-        },
-        {
-          "title": "美伊谈判无果而终：油价重返100美元上方 亚太股市普遍走低",
-          "url": "https://www.cls.cn/detail/2341832",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时00分 ~ 18时01分]"
-        },
-        {
-          "title": "3月末银行理财环比下降超万亿元，季节性因素叠加近期股市回调等导致",
-          "url": "https://wallstreetcn.com/livenews/3086514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-04-13）",
-          "url": "https://flash.jin10.com/detail/20260413210005667800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "港股市场“Token第一股”迅策(03317.HK)涨超20%，今年以来累涨超625%。",
-          "url": "https://flash.jin10.com/detail/20260413094709274800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "金十图示：2026年04月13日（周一）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260413220222047800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "美国总统特朗普：战争爆发之后，股市实际上没跌多少。",
-          "url": "https://flash.jin10.com/detail/20260412223442403800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "25岁男子猥亵20余名女性获刑8个月",
-          "url": "https://www.toutiao.com/trending/7627382889730752548/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时32分 ~ 07时32分]"
-        },
-        {
-          "title": "西宁一面馆标语是对女性的直接冒犯",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%81%E4%B8%80%E9%9D%A2%E9%A6%86%E6%A0%87%E8%AF%AD%E6%98%AF%E5%AF%B9%E5%A5%B3%E6%80%A7%E7%9A%84%E7%9B%B4%E6%8E%A5%E5%86%92%E7%8A%AF%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时00分 ~ 18时01分]"
-        },
-        {
-          "title": "3位女性自述如何反对二手烟霸凌",
-          "url": "https://www.toutiao.com/trending/7628104126454513714/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国企总经理“锁房”套现504万获刑",
-          "url": "https://www.toutiao.com/trending/7628131074174435337/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     }
