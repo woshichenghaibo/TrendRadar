@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T01:02:04.193936+08:00",
-  "total_titles_processed": 316,
+  "generated_at": "2026-04-14T03:11:51.474369+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
@@ -15,8 +15,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 03时11分]"
+        },
+        {
+          "title": "霍尔木兹风险再起 油价大涨 美欧股市齐跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2342668",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         }
       ]
     }
