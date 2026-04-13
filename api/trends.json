@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T19:23:03.060503+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-04-13T21:21:15.330197+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时58分 ~ 19时23分]"
+          "appearance_count": 7,
+          "time_info": "[15时58分 ~ 21时21分]"
         },
         {
           "title": "美国总统特朗普：石油价格一开始可能降不下来，但最终还是会跌的。 原油价格与汽油价格可能会在中期选举之前下跌，也可能会略微更高。 坦率来说，汽油价格涨势并没有我（原来）想象的那么多。 （美国和以色列发动的伊朗）战争爆发以来，股市跌幅并不是非常大。",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-04-13）",
+          "url": "https://flash.jin10.com/detail/20260413210005667800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "港股市场“Token第一股”迅策(03317.HK)涨超20%，今年以来累涨超625%。",
