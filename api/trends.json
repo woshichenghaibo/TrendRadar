@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T13:38:58.293353+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-04-13T15:59:07.241285+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国总统特朗普：石油价格一开始可能降不下来，但最终还是会跌的。 原油价格与汽油价格可能会在中期选举之前下跌，也可能会略微更高。 坦率来说，汽油价格涨势并没有我（原来）想象的那么多。 （美国和以色列发动的伊朗）战争爆发以来，股市跌幅并不是非常大。",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时35分 ~ 03时38分]"
+        },
+        {
+          "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
+          "url": "https://wallstreetcn.com/articles/3769786",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 15时59分]"
         },
         {
           "title": "3月末银行理财环比下降超万亿元，季节性因素叠加近期股市回调等导致",
