@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T04:04:16.930111+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-04-15T05:49:04.571920+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2343966",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 05时49分]"
         },
         {
           "title": "金十图示：2026年04月14日（周二）全球股市指数-欧洲市场",
