@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T07:40:43.476788+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-04-14T10:13:11.580537+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时11分 ~ 07时40分]"
+          "appearance_count": 9,
+          "time_info": "[03时11分 ~ 10时13分]"
         },
         {
           "title": "金十图示：2026年04月13日（周一）全球股市指数-美洲市场（收盘）",
@@ -42,6 +42,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "挂对女性冒犯标语面馆近期成立",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8C%82%E5%AF%B9%E5%A5%B3%E6%80%A7%E5%86%92%E7%8A%AF%E6%A0%87%E8%AF%AD%E9%9D%A2%E9%A6%86%E8%BF%91%E6%9C%9F%E6%88%90%E7%AB%8B%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
         }
       ]
     }
