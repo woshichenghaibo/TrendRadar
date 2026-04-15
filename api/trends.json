@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T05:50:07.901679+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-04-16T06:48:02.386091+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时50分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时48分]"
         },
         {
           "title": "中国和西班牙推动两国企业深化科技创新和产供链合作",
@@ -54,7 +54,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         }
