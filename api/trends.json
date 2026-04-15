@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T13:22:02.996550+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-04-15T15:28:17.479266+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊释放继续谈判信号 油价跌破100美元 全球股市普涨 | 今夜看点",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时05分 ~ 10时09分]"
+        },
+        {
+          "title": "金十图示：2026年04月15日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260415151137311800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出766.52亿元，占比3.17%；大单资金净流出368.49亿元，占比1.53%；小单资金净流入643.61亿元，占比2.66%。",
+          "url": "https://flash.jin10.com/detail/20260415150641064800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "台湾股市盘中扩大涨幅近2%，站上37,000点大关，至37,019.87点的历史高点。",
@@ -56,8 +78,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 15时28分]"
         }
       ]
     }
