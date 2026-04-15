@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T17:16:27.248090+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-04-15T18:57:11.222900+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
@@ -59,7 +59,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -78,7 +78,7 @@
     },
     {
       "keyword_group": "国企",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "月薪4500的国企值得去吗",
@@ -87,11 +87,23 @@
           "ranks": [
             13,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 17时16分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 18时57分]"
+        },
+        {
+          "title": "山东一国企董事长主动投案",
+          "url": "https://www.toutiao.com/trending/7628894773202419739/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         }
       ]
     }
