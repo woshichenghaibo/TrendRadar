@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T15:28:17.479266+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-04-15T17:16:27.248090+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊释放继续谈判信号 油价跌破100美元 全球股市普涨 | 今夜看点",
@@ -26,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "全球股市为何在午后大多走弱",
+          "url": "https://www.toutiao.com/trending/7628878003896975414/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "金十图示：2026年04月14日（周二）全球股市指数-欧洲市场",
@@ -75,11 +86,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 17时16分]"
         }
       ]
     }
