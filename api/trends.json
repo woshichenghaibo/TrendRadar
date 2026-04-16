@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T10:31:30.850486+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-04-16T13:28:46.643222+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32977876",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 13时28分]"
         },
         {
           "title": "中国和西班牙推动两国企业深化科技创新和产供链合作",
@@ -56,8 +57,19 @@
     },
     {
       "keyword_group": "股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "贝莱德策略师因AI前景看好韩国股市",
+          "url": "https://flash.jin10.com/detail/20260416130206190800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
         {
           "title": "金十图示：2026年04月15日（周三）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260416040647346800",
