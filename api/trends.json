@@ -1,147 +1,39 @@
 {
-  "generated_at": "2026-04-16T22:53:11.756805+08:00",
-  "total_titles_processed": 1730,
+  "generated_at": "2026-04-17T00:21:47.370652+08:00",
+  "total_titles_processed": 303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年04月16日（周四）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260416151244906800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "宁德时代A股市值首次突破两万亿大关 跃居全市场第三 年内暴增近3800亿",
-          "url": "https://flash.jin10.com/detail/20260416165550323800",
+          "title": "金十图示：2026年04月16日（周四）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260416234043834800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
-          "title": "法国巴黎银行：美国投资者开始重返中国股市",
-          "url": "https://wallstreetcn.com/livenews/3089081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流入191.99亿元，占比0.82%；大单资金净流出47.57亿元，占比0.2%；小单资金净流入103.48亿元，占比0.44%。",
-          "url": "https://flash.jin10.com/detail/20260416150629280800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "贝莱德策略师因AI前景看好韩国股市",
-          "url": "https://flash.jin10.com/detail/20260416130206190800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "金十图示：2026年04月15日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260416040647346800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "time_info": "00时21分"
         }
       ]
     },
     {
       "keyword_group": "国企",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "观察丨广交会境外采购商超21万，采购商们为何青睐中国企业？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32977876",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时31分 ~ 22时53分]"
-        },
-        {
-          "title": "月薪4500的国企值得去吗",
-          "url": "https://www.toutiao.com/trending/7628471937186250806/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时48分]"
-        },
-        {
-          "title": "中国和西班牙推动两国企业深化科技创新和产供链合作",
-          "url": "https://wallstreetcn.com/livenews/3088668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "中国和西班牙推动两国企业深化科技创新和产供链合作",
-          "url": "https://flash.jin10.com/detail/20260416002149256800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "湖南黄金：预计2026年第一季度净利润为5.32亿元～6.31亿元，同比增长60.00%～90.00%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
-          "url": "https://wallstreetcn.com/livenews/3089146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时16分"
+          "time_info": "00时21分"
         }
       ]
     }
