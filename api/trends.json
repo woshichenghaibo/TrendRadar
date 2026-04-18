@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-18T13:05:00.712959+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-04-18T15:04:01.214791+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婚姻 女性",
       "match_count": 2,
       "titles": [
-        {
-          "title": "肺癌成中国女性第一大癌症",
-          "url": "https://www.baidu.com/s?wd=%E8%82%BA%E7%99%8C%E6%88%90%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%99%8C%E7%97%87",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 13时05分]"
-        },
         {
           "title": "报告称肺癌成中国女性第一大癌种，导致女性肺癌发病率升高的原因有哪些？日常该如何预防？",
           "url": "https://www.zhihu.com/question/2028401687027611513",
@@ -27,8 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时05分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 15时04分]"
+        },
+        {
+          "title": "肺癌成中国女性第一大癌症",
+          "url": "https://www.baidu.com/s?wd=%E8%82%BA%E7%99%8C%E6%88%90%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%99%8C%E7%97%87",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 15时04分]"
         }
       ]
     },
@@ -61,8 +62,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 13时05分]"
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 15时04分]"
         }
       ]
     }
