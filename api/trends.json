@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-19T01:35:03.843878+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-04-19T02:44:00.806426+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "肺癌成中国女性第一大癌症",
+          "url": "https://www.toutiao.com/trending/7629431624179056649/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 02时44分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://trend.guao.de/img/news.jpg"
 }
