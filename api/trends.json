@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T22:53:07.561171+08:00",
-  "total_titles_processed": 1610,
+  "generated_at": "2026-04-18T23:35:51.603056+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时44分 ~ 19时33分]"
+          "appearance_count": 7,
+          "time_info": "[16时44分 ~ 23时35分]"
         },
         {
           "title": "张伦硕与钟丽缇及继女共同生活超十年，仍渴望亲生孩子，如何看待他们的婚姻及各自情感需求？",
