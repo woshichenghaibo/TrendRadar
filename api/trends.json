@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T16:44:47.084236+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-04-18T17:45:07.221648+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "报告称肺癌成中国女性第一大癌种，导致女性肺癌发病率升高的原因有哪些？日常该如何预防？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 16时44分]"
+          "appearance_count": 8,
+          "time_info": "[10时04分 ~ 17时45分]"
         },
         {
           "title": "肺癌成中国女性第一大癌症",
@@ -26,22 +27,35 @@
           "ranks": [
             2,
             8,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 16时44分]"
+          "appearance_count": 7,
+          "time_info": "[13时04分 ~ 17时45分]"
         },
         {
           "title": "肺癌成中国女性第一大癌症",
           "url": "https://www.toutiao.com/trending/7629431624179056649/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 17时45分]"
+        },
+        {
+          "title": "张伦硕与钟丽缇及继女共同生活超十年，仍渴望亲生孩子，如何看待他们的婚姻及各自情感需求？",
+          "url": "https://www.zhihu.com/question/2028171068880282485",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
         }
       ]
     },
