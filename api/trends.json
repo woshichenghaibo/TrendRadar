@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T18:38:00.747639+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2026-04-18T19:33:17.578088+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             2,
             8,
             9,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时04分 ~ 18时38分]"
+          "appearance_count": 10,
+          "time_info": "[13时04分 ~ 19时33分]"
         },
         {
           "title": "肺癌成中国女性第一大癌症",
@@ -44,8 +45,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时44分 ~ 18时38分]"
+          "appearance_count": 6,
+          "time_info": "[16时44分 ~ 19时33分]"
         },
         {
           "title": "张伦硕与钟丽缇及继女共同生活超十年，仍渴望亲生孩子，如何看待他们的婚姻及各自情感需求？",
