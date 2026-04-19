@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T19:34:05.233143+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-04-19T20:56:44.576936+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
@@ -38,7 +38,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         }
@@ -55,11 +55,12 @@
           "ranks": [
             5,
             13,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 19时34分]"
+          "appearance_count": 5,
+          "time_info": "[17时44分 ~ 20时56分]"
         },
         {
           "title": "肺癌成中国女性第一大癌症",
