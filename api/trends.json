@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T10:26:55.891393+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-04-20T13:38:36.217754+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 10时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 13时38分]"
         },
         {
           "title": "持股市值不到7万元成公司第8大股东",
@@ -41,7 +42,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         }
