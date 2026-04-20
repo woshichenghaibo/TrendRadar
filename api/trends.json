@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T13:38:36.217754+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-04-20T16:02:35.165449+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "持股市值不到7万元成公司第8大股东",
@@ -34,6 +34,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时37分 ~ 07时34分]"
+        },
+        {
+          "title": "周末美伊“各施手段”，油价飙升近8%、美股期货回落，日韩股市上涨，黄金小幅走软",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "摩根士丹利：中国股市到年底预计仍具5-10%上涨空间 因电商竞争趋缓等",
