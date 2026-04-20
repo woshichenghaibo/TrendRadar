@@ -1,72 +1,22 @@
 {
-  "generated_at": "2026-04-20T22:47:23.146833+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2026-04-21T00:07:04.986952+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
-          "title": "持股市值不到7万元成公司第8大股东",
-          "url": "https://www.baidu.com/s?wd=%E6%8C%81%E8%82%A1%E5%B8%82%E5%80%BC%E4%B8%8D%E5%88%B07%E4%B8%87%E5%85%83%E6%88%90%E5%85%AC%E5%8F%B8%E7%AC%AC8%E5%A4%A7%E8%82%A1%E4%B8%9C",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 13时38分]"
-        },
-        {
-          "title": "持股市值不到7万元成公司第8大股东",
-          "url": "https://www.toutiao.com/trending/7630426929351262250/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            2,
-            5,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 07时34分]"
-        },
-        {
-          "title": "周末美伊“各施手段”，油价飙升近8%、美股期货回落，日韩股市上涨，黄金小幅走软",
-          "url": "https://wallstreetcn.com/articles/3770361",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "摩根士丹利：中国股市到年底预计仍具5-10%上涨空间 因电商竞争趋缓等",
-          "url": "https://wallstreetcn.com/livenews/3090727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "金十图示：2026年04月20日（周一）亚太市场股市指数",
-          "url": "https://flash.jin10.com/detail/20260420180316882800",
+          "title": "金十图示：2026年04月20日（周一）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260420234111459800",
           "source": "金十数据",
           "ranks": [
-            29
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "00时07分"
         }
       ]
     }
