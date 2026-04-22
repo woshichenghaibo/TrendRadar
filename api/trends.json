@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T21:20:59.249735+08:00",
-  "total_titles_processed": 1584,
+  "generated_at": "2026-04-22T23:10:54.226880+08:00",
+  "total_titles_processed": 1710,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             14,
             10,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时12分 ~ 21时20分]"
+          "appearance_count": 8,
+          "time_info": "[10时12分 ~ 23时10分]"
         },
         {
           "title": "金十图示：2026年04月22日（周三）全球股市指数-欧洲市场（盘初）",
@@ -40,7 +41,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
