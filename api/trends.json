@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T15:29:13.911654+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-04-22T17:19:26.715355+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -25,11 +25,12 @@
           "ranks": [
             19,
             14,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 15时29分]"
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 17时19分]"
         },
         {
           "title": "年内A股市场新增超千起并购重组交易",
@@ -60,7 +61,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -90,8 +91,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时29分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 17时19分]"
         },
         {
           "title": "伊朗司法机构否认特朗普提及的8名女性面临死刑",
@@ -121,6 +122,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国企",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达近期已向韩国主要电力设备企业提出，希望将数据中心基础设施设计为基于约800V直流的系统，目前其正与韩国企业私下推进讨论数据中心具体合作方案讨论。 (韩国The Asia Business Daily)",
+          "url": "https://wallstreetcn.com/livenews/3092442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     }
