@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-22T17:19:26.715355+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-04-22T19:03:33.067056+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 6,
       "titles": [
-        {
-          "title": "金十图示：2026年04月22日（周三）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260422151337157800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
         {
           "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
           "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
@@ -29,8 +18,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时12分 ~ 17时19分]"
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 19时03分]"
+        },
+        {
+          "title": "金十图示：2026年04月22日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260422151337157800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "年内A股市场新增超千起并购重组交易",
@@ -136,7 +136,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         }
