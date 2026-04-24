@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T05:44:42.534904+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-04-25T06:37:05.591113+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时44分]"
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时37分]"
         },
         {
           "title": "英国央行警告：股市估值过高，恐将迎来“调整”",
@@ -55,8 +55,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 05时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时37分]"
         }
       ]
     }
