@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T03:42:33.689527+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-04-26T04:36:24.695875+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时36分]"
         },
         {
           "title": "欧盟第20轮对俄制裁列单中国企业，商务部回应",
@@ -29,8 +29,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时36分]"
         },
         {
           "title": "商务部新闻发言人就欧盟第20轮对俄制裁列单中国企业答记者问",
@@ -40,8 +40,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时36分]"
         }
       ]
     },
@@ -58,8 +58,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时36分]"
         }
       ]
     }
