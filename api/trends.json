@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T22:04:38.624966+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-04-25T23:38:15.965262+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时49分 ~ 22时04分]"
+          "appearance_count": 10,
+          "time_info": "[16时49分 ~ 23时38分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）全球股市指数-美洲市场",
@@ -78,11 +78,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时04分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时38分]"
         },
         {
           "title": "欧盟对俄制裁列单中国企业，商务部回应",
@@ -92,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时04分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时38分]"
         },
         {
           "title": "商务部新闻发言人就欧盟第20轮对俄制裁列单中国企业答记者问",
@@ -101,11 +102,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时04分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时38分]"
         }
       ]
     },
