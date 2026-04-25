@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T16:50:13.534086+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-04-25T17:51:09.109615+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://wallstreetcn.com/articles/3770880",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
+          "appearance_count": 4,
+          "time_info": "[16时49分 ~ 17时51分]"
         },
         {
           "title": "英国央行警告：股市估值过高，恐将迎来“调整”",
@@ -60,6 +61,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "上市公司前老总陆宏达被指在美性侵女性",
+          "url": "https://www.toutiao.com/trending/7632605327883505203/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时49分 ~ 17时51分]"
+        },
+        {
           "title": "赛场上霸气侧漏的孙杨，为什么婚姻里却成了要妻子哄着的「高需求宝宝」？这种相处模式为什么会让人感到窒息？",
           "url": "https://www.zhihu.com/question/2030935546139079633",
           "source": "知乎",
@@ -71,17 +83,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时06分 ~ 16时50分]"
-        },
-        {
-          "title": "上市公司前老总陆宏达被指在美性侵女性",
-          "url": "https://www.toutiao.com/trending/7632605327883505203/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
         }
       ]
     },
