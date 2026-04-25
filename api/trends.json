@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T15:11:38.187695+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-04-25T16:50:13.534086+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2026年04月24日（周五）全球股市指数-美洲市场",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时43分 ~ 10时07分]"
+        },
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
           "title": "英国央行警告：股市估值过高，恐将迎来“调整”",
@@ -45,6 +56,36 @@
       ]
     },
     {
+      "keyword_group": "婚姻 女性",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "赛场上霸气侧漏的孙杨，为什么婚姻里却成了要妻子哄着的「高需求宝宝」？这种相处模式为什么会让人感到窒息？",
+          "url": "https://www.zhihu.com/question/2030935546139079633",
+          "source": "知乎",
+          "ranks": [
+            3,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 16时50分]"
+        },
+        {
+          "title": "上市公司前老总陆宏达被指在美性侵女性",
+          "url": "https://www.toutiao.com/trending/7632605327883505203/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "国企",
       "match_count": 1,
       "titles": [
@@ -59,24 +100,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时53分 ~ 10时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "赛场上霸气侧漏的孙杨，为什么婚姻里却成了要妻子哄着的「高需求宝宝」？这种相处模式为什么会让人感到窒息？",
-          "url": "https://www.zhihu.com/question/2030935546139079633",
-          "source": "知乎",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 15时11分]"
         }
       ]
     }
