@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-25T17:51:09.109615+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-04-25T18:41:08.490986+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 4,
       "titles": [
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时49分 ~ 18时41分]"
+        },
         {
           "title": "金十图示：2026年04月24日（周五）全球股市指数-美洲市场",
           "url": "https://flash.jin10.com/detail/20260425040623846800",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时43分 ~ 10时07分]"
-        },
-        {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 17时51分]"
         },
         {
           "title": "英国央行警告：股市估值过高，恐将迎来“调整”",
@@ -68,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 17时51分]"
+          "appearance_count": 6,
+          "time_info": "[16时49分 ~ 18时41分]"
         },
         {
           "title": "赛场上霸气侧漏的孙杨，为什么婚姻里却成了要妻子哄着的「高需求宝宝」？这种相处模式为什么会让人感到窒息？",
