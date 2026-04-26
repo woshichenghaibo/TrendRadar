@@ -1,158 +1,50 @@
 {
-  "generated_at": "2026-04-26T23:39:57.368311+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-04-27T00:39:41.689514+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "国企",
-      "match_count": 5,
+      "keyword_group": "股市",
+      "match_count": 2,
       "titles": [
         {
-          "title": "欧盟第20轮对俄制裁列单中国企业，商务部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33054056",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            16,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时38分 ~ 19时38分]"
-        },
-        {
-          "title": "欧盟对俄制裁列单中国企业，商务部回应",
-          "url": "https://news.ifeng.com/c/8scLrtJqc3W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时35分]"
-        },
-        {
-          "title": "周末要闻汇总：欧盟对俄制裁列单中国企业，中方发声；宁王重登主动基金头号重仓股",
-          "url": "https://www.cls.cn/detail/2355924",
+          "title": "A股市场短期或将延续震荡上行格局？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2356009",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时42分 ~ 23时39分]"
-        },
-        {
-          "title": "商务部新闻发言人就欧盟第20轮对俄制裁列单中国企业答记者问",
-          "url": "https://wallstreetcn.com/livenews/3094385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时35分]"
-        },
-        {
-          "title": "欧盟对俄制裁列单中国企业 中方回应",
-          "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E7%9B%9F%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81%E5%88%97%E5%8D%95%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 10时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "股市",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 10时30分]"
-        },
-        {
-          "title": "中东股市收盘播报｜周日（4月26日），阿曼MSM 30指数收跌0.44%，连续六个交易日下跌（4月16日结束交易以来累计回撤2.59%），报8123.73点，4月16日曾涨至8388.28点——逼近2008年9月29日顶部8563.41点和当年7月8日顶部11957.75点。 卡塔尔证交所指数收涨0.05%，报10668.05点。 科威特证交所超级市场价格回报指数收涨0.26%，报946903点。",
-          "url": "https://wallstreetcn.com/livenews/3094499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
           "title": "中东股市收盘播报｜埃及股市继续创收盘历史新高，阿曼股指连跌六天",
           "url": "https://wallstreetcn.com/livenews/3094499",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23,
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 23时39分]"
-        },
-        {
-          "title": "A股市场短期或将延续震荡上行格局？投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2356009",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时39分"
+          "time_info": "00时39分"
         }
       ]
     },
     {
-      "keyword_group": "婚姻 女性",
-      "match_count": 2,
+      "keyword_group": "国企",
+      "match_count": 1,
       "titles": [
         {
-          "title": "白宫晚宴坐特朗普身旁华裔女性是谁",
-          "url": "https://www.toutiao.com/trending/7632873881258622985/",
-          "source": "今日头条",
+          "title": "周末要闻汇总：欧盟对俄制裁列单中国企业，中方发声；宁王重登主动基金头号重仓股",
+          "url": "https://www.cls.cn/detail/2355924",
+          "source": "财联社热门",
           "ranks": [
-            22
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "男子出狱2年多诈骗两名女性超240万",
-          "url": "https://www.toutiao.com/trending/7632665238919561235/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 15时25分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         }
       ]
     }
