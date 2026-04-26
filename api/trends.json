@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T17:55:18.384279+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-04-26T18:43:06.340784+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国企",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "欧盟第20轮对俄制裁列单中国企业，商务部回应",
@@ -20,8 +20,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 17时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 18时43分]"
         },
         {
           "title": "欧盟对俄制裁列单中国企业，商务部回应",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时35分 ~ 10时30分]"
+        },
+        {
+          "title": "周末要闻汇总：欧盟对俄制裁列单中国企业，中方发声；宁王重登主动基金头号重仓股",
+          "url": "https://www.cls.cn/detail/2355924",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
         }
       ]
     },
