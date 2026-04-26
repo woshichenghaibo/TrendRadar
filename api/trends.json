@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T16:57:55.371569+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-04-26T17:55:18.384279+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             19,
             17,
             16,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 16时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 17时55分]"
         },
         {
           "title": "欧盟对俄制裁列单中国企业，商务部回应",
