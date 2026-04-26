@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T00:39:41.689514+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-27T01:36:48.391712+08:00",
+  "total_titles_processed": 353,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时36分]"
         },
         {
           "title": "中东股市收盘播报｜埃及股市继续创收盘历史新高，阿曼股指连跌六天",
@@ -26,8 +26,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时36分]"
         }
       ]
     },
@@ -40,11 +40,29 @@
           "url": "https://www.cls.cn/detail/2355924",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 女性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "女性多和好友聚会能“续命”",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E5%A4%9A%E5%92%8C%E5%A5%BD%E5%8F%8B%E8%81%9A%E4%BC%9A%E8%83%BD%E2%80%9C%E7%BB%AD%E5%91%BD%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时39分"
+          "time_info": "01时36分"
         }
       ]
     }
