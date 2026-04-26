@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T04:36:23.545605+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-04-27T05:35:54.809605+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时35分]"
         },
         {
           "title": "中东股市收盘播报｜埃及股市继续创收盘历史新高，阿曼股指连跌六天",
@@ -45,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时35分]"
         }
       ]
     },
@@ -62,11 +62,12 @@
             30,
             22,
             14,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 04时36分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 05时35分]"
         }
       ]
     }
