@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-28T03:15:35.476427+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-04-28T05:00:33.070595+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年04月27日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260428040649271800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://trend.guao.de/img/news.jpg"
 }
