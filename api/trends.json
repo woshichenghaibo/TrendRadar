@@ -1,102 +1,33 @@
 {
-  "generated_at": "2026-04-28T21:58:13.455641+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2026-04-29T00:08:38.042205+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金十图示：2026年04月27日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260428040649271800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时00分 ~ 06时57分]"
-        },
-        {
-          "title": "美伊谈判毫无实质进展，为何股市又嗨了？",
-          "url": "https://wallstreetcn.com/articles/3770973",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 16时25分]"
-        },
-        {
-          "title": "法巴：主动资金三年来首次净流入中国股市 被动资金正大规模流入亚洲",
-          "url": "https://wallstreetcn.com/livenews/3095566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "【章建平一季度新进北方稀土前十大流通股东，持股市值达34.45亿元】北方稀土发布的2026年一季报显示，章建平新进公司前十大流通股东，持股7225.44万股，占总股本比例为2%。以季末股价计算，持股市值达到34.45亿元。目前，章建平一季度持有4只个股，分别为北方稀土、东材科技、西部材料和四川黄金，除东材科技为加仓股，其他三只均为一季度新进。",
-          "url": "https://wallstreetcn.com/livenews/3095666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
         {
-          "title": "黄金价格跌跌不休",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "金十图示：2026年04月28日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260428235029165800",
+          "source": "金十数据",
           "ranks": [
-            13
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时25分"
+          "time_info": "00时08分"
         },
         {
-          "title": "德商银行：如果油价持续上涨，黄金价格可能会回落至4500美元/盎司附近。",
-          "url": "https://flash.jin10.com/detail/20260428182036647800",
+          "title": "金十图示：2026年04月28日（周二）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260428235006634800",
           "source": "金十数据",
           "ranks": [
-            24
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "香港恒生指数4月28日（周二）收盘下跌245.87点，跌幅0.95%，报25679.78点；<br/>香港恒生科技指数4月28日（周二）收盘下跌112.65点，跌幅2.28%，报4827.19点；<br/>国企指数4月28日（周二）收盘下跌111.51点，跌幅1.27%，报8644.81点；<br/>红筹指数4月28日（周二）收盘下跌1.85点，跌幅0.04%，报4336.7点。",
-          "url": "https://flash.jin10.com/detail/20260428161202777800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "time_info": "00时08分"
         }
       ]
     }
