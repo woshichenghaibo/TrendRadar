@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T16:12:19.940092+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-04-29T18:54:03.063580+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 16时12分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 18时54分]"
         },
         {
           "title": "金十图示：2026年04月28日（周二）全球股市指数-美洲市场（盘初）",
