@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T06:54:46.478572+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-04-30T07:53:25.657378+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 06时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 07时53分]"
         },
         {
           "title": "金十图示：2026年04月29日（周三）全球股市指数-美洲市场（收盘）",
