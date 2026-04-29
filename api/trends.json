@@ -1,78 +1,22 @@
 {
-  "generated_at": "2026-04-29T23:11:18.079773+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2026-04-30T01:25:37.429896+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
           "url": "https://wallstreetcn.com/articles/3771182",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时52分 ~ 23时11分]"
-        },
-        {
-          "title": "金十图示：2026年04月28日（周二）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260428235029165800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "渣打：全球股市在（美国和以色列发动）伊朗战争期间走弱，这推高美元。",
-          "url": "https://wallstreetcn.com/livenews/3096786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "金十图示：2026年04月28日（周二）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260428235006634800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "建议所有女性多做力量训练",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%A5%B3%E6%80%A7%E5%A4%9A%E5%81%9A%E5%8A%9B%E9%87%8F%E8%AE%AD%E7%BB%83%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            23,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 07时54分]"
+          "time_info": "01时25分"
         }
       ]
     }
