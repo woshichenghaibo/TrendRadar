@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-29T13:52:51.994251+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-04-29T16:12:19.940092+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 16时12分]"
+        },
         {
           "title": "金十图示：2026年04月28日（周二）全球股市指数-美洲市场（盘初）",
           "url": "https://flash.jin10.com/detail/20260428235029165800",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         }
       ]
     },
