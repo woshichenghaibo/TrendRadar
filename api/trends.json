@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T04:39:48.448912+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-05-03T05:38:12.567107+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问",
