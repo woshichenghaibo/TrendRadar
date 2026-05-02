@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T07:50:06.541984+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-05-02T10:28:45.368118+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260502040605158800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时49分 ~ 07时50分]"
+          "appearance_count": 5,
+          "time_info": "[04时49分 ~ 10时28分]"
         },
         {
           "title": "美国总统特朗普兜售股市上涨。",
