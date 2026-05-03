@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T05:39:33.510547+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-05-04T06:38:24.908352+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2362210",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 06时38分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -27,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 06时38分]"
         }
       ]
     }
