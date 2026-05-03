@@ -1,53 +1,33 @@
 {
-  "generated_at": "2026-05-03T23:44:23.495360+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-05-04T00:45:57.437785+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国企",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
           "url": "https://www.cls.cn/detail/2362210",
           "source": "财联社热门",
           "ranks": [
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时37分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时45分"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
           "url": "https://www.cls.cn/detail/2362134",
           "source": "财联社热门",
           "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4,
-            3,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时42分 ~ 23时44分]"
-        },
-        {
-          "title": "商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问",
-          "url": "https://wallstreetcn.com/livenews/3098146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时54分]"
+          "appearance_count": 1,
+          "time_info": "00时45分"
         }
       ]
     }
