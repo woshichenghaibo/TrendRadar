@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T17:16:30.491270+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-05-04T19:46:43.460941+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI狂潮继续！亚太股市逼近历史新高，韩股暴涨4%，SK海力士一度涨14%，恒科指大涨近3%",
@@ -36,11 +36,12 @@
           "ranks": [
             17,
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时36分 ~ 17时16分]"
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 19时46分]"
         },
         {
           "title": "美伊释放矛盾信号，亚太股市冲高回落，韩股一度再创历史新高，恒科指涨超3%，布油抹去全部跌幅",
@@ -52,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "摩根士丹利认为，科技公司财报对股市的影响将超过伊朗战争的影响",
+          "url": "https://flash.jin10.com/detail/20260504182510010800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         }
       ]
     },
@@ -69,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 17时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 19时46分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -82,8 +94,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 17时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 19时46分]"
         },
         {
           "title": "香港恒生指数5月4日（周一）收盘上涨319.35点，涨幅1.24%，报26095.88点；<br/>香港恒生科技指数5月4日（周一）收盘上涨105.38点，涨幅2.16%，报4976.7点；<br/>国企指数5月4日（周一）收盘上涨92.56点，涨幅1.07%，报8774.39点；<br/>红筹指数5月4日（周一）收盘上涨20.91点，涨幅0.48%，报4411.24点。",
@@ -92,7 +104,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         }
@@ -109,11 +121,12 @@
           "ranks": [
             10,
             17,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时36分 ~ 17时16分]"
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 19时46分]"
         }
       ]
     }
