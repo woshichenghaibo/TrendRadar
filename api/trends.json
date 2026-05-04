@@ -1,132 +1,50 @@
 {
-  "generated_at": "2026-05-04T21:52:44.787691+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-05-05T00:02:55.934460+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "股市",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "AI狂潮继续！亚太股市逼近历史新高，韩股暴涨4%，SK海力士一度涨14%，恒科指大涨近3%",
-          "url": "https://wallstreetcn.com/articles/3771519",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "金十图示：2026年05月04日（周一）全球股市指数-亚太市场",
-          "url": "https://flash.jin10.com/detail/20260504102701342800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "巴菲特场外访谈警告股市“赌场化”：投机风气已达顶峰",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33095220",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时36分 ~ 21时52分]"
-        },
-        {
-          "title": "美伊释放矛盾信号，亚太股市冲高回落，韩股一度再创历史新高，恒科指涨超3%，布油抹去全部跌幅",
-          "url": "https://wallstreetcn.com/articles/3771519",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "摩根士丹利认为，科技公司财报对股市的影响将超过伊朗战争的影响",
-          "url": "https://flash.jin10.com/detail/20260504182510010800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "国企",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
           "url": "https://www.cls.cn/detail/2362210",
           "source": "财联社热门",
           "ranks": [
-            2,
-            3,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 21时52分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
           "url": "https://www.cls.cn/detail/2362134",
           "source": "财联社热门",
           "ranks": [
-            3,
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 21时52分]"
-        },
-        {
-          "title": "香港恒生指数5月4日（周一）收盘上涨319.35点，涨幅1.24%，报26095.88点；<br/>香港恒生科技指数5月4日（周一）收盘上涨105.38点，涨幅2.16%，报4976.7点；<br/>国企指数5月4日（周一）收盘上涨92.56点，涨幅1.07%，报8774.39点；<br/>红筹指数5月4日（周一）收盘上涨20.91点，涨幅0.48%，报4411.24点。",
-          "url": "https://flash.jin10.com/detail/20260504161115575800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时16分"
+          "time_info": "00时02分"
         }
       ]
     },
     {
-      "keyword_group": "婚姻 女性",
+      "keyword_group": "股市",
       "match_count": 1,
       "titles": [
         {
-          "title": "医生提醒女性勿过度防晒，失眠抑郁的人大都缺维生素 D，怎样防晒才刚好？",
-          "url": "https://www.zhihu.com/question/1906828518555350720",
-          "source": "知乎",
+          "title": "金十图示：2026年05月04日（周一）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260504235902134800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            17,
-            14,
-            19
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 19时46分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     }
