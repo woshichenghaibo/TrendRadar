@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T19:46:43.460941+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2026-05-04T21:52:44.787691+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 19时46分]"
+          "appearance_count": 5,
+          "time_info": "[10时36分 ~ 21时52分]"
         },
         {
           "title": "美伊释放矛盾信号，亚太股市冲高回落，韩股一度再创历史新高，恒科指涨超3%，布油抹去全部跌幅",
@@ -61,7 +61,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         }
@@ -81,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 19时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 21时52分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -94,8 +94,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 19时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 21时52分]"
         },
         {
           "title": "香港恒生指数5月4日（周一）收盘上涨319.35点，涨幅1.24%，报26095.88点；<br/>香港恒生科技指数5月4日（周一）收盘上涨105.38点，涨幅2.16%，报4976.7点；<br/>国企指数5月4日（周一）收盘上涨92.56点，涨幅1.07%，报8774.39点；<br/>红筹指数5月4日（周一）收盘上涨20.91点，涨幅0.48%，报4411.24点。",
