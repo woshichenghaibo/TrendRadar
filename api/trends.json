@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T07:53:07.703204+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2026-05-05T10:33:09.904554+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
@@ -44,7 +44,7 @@
     },
     {
       "keyword_group": "国企",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 10时33分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时47分]"
+        },
+        {
+          "title": "香港恒生指数5月5日（周二）开盘下跌150.13点，跌幅0.58%，报25945.75点；<br/>香港恒生科技指数5月5日（周二）开盘下跌27.58点，跌幅0.55%，报4949.12点；<br/>国企指数5月5日（周二）开盘下跌38.04点，跌幅0.43%，报8736.35点；<br/>红筹指数5月5日（周二）开盘下跌8.68点，跌幅0.2%，报4402.56点。",
+          "url": "https://flash.jin10.com/detail/20260505092125834800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         }
       ]
     }
