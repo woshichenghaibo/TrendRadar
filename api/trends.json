@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T22:02:58.651067+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-05-07T00:25:44.623643+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
@@ -12,59 +12,22 @@
           "url": "https://www.cls.cn/detail/2363932",
           "source": "财联社热门",
           "ranks": [
-            4
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时02分"
+          "time_info": "00时25分"
         },
         {
-          "title": "A股市场节后放量上涨 谁在买入",
-          "url": "https://www.toutiao.com/trending/7636703345259843126/",
-          "source": "今日头条",
+          "title": "金十图示：2026年05月06日（周三）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260506234250957800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 22时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国企",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国驻英国使馆发言人就英方制裁中国实体问题答记者问：将采取有力举措维护中国企业合法权益",
-          "url": "https://wallstreetcn.com/livenews/3099020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AA制婚姻忽视了生育付出",
-          "url": "https://www.douyin.com/hot/2489625",
-          "source": "抖音",
-          "ranks": [
-            21,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 13时55分]"
+          "time_info": "00时25分"
         }
       ]
     }
