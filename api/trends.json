@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-07T14:00:41.819091+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-05-07T16:44:02.433381+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 8,
       "titles": [
+        {
+          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时49分 ~ 16时44分]"
+        },
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
           "url": "https://www.cls.cn/detail/2363932",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 08时03分]"
-        },
-        {
-          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3771614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时49分 ~ 14时00分]"
         },
         {
           "title": "美国股市正经历极端上涨行情",
@@ -57,11 +57,12 @@
           "url": "https://www.cls.cn/detail/2364594",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
+          "appearance_count": 4,
+          "time_info": "[13时59分 ~ 16时44分]"
         },
         {
           "title": "金十图示：2026年05月06日（周三）全球股市指数-美洲市场（收盘）",
@@ -100,7 +101,7 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "麻辣烫日本火爆被年轻女性当成药膳",
@@ -112,6 +113,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时02分 ~ 10时36分]"
+        },
+        {
+          "title": "麻辣烫日本火爆被年轻女性当成药膳",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%97%A5%E6%9C%AC%E7%81%AB%E7%88%86%E8%A2%AB%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7%E5%BD%93%E6%88%90%E8%8D%AF%E8%86%B3%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         }
       ]
     }
