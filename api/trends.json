@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T10:36:31.324154+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2026-05-07T14:00:41.819091+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -27,8 +27,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时49分 ~ 10时36分]"
+          "appearance_count": 6,
+          "time_info": "[06时49分 ~ 14时00分]"
+        },
+        {
+          "title": "美国股市正经历极端上涨行情",
+          "url": "https://www.toutiao.com/trending/7636967938674658879/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
         },
         {
           "title": "金十图示：2026年05月07日（周四）亚太市场股市指数（盘初）",
@@ -37,9 +48,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
         },
         {
           "title": "金十图示：2026年05月06日（周三）全球股市指数-美洲市场（收盘）",
@@ -70,7 +92,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         }
