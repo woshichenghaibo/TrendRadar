@@ -1,84 +1,22 @@
 {
-  "generated_at": "2026-05-08T23:32:19.358486+08:00",
-  "total_titles_processed": 1710,
+  "generated_at": "2026-05-09T01:14:39.543026+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "股市",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3771614",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 07时01分]"
-        },
-        {
-          "title": "欧洲央行执委Schnabel：在我看来，伊朗战争造成的某些伤害难以逆转。 股市定价与全球局势似乎存在脱节。",
-          "url": "https://wallstreetcn.com/livenews/3100146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 04时12分]"
-        },
-        {
-          "title": "金十图示：2026年05月07日（周四）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260507234043371800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "美国股市延续跌势；标普500指数下跌0.51%，纳斯达克下跌0.29%，道琼斯下跌0.78%。",
-          "url": "https://flash.jin10.com/detail/20260508015608869800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时21分"
-        },
-        {
-          "title": "金十图示：2026年05月07日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260508045828626800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
+      "keyword_group": "婚姻 女性",
       "match_count": 1,
       "titles": [
         {
-          "title": "亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美媒称美军空袭伊朗港口。",
-          "url": "https://wallstreetcn.com/livenews/3100231",
-          "source": "华尔街见闻-快讯",
+          "title": "已婚无业男冒充公务员诈骗多名女性",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B2%E5%A9%9A%E6%97%A0%E4%B8%9A%E7%94%B7%E5%86%92%E5%85%85%E5%85%AC%E5%8A%A1%E5%91%98%E8%AF%88%E9%AA%97%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7",
+          "source": "百度热搜",
           "ranks": [
-            14
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "01时14分"
         }
       ]
     }
