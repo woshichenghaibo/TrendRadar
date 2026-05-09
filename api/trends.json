@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-09T12:22:10.840908+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-05-09T15:06:27.670023+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 4,
       "titles": [
+        {
+          "title": "精神病院炒股 持股市值超千万",
+          "url": "https://www.douyin.com/hot/2492713",
+          "source": "抖音",
+          "ranks": [
+            30,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 15时06分]"
+        },
         {
           "title": "金十图示：2026年05月08日（周五）全球股市指数-美洲市场",
           "url": "https://flash.jin10.com/detail/20260509040619150800",
@@ -31,17 +43,6 @@
           "time_info": "[07时01分 ~ 08时04分]"
         },
         {
-          "title": "精神病院炒股 持股市值超千万",
-          "url": "https://www.douyin.com/hot/2492713",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时22分]"
-        },
-        {
           "title": "拉美货币与股市受伊朗和平预期提振，本周整体走高",
           "url": "https://wallstreetcn.com/livenews/3100898",
           "source": "华尔街见闻-快讯",
@@ -56,7 +57,7 @@
     },
     {
       "keyword_group": "婚姻 女性",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "已婚无业男冒充公务员诈骗多名女性",
@@ -70,6 +71,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时14分 ~ 07时01分]"
+        },
+        {
+          "title": "已婚男子冒充公务员诈骗多名女性 170 万，已被刑事拘留，其将承担哪些法律责任？如何识别和防范类似骗局？",
+          "url": "https://www.zhihu.com/question/2036354653927864157",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时05分 ~ 15时06分]"
         }
       ]
     }
