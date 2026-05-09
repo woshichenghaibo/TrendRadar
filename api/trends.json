@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T22:48:38.109809+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-05-09T23:50:02.354223+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "精神病院炒股 持股市值超千万",
@@ -55,6 +55,17 @@
           "time_info": "[07时01分 ~ 08时04分]"
         },
         {
+          "title": "精神病院炒股 持股市值超千万",
+          "url": "https://www.toutiao.com/trending/7637862815188913690/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时49分 ~ 23时50分]"
+        },
+        {
           "title": "拉美货币与股市受伊朗和平预期提振，本周整体走高",
           "url": "https://wallstreetcn.com/livenews/3100898",
           "source": "华尔街见闻-快讯",
@@ -102,7 +113,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         }
