@@ -1,59 +1,12 @@
 {
-  "generated_at": "2026-05-09T23:50:02.354223+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2026-05-10T00:52:20.396389+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "精神病院炒股 持股市值超千万",
-          "url": "https://www.douyin.com/hot/2492713",
-          "source": "抖音",
-          "ranks": [
-            30,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 17时17分]"
-        },
-        {
-          "title": "金十图示：2026年05月08日（周五）全球股市指数-美洲市场",
-          "url": "https://flash.jin10.com/detail/20260509040619150800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时57分 ~ 08时04分]"
-        },
-        {
-          "title": "伊朗战争丨中东战火不断，为何全球股市不跌反涨？",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时10分 ~ 22时48分]"
-        },
-        {
-          "title": "美国总统特朗普称赞股市上涨，称赞就业数据。",
-          "url": "https://wallstreetcn.com/livenews/3100952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时04分]"
-        },
         {
           "title": "精神病院炒股 持股市值超千万",
           "url": "https://www.toutiao.com/trending/7637862815188913690/",
@@ -62,60 +15,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时49分 ~ 23时50分]"
-        },
-        {
-          "title": "拉美货币与股市受伊朗和平预期提振，本周整体走高",
-          "url": "https://wallstreetcn.com/livenews/3100898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "已婚无业男冒充公务员诈骗多名女性",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B2%E5%A9%9A%E6%97%A0%E4%B8%9A%E7%94%B7%E5%86%92%E5%85%85%E5%85%AC%E5%8A%A1%E5%91%98%E8%AF%88%E9%AA%97%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 07时01分]"
-        },
-        {
-          "title": "已婚男子冒充公务员诈骗多名女性 170 万，已被刑事拘留，其将承担哪些法律责任？如何识别和防范类似骗局？",
-          "url": "https://www.zhihu.com/question/2036354653927864157",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
-        },
-        {
-          "title": "湖南一钓鱼者发现一具女性遗体",
-          "url": "https://www.toutiao.com/trending/7637837857461944346/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "00时52分"
         }
       ]
     }
