@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T15:06:27.670023+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-05-09T17:17:14.134772+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             30,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 15时06分]"
+          "appearance_count": 6,
+          "time_info": "[12时21分 ~ 17时17分]"
         },
         {
           "title": "金十图示：2026年05月08日（周五）全球股市指数-美洲市场",
