@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T08:04:19.030594+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-05-09T12:22:10.840908+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2026年05月08日（周五）全球股市指数-美洲市场",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时04分]"
+        },
+        {
+          "title": "精神病院炒股 持股市值超千万",
+          "url": "https://www.douyin.com/hot/2492713",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时22分]"
         },
         {
           "title": "拉美货币与股市受伊朗和平预期提振，本周整体走高",
