@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T19:49:51.467556+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-05-09T21:11:05.030167+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "精神病院炒股 持股市值超千万",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时57分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗战争丨中东战火不断，为何全球股市不跌反涨？",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 21时11分]"
         },
         {
           "title": "美国总统特朗普称赞股市上涨，称赞就业数据。",
