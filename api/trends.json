@@ -1,72 +1,7 @@
 {
-  "generated_at": "2026-05-10T23:51:38.710249+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-05-11T00:52:59.420679+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "婚姻 女性",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "交管队长回应被举报与女性举止亲密",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%A4%E7%AE%A1%E9%98%9F%E9%95%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%B8%8E%E5%A5%B3%E6%80%A7%E4%B8%BE%E6%AD%A2%E4%BA%B2%E5%AF%86%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            23,
-            19,
-            15,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时47分 ~ 07时44分]"
-        },
-        {
-          "title": "交管大队队长称“KTV饮酒与女性举止亲密”举报不实，官方回应已对其严肃批评",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33140867",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 19时49分]"
-        },
-        {
-          "title": "新修订《婚姻登记条例》施行一年 全国建成户外颁证点1330个",
-          "url": "https://flash.jin10.com/detail/20260510082521159800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "股市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "精神病院炒股 持股市值超千万",
-          "url": "https://www.toutiao.com/trending/7637862815188913690/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时57分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://trend.guao.de/img/news.jpg"
 }
