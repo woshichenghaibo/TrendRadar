@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T14:09:20.728717+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-05-10T16:51:41.460928+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 14时09分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 16时51分]"
         },
         {
           "title": "新修订《婚姻登记条例》施行一年 全国建成户外颁证点1330个",
