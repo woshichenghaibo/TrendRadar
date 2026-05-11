@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T18:36:41.499232+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-05-11T21:46:46.029748+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "中东股市收盘播报｜埃及股市涨1.9%继续创收盘历史新高，阿曼股指最近一年已涨超90%",
@@ -23,16 +23,39 @@
           "time_info": "[01时50分 ~ 05时47分]"
         },
         {
+          "title": "韩国股市暴涨股民躺赚的背后",
+          "url": "https://www.toutiao.com/trending/7638560529040018980/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "韩国股市大涨启动熔断机制",
           "url": "https://www.douyin.com/hot/2494836",
           "source": "抖音",
           "ranks": [
             27,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 18时36分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 21时46分]"
+        },
+        {
+          "title": "全球股市三大阵营比较",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E4%B8%89%E5%A4%A7%E9%98%B5%E8%90%A5%E6%AF%94%E8%BE%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "金十图示：2026年05月11日（周一）亚太市场股市指数（盘初）",
@@ -63,9 +86,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "摩根大通警告：全球股市屡创新高，底层逻辑已发生结构性巨变！",
+          "url": "https://flash.jin10.com/detail/20260511212418148800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "随着韩国KOSPI指数持续走强，韩国股市总市值今日首次突破7000万亿韩元大关。",
@@ -91,7 +125,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         }
