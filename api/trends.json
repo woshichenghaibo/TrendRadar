@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T10:50:41.400522+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-05-11T14:43:08.583905+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中东股市收盘播报｜埃及股市涨1.9%继续创收盘历史新高，阿曼股指最近一年已涨超90%",
@@ -23,13 +23,24 @@
           "time_info": "[01时50分 ~ 05时47分]"
         },
         {
+          "title": "韩国股市大涨启动熔断机制",
+          "url": "https://www.douyin.com/hot/2494836",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时43分]"
+        },
+        {
           "title": "金十图示：2026年05月11日（周一）亚太市场股市指数（盘初）",
           "url": "https://flash.jin10.com/detail/20260511102811363800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -40,7 +51,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -51,7 +62,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         }
