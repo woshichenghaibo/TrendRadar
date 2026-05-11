@@ -1,133 +1,39 @@
 {
-  "generated_at": "2026-05-11T21:46:46.029748+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2026-05-12T00:31:59.526984+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
-          "title": "中东股市收盘播报｜埃及股市涨1.9%继续创收盘历史新高，阿曼股指最近一年已涨超90%",
-          "url": "https://wallstreetcn.com/livenews/3101149",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普夸赞（美国）股市表现。",
+          "url": "https://flash.jin10.com/detail/20260511235616447800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            5,
-            10,
-            17,
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 05时47分]"
-        },
-        {
-          "title": "韩国股市暴涨股民躺赚的背后",
-          "url": "https://www.toutiao.com/trending/7638560529040018980/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时46分"
-        },
-        {
-          "title": "韩国股市大涨启动熔断机制",
-          "url": "https://www.douyin.com/hot/2494836",
-          "source": "抖音",
-          "ranks": [
-            27,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时42分 ~ 21时46分]"
-        },
-        {
-          "title": "全球股市三大阵营比较",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E4%B8%89%E5%A4%A7%E9%98%B5%E8%90%A5%E6%AF%94%E8%BE%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        },
-        {
-          "title": "金十图示：2026年05月11日（周一）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20260511102811363800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "据韩国中央日报：周一的一项调查显示，由于韩国股市大幅上涨以及经济方面的显著成就，总统李在明的支持率小幅回升至59.7%。",
-          "url": "https://flash.jin10.com/detail/20260511102506827800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "金十图示：2026年05月11日（周一）全球股市指数-亚太市场",
-          "url": "https://flash.jin10.com/detail/20260511180603206800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
-          "title": "摩根大通警告：全球股市屡创新高，底层逻辑已发生结构性巨变！",
-          "url": "https://flash.jin10.com/detail/20260511212418148800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        },
-        {
-          "title": "随着韩国KOSPI指数持续走强，韩国股市总市值今日首次突破7000万亿韩元大关。",
-          "url": "https://flash.jin10.com/detail/20260511100947236800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "00时31分"
         }
       ]
     },
     {
-      "keyword_group": "婚姻 女性",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "男子参加母亲节活动发现全是女性",
-          "url": "https://www.toutiao.com/trending/7638493730898952235/",
-          "source": "今日头条",
+          "title": "现货白银日内涨幅扩大至7%，报85.97美元/盎司。现货黄金价格涨0.35%，报4731.85美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3101773",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时36分"
+          "time_info": "00时31分"
         }
       ]
     }
