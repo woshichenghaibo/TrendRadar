@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T14:13:20.367114+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-05-12T17:35:49.562089+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 17时35分]"
         },
         {
           "title": "金十图示：2026年05月11日（周一）全球股市指数-美洲市场（收盘）",
@@ -97,11 +97,12 @@
           "url": "https://www.toutiao.com/trending/7638623882173366315/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 17时35分]"
         }
       ]
     },
@@ -133,7 +134,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         }
