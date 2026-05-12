@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T05:18:18.598925+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-05-13T06:58:18.542272+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "今日头条",
           "ranks": [
             27,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 05时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 06时58分]"
         },
         {
           "title": "刘晓庆谈女性独立",
           "url": "https://www.douyin.com/hot/2496971",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 06时58分]"
         }
       ]
     },
@@ -41,11 +43,12 @@
           "url": "https://wallstreetcn.com/articles/3772017",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时58分]"
         }
       ]
     }
