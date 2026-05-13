@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T06:58:18.542272+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-05-13T08:18:33.489443+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             27,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 08时18分]"
         },
         {
           "title": "刘晓庆谈女性独立",
@@ -29,8 +30,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 06时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 08时18分]"
         }
       ]
     },
@@ -44,11 +45,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 08时18分]"
         }
       ]
     }
