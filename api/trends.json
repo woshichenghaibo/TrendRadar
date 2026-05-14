@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T01:02:13.530102+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-15T02:56:42.955541+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时56分]"
         },
         {
           "title": "又有国际投行发声看好中国股市，外资一季度买了啥？",
@@ -26,8 +26,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时56分]"
         },
         {
           "title": "韩国股市暴涨 散户疯狂涌入",
@@ -47,7 +47,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         }
@@ -65,8 +65,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时56分]"
         }
       ]
     },
