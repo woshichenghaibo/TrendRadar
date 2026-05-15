@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T10:51:39.063490+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-05-15T14:32:42.242448+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 10时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 14时32分]"
         },
         {
           "title": "金十图示：2026年05月15日（周五）亚太市场股市指数（盘初）",
@@ -27,7 +27,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -72,7 +72,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -105,7 +105,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         }
@@ -113,7 +113,7 @@
     },
     {
       "keyword_group": "国企",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "习近平会见随同美国总统特朗普访华的美国企业家",
@@ -126,6 +126,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 10时51分]"
+        },
+        {
+          "title": "特朗普访华欢迎宴会都有哪些中国企业家参加了？",
+          "url": "https://www.zhihu.com/question/2038335260765544921",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "欢迎晚宴上有哪些中国企业家出席",
@@ -145,7 +156,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         }
@@ -173,7 +184,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         }
