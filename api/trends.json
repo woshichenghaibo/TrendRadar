@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T00:07:01.994178+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-16T02:21:04.136982+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2038317052054721795",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时21分]"
         },
         {
           "title": "金银大跌股市跳水，日债风暴刮向欧美？",
@@ -25,7 +26,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
         }
@@ -42,7 +43,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
         }
