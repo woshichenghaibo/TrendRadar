@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T07:54:04.077900+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-05-16T10:39:19.793373+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             5,
             10,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时54分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 10时39分]"
         },
         {
           "title": "美债收益率飙升重创股市 芯片板块领跌",
