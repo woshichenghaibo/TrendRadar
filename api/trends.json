@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-17T22:54:13.656196+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-05-17T23:57:16.888584+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
       "match_count": 9,
       "titles": [
+        {
+          "title": "霍尔木兹6月重开是“异想天开”！这家银行认为：夏天油价可能创新高，从而冲击股市",
+          "url": "https://wallstreetcn.com/articles/3772441",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时03分 ~ 23时57分]"
+        },
         {
           "title": "伊朗股市将于下周二重新开放。（伊朗国家媒体）",
           "url": "https://wallstreetcn.com/livenews/3104817",
@@ -20,19 +33,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时01分 ~ 17时03分]"
-        },
-        {
-          "title": "霍尔木兹6月重开是“异想天开”！这家银行认为：夏天油价可能创新高，从而冲击股市",
-          "url": "https://wallstreetcn.com/articles/3772441",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时03分 ~ 22时54分]"
         },
         {
           "title": "据伊朗官方媒体：伊朗股市将于下周二重开。",
