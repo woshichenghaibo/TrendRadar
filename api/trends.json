@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T05:52:59.058211+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-05-18T06:51:28.037877+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "霍尔木兹6月重开是“异想天开”！这家银行认为：夏天油价可能创新高，从而冲击股市",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时51分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股市交易",
+          "url": "https://www.douyin.com/hot/2501755",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         }
       ]
     },
