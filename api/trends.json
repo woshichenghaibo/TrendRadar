@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T19:03:07.174601+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-05-17T21:14:42.620537+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
@@ -36,6 +36,19 @@
           "time_info": "[03时01分 ~ 07时51分]"
         },
         {
+          "title": "霍尔木兹6月重开是“异想天开”！这家银行认为：夏天油价可能创新高，从而冲击股市",
+          "url": "https://wallstreetcn.com/articles/3772441",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 21时14分]"
+        },
+        {
           "title": "伊朗股市将于下周二重开",
           "url": "https://flash.jin10.com/detail/20260517024230307800",
           "source": "金十数据",
@@ -47,18 +60,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时05分 ~ 07时51分]"
-        },
-        {
-          "title": "霍尔木兹6月重开是“异想天开”！这家银行认为：夏天油价可能创新高，从而冲击股市",
-          "url": "https://wallstreetcn.com/articles/3772441",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时03分]"
         },
         {
           "title": "高盛：当前市场最大威胁是“伊朗风险叠加利率风暴”，股市再涨也会波动加大",
