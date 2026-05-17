@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T17:03:38.584871+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-05-17T19:03:07.174601+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,18 @@
           "time_info": "[04时05分 ~ 07时51分]"
         },
         {
+          "title": "霍尔木兹6月重开是“异想天开”！这家银行认为：夏天油价可能创新高，从而冲击股市",
+          "url": "https://wallstreetcn.com/articles/3772441",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时03分]"
+        },
+        {
           "title": "高盛：当前市场最大威胁是“伊朗风险叠加利率风暴”，股市再涨也会波动加大",
           "url": "https://wallstreetcn.com/articles/3772420",
           "source": "华尔街见闻",
@@ -70,17 +82,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时20分 ~ 14时21分]"
-        },
-        {
-          "title": "霍尔木兹6月重开是“异想天开”！这家银行认为：夏天油价可能创新高，从而冲击股市",
-          "url": "https://wallstreetcn.com/articles/3772441",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
         },
         {
           "title": "高盛：股市再涨也会波动加大",
