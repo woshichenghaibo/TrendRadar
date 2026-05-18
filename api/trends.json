@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T10:57:40.653872+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2026-05-18T14:57:41.547485+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "霍尔木兹6月重开是“异想天开”！这家银行认为：夏天油价可能创新高，从而冲击股市",
@@ -19,24 +19,36 @@
           "time_info": "[00时56分 ~ 10时57分]"
         },
         {
-          "title": "美伊局势升温推高油价，韩国股市V形反弹，亚太股市仍普遍承压，黄金跌破4500",
+          "title": "美伊僵局推升油价，全球债市抛售加剧、日债领跌，韩国股市V形反弹，黄金跌破4500",
           "url": "https://wallstreetcn.com/articles/3772473",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "14时57分"
         },
         {
           "title": "全球债市“熊火”终于烧向股市！一文读懂：最危险的博弈开始了？",
           "url": "https://www.cls.cn/detail/2373616",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            7
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时57分]"
+        },
+        {
+          "title": "美伊局势升温推高油价，韩国股市V形反弹，亚太股市仍普遍承压，黄金跌破4500",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -52,13 +64,24 @@
           "time_info": "06时51分"
         },
         {
+          "title": "韩国股市开盘闪崩，瞬间暴跌 350 点，启动熔断机制，背后原因是什么？应如何理解其市场信号？",
+          "url": "https://www.zhihu.com/question/2039630692439384740",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "金十图示：2026年05月18日（周一）亚太市场股市指数（盘初）",
           "url": "https://flash.jin10.com/detail/20260518102610058800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         }
