@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T04:47:03.165059+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-05-20T06:14:07.345420+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         }
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "福建一国企招聘被质疑“围岗”",
