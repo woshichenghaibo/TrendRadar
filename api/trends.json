@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T06:14:07.345420+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-05-20T08:02:21.962177+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "url": "https://wallstreetcn.com/articles/3772583",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 08时02分]"
         },
         {
           "title": "福建一国企招聘被质疑“围岗”",
