@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T05:50:00.690829+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-05-21T07:10:12.602270+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 07时10分]"
         },
         {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
@@ -27,19 +27,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 07时10分]"
         },
         {
           "title": "油价走软、海外股市债市携手回暖 英伟达即将发布财报 | 今夜看点",
           "url": "https://www.cls.cn/detail/2377104",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 07时10分]"
         },
         {
           "title": "金十图示：2026年05月20日（周三）全球股市指数-欧洲市场",
