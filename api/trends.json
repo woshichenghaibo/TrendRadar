@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T13:02:38.190095+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-05-20T17:25:41.736491+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3772671",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 17时25分]"
+        },
+        {
+          "title": "从房市到股市：韩国人再次“All in”？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33198545",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 17时25分]"
         },
         {
           "title": "摩根大通：中国股市今年仍有可观上行空间 因流动性充裕和业绩向好",
@@ -25,7 +38,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -39,17 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "从房市到股市：韩国人再次“All in”？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33198545",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
         },
         {
           "title": "金十图示：2026年05月19日（周二）全球股市指数-美洲市场（收盘）",
@@ -66,7 +68,7 @@
     },
     {
       "keyword_group": "国企",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "三星半导体前总裁：预测存储价格明年下半年开跌，中国企业正在大幅扩产",
@@ -87,7 +89,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -101,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "印尼将设国企统管核心资源出口，定价权收回国有",
+          "url": "https://flash.jin10.com/detail/20260520165101220800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
@@ -126,7 +139,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
