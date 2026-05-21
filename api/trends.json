@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T05:25:38.905441+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-05-22T07:01:44.795421+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -55,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时01分]"
         },
         {
           "title": "释新闻｜印尼为何专设一家国企集中管理关键资源出口？",
@@ -66,8 +66,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时01分]"
         },
         {
           "title": "方媛出任宝马中国企业事务副总裁",
@@ -75,11 +75,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            29
+            29,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 07时01分]"
         }
       ]
     }
