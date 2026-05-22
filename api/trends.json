@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T07:01:44.795421+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-05-22T08:12:56.072563+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33205210",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 08时12分]"
         },
         {
           "title": "方媛出任宝马中国企业事务副总裁",
@@ -76,11 +77,12 @@
           "ranks": [
             13,
             29,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时50分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时50分 ~ 08时12分]"
         }
       ]
     }
